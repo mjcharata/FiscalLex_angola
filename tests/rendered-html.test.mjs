@@ -39,11 +39,18 @@ test("server-renders the FiscalLex Angola portal", async () => {
 });
 
 test("keeps the Cloudflare Workers deployment self-contained", async () => {
-  const [packageJson, viteConfig, wranglerConfig, cloudflareGuide] =
+  const [
+    packageJson,
+    viteConfig,
+    wranglerConfig,
+    generatedWranglerConfig,
+    cloudflareGuide,
+  ] =
     await Promise.all([
       readFile(new URL("../package.json", import.meta.url), "utf8"),
       readFile(new URL("../vite.config.ts", import.meta.url), "utf8"),
       readFile(new URL("../wrangler.jsonc", import.meta.url), "utf8"),
+      readFile(new URL("../dist/server/wrangler.json", import.meta.url), "utf8"),
       readFile(new URL("../CLOUDFLARE.md", import.meta.url), "utf8"),
     ]);
 
@@ -55,6 +62,14 @@ test("keeps the Cloudflare Workers deployment self-contained", async () => {
   assert.match(wranglerConfig, /"main": "dist\/server\/index\.js"/);
   assert.match(wranglerConfig, /"directory": "dist\/client"/);
   assert.match(cloudflareGuide, /npm run deploy:cloudflare/);
+
+  const generatedWrangler = JSON.parse(generatedWranglerConfig);
+  assert.equal(
+    generatedWrangler.compatibility_flags.filter(
+      (flag) => flag === "nodejs_compat",
+    ).length,
+    1,
+  );
 
   await access(new URL("../public/angola-flag.png", import.meta.url));
   await access(new URL("../dist/server/index.js", import.meta.url));
