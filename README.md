@@ -51,7 +51,16 @@ npm run build
 
 ## Publicação na Internet
 
-O repositório pode ser mantido normalmente no GitHub. Esta aplicação usa Vinext e uma saída compatível com Cloudflare Workers, pelo que não é um site estático pronto para GitHub Pages. Para colocá-la online, use um serviço compatível com aplicações React/Workers ou adapte o projecto para exportação estática.
+O repositório pode ser mantido normalmente no GitHub. Esta aplicação usa Vinext e uma saída compatível com Cloudflare Workers, pelo que não é um site estático pronto para GitHub Pages.
+
+Para publicar directamente a partir do GitHub, ligue o repositório ao **Cloudflare Workers Builds** e use:
+
+- comando de construção: `npm run build`;
+- comando de publicação: `npm run deploy:cloudflare`;
+- branch de produção: `main`;
+- directório raiz: `/`.
+
+Não são necessárias variáveis ou bases de dados para a versão actual. Consulte [CLOUDFLARE.md](CLOUDFLARE.md) para o guia completo.
 
 ## Estrutura principal
 
