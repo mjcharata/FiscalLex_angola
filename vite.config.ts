@@ -15,7 +15,8 @@ const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === "seatbelt";
 
 const localBindingConfig = {
   main: "./worker/index.ts",
-  compatibility_flags: ["nodejs_compat"],
+  // The deployed Worker already enables nodejs_compat in the Cloudflare
+  // dashboard. Do not send it again through the generated Wrangler config.
   d1_databases: d1
     ? [
         {
