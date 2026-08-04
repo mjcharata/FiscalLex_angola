@@ -7,10 +7,10 @@
   },
   "scripts": {
     "dev": "vinext dev",
-    "build": "vinext build",
+    "build": "vinext build && node normalize-cloudflare-config.mjs",
     "start": "vinext start",
-    "deploy:cloudflare": "wrangler deploy --config dist/server/wrangler.json",
-    "preview:cloudflare": "wrangler versions upload --config dist/server/wrangler.json",
+    "deploy:cloudflare": "node normalize-cloudflare-config.mjs && wrangler deploy --config dist/server/wrangler.json",
+    "preview:cloudflare": "node normalize-cloudflare-config.mjs && wrangler versions upload --config dist/server/wrangler.json",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate"
