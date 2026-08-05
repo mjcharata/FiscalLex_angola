@@ -1,61 +1,30 @@
-# Publicar o FiscalLex Angola no Cloudflare Workers
+// Tipos partilhados para o texto integral dos diplomas fiscais.
+// Cada diploma é um ficheiro JSON em data/diplomas/<slug>.json que respeita
+// a estrutura Diploma abaixo. Os blocos preservam a redacção original
+// (ortografia de 1945 usada nos diplomas angolanos incluída).
 
-Este projecto está preparado para ser construído e publicado automaticamente a partir do repositório GitHub.
+export type Block =
+  | { t: "p"; x: string }                                        // parágrafo / número do artigo
+  | { t: "list"; style?: "alpha" | "num" | "roman" | "dash"; items: string[] } // alíneas
+  | { t: "table"; headers?: string[]; rows: string[][] }          // tabelas (taxas, anexos)
+  | { t: "note"; x: string };                                     // anotação editorial (ex.: redacção dada por lei posterior)
 
-## 1. Ligar o GitHub ao Cloudflare
+export type Article = {
+  id: string;        // âncora única, ex.: "artigo-1", "artigo-15a", "anexo-i"
+  label: string;     // ex.: "Artigo 1.º", "Artigo 15.º-A", "Anexo I"
+  epigraph: string;  // epígrafe do artigo (pode ser vazia)
+  path?: string[];   // hierarquia onde o artigo se insere, ex.: ["TÍTULO I — ...", "CAPÍTULO II — ..."]
+  blocks: Block[];   // corpo integral do artigo
+};
 
-1. Entre em [dash.cloudflare.com](https://dash.cloudflare.com/).
-2. Abra **Workers & Pages**.
-3. Escolha **Create application** e a opção para importar um repositório Git.
-4. Autorize o acesso ao GitHub, se for solicitado.
-5. Seleccione `mjcharata/FiscalLex_angola`.
-
-## 2. Configurar a construção
-
-Use os seguintes valores:
-
-- **Nome do Worker:** `fiscallex-angola`
-- **Branch de produção:** `main`
-- **Directório raiz:** `/`
-- **Comando de construção:** `npm run build`
-- **Comando de publicação:** `npm run deploy:cloudflare`
-- **Comando para outras branches:** `npm run preview:cloudflare`
-
-Não adicione variáveis ou segredos: a versão actual não utiliza base de dados nem serviços privados.
-
-## 3. Publicar
-
-Confirme a criação do Worker. O Cloudflare instalará as dependências, construirá o projecto e publicará o site.
-
-Quando o processo terminar, será apresentado um endereço semelhante a:
-
-`https://fiscallex-angola.<seu-subdominio>.workers.dev`
-
-Cada alteração futura enviada para a branch `main` iniciará uma nova publicação automática.
-
-## 4. Domínio próprio
-
-Para usar um domínio próprio, abra o Worker publicado e escolha **Settings → Domains & Routes → Add**. Siga as instruções para associar o domínio à sua conta Cloudflare.
-
-## Verificação local opcional
-
-```bash
-npm install
-npm run build
-```
-
-O comando de construção deve terminar sem erros antes da publicação.
-
-## Resolução de problemas
-
-### O build falha com `npm warn ancient lockfile`
-
-É sinal de que o `package-lock.json` no repositório não é um lock file do npm. Já aconteceu por o envio pela interface web do GitHub ter escrito outro ficheiro por cima dele. Um lock válido começa por `{ "name": ..., "lockfileVersion": 3, "packages": { ... } }`.
-
-### Corrigi o repositório, mas o build falha exactamente na mesma
-
-O botão **Retry deployment** reconstrói o *mesmo commit* que falhou — não vai buscar o código mais recente. Depois de corrigir o repositório, use **Create deployment** e escolha a branch `main`, ou envie um commit novo.
-
-### `vinext is not recognized` ao construir na própria máquina
-
-O `vinext` é uma devDependency. Com `NODE_ENV=production` definido no ambiente, o npm salta as devDependencies e o build falha por falta dele. Nesse caso use `npm ci --include=dev`.
+export type Diploma = {
+  slug: string;          // ex.: "cgt"
+  abbr: string;          // ex.: "CGT"
+  title: string;         // ex.: "Código Geral Tributário"
+  diploma: string;       // ex.: "Lei n.º 21/14, de 22 de Outubro"
+  consolidation: string; // descrição da consolidação apresentada
+  sourceName: string;    // ex.: "Angolex"
+  sourceUrl: string;     // página de origem do texto
+  extractedAt: string;   // data da extracção, ex.: "2026-08-04"
+  articles: Article[];
+};
