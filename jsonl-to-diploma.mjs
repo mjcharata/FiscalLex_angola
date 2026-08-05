@@ -1,243 +1,296 @@
 {
- "slug": "imposto-predial",
- "abbr": "IP",
- "title": "Código do Imposto Predial",
- "diploma": "Lei n.º 20/20, de 9 de Julho",
- "consolidation": "Texto integral da Lei n.º 20/20, de 9 de Julho (Artigos 1.º a 32.º), conforme apresentado pela fonte (versão original, sem indicação de alterações posteriores). Extraído do texto integral da AngoLEX através do Legal Data Hunter. A tabela de taxas do n.º 1 do Artigo 16.º é reproduzida como tabela, com as células vazias tal como constam da fonte. As fórmulas de promulgação e assinatura que encerram o diploma não integram o articulado.",
+ "slug": "ca",
+ "abbr": "CA",
+ "title": "Código Aduaneiro",
+ "diploma": "Decreto-Lei n.º 5/06, de 4 de Outubro",
+ "consolidation": "Texto integral conforme publicado pelo Decreto-Lei n.º 5/06, de 4 de Outubro (D.R. n.º 120, I Série, de 04/10/2006), tal como apresentado pela fonte, sem indicação de alterações posteriores.",
  "sourceName": "Angolex",
- "sourceUrl": "https://angolex.com/paginas/codigos/codigo-do-imposto-predial.html",
+ "sourceUrl": "https://angolex.com/paginas/codigos/codigo-aduaneiro.html",
  "extractedAt": "2026-08-04",
  "articles": [
   {
    "id": "artigo-1",
    "label": "Artigo 1.º",
-   "epigraph": "Âmbito",
+   "epigraph": "Objecto e fim",
    "path": [
-    "CAPÍTULO I - DISPOSIÇÕES GERAIS"
+    "PARTE I - DISPOSIÇÕES GERAIS"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "Todos os prédios urbanos e rústicos ficam sujeitos às regras estabelecidas no presente Código."
+     "x": "O Código define os princípios e as normas jurídicas fundamentais da actividade aduaneira no País e visa garantir, de forma eficaz e transparente, a satisfação das necessidades de um sistema aduaneiro moderno."
     }
    ]
   },
   {
    "id": "artigo-2",
    "label": "Artigo 2.º",
-   "epigraph": "Definições",
+   "epigraph": "Âmbito de aplicação",
    "path": [
-    "CAPÍTULO I - DISPOSIÇÕES GERAIS"
+    "PARTE I - DISPOSIÇÕES GERAIS"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Para efeitos do disposto no presente Código, considera-se:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Habitação própria e permanente - o imóvel utlizado pelo sujeito passivo ou seu agregado familiar, no qual esteja fixado o respectivo domicílio fiscal, nos termos do Código Geral Tributário;",
-      "Matriz predial - o tombo de todos os prédios de um município ou circunscrição administrativa, constituindo registos físicos ou electrónicos de que constam, designadamente, a caracterização dos prédios, a localização e o seu valor patrimonial tributário, a identidade dos proprietários e, sendo caso disso, dos usufrutuários e superficiários;",
-      "Prédio - toda a fracção de território, abrangendo as águas, plantações, edifícios e construções de qualquer natureza nela incorporados ou assentes, com carácter de permanência, desde que faça parte do património de uma pessoa singular ou colectiva e que, em circunstâncias normais, tenha valor económico, bem como as águas, plantações, edifícios ou construções, que estejam nas circunstâncias acima descritas, e que tenham autonomia económica em relação ao terreno onde se encontrem implantados, apesar de estarem situados numa fracção de território que constitua parte integrante de um património diverso ou não tenha natureza patrimonial;",
-      "Prédios omissos - todos os prédios rústicos ou urbanos que não se encontram inscritos na matriz predial;",
-      "Valor patrimonial - o valor do imóvel resultante da avaliação fiscal, sobre o qual incide a taxa do imposto."
-     ]
+     "x": "1. Sem prejuízo do disposto no número seguinte, o Código aplica-se de modo uniforme em todo o território nacional."
     },
     {
      "t": "p",
-     "x": "2. Para efeitos do presente artigo, os edifícios ou construções, ainda que móveis por natureza, são havidos como tendo carácter de permanência quando afectos a fins não transitórios. Presume-se o carácter de permanência quando os edifícios ou construções estiverem assentes no mesmo local por um período superior a seis meses."
-    },
-    {
-     "t": "p",
-     "x": "3. Para efeitos deste imposto, cada fracção autónoma, no regime de propriedade horizontal, é havida como constituindo um prédio."
-    },
-    {
-     "t": "p",
-     "x": "4. São aplicáveis ao Imposto Predial as definições previstas na Lei de Terras, desde que não se revelem contrárias ao disposto no presente Código."
+     "x": "2. São admitidas as práticas decorrentes dos usos e costumes vigentes em zonas geográficas circunscritas, contanto que tais práticas não sejam contrárias à lei nem ao princípio da boa fé."
     }
    ]
   },
   {
    "id": "artigo-3",
    "label": "Artigo 3.º",
-   "epigraph": "Incidência",
+   "epigraph": "Definições",
    "path": [
-    "CAPÍTULO II - INCIDÊNCIAS E ISENÇÕES"
+    "PARTE I - DISPOSIÇÕES GERAIS"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. O Imposto Predial incide sobre o valor patrimonial ou da renda dos prédios urbanos e rústicos e bem assim sobre as transmissões gratuitas ou onerosas de bens imóveis, previstas no presente Código, qualquer que seja o título que tais transmissões sejam operadas."
+     "x": "Para efeitos do disposto no presente Código e no Regulamento, entende-se por:"
     },
     {
-     "t": "p",
-     "x": "2. O Imposto Predial constitui receita própria das Autarquias Locais ou dos Municípios em cujas circunscrições territoriais os prédios estejam situados."
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "“Abandono”: a renúncia da propriedade de quaisquer mercadorias ou meios de transporte sob acção fiscal por parte do seu legítimo dono ou consignatário;",
+      "“Acordo”: o Acordo Relativo à Aplicação do Artigo VII do Acordo Geral sobre Pautas Aduaneiras e Comércio, da Organização Mundial do Comércio (“GATT”), a que Angola aderiu através da Resolução nº 4/96, de 15 de Março, da Assembleia Nacional;",
+      "“Alfândega” ou “Alfândegas”: consoante o contexto em que são utilizados, estes termos designam:\ni) os serviços administrativos responsáveis pela cobrança de direitos e demais imposições aduaneiras e pela aplicação da legislação aduaneira, nomeadamente das normas relativas à importação, exportação, circulação e armazenagem de mercadorias e meios de transporte importados, exportados ou em trânsito; ou\nii) as estâncias aduaneiras, os caminhos que directamente conduzem a estas, os depósitos aduaneiros e, em geral, os locais sujeitos a fiscalização permanente onde se efectuem o embarque e desembarque de passageiros ou operações de carga e descarga de mercadorias cativas de direitos ou outros impostos cuja cobrança esteja cometida às alfândegas;",
+      "“Apresentação de mercadorias e ou de meios de transporte às Alfândegas”: comunicação à autoridade aduaneira da chegada de mercadorias e ou de meios de transporte à estância aduaneira ou a outro local designado ou aprovado por aquela autoridade, de acordo com as modalidades previstas neste Código;",
+      "“Assistência administrativa mútua”: as medidas que, nos termos dos diversos acordos ou convenções internacionais de cooperação administrativa aduaneira, uma administração aduaneira tome, em nome de ou em colaboração com outra administração aduaneira, para efeitos da efectiva e correcta aplicação do ordenamento jurídico aduaneiro e da prevenção, investigação e repressão de infracções fiscais aduaneiras;",
+      "“Auditoria”: o conjunto de medidas através das quais a autoridade aduaneira competente se certifica da exactidão e da autenticidade das declarações, mediante, nomeadamente, o exame dos livros, dos registos dos sistemas contabilísticos e dos dados comerciais relevantes em poder dos declarantes, dos seus representantes, de outras entidades e ou de outros interessados que, directa ou indirectamente, estejam envolvidos em operações aduaneiras;",
+      "“Auto de notícia”: é o instrumento destinado a fazer fé, levantado ou mandado levantar pela autoridade instrutora, autoridade judiciária, órgão de polícia criminal ou outra entidade policial sempre que estes presenciarem qualquer infracção;",
+      "“Autoridade aduaneira”: a autoridade competente para a aplicação da legislação aduaneira, nos termos e com os limites nesta definidos;",
+      "“Autorização de saída”: o acto pelo qual a autoridade aduaneira coloca à disposição do declarante uma mercadoria declarada para um determinado regime, nos termos da declaração por aquele efectuada;",
+      "“Autuante”: a autoridade, órgão ou entidade que levanta ou manda levantar o auto de notícia;",
+      "“Avaliação das mercadorias”: processo de determinação do valor aduaneiro das mercadorias;",
+      "“Bagagem”: os objectos transportados pelo viajante e destinados ao seu uso pessoal, nas quantidades e segundo os critérios fixados na legislação aduaneira;",
+      "“Código”: o Código Aduaneiro;",
+      "“Condição ou estatuto das mercadorias”: para estes efeitos, as mercadorias são classificadas em mercadorias nacionais, mercadorias nacionalizadas ou em mercadorias estrangeiras;",
+      "“Confisco das mercadorias”: acto pelo qual as mercadorias são declaradas perdidas a favor do Estado, sem direito a qualquer indemnização por parte do seu titular;",
+      "“Contrabando”: toda a acção ou omissão fraudulenta que tenha por fim fazer entrar no território aduaneiro ou dele fazer sair quaisquer mercadorias e ou meios de transporte sem passarem pelas alfândegas ou sem serem sujeitos aos trâmites legais aduaneiros de desalfandegamento ou à devida autorização;",
+      "“Controlo pelas autoridades aduaneiras” ou “controlo aduaneiro”: todas as medidas tomadas pela autoridade aduaneira competente, de forma isolada ou combinada, de modo a garantir a efectiva aplicação e observância do disposto na legislação aduaneira;",
+      "“Declaração aduaneira”, “declaração de mercadorias” ou “despacho aduaneiro”: o acto pelo qual o declarante manifesta a vontade de sujeitar certa mercadoria e ou meio de transporte a determinado regime aduaneiro e indica os elementos cuja menção é legalmente exigida para a aplicação desse regime, utilizando para o efeito a forma e a modalidade previstas neste Código e na demais legislação aduaneira;",
+      "“Declaração sumária dos meios de transporte”: documento que deve ser apresentado às alfândegas no momento da chegada ou antes da partida de quaisquer meios de transporte e que deve conter (i) os dados exigidos pelas alfândegas relativamente a esses meios, nomeadamente, a sua natureza, matrícula e tonelagem, a identificação da tripulação e as provisões existentes a bordo e, em anexo, (ii) o manifesto de carga;",
+      "“Declarante”: a pessoa que faz a declaração aduaneira em seu nome ou a pessoa em nome da qual esta declaração é feita;",
+      "“Demais imposições aduaneiras” ou “demais imposições”: impostos, encargos, taxas e outras imposições aduaneiras, com exclusão dos direitos, que recaem sobre o valor das mercadorias a importar ou a exportar e cuja arrecadação esteja legalmente cometida às alfândegas;",
+      "“Denúncia”: é a transmissão às autoridades judiciárias ou aduaneiras ou aos órgãos de polícia criminal do conhecimento da prática de uma infracção fiscal aduaneira para efeitos de procedimento;",
+      "“Denunciante”: aquele que procede à denúncia;",
+      "“Depositante”: pessoa em nome da qual se apresenta a declaração de sujeição das mercadorias ao regime de armazenagem aduaneira;",
+      "“Depósito temporário”: a armazenagem de mercadorias e ou de meios de transporte sob controlo aduaneiro em prédios ou em outros espaços vedados ou não, e aprovados pelas alfândegas (doravante designados por locais de depósito temporário), estando pendente a apresentação da declaração de mercadorias e meios de transporte e ou o seu desalfandegamento;",
+      "“Desalfandegamento”: o cumprimento das formalidades aduaneiras necessárias para introduzir em livre circulação mercadorias e ou meios de transporte importados ou para permitir a sua exportação ou a sua sujeição a outro regime aduaneiro;",
+      "“Destino aduaneiro das mercadorias”: a sujeição das mercadorias a um regime aduaneiro, ou o seu confisco a favor do Estado, ou ainda a sua inutilização sob controlo aduaneiro;",
+      "“Desvio do controlo aduaneiro”: entre outros actos, a retirada de mercadorias de depósito temporário ou de armazém aduaneiro ou a mudança de um regime aduaneiro para um outro sem autorização das alfândegas;",
+      "“Direitos” ou “direitos aduaneiros”: os impostos indirectos que incidem sobre o valor da mercadoria importada ou exportada no território aduaneiro, isto é, o produto das taxas pautais pelas unidades tributáveis, em conformidade com o disposto na Pauta Aduaneira;",
+      "“Direitos anti-dumping”: direitos aplicados a certas mercadorias importadas com o objectivo de dirimir a margem de dumping;",
+      "“Direitos compensatórios”: direitos aplicados a certas mercadorias importadas com o objectivo de dirimir o montante do subsídio concedido para a produção e ou exportação dessas mercadorias;",
+      "“Estância aduaneira”: a unidade administrativa competente para a realização das formalidades aduaneiras, assim como as instalações ou outros locais aprovados para o efeito pelas autoridades competentes;",
+      "“Exportação”: a saída de mercadoria do território aduaneiro;",
+      "“Formalidades aduaneiras”: o conjunto das operações que, no cumprimento da legislação aduaneira, devem ser executadas pelos interessados e pela autoridade aduaneira no que respeita à apresentação e desalfandegamento de mercadorias e ou de meios de transporte;",
+      "“Fronteira” ou “fronteira aduaneira”: os limites do território aduaneiro;",
+      "“Garantia”: os bens ou meios que asseguram, a contento da alfândega, o cumprimento de uma obrigação para com ela;",
+      "“Importação”: a entrada de mercadoria no território aduaneiro, a ele destinada e procedente de outro território aduaneiro;",
+      "“Imposto”: prestação, em regra pecuniária, mas sempre coactiva e unilateral, sem o carácter de sanção, exigida pelo Estado ou por outro ente público em representação do Estado, com vista à realização de fins públicos;",
+      "“Infracção fiscal aduaneira”: o facto típico, ilícito e culposo declarado punível por lei aduaneira anterior;",
+      "“Isenção ou dispensa do pagamento de direitos e de demais imposições aduaneiras”: a não cobrança, decidida pelas alfândegas com base na legislação em vigor, de parte ou de todos os direitos e demais imposições aduaneiras devidos;",
+      "“Legislação aduaneira” ou “leis e regulamentos aduaneiros”: os diplomas legislativos e regulamentares, emitidos pela República de Angola, relativos à actividade aduaneira, às receitas tributárias aduaneiras, à importação, à exportação, a outros regimes aduaneiros, bem como à circulação, armazenagem, apreensão, arresto e leilões de mercadorias e ou de meios de transporte importados, exportados ou em trânsito, às infracções fiscais aduaneiras, a outras matérias conexas com estas ou com o desempenho de atribuições da administração aduaneira;",
+      "“Liquidação dos direitos e das demais imposições aduaneiras”: a determinação ou o cálculo do montante dos direitos e das demais imposições aduaneiras a cobrar;",
+      "“Locais designados”: as estâncias aduaneiras e os locais ou instalações compostos por um ou mais edifícios, contíguos ou separados, devidamente isolados por vedação, contanto que sujeitos ao controlo e supervisão das alfândegas e indicados e aprovados por estas para a realização de operações aduaneiras, nomeadamente, para a entrada e saída de pessoas, de mercadorias e de meios de transporte, para a apresentação e desembaraço dos viajantes e dos seus haveres e viaturas pessoais, para a apresentação de mercadorias e de meios de transporte às alfândegas, para a carga, descarga, aceitação, manuseamento, depósito, armazenagem, envio ou aperfeiçoamento de quaisquer mercadorias sob a alçada das alfândegas e para a inspecção física e desembaraço das mercadorias;",
+      "“Manifesto” ou “manifesto de carga”: relação de toda a carga que vem a bordo de um meio de transporte, assinada pelo capitão, mestre ou arrais de navio, pelo patrão de qualquer embarcação, pelo comandante de aeronave, pelo maquinista, pelo condutor de camião ou de autocarro, ou pelo condutor de outros meios de transporte, incluindo o transporte ferroviário, onde vem descrita, de maneira genérica, não só o número de volumes, como também a sua qualidade, as marcas, os números, o peso, e todas as demais indicações necessárias para a identificação da mercadoria, assim como a descrição dessa mercadoria por ordem dos portos ou locais de destino, conforme o meio de transporte utilizado;",
+      "“Medidas anti-dumping”: medidas adoptadas depois de uma investigação realizada pela entidade competente do país importador ter demonstrado a prática de dumping e a existência de prejuízos daí resultantes;",
+      "“Medidas compensatórias”: medidas adoptadas depois de uma investigação realizada pela entidade competente do país importador ter demonstrado que as mercadorias importadas beneficiaram de subsídios e que desse benefício resultaram prejuízos para a indústria ou comércio nacionais;",
+      "“Meios de transporte”: quaisquer meios utilizados para o transporte de pessoas, mercadorias ou bagagens, designadamente, os navios, barcas, barcaças e outras embarcações, as aeronaves, os veículos rodoviários, incluindo os reboques e os semi-reboques, as carruagens e os vagões dos caminhos-de-ferro, os contentores com uma capacidade de carga igual ou superior a um metro cúbico, incluindo partes desmontáveis, os oleodutos e os gasodutos;",
+      "“Mercadoria” ou “mercadorias”: todos os produtos naturais, matérias primas, artigos manufacturados, produtos semi-acabados, produtos acabados (obras), animais, moedas, substâncias ou outras coisas, incluindo, nomeadamente, meios de transporte, equipamentos, peças e acessórios, salvo se do contexto resultar outro sentido",
+      "“Mercadorias da mesma natureza ou da mesma espécie”: mercadorias classificadas num grupo ou numa gama de mercadorias produzidas por um ramo de determinada produção, ou por um sector particular de um ramo de produção, e compreende as mercadorias idênticas ou similares;",
+      "“Mercadorias demoradas”: quaisquer mercadorias mantidas em local de depósito temporário por não ter sido cumprida, nos termos e prazos estabelecidos na lei, a obrigação de apresentação de uma declaração aduaneira, ou a obrigação de pagamento de direitos e demais imposições aduaneiras devidos, ou, ainda, a obrigação de remoção das mercadorias desalfandegadas do local de desalfandegamento;",
+      "“Mercadorias”: mercadorias de que se pode dispor sem restrições aduaneiras;",
+      "“Mercadorias estrangeiras”: as mercadorias que não se integrem nem no conceito de mercadorias nacionais nem no âmbito das mercadorias nacionalizadas;",
+      "“Mercadorias idênticas”: mercadorias que são as mesmas sob todos os aspectos, possuindo as mesmas características físicas, a mesma qualidade e o mesmo prestígio comercial, não obstando a que sejam qualificadas como idênticas as pequenas diferenças de aspecto que as mercadorias eventualmente apresentem;",
+      "“Mercadorias nacionais”: as mercadorias produzidas no território nacional;",
+      "“Mercadorias nacionalizadas”: as mercadorias disponíveis no País após desalfandegamento, destinadas a entrada em livre circulação e que tenham sido importadas mediante o pagamento de direitos e demais imposições aduaneiras devidos ou que deles estejam isentas por disposição legal;",
+      "“Mercadorias produzidas”: as mercadorias cultivadas, fabricadas ou extraídas;",
+      "“Mercadorias proibidas”: mercadorias cujo trânsito, importação ou exportação é proibido nos termos da legislação aplicável;",
+      "“Mercadorias similares”: mercadorias que, apesar de não serem iguais sob todos os aspectos, apresentam características semelhantes, como, por exemplo, qualidade, prestígio comercial e existência de uma marca, sendo compostas de matérias semelhantes, o que lhes permite preencher as mesmas funções e ser comercialmente permutáveis;",
+      "“Mercadorias sujeitas a restrições” ou “mercadorias de importação ou de exportação restrita”: mercadorias cuja importação ou exportação está sujeita, nos termos da legislação aplicável, a condições ou restrições especiais;",
+      "“Operador de comércio internacional”: importador, exportador ou qualquer pessoa que age em nome ou no interesse e por conta destes, desde que registados no País para a realização de operações de importação ou de exportação de mercadorias, com exclusão da bagagem e dos haveres pessoais dos viajantes;",
+      "“Origem das mercadorias”: país em que as mercadorias foram totalmente produzidas ou manufacturadas, ou em que sofreram a sua última transformação industrial relevante, o que implica que, pelo menos, 25% do custo de produção dessas mercadorias corresponde a materiais produzidos ou a trabalho prestado no território desse país;",
+      "“País”: o território da República de Angola;",
+      "“Pauta Aduaneira”: o diploma legal constituído por quadros ou tabelas em que estão designadas as diversas mercadorias, distribuídas sistematicamente e codificadas por posições, subposições e artigos pautais, e em que estão consignadas as taxas a que estão sujeitas as mercadorias no seu movimento de entrada e saída numa jurisdição aduaneira;",
+      "“Pessoa”: tanto as pessoas singulares, como as pessoas colectivas e outros entes a que a lei reconheça capacidade para praticar actos jurídicos de natureza aduaneira, incluindo, nomeadamente, sociedades comerciais, comerciantes em nome individual, sociedades civis sob forma comercial, associações e empresas públicas, salvo se do contexto resultar outro sentido;",
+      "“Prestação tributária aduaneira”: os direitos aduaneiros e demais imposições, incluindo impostos, taxas e outras receitas fiscais cuja cobrança compete às alfândegas;",
+      "“Procedimentos aduaneiros especiais”: meios para identificar, dentro de um mesmo regime, os diferentes tratamentos aduaneiros que podem ser aplicados às mercadorias;",
+      "“Processamento de despacho”: a execução do conjunto das formalidades necessárias para realizar o desalfandegamento de mercadorias e ou de meios de transporte;",
+      "“Recurso”: pedido de reapreciação de certa decisão aduaneira ou judicial, apresentado a um órgão aduaneiro ou judiciário superior por pessoa directamente interessada e que se considere lesada por aquela decisão;",
+      "“Reembolso”: a restituição, total ou parcial, dos direitos e das demais imposições aduaneiras de importação ou de exportação que tenham sido pagos sobre as mercadorias;",
+      "“Regime aduaneiro”: modalidade de tratamento que o declarante atribui às mercadorias e ou aos meios de transporte no momento da apresentação da declaração aduaneira às alfândegas, de acordo com o uso ou destino que lhes pretenda dar no cumprimento das normas e procedimentos prescritos na lei aduaneira, devendo esse regime assumir uma das modalidades tipificadas neste Código (importação definitiva, importação temporária, reimportação, exportação definitiva, exportação temporária, reexportação, armazenagem aduaneira e trânsito aduaneiro);",
+      "“Regime suspensivo”: qualquer dos regimes aduaneiros mencionados no Código, sob o qual as Alfândegas podem autorizar, nos termos do Código e do Regulamento, a libertação condicional das mercadorias e ou dos meios de transporte importados ou exportados com suspensão de pagamento de direitos e ou demais imposições devidos;",
+      "“Regulamento”: o Regulamento do Código Aduaneiro, salvo indicação em sentido diverso;",
+      "“Suspeito” ou “pessoa suspeita”: toda a pessoa relativamente à qual exista indício de que cometeu ou se prepara para cometer um crime ou uma transgressão fiscal aduaneira ou que neles participou ou se prepara para participar;",
+      "“Taxa”: montante a pagar pelos serviços prestados pelas alfândegas ou que sejam cobrados por estas em nome de outra autoridade nacional, salvo se do contexto resultar sentido diverso;",
+      "“Terceiro”: qualquer pessoa que, em nome ou no interesse e por conta de outrem, trate directamente com a alfândega de qualquer assunto com relevância aduaneira, designadamente da importação, exportação, circulação ou armazenagem de mercadorias e ou de meios de transporte;",
+      "“Território aduaneiro”: toda a extensão geográfica sobre a qual a República de Angola exerce a sua soberania;",
+      "“Título de crédito”: documento que, em sentido estrito, incorpora o direito a uma prestação pecuniária, e que legitima o titular ao seu exercício e transmissão;",
+      "“Título de Encontro”: título de crédito que incorpora o direito ao reembolso de uma quantia pecuniária correspondente ao encontro de direitos e ou das demais imposições aduaneiras cobrados em excesso pelas alfândegas, e que legitima o titular ao seu exercício e transmissão;",
+      "“Transportador”: a pessoa singular ou colectiva ou entidade fiscalmente equiparada que exerce a actividade de exploração de transportes internacionais, nacionais ou combinados, incluindo a pessoa que efectivamente transporta e a pessoa que é responsável pelo transporte;",
+      "“Transporte internacional”: tipo de transporte que implica o atravessamento de fronteiras e se desenvolve parcialmente em território nacional;",
+      "“Transporte nacional”: tipo de transporte que se efectua totalmente em território nacional;",
+      "“Transporte combinado”: tipo de transporte em que, na parte inicial ou final do trajecto, se utiliza o modo rodoviário e na outra parte o modo ferroviário, o modo aéreo, a via fluvial ou a via marítima;",
+      "“Valor aduaneiro”: o valor das mercadorias estabelecido nos termos do artigo 89.º e seguintes do Código para a apresentação de uma declaração aduaneira e, sempre que aplicável, para o cálculo e percepção do montante dos direitos e das demais imposições aduaneiras devidos;",
+      "“Veículo”: qualquer viatura ou meio de transporte, como, por exemplo, veículo automóvel, carroça, carreta de bagagens, aeronave, comboio, incluindo as suas coisas acessórias ou pertenças, as ferramentas, os mobiliários, os equipamentos, as bestas de carga, os aparelhos e os cordames;",
+      "“Verificação”: salvo se do contexto resultar sentido diverso, este termo abrange quer a verificação das mercadorias e ou dos meios de transporte, quer a verificação documental;",
+      "“Verificação das mercadorias” ou “inspecção das mercadorias”: as operações pelas quais as alfândegas procedem ao exame físico das mercadorias a fim de se certificarem de que a sua natureza, origem, estado, quantidade, valor, especificações pautais, incluindo as respectivas taxas e o regime a que possam estar sujeitas, estão em conformidade com os dados da declaração aduaneira;",
+      "“Verificação documental”, “verificação dos documentos” ou “conferência da declaração de mercadorias”: as operações pelas quais as alfândegas procedem ao exame da documentação apresentada, incluindo as operações pelas quais as alfândegas se certificam de que a declaração de mercadorias está feita correctamente e os documentos justificativos necessários satisfazem as condições exigidas;",
+      "“Viajante”: qualquer pessoa singular que entra ou sai do território aduaneiro, para efeitos de aplicação da legislação aduaneira, no que toca ao conceito de bagagem."
+     ]
     }
    ]
   },
   {
    "id": "artigo-4",
    "label": "Artigo 4.º",
-   "epigraph": "Isenções Gerais",
+   "epigraph": "Direito dos interessados à informação",
    "path": [
-    "CAPÍTULO II - INCIDÊNCIAS E ISENÇÕES"
+    "PARTE I - DISPOSIÇÕES GERAIS"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Ficam isentos de Imposto Predial:"
+     "x": "1. Os particulares têm o direito a ser informados pelas alfândegas, sempre que o requeiram, sobre:"
     },
     {
      "t": "list",
      "style": "alpha",
      "items": [
-      "O Estado e as Autarquias Locais;",
-      "Os Estados Estrangeiros, quanto aos imóveis destinados às instalações das respectivas representações diplomáticas ou consulares, quando haja reciprocidade de tratamento;",
-      "Partidos políticos nos termos da legislação própria;",
-      "Os institutos públicos e as instituições religiosas legalmente reconhecidas, quanto ao património directo e exclusivamente afecto à realização do seu objecto social ou local do culto;",
-      "A primeira transmissão onerosa de imóveis com valor igual ou inferior a AKz: 3 000 000,00 (três milhões de kwanzas), que sejam afectos a habitação própria e permanente do adquirente;",
-      "Os prédios rústicos relativamente aos quais sejam observados os critérios de aproveitamento útil e efectivo, nos termos da Lei de Terras e do Regulamento Geral de Concessão de Terrenos, no que respeita à sua detenção;",
-      "Os prédios rústicos localizados nas zonas rurais com dimensão igual ou inferior a 7 hectares;",
-      "As terras rurais comunitárias definidas em legislação própria."
+      "O andamento dos processos em que sejam directamente interessados e as decisões definitivas que sobre eles forem tomadas;",
+      "A aplicação geral ou específica da legislação aduaneira, nomeadamente do Código, do Regulamento, das instruções, das resoluções definitivas e das decisões da Organização Mundial das Alfândegas."
      ]
     },
     {
      "t": "p",
-     "x": "2. As isenções a que se referem as alíneas b) e d) do número anterior são reconhecidas pela Administração Tributária, a requerimento dos interessados, após parecer dos departamentos ministeriais competentes em razão da matéria, quando existam."
+     "x": "2. As informações referidas na alínea a) do número anterior abrangem, nomeadamente, a indicação do serviço onde o processo se encontra, os actos e diligências praticados e as deficiências a suprir pelos interessados."
     },
     {
      "t": "p",
-     "x": "3. Nos casos em que uma pessoa possua mais de um prédio rústico, a isenção a que se refere a alínea f) do n.º 1 apenas aproveita a um dos imóveis."
+     "x": "3. As alfândegas devem notificar os interessados, por escrito, no prazo de quinze dias úteis, das decisões que profiram sobre os requerimentos pelos quais lhes seja solicitada a informação referida no n.º 1."
+    },
+    {
+     "t": "p",
+     "x": "4. As alfândegas devem fundamentar a decisão pela qual indefiram os referidos requerimentos e qualquer outra decisão susceptível de causar consequências adversas aos requerentes."
+    },
+    {
+     "t": "p",
+     "x": "5. Sem prejuízo do disposto no número anterior, os requerentes podem, nos termos do disposto neste Código, deduzir reclamação e interpor recurso administrativo das referidas decisões."
     }
    ]
   },
   {
    "id": "artigo-5",
    "label": "Artigo 5.º",
-   "epigraph": "Isenções Específicas",
+   "epigraph": "Formulários, modelos e formatos dos documentos aduaneiro",
    "path": [
-    "CAPÍTULO II - INCIDÊNCIAS E ISENÇÕES"
+    "PARTE I - DISPOSIÇÕES GERAIS"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Estão isentos de Imposto Predial, mediante reconhecimento da Administração Tributária, e a pedido dos interessados que devem fazer prova da situação jurídica do imóvel a seu favor, os imóveis de construção precária e as habitações sociais, desde que sejam exclusivamente destinados à habitação própria."
+     "x": "1. Sem prejuízo do disposto no n.º 2, os formulários, modelos e formatos dos documentos relativos às declarações aduaneiras, à cobrança de receitas fiscais aduaneiras, à aplicação do regime de determinação do valor aduaneiro das mercadorias ou ao cumprimento dos deveres previstos neste Código, no respectivo Regulamento ou em outra legislação aduaneira em vigor, devem ser aprovados ou alterados, sempre que necessário e sob proposta do Director Nacional das Alfândegas, pelo Ministro das Finanças."
     },
     {
      "t": "p",
-     "x": "2. Para efeitos do número anterior, consideram-se imóveis de construção precária as habitações construídas com materiais precários, designadamente:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Chapas de zinco;",
-      "Pau a pique, capim, adobe, com ou sem qualquer tratamento e madeira, em condições de descarte."
-     ]
+     "x": "2. Os formulários, modelos e formatos dos documentos relativos ao controlo aduaneiro de pessoas, mercadorias e meios de transporte, devem ser aprovados ou alterados, sempre que necessário, pelo Director Nacional das Alfândegas."
     },
     {
      "t": "p",
-     "x": "3. Para efeitos do n.º 1, consideram-se habitações sociais, as de baixa renda, apoiadas pelo Estado ou pessoas colectivas de direito público, destinadas a criar melhores condições de acesso à habitação com qualidade, por parte das pessoas com menor capacidade aquisitiva, incluindo as mais desfavorecidas, nos termos de regulamento próprio."
+     "x": "3. Deve ser publicada, anualmente, no Boletim Informativo da Direcção Nacional das Alfândegas, uma lista actualizada de todos os formulários, modelos e formatos em vigor e dos locais onde estes podem ser adquiridos."
     }
    ]
   },
   {
    "id": "artigo-6",
    "label": "Artigo 6.º",
-   "epigraph": "Incidência Objectiva",
+   "epigraph": "Prazo",
    "path": [
-    "CAPÍTULO III - TRIBUTAÇÃO SOBRE A DETENÇÃO E SOBRE A RENDA DO PATRIMÓNIO IMOBILIÁRIO",
-    "SECÇÃO I - INCIDÊNCIA"
+    "PARTE I - DISPOSIÇÕES GERAIS"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. O Imposto Predial incide sobre o valor patrimonial dos prédios, nos casos em que haja detenção dos mesmos ou sobre os rendimentos que deles provenham, quando estejam arrendados."
+     "x": "1. Os prazos marcados pelo Código são improrrogáveis, com excepção dos casos nele previstos."
     },
     {
      "t": "p",
-     "x": "2. Quando o imposto resultante da tributação pela renda for inferior ao valor do imposto devido pela propriedade, considera- se o imposto apurado com base na propriedade."
+     "x": "2. Salvo disposição legal em contrário, é de dez dias úteis o prazo para a interposição dos recursos previstos no Código."
+    },
+    {
+     "t": "p",
+     "x": "3. O prazo referido no número anterior conta-se a partir da data em que a decisão passível de impugnação haja sido notificada ao interessado."
     }
    ]
   },
   {
    "id": "artigo-7",
    "label": "Artigo 7.º",
-   "epigraph": "Incidência Subjectiva",
+   "epigraph": "Natureza e atribuições",
    "path": [
-    "CAPÍTULO III - TRIBUTAÇÃO SOBRE A DETENÇÃO E SOBRE A RENDA DO PATRIMÓNIO IMOBILIÁRIO",
-    "SECÇÃO I - INCIDÊNCIA"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO I - Do sistema aduaneiro em geral"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. O Imposto Predial sobre a detenção ou sobre a renda é devido pelo proprietário do prédio ou titular do rendimento, respectivamente."
+     "x": "1. O sistema aduaneiro é integrado por uma organização, que se traduz no conjunto dos preceitos legais disciplinadores das características e do funcionamento do sistema e na existência de órgãos, isto é, de centros institucionalizados de poderes funcionais."
     },
     {
      "t": "p",
-     "x": "2. Nos casos de usufruto, direito de superfície, domínio útil civil e comodato, o Imposto Predial é devido pelo titular do respectivo direito."
+     "x": "2. São as seguintes as atribuições dos órgãos que integram o sistema aduaneiro:"
     },
     {
-     "t": "p",
-     "x": "3. No caso de propriedade resolúvel, o imposto é devido pelo promitente comprador ou por quem tenha o uso e fruição do prédio."
-    },
-    {
-     "t": "p",
-     "x": "4. Para efeitos fiscais, presume-se sempre proprietário ou titular do direito mencionado no n.º 2 do presente artigo, quem como tal figure ou deva figurar na matriz ou, na falta de inscrição, quem tenha a posse do prédio."
-    },
-    {
-     "t": "p",
-     "x": "5. Quando se tratar de herança indivisa, o Imposto Predial é devido pelo cabeça-de-casal."
-    },
-    {
-     "t": "p",
-     "x": "6. Os beneficiários de cedência gratuita de quaisquer prédios pertencentes a entidades isentas de Imposto Predial são obrigados ao pagamento de imposto pela detenção dos prédios."
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Propor medidas de política fiscal aduaneira relativas à entrada e saída de mercadorias e de meios de transporte e ao fluxo interno do comércio internacional, tendo em conta a orientação, os padrões, as instruções e as recomendações estabelecidas nas convenções internacionais relativas a assuntos aduaneiros, designadamente no que toca:\ni. À simplificação e à harmonização dos procedimentos aduaneiros;\nii. À adopção da Nomenclatura do Sistema Harmonizado para a Classificação das Mercadorias;\niii. À introdução do sistema de valor aduaneiro de mercadorias estabelecido pelo Acordo Geral sobre Pautas Aduaneiras e Comércio (“GATT”) da Organização Mundial do Comércio;\niv. Ao desenvolvimento e utilização de mecanismos electrónicos para simplificar o processo de desalfandegamento aduaneiro e fortalecer o controlo aduaneiro, nomeadamente scanners ou outros dispositivos que permitam captar imagens em papel ou fotografias; e\nv. À aplicação de controlos aduaneiros com base na análise de risco.",
+      "Coordenar a implementação das decisões do Governo relativas a assuntos aduaneiros;",
+      "Investigar e punir as infracções fiscais aduaneiras;",
+      "Propor medidas em matéria de política fiscal e aduaneira, tendo em vista promover o desenvolvimento económico e social do País;",
+      "Designar os locais de entrada e de saída de mercadorias que sejam objecto de comércio internacional, bem como os locais para o depósito temporário e desalfandegamento destas mercadorias;",
+      "Realizar a cobrança dos direitos e demais imposições aduaneiras que recaem sobre o fluxo do comércio internacional, bem como de outros impostos ou taxas que, por força da legislação aplicável, hajam de ser cobrados pelas alfândegas;",
+      "Efectuar a fiscalização e controlo aduaneiro de mercadorias, meios de transporte e pessoas, nomeadamente dos:\ni. Que entram ou saem do território aduaneiro;\nii. Que se movimentam pelo território aduaneiro em trânsito, quer para um outro país, quer para um destino aduaneiro;\niii. Que se encontrem em qualquer área designada pelas alfândegas para o depósito temporário e desalfandegamento das mercadorias e ou dos meios de transporte, incluindo qualquer área designada para a implementação de um regime aduaneiro;",
+      "Prevenir, combater e reprimir a prática de fraude cambial na área de operação das alfândegas, de comércio internacional não autorizado e de tráfico ilícito de substâncias estupefacientes ou psicotrópicas, armas, objectos de arte, antiguidades e outras mercadorias proibidas ou sujeitas a restrições;",
+      "Orientar as actividades da Polícia Fiscal, devendo esta prestar o apoio necessário à gestão operacional das alfândegas e à execução do seu programa de modernização;",
+      "Permitir que os agentes económicos internacionais, que tenham capacidade para operar por conta própria, actuem directamente junto das alfândegas;",
+      "Permitir que terceiros, que ajam em nome de agentes económicos internacionais, actuem directamente junto das alfândegas, contanto que esses terceiros assegurem um nível aceitável de serviço prestado e que possam ser responsabilizados, em conformidade com o disposto na legislação aduaneira, pela exactidão e legalidade dos despachos aduaneiros que apresentem;",
+      "Proteger, no cumprimento do disposto na legislação aplicável aos fluxos do comércio externo, os direitos de autor, o património artístico e cultural, a fauna e flora selvagens, a saúde e moral públicas, o ambiente e a indústria nacional;",
+      "Emitir pareceres e propostas sobre os tratados e convenções internacionais relativos ao comércio internacional e garantir o efectivo cumprimento dos que hajam sido aprovados ou ratificados pelo Estado;",
+      "Agir com transparência no processo de tomada de decisões sobre os recursos interpostos pelos operadores de comércio internacional em matéria de aplicação de legislação técnica aduaneira, procedimentos aduaneiros, avaliação ou classificação pautal das mercadorias ou nos casos omissos na Pauta Aduaneira; e",
+      "Exercer outras atribuições que legalmente possam ser conferidas às alfândegas."
+     ]
     }
    ]
   },
   {
    "id": "artigo-8",
    "label": "Artigo 8.º",
-   "epigraph": "Matéria Colectável",
+   "epigraph": "Composição",
    "path": [
-    "CAPÍTULO III - TRIBUTAÇÃO SOBRE A DETENÇÃO E SOBRE A RENDA DO PATRIMÓNIO IMOBILIÁRIO",
-    "SECÇÃO II - VALOR PATRIMONIAL DOS PRÉDIOS URBANOS E RÚSTICOS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO I - Do sistema aduaneiro em geral"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. A matéria colectável nos prédios urbanos corresponde ao valor patrimonial que resulta da avaliação efectuada nos termos da legislação aplicável."
-    },
-    {
-     "t": "p",
-     "x": "2. A matéria colectável nos prédios rústicos corresponde ao valor patrimonial de AKz: 10.397,00 (dez mil trezentos e noventa e sete kwanzas) por hectar."
-    },
-    {
-     "t": "p",
-     "x": "3. Os prédios rústicos que tenham parte produtiva e parte improdutiva, são tributados de acordo com a parte que não tenha aproveitamento útil e efectivo, salvo se o contribuinte provar que a produção esteja a obedecer a um processo gradual, no âmbito de um plano concreto de aproveitamento da terra."
-    },
-    {
-     "t": "p",
-     "x": "4. O rendimento colectável dos imóveis arrendados é igual às rendas efectivamente recebidas, líquidas de 40% correspondentes a despesas relacionadas com a conservação e manutenção do imóvel, não obstante o período a que respeite."
-    },
-    {
-     "t": "p",
-     "x": "5. Considera-se renda, tudo quanto o senhorio receba do arrendatário ou este satisfaça em sua vez, por efeito directo da cedência do imóvel e dos serviços que porventura nele tenha estabelecidos, quer sejam especiais para o arrendamento, quer comuns a outros arrendamentos do mesmo ou de diversos imóveis e ainda que também aproveitem ao próprio senhorio."
-    },
-    {
-     "t": "p",
-     "x": "6. Considera-se ainda renda do imóvel:"
+     "x": "Do sistema aduaneiro fazem parte:"
     },
     {
      "t": "list",
      "style": "alpha",
      "items": [
-      "O montante que o arrendatário pague pelo aluguer de maquinismos e mobiliários dos estabelecimentos fabris e comerciais instalados nos mesmos imóveis;",
-      "Tudo o que o senhorio receba pelo arrendamento de casas mobiladas;",
-      "O preço da cedência da exploração de estabelecimentos comerciais ou industriais, salvo quando o contrato desagrega o valor normal da renda e o da exploração do estabelecimento;",
-      "As importâncias recebidas de quem utiliza quaisquer imóveis para publicidade ou outros fins especiais."
+      "As alfândegas;",
+      "Outras entidades, nomeadamente a Polícia Fiscal e outras autoridades públicas, que, nos termos da legislação em vigor, devem apoiar a acção das alfândegas, bem como as empresas especializadas que prestem serviços de apoio às alfândegas;",
+      "O Conselho Superior Técnico Aduaneiro;",
+      "A Sala do Contencioso Fiscal e Aduaneiro e, nos termos da legislação em vigor e nos limites da respectiva competência, os Tribunais Cíveis e Criminais."
      ]
     }
    ]
@@ -245,701 +298,13395 @@
   {
    "id": "artigo-9",
    "label": "Artigo 9.º",
-   "epigraph": "Início da Tributação dos Prédios",
+   "epigraph": "Princípios",
    "path": [
-    "CAPÍTULO III - TRIBUTAÇÃO SOBRE A DETENÇÃO E SOBRE A RENDA DO PATRIMÓNIO IMOBILIÁRIO",
-    "SECÇÃO II - VALOR PATRIMONIAL DOS PRÉDIOS URBANOS E RÚSTICOS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO I - Princípios gerais"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Nos casos de prédios rústicos sem aproveitamento útil, o imposto é devido a partir do terceiro ano da entrada em vigor do presente Código ou da concessão, aquisição ou ocupação do terreno, conforme o caso."
-    },
-    {
-     "t": "p",
-     "x": "2. Nos casos de prédios urbanos o imposto é devido a partir:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Do ano em que a fracção do território e demais elementos devam ser classificados como prédios urbanos, nos termos da lei;",
-      "Do ano seguinte ao do termo da situação de isenção;",
-      "Do segundo ano seguinte àquele em que um terreno para construção tenha sido concedido, transmitido ou ocupado;",
-      "Do ano da conclusão das obras de edificação, de melhoramento ou de outras alterações que hajam determinado a variação do valor patrimonial do prédio;",
-      "Do terceiro ano seguinte àquele em que um terreno para construção tenha passado a figurar no inventário de uma empresa que tenha por objecto a construção de edifícios para venda;",
-      "Do segundo ano seguinte àquele em que um prédio edificado tenha sido adquirido e passado a figurar no inventário de uma empresa que tenha por objecto a venda."
-     ]
-    },
-    {
-     "t": "p",
-     "x": "3. Nos casos previstos nas alíneas e) e f) do n.º 2, sempre que ao terreno ou ao prédio seja dado um destino diferente, liquida-se o imposto por todo o período decorrido desde a sua aquisição."
-    },
-    {
-     "t": "p",
-     "x": "4. Na situação prevista na alínea f) do n.º 2, o imposto é ainda devido a partir do ano em que a venda do património tenha sido retardada por facto imputável ao respectivo sujeito passivo."
-    },
-    {
-     "t": "p",
-     "x": "5. Para efeitos do disposto nas alíneas e) e f) do n.º 2, devem os sujeitos passivos comunicar à Repartição Fiscal da área da situação dos prédios, no prazo de 30 dias contados a partir da data da verificação do facto determinante da sua aplicação, a afectação dos prédios àqueles fins."
-    },
-    {
-     "t": "p",
-     "x": "6. Nas situações a que se refere o número anterior, se a comunicação for apresentada fora do prazo aí referido, aplicam-se as penalidades previstas no Código Geral Tributário."
-    },
-    {
-     "t": "p",
-     "x": "7. Não gozam do benefício do prazo para pagamento do imposto previsto nas alíneas e) e f) do n.º 2, os sujeitos passivos que tenham adquirido o prédio à entidade que dele já tenha beneficiado, nos termos do presente artigo."
-    },
-    {
-     "t": "p",
-     "x": "8. Sem prejuízo do disposto na lei aplicável, considera-se ainda prédio, para efeitos do presente Código, os edifícios ou construções, ainda que móveis por natureza, quando assentes no mesmo local por um período superior a seis meses."
+     "x": "No exercício das suas atribuições e no cumprimento dos seus deveres, as alfândegas regem-se pelos princípios enunciados no presente capítulo."
     }
    ]
   },
   {
    "id": "artigo-10",
    "label": "Artigo 10.º",
-   "epigraph": "Data da Conclusão dos Prédios Urbanos Edificados",
+   "epigraph": "Princípio da legalidade e da simplificação",
    "path": [
-    "CAPÍTULO III - TRIBUTAÇÃO SOBRE A DETENÇÃO E SOBRE A RENDA DO PATRIMÓNIO IMOBILIÁRIO",
-    "SECÇÃO II - VALOR PATRIMONIAL DOS PRÉDIOS URBANOS E RÚSTICOS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO I - Princípios gerais"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Para efeitos fiscais, os prédios urbanos edificados presumem-se concluídos ou ocupados na mais antiga das seguintes datas:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Em que for concedido o certificado de habitabilidade passado pela entidade competente;",
-      "Que a declaração de inscrição na matriz indique como sendo da conclusão das obras;",
-      "Em que se verificar uma qualquer utilização, desde que a título não precário;",
-      "Em que se tornar possível a sua normal utilização para fins a que se destina."
-     ]
-    },
-    {
-     "t": "p",
-     "x": "2. Nas situações não previstas no número anterior a Administração Tributária pode fixar a data da conclusão ou modificação dos prédios."
+     "x": "As formalidades, as condições e os requisitos aduaneiros a serem observados em matéria de procedimentos devem ser os que a legislação estabelece e, sempre que possível, os mais simples."
     }
    ]
   },
   {
    "id": "artigo-11",
    "label": "Artigo 11.º",
-   "epigraph": "Declaração de Rendimento Colectável",
+   "epigraph": "Princípio da discricionariedade técnica",
    "path": [
-    "CAPÍTULO III - TRIBUTAÇÃO SOBRE A DETENÇÃO E SOBRE A RENDA DO PATRIMÓNIO IMOBILIÁRIO",
-    "SECÇÃO II - VALOR PATRIMONIAL DOS PRÉDIOS URBANOS E RÚSTICOS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO I - Princípios gerais"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. O rendimento colectável do imóvel total ou parcialmente arrendado, determina-se através da declaração dos contribuintes, conforme o modelo a submeter electronicamente ou a apresentar na Repartição Fiscal da área de situação dos prédios no mês de Janeiro de cada ano e em separado para cada prédio até ao último dia útil do referido mês."
-    },
-    {
-     "t": "p",
-     "x": "2. Os contribuintes devem indicar as rendas convencionadas e as efectivamente recebidas no ano anterior e juntar, quando ainda não o tenham feito, os contratos de arrendamento devidamente selados."
-    },
-    {
-     "t": "p",
-     "x": "3. Sempre que as rendas efectivamente recebidas não coincidam com as convencionadas, devem os declarantes justificar as divergências, tributando-se em conformidade."
-    },
-    {
-     "t": "p",
-     "x": "4. Quando apenas parte do imóvel esteja ou tenha estado arrendado, a tributação é feita de forma rateada."
-    },
-    {
-     "t": "p",
-     "x": "5. O senhorio é obrigado a apresentar, na Repartição Fiscal, dentro de 10 dias a contar da sua celebração, um exemplar do contrato de arrendamento do prédio ou parte de prédio."
-    },
-    {
-     "t": "p",
-     "x": "6. Sem prejuízo do disposto no n.º 4 do artigo 6.º, o pagamento antecipado das rendas não dispensa a obrigatoriedade da apresentação anual da declaração com a informação da renda relativa ao ano em causa."
+     "x": "A intervenção aduaneira pode ter por objecto a recolha de amostras, devendo a respectiva selecção, sempre que possível, ser efectuada com base na análise de risco de perda de receitas para o Estado ou com base em outras atribuições estatutárias."
     }
    ]
   },
   {
    "id": "artigo-12",
    "label": "Artigo 12.º",
-   "epigraph": "Incidência Objectiva",
+   "epigraph": "Princípio da proporcionalidade",
    "path": [
-    "CAPÍTULO IV - TRIBUTAÇÃO SOBRE AS TRANSMISSÕES GRATUITAS OU ONEROSAS DO PATRIMÓNIO IMOBILIÁRIO"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO I - Princípios gerais"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. O Imposto Predial incide sobre as transmissões onerosas ou gratuitas:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Direito de propriedade ou figuras parcelares deste direito, nomeadamente o usufruto, o direito de superfície e a servidão, incluindo aquisições por usucapião, sobre bens imóveis;",
-      "Direito sobre as águas, ainda que sob a forma de autorização para as explorar ou para minar em terreno alheio."
-     ]
-    },
-    {
-     "t": "p",
-     "x": "2. Para efeitos do disposto no número anterior, considera-se transmissões onerosas de bens imóveis:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "A cedência de usufruto, uso e habitação ou servidão, a favor do proprietário, e a aquisição do direito de superfície pelo proprietário do solo;",
-      "As promessas de aquisição e de alienação no momento do pagamento ou logo que verificada a tradição do imóvel para o promitente adquirente, ou quando este esteja usufruindo do bem;",
-      "A cessão da posição contratual nos contratos-promessa referidos na alínea anterior, vindo o contrato definitivo a ser celebrado entre o primitivo promitente alienante e o terceiro;",
-      "O arrendamento com cláusula de que os bens arrendados se tornem propriedade do arrendatário depois de satisfeitas todas as rendas acordadas;",
-      "Os arrendamentos de longo prazo, considerando-se com tais os que são efectuados por 20 ou mais anos, ou que devam findar 20 ou mais anos depois da celebração do contrato;",
-      "Os arrendamentos que depois de convencionados e que durante a sua vigência ou dentro de 2 anos depois de findo, se fizer qualquer contrato que importe a manutenção dos efeitos do arrendamento anterior, e se a soma dos anos convencionados for igual ou superior a 10 anos;",
-      "As sublocações de longo prazo, considerando-se como tais as que são efectuadas por 10 ou mais anos, ou nos temos da alínea f);",
-      "Os contratos de consignação de rendimentos de bens imóveis a longo prazo, considerando-se como tais os que são celebrados por 10 ou mais anos;",
-      "Os contratos de servidão perpétua ou temporária e o compáscuo de longo prazo, considerando-se como tais os que são celebrados por 10 ou mais anos;",
-      "Os actos que importem a transmissão de benfeitorias em prédios urbanos ou rústicos."
-     ]
-    },
-    {
-     "t": "p",
-     "x": "3. São também sujeitas ao Imposto Predial sobre as transmissões onerosas, designadamente:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "As trocas ou permutas de bens imóveis presentes ou futuras, mesmo quando haja transferência apenas para um dos permutantes;",
-      "As promessas de trocas ou permutas de bens imóveis com tradição da coisa para ambos ou para, pelo menos, um dos permutantes;",
-      "A venda ou cessão do direito a águas, ainda que sob a forma de autorização para as explorar ou para minar em terreno alheio;",
-      "As entradas dos sócios com bens imóveis para a realização do capital social das sociedades comerciais ou civis, com ou sem forma comercial, a que tenha sido legalmente reconhecida personalidade jurídica;",
-      "As transmissões de bens imóveis por fusão ou cisão das sociedades referidas na alínea anterior;",
-      "A aquisição de unidades de participação, quotas ou partes sociais em qualquer sociedade ou fundo, constituído nos termos da Lei, que possua bens imóveis quando, por via dessa aquisição, amortização ou quaisquer outros factos, algum dos sócios passe a deter 50% ou mais do capital social;",
-      "A outorga de procuração irrevogável que confira poderes de alienação de bem imóvel ou de quotas ou partes sociais ou unidades de participação a que se refere a alínea anterior em que, por renúncia ao direito de revogação ou cláusula de natureza semelhante, o representado deixe de poder revogar a procuração;",
-      "A outorga de instrumento com substabelecimento de procuração com os poderes e efeitos previstos na alínea anterior;",
-      "As arrematações de bens imóveis por decisão judicial;",
-      "A resolução, invalidade ou extinção, por mútuo consenso do contrato de compra e venda ou respectivo contrato-promessa, passado mais de cinco anos sobre a tradição ou posse do bem;",
-      "A adjudicação de bens imóveis aos sócios por altura da liquidação da sociedade ou fundos;",
-      "A dação em cumprimento ou dação pro solvendo;",
-      "A doação com entradas ou pensões a favor do doador ou com encargos de pagamento da dívida do donatário ou terceiros;",
-      "A aquisição de imóvel objecto de locação financeira;",
-      "A aquisição de imóveis mediante contratos para pessoa a nomear;",
-      "A transmissão do quinhão hereditário;",
-      "Quaisquer outros actos que operem a efectiva transmissão onerosa de bens imóveis, independentemente da forma."
-     ]
+     "x": "O controlo aduaneiro limitar-se-á ao estritamente necessário para garantir o cumprimento da legislação aduaneira em vigor."
     }
    ]
   },
   {
    "id": "artigo-13",
    "label": "Artigo 13.º",
-   "epigraph": "Incidência Subjectiva",
+   "epigraph": "Princípio da livre fixação do nível de intervenção",
    "path": [
-    "CAPÍTULO IV - TRIBUTAÇÃO SOBRE AS TRANSMISSÕES GRATUITAS OU ONEROSAS DO PATRIMÓNIO IMOBILIÁRIO"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO I - Princípios gerais"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Nas transmissões gratuitas, incluindo as aquisições por usucapião, são sujeitos passivos do imposto os beneficiários dos bens imóveis, bem assim o beneficiário da transmissão do direito a águas, ainda que sob a forma de autorização para as explorar ou para minar em terreno alheio."
-    },
-    {
-     "t": "p",
-     "x": "2. Nas transmissões onerosas, são sujeitos passivos do imposto os adquirentes dos bens imóveis, sem prejuízo das seguintes regras:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Nas situações previstas nas alíneas a) e b) do n.º 3 do artigo anterior, o imposto é devido por ambos os permutantes na proporção do valor declarado ou do valor patrimonial mais elevado entre os imóveis objectos de permuta;",
-      "Nos contratos promessa de troca ou permuta com tradição de bens imóveis ou pagamento para um dos permutantes, o imposto é desde logo devido pelo adquirente do bem, como se de compra e venda se tratasse, sem prejuízo do direito de regresso contra o outro promitente permutante na proporção da sua quota-parte."
-     ]
+     "x": "Os operadores que, de forma consistente e regular, cumpram os preceitos da legislação aduaneira e que, como tal, sejam reconhecidos, podem vir a ser sujeitos a um reduzido nível de intervenção no que toca aos princípios de gestão de risco."
     }
    ]
   },
   {
    "id": "artigo-14",
    "label": "Artigo 14.º",
-   "epigraph": "Constituição da Obrigação Tributária",
+   "epigraph": "Princípio do controlo aduaneiro baseado em auditorias",
    "path": [
-    "CAPÍTULO IV - TRIBUTAÇÃO SOBRE AS TRANSMISSÕES GRATUITAS OU ONEROSAS DO PATRIMÓNIO IMOBILIÁRIO"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO I - Princípios gerais"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "A obrigação tributária considera-se constituída:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Na sucessão por morte, na data da abertura da sucessão;",
-      "Na aquisição por usucapião, na data em que transitar em julgado a decisão proferida em acção de justificação judicial, for celebrada a escritura de justificação notarial ou quando se tornar definitiva a decisão proferida em processo de justificação nos termos do Código do Registo Predial;",
-      "Na transmissão onerosa e nas outras formas de transmissão gratuita, no momento em que ocorrer a transmissão, o pagamento ou a assinatura do contrato."
-     ]
+     "x": "O controlo aduaneiro deve incluir auditorias a todas as entidades que, directa ou indirectamente, estão ou estiveram envolvidas em operações aduaneiras e ou em operações de comércio internacional, podendo as referidas auditorias ser realizadas antes e ou depois do desalfandegamento das mercadorias e ou dos meios de transporte."
     }
    ]
   },
   {
    "id": "artigo-15",
    "label": "Artigo 15.º",
-   "epigraph": "Valor Tributável",
+   "epigraph": "Princípio da assistência administrativa mútua",
    "path": [
-    "CAPÍTULO IV - TRIBUTAÇÃO SOBRE AS TRANSMISSÕES GRATUITAS OU ONEROSAS DO PATRIMÓNIO IMOBILIÁRIO"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO I - Princípios gerais"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Na transmissão gratuita ou onerosa, o valor tributável do imóvel é o valor patrimonial constante da matriz, à data da transmissão, o determinado por avaliação no caso de prédio omisso, ou o valor declarado, consoante o que for maior."
-    },
-    {
-     "t": "p",
-     "x": "2. No prazo para a apresentação da participação a que se refere o artigo 19.º deste Código, pode o interessado requerer a avaliação do imóvel nos termos das disposições regulamentares aplicáveis."
-    },
-    {
-     "t": "p",
-     "x": "3. Nos contratos que importem a transmissão de benfeitorias, o valor patrimonial corresponde ao valor destas."
-    },
-    {
-     "t": "p",
-     "x": "4. Nos contratos celebrados que dêem lugar ao pagamento do imposto sobre a transmissão, o valor tributável corresponde às rendas globais convencionadas ou ao valor patrimonial, consoante o que for maior."
-    },
-    {
-     "t": "p",
-     "x": "5. Em quaisquer outros casos, o valor tributável corresponde ao valor da transmissão ou ao valor patrimonial, consoante o que for maior."
+     "x": "As alfândegas devem propor ao Governo a celebração de acordos internacionais de assistência administrativa mútua em matéria aduaneira e cooperar com outras administrações aduaneiras no sentido de fortalecer o controlo aduaneiro."
     }
    ]
   },
   {
    "id": "artigo-16",
    "label": "Artigo 16.º",
-   "epigraph": "Taxas sobre a Detenção ou Arrendamento de Prédios Urbanos e Rústicos",
+   "epigraph": "Princípio da cooperação institucional",
    "path": [
-    "CAPÍTULO V - TAXAS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO I - Princípios gerais"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. A taxa do Imposto Predial sobre a detenção aplicável aos prédios urbanos, excepto terrenos para construção, é determinada de acordo com a tabela seguinte:"
-    },
-    {
-     "t": "table",
-     "headers": [
-      "N.º",
-      "Valor Patrimonial (Akz)",
-      "Taxa",
-      "Valor Fixo"
-     ],
-     "rows": [
-      [
-       "1",
-       "Até 5 000 000,00",
-       "0,1%",
-       ""
-      ],
-      [
-       "2",
-       "de 5 000 001,00 a 6 000 000,00",
-       "",
-       "Kz 5 000,00"
-      ],
-      [
-       "3",
-       "Superior a 6 000 000,00 sobre o excesso de 5 000 000,00",
-       "0,5%",
-       ""
-      ]
-     ]
-    },
-    {
-     "t": "p",
-     "x": "2. A taxa do Imposto Predial aplicável ao terreno para construção é de 0,6%."
-    },
-    {
-     "t": "p",
-     "x": "3. O valor do imposto do prédio rústico corresponde ao valor do hectare ou a sua soma."
-    },
-    {
-     "t": "p",
-     "x": "4. A taxa do Imposto Predial aplicável aos prédios arrendados é de 25% do rendimento colectável."
+     "x": "As alfândegas devem cooperar com outras entidades públicas e com os operadores de comércio internacional, designadamente através da celebração de acordos com aquelas entidades e estes operadores, no sentido de fortalecer o controlo aduaneiro e promover o comércio internacional legítimo."
     }
    ]
   },
   {
    "id": "artigo-17",
    "label": "Artigo 17.º",
-   "epigraph": "Taxa Adicional",
+   "epigraph": "Natureza",
    "path": [
-    "CAPÍTULO V - TAXAS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO II - Das alfândegas em geral"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Ficam sujeitos a uma tributação adicional de 50% do imposto resultante dos n.os 1, 2 e 3 do artigo anterior os prédios desocupados há mais de 1 ano, bem como os terrenos para construção relativamente aos quais não sejam observados os critérios de aproveitamento útil e efectivo, durante três anos consecutivos ou seis interpolados, a contar da data da entrada em vigor do presente Código, da sua concessão, ocupação ou da última transmissão."
+     "x": "1. As alfândegas são um serviço executivo público que exerce a sua acção em todo o território nacional."
     },
     {
      "t": "p",
-     "x": "2. Para efeitos do número anterior, consideram-se ainda desocupados quando não existam contratos em vigor e facturação mensal com empresas de telecomunicações ou de fornecimento de água ou de electricidade."
-    },
-    {
-     "t": "p",
-     "x": "3. Os índices de aproveitamento útil e efectivo dos terrenos são determinados de acordo com os critérios previstos na legislação aplicável."
-    },
-    {
-     "t": "p",
-     "x": "4. Não se consideram desocupados os prédios ou terrenos para construção que se encontrem arrendados, ainda que o locatário deles não faça uso."
-    },
-    {
-     "t": "p",
-     "x": "5. Compete às Administrações Municipais ou às Autarquias Locais, ao Instituto Geográfico e Cadastral de Angola e a outras entidades públicas com competência para o efeito, identificar e remeter à Administração Tributária a relação dos prédios desocupados, incluindo os terrenos para construção em que não são observados os índices de aproveitamento útil e efectivo."
+     "x": "2. As alfândegas são tuteladas pelo Ministério das Finanças."
     }
    ]
   },
   {
    "id": "artigo-18",
    "label": "Artigo 18.º",
-   "epigraph": "Taxa sobre as Transmissões de Bens Imóveis",
+   "epigraph": "Competência",
    "path": [
-    "CAPÍTULO V - TAXAS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO II - Das alfândegas em geral"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "A taxa do Imposto Predial aplicável à transmissão de bem imóvel é de 2%."
+     "x": "Às alfândegas compete, sob orientação do Ministério das Finanças, propor medidas em matéria de política, legislação e procedimentos aduaneiros, garantir a sua efectiva implementação, e realizar as actividades de controlo e de supervisão necessárias ao cumprimento dos seus deveres."
     }
    ]
   },
   {
    "id": "artigo-19",
    "label": "Artigo 19.º",
-   "epigraph": "Competência e Prazo para Liquidação do Imposto sobre a Detenção ou Renda",
+   "epigraph": "Atribuições",
    "path": [
-    "CAPÍTULO VI - LIQUIDAÇÃO",
-    "SECÇÃO I - DETENÇÃO OU RENDA DE PRÉDIOS URBANOS E RÚSTICOS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO II - Das alfândegas em geral"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Na detenção de prédios urbanos e rústicos, o imposto é liquidado anualmente, pelo sujeito passivo na Repartição Fiscal ou outros serviços competentes da Administração Tributária em 31 de Dezembro do ano a que o mesmo diz respeito."
+     "x": "1. São, nomeadamente, atribuições das alfândegas:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Propor medidas ou alterações relativas à legislação respeitante à política aduaneira, em coordenação com outras entidades interessadas;",
+      "Garantir o efectivo cumprimento da legislação aduaneira e salvaguardar os interesses do Estado;",
+      "Consultar, em matéria de aplicação ou melhoria da legislação e política aduaneiras, as entidades que intervenham na actividade aduaneira de forma mais relevante;",
+      "Garantir o acesso, por parte de qualquer interessado, à informação necessária à aplicação da legislação aduaneira;",
+      "Definir normas e instruções sobre questões aduaneiras, em conformidade com a legislação vigente;",
+      "Propor a criação, alteração, extinção ou delimitação da respectiva área de jurisdição de departamentos integrados nas direcções, de direcções regionais ou de estâncias aduaneiras;",
+      "Designar, em coordenação com outras entidades públicas e com os operadores de comércio internacional, os locais, no País, para a entrada e saída de comércio internacional e para o depósito temporário e desalfandegamento de mercadorias e ou de meios de transporte;",
+      "Controlar a entrada, trânsito e exportação de mercadorias, meios de transporte, quantias em dinheiro, viajantes e tripulação, de harmonia com a legislação em vigor;",
+      "Apor, sempre que necessário ou conveniente, selos, estampilhas, marcas ou quaisquer outros sinais prescritos nas leis aduaneiras, designadamente mecanismos de natureza electrónica, com o objectivo de identificar, segurar ou manter invioláveis mercadorias ou meios de transporte sujeitos a fiscalização, ou para certificar que sobre aquelas mercadorias ou estes meios recaiu confisco, arresto, apreensão ou outra providência;",
+      "Superintender todo o serviço de despacho de mercadorias, procedendo ao respectivo registo, controlo, arrecadação e contabilização dos direitos aduaneiros e de quaisquer impostos ou taxas cuja cobrança lhe seja cometida;",
+      "Prever as receitas que serão arrecadadas no exercício das suas actividades;",
+      "Autorizar e controlar, nos termos da legislação em vigor, os regimes e procedimentos especiais de isenção, reembolso e suspensão de direitos e demais imposições por pagar;",
+      "Executar, controlando o cumprimento das exigências legais, o programa de auditoria e inspecção das actividades inerentes às operações comerciais internacionais e das entidades envolvidas no processo de importação, exportação e despachos alfandegários;",
+      "Superintender a actividade dos despachos aduaneiros e habilitar as pessoas com competência para os realizar;",
+      "Prever e detectar a prática de infracções fiscais aduaneiras, de fraudes contra as receitas do Estado, de fraudes cambiais, de comércio internacional não autorizado e de tráfico ilícito de substâncias estupefacientes ou psicotrópicas, armas de fogo, objectos de arte, antiguidades e outras mercadorias proibidas ou sujeitas a restrições, punindo ou participando aos tribunais competentes, consoante os casos, aquelas infracções, fraudes ou tráfico;",
+      "Proteger os direitos de autor e outros direitos de propriedade intelectual, o património cultural, a fauna e a flora selvagens, a saúde e a moral pública, o ambiente e a indústria nacional;",
+      "Compilar os dados estatísticos relativos à actividade aduaneira, especialmente os que se refiram às importações, exportações, trânsito, armazenagem e isenções;",
+      "Fazer propostas em matéria de cláusulas aduaneiras incluídas ou a incluir em acordos internacionais, contratos comerciais e de transporte ou em outros tipos de acordos em que seja parte o Estado angolano ou pessoas que desenvolvam qualquer actividade no País, controlando o seu efectivo cumprimento;",
+      "Participar em organismos, organizações, convénios e acordos de natureza aduaneira, a que o País tenha aderido ou em que participe com o estatuto de observador;",
+      "Implementar os termos dos convénios e acordos referidos na alínea anterior, no âmbito das suas atribuições;",
+      "Intervir, em coordenação com as autoridades marítimas, nos casos de naufrágio;",
+      "Agir, nos termos da lei, em todos os casos de arrojos e achados do mar;",
+      "Atribuir, nos termos da lei, outro destino às mercadorias e ou aos meios de transporte apreendidos ou abandonados em áreas sob controlo aduaneiro e superintender, nos termos da legislação respectiva, a venda judicial ou extrajudicial dessas mesmas mercadorias e ou meios de transporte, designadamente a venda em hasta pública, por meio de propostas em carta fechada ou em estabelecimento de leilões;",
+      "Gerir os recursos humanos a elas afectados e garantir a sua adequada formação profissional;",
+      "Administrar os recursos materiais e financeiros que lhes sejam afectados;",
+      "Apoiar, mediante prévia solicitação e com o acordo do Ministério das Finanças, outros organismos do Governo na tarefa de fazer cumprir a legislação nacional, designadamente no que respeita à aplicação dos controlos de imigração, de saúde e fito-sanitários, sempre que tal tarefa não possa ser levada a cabo pelos organismos competentes;",
+      "Realizar quaisquer outras funções que lhes sejam cometidas por lei ou que lhes sejam confiadas pelo Ministro das Finanças."
+     ]
     },
     {
      "t": "p",
-     "x": "2. A liquidação a que se refere o número anterior é efectuada, até ao último dia útil no mês de Março do ano seguinte."
-    },
-    {
-     "t": "p",
-     "x": "3. Competente ao arrendatário que disponha de contabilidade, modelo de contabilidade simplificado ou livro de registos, proceder à liquidação do imposto devido pelo arrendamento, até ao último dia útil do mês seguinte ao pagamento da renda."
-    },
-    {
-     "t": "p",
-     "x": "4. Quando o arrendatário não possua contabilidade, modelo de contabilidade simplificado ou livro de registos, a liquidação do imposto é devida pelo senhorio, no prazo referido no número anterior."
-    },
-    {
-     "t": "p",
-     "x": "5. Quando nos termos do artigo 8.º, a conclusão ou ocupação ocorra no segundo semestre, o imposto é liquidado de modo rateado."
-    },
-    {
-     "t": "p",
-     "x": "6. Sempre que os pressupostos da isenção deixem de existir, a Administração Tributária procede à liquidação do imposto desde o ano, da cessação da isenção."
-    },
-    {
-     "t": "p",
-     "x": "7. Antes da transmissão onerosa ou gratuita do imóvel deve proceder-se à liquidação imediata do Imposto Predial devido sobre a detenção, quanto aos duodécimos correspondentes aos meses anteriores àquele em que se opere a transmissão."
-    },
-    {
-     "t": "p",
-     "x": "8. Quando a avaliação de prédio omisso se torne definitiva, liquida-se o imposto por todo o tempo durante o qual a omissão se tenha verificado, com o limite máximo dos cinco anos civis imediatamente anteriores."
-    },
-    {
-     "t": "p",
-     "x": "9. Nas situações em que o senhorio, por razões objectivas, não receba o valor da renda convencionada para um determinado exercício, procede-se à liquidação do imposto com base no valor patrimonial, tendo o senhorio o direito de deduzir o valor pago quando venha a receber a renda."
+     "x": "2. Para os efeitos do disposto na alínea i) do n.º 1, as alfândegas podem apor, sempre que necessário ou conveniente, selos, marcas ou quaisquer outros sinais, nomeadamente electrónicos, em edifícios utilizados para a armazenagem de mercadorias ou de meios de transporte sujeitos a fiscalização, com o objectivo de segurar ou manter invioláveis essas mercadorias ou meios de transporte."
     }
    ]
   },
   {
    "id": "artigo-20",
    "label": "Artigo 20.º",
-   "epigraph": "Competência e Prazo para a Liquidação do Imposto nas Transmissões Gratuitas",
+   "epigraph": "Âmbito e área de jurisdição",
    "path": [
-    "CAPÍTULO VI - LIQUIDAÇÃO",
-    "SECÇÃO II - TRANSMISSÕES GRATUITAS DE IMÓVEIS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO II - Das alfândegas em geral"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Na transmissão gratuita de imóvel operada por morte, doação ou por qualquer título que implique a transmissão gratuita, incluindo a usucapião, a liquidação é efectuada pelo sujeito passivo até ao último dia útil do mês seguinte, salvo nos casos de inventário judicial."
+     "x": "1. A jurisdição das alfândegas garante o controlo, prevenção, detecção e investigação das infracções fiscais aduaneiras em todo o território aduaneiro, abrangendo a zona primária e a zona secundária."
     },
     {
      "t": "p",
-     "x": "2. Sempre que o sujeito passivo não proceda em conformidade com o disposto no número anterior, compete à Repartição Fiscal da situação do imóvel, liquidar o imposto, dentro do prazo de caducidade."
+     "x": "2. A zona primária, sob controlo e supervisão permanentes das alfândegas, nela existindo mercadorias que aguardam um destino aduaneiro ou mercadorias que, embora tenham já um destino aduaneiro, estejam sob regime suspensivo, abrange:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As áreas terrestres e aquáticas, contínuas ou não, ocupadas por portos, enseadas, rios e ancoradouros;",
+      "As águas territoriais e a zona contígua segundo a definição da legislação em vigor;",
+      "As zonas terrestres numa extensão de 50 quilómetros a partir do litoral;",
+      "As zonas terrestres numa extensão de 50 quilómetros a partir da fronteira terrestre;",
+      "As áreas ocupadas por linhas-férreas, compreendendo as respectivas estações e oficinas, numa extensão de 10 quilómetros para cada um dos lados das mesmas linhas;",
+      "As áreas terrestres ocupadas pelos aeroportos e aeródromos numa extensão de 10 quilómetros em sua volta;",
+      "Postos aduaneiros e fronteiriços e todas as zonas adjacentes numa extensão de 10 quilómetros em sua volta",
+      "Todos os locais onde se encontrem mercadorias que aguardem um destino aduaneiro;",
+      "Toda a zona terrestre e instalações aprovadas ou designadas pelas alfândegas para a carga, descarga, recebimento, depósito temporário, manuseamento, armazenagem, entrega, processamento de beneficiação ou fabrico de quaisquer mercadorias sujeitas a um regime aduaneiro nos termos do presente Código."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. A zona secundária engloba a parte restante do território aduaneiro, incluindo as águas territoriais e o seu espaço aéreo."
     }
    ]
   },
   {
    "id": "artigo-21",
    "label": "Artigo 21.º",
-   "epigraph": "Participação das Transmissões",
+   "epigraph": "Organização, gestão e funcionamento",
    "path": [
-    "CAPÍTULO VI - LIQUIDAÇÃO",
-    "SECÇÃO II - TRANSMISSÕES GRATUITAS DE IMÓVEIS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO II - Das alfândegas em geral"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. O cabeça-de-casal e o beneficiário de qualquer transmissão gratuita sujeita a Imposto Predial são obrigados a participar à Repartição Fiscal competente a doação, o falecimento do autor da sucessão, a declaração de morte presumida ou justificação judicial do óbito, a justificação judicial ou notarial efectuada nos termos previstos do Código do Registo Predial da aquisição por usucapião ou qualquer outro acto ou contrato que envolva transmissão gratuita de bens imóveis."
+     "x": "1. O Código estabelece os princípios e as normas aplicáveis ao desempenho das atribuições e ao exercício das competências das alfândegas, nomeadamente:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O nível de competências delegadas às alfândegas para a tomada de decisões;",
+      "A gestão da execução dos procedimentos aduaneiros, formalidades e requisitos necessários para que as alfândegas desempenhem as suas atribuições no que respeita ao controlo do movimento de meios de transporte, mercadorias e pessoas, quer à entrada, quer à saída do País e ou dos locais designados, e à arrecadação dos direitos e demais imposições, nos termos da legislação em vigor."
+     ]
     },
     {
      "t": "p",
-     "x": "2. A participação a que se refere o número anterior deve identificar o autor da sucessão ou da liberalidade, as respectivas datas e locais, bem como os sucessores, donatários, usucapientes ou beneficiários, as relações de parentesco e respectiva prova, devendo, sendo caso disso, conter a relação dos bens imóveis transmitidos com a indicação dos valores que devam ser declarados pelo participante."
+     "x": "2. O Conselho de Ministros deve aprovar as normas relativas à estrutura orgânica, organização interna e funcionamento das alfândegas, bem como aprovar o orçamento das alfândegas."
     },
     {
      "t": "p",
-     "x": "3. A participação deve ser apresentada na Repartição Fiscal da situação do imóvel dentro do prazo de 60 (sessenta) dias após a abertura do testamento ou, não havendo testamento, da verificação do óbito, e 10 (dez) dias após a celebração do contrato ou acto de doação."
-    },
-    {
-     "t": "p",
-     "x": "4. O prazo previsto no número anterior é alargado para 90 (noventa) dias, se o autor da sucessão tiver falecido em país estrangeiro, começando a contar a partir da data de emissão da certidão de óbito."
+     "x": "3. Compete ao Ministro das Finanças, sob proposta do Director Nacional das Alfândegas, nomear e demitir os directores e os chefes de departamentos, de gabinetes e de delegações aduaneiras."
     }
    ]
   },
   {
    "id": "artigo-22",
    "label": "Artigo 22.º",
-   "epigraph": "Competências e Prazo para a Liquidação do Imposto nas Transmissões Onerosas",
+   "epigraph": "Competência do Director Nacional das Alfândegas",
    "path": [
-    "CAPÍTULO VI - LIQUIDAÇÃO",
-    "SECÇÃO III - TRANSMISSÕES ONEROSAS DE IMÓVEIS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO III - Do Director Nacional das Alfândegas e dos funcionários aduaneiros em especial"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Nas transmissões onerosas, o imposto é liquidado pelo sujeito passivo até ao último dia útil do mês seguinte, a contar do acto que opera a transmissão ou pela Repartição Fiscal do local da situação do imóvel, com base na declaração do sujeito passivo ou a título oficioso."
+     "x": "1. Sem prejuízo do disposto em outras normas, as decisões que, nos termos do Código e do Regulamento, sejam da competência das alfândegas, serão tomadas pelo respectivo Director Nacional ou pela pessoa em que este haja delegado por escrito, mediante prévia ratificação do Ministro das Finanças."
     },
     {
      "t": "p",
-     "x": "2. Em caso de permuta de bens imóveis situados em circunscrições territoriais diferentes, a liquidação do imposto é feita até último dia útil do mês seguinte, a contar do acto que opera permuta, quando efectuada pelos permutantes ou pela Repartição Fiscal do lugar onde estiver situado o imóvel de maior valor patrimonial ou, tratando-se de igual valor, por qualquer Repartição Fiscal à escolha dos permutantes."
+     "x": "2. Compete ao Director Nacional das Alfândegas, no âmbito das suas competências legais, nomeadamente:"
     },
     {
-     "t": "p",
-     "x": "3. Nas transmissões operadas por adjudicação, arrematação judicial ou administrativa, por transacção ou por partilha judicial, a liquidação é efectuada pela Repartição Fiscal, da situação do imóvel, com base na certidão do respectivo auto passada pela entidade competente, no prazo de 10 (dez) dias a contar da data da extracção da certidão ou da sua notificação ao contribuinte."
-    },
-    {
-     "t": "p",
-     "x": "4. Na verificação e graduação dos créditos, a liquidação do imposto é feita pela Repartição Fiscal que deve atender não só ao imposto constante liquidação a que se refere o número anterior, mas ainda ao que deva ser liquidado até à data da venda ou da adjudicação do imóvel."
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Definir a classificação e distribuição geográficas dos diversos postos aduaneiros, bem como adaptar as respectivas responsabilidades funcionais de acordo com as necessidades;",
+      "Nomear os chefes de postos aduaneiros e os restantes funcionários aduaneiros, sem prejuízo do disposto no n.º 3 do artigo anterior;",
+      "Orientar a implementação dos procedimentos aduaneiros;",
+      "Representar as alfândegas em juízo e fora dele, podendo, para o efeito, constituir advogado;",
+      "Decidir outras questões relativas ao funcionamento e à administração das alfândegas que não sejam da competência legal de outra entidade."
+     ]
     }
    ]
   },
   {
    "id": "artigo-23",
    "label": "Artigo 23.º",
-   "epigraph": "Pagamento e Entrega do Imposto",
+   "epigraph": "Prerrogativas específicas dos funcionários aduaneiros",
    "path": [
-    "CAPÍTULO VII - PAGAMENTO"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO III - Do Director Nacional das Alfândegas e dos funcionários aduaneiros em especial"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. O Imposto Predial sobre a Detenção de Imóvel deve ser pago até ao último dia útil do mês de Março pelo sujeito passivo."
+     "x": "1. Para o eficaz desempenho das suas funções respeitantes à administração do sistema aduaneiro e à aplicação da legislação aduaneira nas zonas primária e secundária, os funcionários das alfândegas, de acordo com a natureza das suas funções e com a estrutura orgânica das alfândegas definida em diploma específico, gozam das seguintes prerrogativas específicas, podendo:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Ter uso e porte de arma, não sendo responsáveis pelas consequências que resultem do seu uso legítimo, na defesa dos interesses do Estado ou em defesa pessoal, no exercício legal e regular das suas funções, mas respondendo civil e criminalmente pelo seu uso indevido;",
+      "Requisitar o auxílio das autoridades militares, policiais e civis, sempre que o considerem necessário para o exercício das suas funções ou sempre que a sua segurança pessoal seja ameaçada;",
+      "Mandar parar e revistar meios de transporte, inspeccionar as mercadorias transportadas, usando, nomeadamente, scanners ou outros dispositivos que permitam captar imagens em papel ou fotografias, e examinar a documentação comercial e de trânsito relativa àqueles meios e mercadorias;",
+      "Interpelar e exigir a qualquer pessoa, que entre, saia ou permaneça na zona fiscal primária, que declare quaisquer mercadorias transportadas por si ou em seu nome, revistar qualquer pessoa sempre que haja suspeita, assente em fundamentos plausíveis, da prática de violação da legislação aduaneira, e, no decurso dessa interpelação e revista, examinar os documentos de identificação, nomeadamente bilhete de identidade, passaporte, cédula ou outros certificados ou atestados a que a lei atribui força de identificação das pessoas, e, atentas as circunstâncias do caso, os documentos de viagem;",
+      "Ordenar, se necessário, para efeitos de interrogatório ou de prestação de declarações, a comparência, perante as alfândegas, das pessoas que, nas zonas fiscais, se tornem suspeitas da prática de qualquer infracção fiscal aduaneira, e interrogá-las;",
+      "Entrar e realizar buscas, durante o período normal de funcionamento, em quaisquer instalações, edifícios, estabelecimentos, lojas, armazéns, depósitos temporários, e recintos fechados utilizados para o exercício do comércio internacional, processamento ou armazenagem de mercadorias importadas, em trânsito ou preparadas para exportação, com excepção dos espaços exclusivamente destinados à habitação;",
+      "Proceder à inspecção e auditoria dos registos, contas, correspondência e sistemas electrónicos ou informáticos respeitantes às actividades de comércio internacional, processamento ou armazenagem de mercadorias provenientes ou destinadas a esta actividade;",
+      "Elaborar extractos e fazer cópias de todos ou alguns dos referidos registos, documentos ou arquivos electrónicos ou informáticos para fins de inspecção ou auditoria nos termos da alínea precedente;",
+      "Inspeccionar e verificar a quantidade, a qualidade, a origem, o valor, o estado aduaneiro, a finalidade e o destino de quaisquer mercadorias e ou meios de transporte encontrados na zona fiscal primária ou encontrados em outro lugar em resultado do exercício das suas competências previstas no presente Código;",
+      "Extrair, para os efeitos do disposto na alínea anterior, sempre que necessário, amostras para análise, considerando-se, para o efeito de determinação dos direitos e demais imposições devidos, que as mercadorias incluídas numa só consignação, recipiente ou meio de transporte têm a mesma natureza e características das amostras extraídas pelo funcionário aduaneiro competente;",
+      "Solicitar auxílio e informações a qualquer pessoa que se encontre na zona fiscal primária, ou em qualquer local, edifício ou instalação nos quais as alfândegas possam entrar para exercer as prerrogativas que o presente Código lhes reconhece;",
+      "Solicitar aos órgãos da Administração do Estado, a quaisquer pessoas singulares e colectivas, os elementos e esclarecimentos necessários ao cumprimento da sua função;",
+      "Exigir, por meio de aviso emitido nos termos do Regulamento, com base nos despachos aduaneiros apresentados, o pagamento de direitos e demais imposições legalmente devidos, sem prejuízo do recurso subsidiário às disposições do Código Civil e da demais legislação relevante para assegurar o pagamento dos direitos e demais imposições em dívida, sempre que, antes ou depois do desalfandegamento, se verificar que aqueles não foram pagos na sua totalidade;",
+      "Realizar, na zona fiscal secundária, buscas em quaisquer instalações e revistar quaisquer pessoas que aí se encontrem, contanto que sejam observados os limites previstos no n.º 7 do presente artigo;",
+      "Deter, em flagrante delito, qualquer pessoa suspeita da prática de crime fiscal aduaneiro ou da prática de infracção punível com pena de prisão, mormente nos casos em que haja perigo de fuga da pessoa suspeita para área não sujeita à jurisdição da Sala do Contencioso Fiscal e Aduaneiro, entregando-a às autoridades competentes mais próximas;",
+      "Apreender e remover para armazém sob controlo aduaneiro quaisquer mercadorias relativamente às quais às alfândegas, no exercício das suas funções, hajam detectado a prática de acto que constitua violação da legislação aduaneira, independentemente de essas mercadorias terem sido ou não desalfandegadas;",
+      "Apreender os meios de transporte efectivamente utilizados na prática de infracção fiscal aduaneira e quaisquer meios de transporte concebidos ou adaptados para ocultar mercadorias que sejam objecto de comércio internacional;",
+      "Determinar a apreensão dos elementos probatórios de infracções fiscais aduaneiras por si detectadas;",
+      "Determinar a apreensão do corpo de delito, nomeadamente, mercadorias, meios de transportes, livros de escrituração, registos e demais elementos de prova da prática de infracções fiscais aduaneiras por si detectadas;",
+      "Gozar de garantia administrativa, pelo que não podem ser demandados criminalmente por actos relativos ao exercício legal e regular das suas funções, mesmo que estas hajam cessado, sem autorização expressa do Ministro das Finanças."
+     ]
     },
     {
      "t": "p",
-     "x": "2. O imposto a pagar nos termos do número anterior pode, todavia, ser pago em seis prestações consecutivas, a pedido do sujeito passivo."
+     "x": "2. O Director Nacional das Alfândegas, o seu delegado, os Directores Regionais das Alfândegas, os chefes de departamentos, de repartições, de secções, de delegações e de estâncias aduaneiras, os funcionários dos quadros técnico e auxiliar das alfândegas e os funcionários encarregados da fiscalização aduaneira e quaisquer funcionários aduaneiros com funções de inspecção e fiscalização, consideram-se, pela natureza especial das suas funções, em serviço permanente, pelo que lhes é permitido entrar livremente nas gares marítimas e ferroviárias, aeroportos, aeródromos, portos, navios, comboios, aeronaves, veículos e recintos sujeitos ao controlo fiscal aduaneiro."
     },
     {
      "t": "p",
-     "x": "3. O Imposto Predial sobre a Renda sujeita à retenção na fonte deve ser entregue pelo substituto tributário até ao último dia útil do mês seguinte a retenção, que responde pela totalidade do imposto e acréscimos legais, em caso de não entrega."
+     "x": "3. Para efeitos de identificação no momento do exercício das suas prerrogativas específicas, as pessoas referidas no número anterior, sempre que iniciem uma diligência ou nos casos em que alguém solicite a sua identificação, devem exibir o cartão de identificação profissional de modelo aprovado nos termos da legislação vigente."
     },
     {
      "t": "p",
-     "x": "4. Quando não houver lugar à retenção, o imposto é pago pelo sujeito passivo nos termos do n.º 1."
+     "x": "4. Sempre que alguma das diligências anteriormente referidas for iniciada antes do cair da noite, pode ela prosseguir durante a noite pelo tempo necessário para a sua conclusão."
     },
     {
      "t": "p",
-     "x": "5. Não obstante o disposto n.º 3, o senhorio fica obrigado a comprovar no prazo para a apresentação da declaração anual o cumprimento da obrigação prevista nesse artigo, sob pena de ser considerado responsável pelo pagamento do imposto em falta."
+     "x": "5. No que respeita a meios de transporte, as diligências previstas na alínea c) do n.º 1 podem ser realizadas a qualquer momento, quer esses meios se encontrem a circular, a entrar ou a sair do País, quer estejam estacionados, parados, ancorados ou fundeados em qualquer local sob controlo aduaneiro."
     },
     {
      "t": "p",
-     "x": "6. Considera-se cumprida a obrigação prevista no número anterior, nos casos em que o senhorio receba do substituto tributário, o documento de cobrança que comprove a entrega do imposto retido ou, assim não sendo, comunique tal facto à Repartição Fiscal competente no prazo de 5 dias a contar do termo do prazo para entrega daquele imposto."
+     "x": "6. As diligências referidas nas alíneas e) f) e g) do n.º 1 estão sujeitas a autorização hierárquica prevista no Regulamento, podendo ser realizadas a qualquer momento durante o período normal de funcionamento da respectiva instalação, loja, armazém, depósito temporário, ou recinto fechado, incluindo o período da noite, os fins-de-semana e os feriados nacionais."
+    },
+    {
+     "t": "p",
+     "x": "7. As buscas em edifícios ou instalações e a revista e detenção de pessoas devem ser realizadas nos termos da Lei n.º 22/92, de 4 de Setembro, da Lei n.º 18-A/92, de 17 de Julho, do Código de Processo Penal e da legislação complementar, com as seguintes adaptações:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Aquelas medidas devem ser aplicadas apenas nos casos em que haja suspeita fundada da prática de infracção fiscal aduaneira;",
+      "A detenção de indivíduos em qualquer local e as revistas que tenham lugar fora do âmbito da zona fiscal primária só podem ser realizadas nos casos em que haja suspeita fundada da prática de algum dos crimes fiscais aduaneiros previstos na Parte V do presente Código;",
+      "Salvo nos casos de urgência comprovada ou de flagrante delito, todas as revistas e detenções previstas neste artigo devem, nos termos do Regulamento, ser precedidas de prévia e superior autorização das alfândegas;",
+      "As buscas em imóveis destinados a fins habitacionais só podem ter lugar mediante prévio mandado do juiz da Sala do Contencioso Fiscal e Aduaneiro competente, nos casos e segundo as formas previstos na lei, não sendo permitida a entrada durante a noite no domicílio de qualquer pessoa sem o seu consentimento."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "8. Em tudo o que não esteja especialmente previsto no Código, é aplicável às revistas, buscas e apreensões, com as necessárias adaptações, o disposto na Lei n.º 22/92, de 4 de Setembro."
+    },
+    {
+     "t": "p",
+     "x": "9. Os funcionários aduaneiros só poderão exercer as prerrogativas referidas nas alíneas e), n) e o) do n.º 1 quando elas constem das prerrogativas exaradas no respectivo cartão de identificação profissional."
+    },
+    {
+     "t": "p",
+     "x": "10. O averbamento das prerrogativas de que trata o número anterior será efectuado pela Direcção Nacional das Alfândegas, devendo os cartões de identificação profissional onde forem efectuados esses averbamentos ser registados separadamente, em livro próprio, naquela Direcção."
+    },
+    {
+     "t": "p",
+     "x": "11. Os funcionários aduaneiros e os funcionários encarregados da fiscalização aduaneira que não usufruam as prerrogativas mencionadas nos números anteriores devem dar imediato conhecimento aos seus superiores hierárquicos de quaisquer factos constitutivos de infracções fiscais aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "12. Os funcionários aduaneiros e os funcionários encarregados da fiscalização aduaneira podem recorrer, sempre que necessário e dentro dos limites permitidos por lei, ao uso de força razoável."
+    },
+    {
+     "t": "p",
+     "x": "13. No exercício das suas funções, os funcionários das alfândegas, sob pena de procedimento disciplinar ou criminal, devem tratar com urbanidade todas as pessoas, nomeadamente as que sejam objecto de intervenção aduaneira, respeitando os seus direitos e a sua dignidade."
+    },
+    {
+     "t": "p",
+     "x": "14. Para efeitos do disposto no presente artigo, considera-se noite o período compreendido entre as 19 e as 5 horas."
     }
    ]
   },
   {
    "id": "artigo-24",
    "label": "Artigo 24.º",
-   "epigraph": "Pagamento do Imposto sobre Transmissão de Imóveis",
+   "epigraph": "Dever geral dos funcionários aduaneiros",
    "path": [
-    "CAPÍTULO VII - PAGAMENTO"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO II - Alfândegas",
+    "CAPÍTULO III - Do Director Nacional das Alfândegas e dos funcionários aduaneiros em especial"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Nas transmissões onerosas e gratuitas, o imposto é pago pelos respectivos sujeitos passivos, até ao último dia útil do mês seguinte à celebração do contrato ou prática do acto que as opere."
-    },
-    {
-     "t": "p",
-     "x": "2. Se a transmissão se opere por acto, contrato ou facto ocorrido no estrangeiro, o pagamento do imposto deve ser efectuado até ao último dia útil do segundo mês seguinte ao da prática do acto, celebração do contrato ou participação da morte."
-    },
-    {
-     "t": "p",
-     "x": "3. Se a transmissão se opera por arrematação, venda judicial ou administrativa, adjudicação, transacção ou qualquer outra forma, o imposto é pago dentro do prazo de 15 dias contados da data da notificação pela Administração Tributária."
+     "x": "Os funcionários aduaneiros devem cumprir e fazer cumprir as leis e regulamentos aduaneiros, salvaguardando sempre os interesses legítimos do Estado."
     }
    ]
   },
   {
    "id": "artigo-25",
    "label": "Artigo 25.º",
-   "epigraph": "Cooperação",
+   "epigraph": "Apoio da Polícia Fiscal",
    "path": [
-    "CAPÍTULO VIII - OBRIGAÇÕES DAS ENTIDADES PÚBLICAS E PRIVADAS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO III - Outras entidades"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "O cumprimento das obrigações previstas no presente Código é assegurado, em especial, pela Administração Tributária em cooperação com todas as entidades públicas e privadas, nos termos dos artigos seguintes."
+     "x": "1. A Polícia Fiscal deve apoiar as alfândegas no desempenho das suas funções, em particular, das que digam respeito ao controlo, à prevenção e à detecção de infracções fiscais aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "2. A Polícia Fiscal exerce as suas funções de apoio sob orientação metodológica das alfândegas e recebe destas apoio técnico, orientação e formação."
+    },
+    {
+     "t": "p",
+     "x": "3. No desempenho das suas funções de apoio, os efectivos da Polícia Fiscal, numa determinada circunscrição, subordinam-se às instruções do Director Nacional das Alfândegas, do chefe da respectiva estância aduaneira, ou, na ausência ou impedimento deste, do funcionário aduaneiro com a categoria mais elevada que se encontre a prestar serviço."
     }
    ]
   },
   {
    "id": "artigo-26",
    "label": "Artigo 26.º",
-   "epigraph": "Administrações Municipais ou Autarquias Locais",
+   "epigraph": "Apoio de outras autoridades públicas",
    "path": [
-    "CAPÍTULO VIII - OBRIGAÇÕES DAS ENTIDADES PÚBLICAS E PRIVADAS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO III - Outras entidades"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. As Administrações Municipais ou Autarquias Locais devem cooperar no levantamento dos prédios omissos localizados na sua circunscrição territorial, devendo remeter as informações à Administração Tributária."
+     "x": "1. Sempre que o considerem necessário para garantir o cumprimento dos deveres que a lei lhes impõe, ou sempre que a segurança pessoal dos seus funcionários e agentes seja ameaçada, as alfândegas podem requisitar o auxílio das autoridades policiais, civis ou militares, nomeadamente, dos órgãos de inspecção e fiscalização das actividades económicas, da Polícia Nacional e da Marinha de Guerra."
     },
     {
      "t": "p",
-     "x": "2. As Administrações Municipais ou Autarquias Locais devem cooperar na adopção de medidas que incentivem ou obriguem os titulares ou possuidores de imóveis a efectuarem o pagamento do Imposto Predial e, no caso de imóveis omissos, a procederem à devida inscrição matricial nas Repartições Fiscais localizadas no município ou em outros serviços da Administração Tributária disponibilizados para o efeito."
-    },
-    {
-     "t": "p",
-     "x": "3. Às Administrações Municipais ou Autarquias Locais devem ainda colaborar com a Administração Tributária no cumprimento do disposto no presente Código devendo, nomeadamente, enviar até ao final do mês seguinte ao da constituição, aprovação, alteração ou recepção."
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Os alvarás de loteamento, licenças de construção, plantas de arquitectura das construções correspondentes às telas finais, licenças de demolição de obras, construção, pedidos de vistorias, datas de conclusão de edifícios e seus melhoramentos ou da sua ocupação, bem como todos os elementos necessários à avaliação dos prédios;",
-      "As plantas dos aglomerados urbanos à escala disponível onde conste a toponímia;",
-      "As comunicações prévias de instalação, modificação ou encerramento de estabelecimentos efectuados nos termos de legislação aplicável;",
-      "As licenças de funcionamento de estabelecimentos afectos à actividades comerciais industriais e outras;",
-      "Enviar oficiosamente ou a pedido da Administração Tributária, outros dados ou informações consideradas pertinentes para a fiscalização deste imposto."
-     ]
-    },
-    {
-     "t": "p",
-     "x": "4. Os elementos a que se refere o número anterior podem ser enviados em formato físico ou por via electrónica, através de ferramenta disponibilizada pela Administração Tributária."
+     "x": "2. É aplicável, com as necessárias adaptações, o disposto nos números 2 e 3 do artigo anterior."
     }
    ]
   },
   {
    "id": "artigo-27",
    "label": "Artigo 27.º",
-   "epigraph": "Obrigações Tributárias em Processos Judiciais",
+   "epigraph": "Apoio de empresas especializadas e de peritos externos",
    "path": [
-    "CAPÍTULO VIII - OBRIGAÇÕES DAS ENTIDADES PÚBLICAS E PRIVADAS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO III - Outras entidades"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Quando, em processo judicial, se mostre não terem sido cumpridas quaisquer obrigações previstas no presente Código, directa ou indirectamente relacionadas com a causa, deve o Tribunal exigir previamente o comprovativo do cumprimento das obrigações previstas neste Código, no prazo de 10 (dez) dias."
-    },
-    {
-     "t": "p",
-     "x": "2. Quando houver inventário, o tribunal deve remeter, em duplicado, à Repartição Fiscal do local da situação do imóvel, no prazo de 10 (dez) dias contados da data da sentença que julgou definitivamente as partilhas, uma participação contendo o nome do inventariado e os do cabeçade-casal, herdeiros e legatários, respectivo grau de parentesco ou vínculo de adopção e bens imóveis que passam a pertencer a cada um, com a especificação do seu valor patrimonial."
-    },
-    {
-     "t": "p",
-     "x": "3. Se o inventário for arquivado antes da conclusão, é este facto comunicado à Repartição Fiscal competente no prazo de 10 (dez) dias, devendo anexar o processo à comunicação."
+     "x": "Sempre que seja necessário, para garantir o cumprimento do disposto na legislação aduaneira, o Ministro das Finanças pode autorizar que as alfândegas contratem os serviços de empresas especializadas ou de peritos externos para a prestação de serviços que requerem a aplicação de conhecimentos ou o uso de tecnologias de que as alfândegas não disponham, nomeadamente, em matéria de avaliação e de classificação pautal de mercadorias e de análises laboratoriais e ou para tornar mais expedito o desembaraço aduaneiro."
     }
    ]
   },
   {
    "id": "artigo-28",
    "label": "Artigo 28.º",
-   "epigraph": "Entidades Fornecedoras de Água, de Energia e de Serviços de Telecomunicações",
+   "epigraph": "Dever geral dos agentes e das pessoas vinculados à actividade aduaneira",
    "path": [
-    "CAPÍTULO VIII - OBRIGAÇÕES DAS ENTIDADES PÚBLICAS E PRIVADAS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO III - Outras entidades"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. As entidades fornecedoras de água, de energia eléctrica e de serviços de telecomunicações devem remeter, até ao décimo dia do termo do trimestre em causa, em formato físico ou por via electrónica, à Administração Tributária uma relação dos contratos celebrados com os seus clientes, bem como as alterações que se tenham verificado."
-    },
-    {
-     "t": "p",
-     "x": "2. A informação referida no número anterior deve ser instruída com a indicação do Número de Identificação Fiscal (NIF) do proprietário, usufrutuário superficiário ou detentor do imóvel, respectiva localização e afectação, bem como o comprovativo de pagamento do imposto e a certidão matricial, caso existam."
+     "x": "Os agentes e as pessoas vinculados à actividade aduaneira, designadamente aqueles que estão integrados nos organismos a que se referem os artigos 25.º, 26.º e 27.º, devem cumprir e fazer cumprir as leis e regulamentos aduaneiros, salvaguardando sempre os interesses legítimos do Estado."
     }
    ]
   },
   {
    "id": "artigo-29",
    "label": "Artigo 29.º",
-   "epigraph": "Obrigação das Conservatórias, Cartórios Notariais e outras Entidades",
+   "epigraph": "Remissão",
    "path": [
-    "CAPÍTULO VIII - OBRIGAÇÕES DAS ENTIDADES PÚBLICAS E PRIVADAS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO III - Outras entidades"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. As conservatórias e os cartórios notariais que lavram instrumentos ou escrituras que operem ou venham a operar a transmissão de bens sujeitos a Imposto Predial, devem exigir como condição prévia o comprovativo do pagamento deste imposto, sobre a detenção e transmissão."
-    },
-    {
-     "t": "p",
-     "x": "2. Nenhum acto relativo à constituição, transmissão ou registo de imóvel pode ser praticado, sem que se mostre pago o Imposto Predial sobre a Detenção e Transmissão que seja devido."
+     "x": "Sem prejuízo do disposto no Código e no Regulamento, o apoio da Polícia Fiscal e de outras entidades às alfândegas, a que se refere o presente título, é objecto de disciplina própria incluída em legislação específica."
     }
    ]
   },
   {
    "id": "artigo-30",
    "label": "Artigo 30.º",
-   "epigraph": "Obrigações dos Serviços Consulares",
+   "epigraph": "Competência, composição e funcionamento",
    "path": [
-    "CAPÍTULO VIII - OBRIGAÇÕES DAS ENTIDADES PÚBLICAS E PRIVADAS"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO IV - Conselho Superior Técnico Aduaneiro"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Os serviços consulares não devem realizar nem dar seguimento a qualquer procedimento de legalização relacionado com a transmissão onerosa ou gratuita de imóveis, situados na República de Angola, realizada ou a realizar no estrangeiro, sem que lhe seja apresentado o comprovativo do Imposto Predial, quando devido."
+     "x": "1. Cabe ao Conselho Superior Técnico Aduaneiro o julgamento, em última instância administrativa de recurso, dos processos técnicos suscitados nas alfândegas."
     },
     {
      "t": "p",
-     "x": "2. Os serviços referidos no número anterior devem remeter à Administração Tributária, até ao décimo dia do termo do trimestre em causa, por via electrónica, uma relação referente aos actos relacionados com imóveis."
-    },
-    {
-     "t": "p",
-     "x": "3. A relação referida no número anterior deve indicar o tipo de acto ou contrato, a data da legalização, o respectivo comprovativo de pagamento, nomes dos outorgantes, certidão matricial, afectação, localização e menção da omissão do prédio, quando aplicável."
+     "x": "2. A competência, composição e funcionamento do Conselho Superior Técnico Aduaneiro são definidos na Parte VI."
     }
    ]
   },
   {
    "id": "artigo-31",
    "label": "Artigo 31.º",
-   "epigraph": "Prazo Especial de Caducidade",
+   "epigraph": "Constituição, funcionamento e competência",
    "path": [
-    "CAPÍTULO IX - PRAZO E GARANTIA"
+    "PARTE II - SISTEMA ADUANEIRO",
+    "TÍTULO V - Sala do Contencioso Fiscal e Aduaneiro"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "O prazo de caducidade no Imposto Predial sobre as Transmissões é de 10 anos, contados a partir da data em que o facto tributário ocorreu."
+     "x": "1. Cabe ao Ministro da Justiça garantir a implementação da Sala do Contencioso Fiscal e Aduaneiro e providenciar as infra-estruturas e os equipamentos necessários ao seu funcionamento."
+    },
+    {
+     "t": "p",
+     "x": "2. A Sala do Contencioso Fiscal e Aduaneiro está integrada nos Tribunais Provinciais, como Sala Especial, competindo-lhe o julgamento das matérias de natureza fiscal e aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "3. A Sala do Contencioso Fiscal e Aduaneiro conhece das causas que o artigo 219.º submete à sua jurisdição."
     }
    ]
   },
   {
    "id": "artigo-32",
    "label": "Artigo 32.º",
-   "epigraph": "Privilégios Creditórios",
+   "epigraph": "Âmbito",
    "path": [
-    "CAPÍTULO IX - PRAZO E GARANTIA"
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO I - Disposições Gerais"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "Sobre os bens transmitidos goza o Estado de imobiliário com preferência a quaisquer créditos, podendo executar esses bens, nos termos da legislação aplicável."
+     "x": "1. As disposições integradas nesta parte definem os princípios e as normas que devem ser aplicados relativamente:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "À chegada e à saída do território aduaneiro de pessoas, mercadorias e meios de transporte;",
+      "À apresentação e declaração de mercadorias às alfândegas e ao regime aduaneiro aplicável;",
+      "Ao processamento dos despachos pelas alfândegas e ao desalfandegamento;",
+      "À avaliação e cobrança das receitas do Estado devidas por força da importação, exportação ou trânsito de mercadorias; e",
+      "À aplicação dos controlos aduaneiros para salvaguardar a cobrança e arrecadação das referidas receitas e para proteger o País contra a entrada ou saída ilegal de mercadorias proibidas ou sujeitas a restrições."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Os procedimentos que garantem a aplicação destes princípios e normas serão estabelecidos, em pormenor, pelo Regulamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-33",
+   "label": "Artigo 33.º",
+   "epigraph": "Designação dos locais de operação das alfândegas",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO I - Disposições Gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os viajantes, as mercadorias e os meios de transporte podem entrar ou sair do País apenas pelos locais designados pelas alfândegas, sem prejuízo de, havendo motivos justificados, o Director Nacional das Alfândegas, ou o seu delegado, autorizar que partidas e chegadas específicas ocorram em outros locais."
+    },
+    {
+     "t": "p",
+     "x": "2. Cabe às alfândegas, oficiosamente ou a pedido, designar os locais para:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A apresentação das mercadorias e dos meios de transporte às alfândegas;",
+      "A carga, descarga, aceitação, manuseamento, depósito temporário, armazenagem, expedição, processamento, beneficiação ou fabrico de quaisquer mercadorias que sejam objecto de comércio internacional e que estejam sob a alçada das alfândegas;",
+      "A apresentação dos despachos aduaneiros e para o desembaraço aduaneiro das mercadorias, incluindo a sua inspecção física;",
+      "A apresentação e o desembaraço dos viajantes e dos seus haveres e viaturas pessoais."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Só os operadores que tenham sido previamente autorizados pelas alfândegas podem exercer as respectivas actividades nos locais a que se refere o presente artigo, devendo, em todo o caso, cumprir as obrigações e preencher as condições exigidas neste Código e no Regulamento e agir dentro dos limites definidos pela correspondente autorização."
+    },
+    {
+     "t": "p",
+     "x": "4. Se, nos locais anteriormente referidos, o principal operador for um organismo do Estado ou vários organismos do Estado actuando em conjunto, devem as alfândegas celebrar acordos com esses organismos, por escrito, sobre os procedimentos a adoptar em matéria de formalidades e de aplicação de controlos aduaneiros."
+    },
+    {
+     "t": "p",
+     "x": "5. Cabe ao Ministro das Finanças decidir as divergências relativas a qualquer designação proposta ou à infra-estrutura necessária para a aplicação dos controlos aduaneiros."
+    },
+    {
+     "t": "p",
+     "x": "6. As designações a que se refere o presente artigo incluem as respectivas estâncias aduaneiras de controlo, de apresentação de declarações e de desalfandegamento de mercadorias e ou de meios de transporte, devendo ter-se em conta, na determinação das competências e na definição da localização e do período de funcionamento das referidas estâncias, as exigências do comércio internacional."
+    },
+    {
+     "t": "p",
+     "x": "7. Mediante solicitação dos interessados, e contanto que se verifiquem razões justificativas, podem as alfândegas afectar recursos disponíveis para a realização de procedimentos aduaneiros fora do período normal de funcionamento e da área de localização das estâncias aduaneiras, tendo, neste caso, as alfândegas o direito de exigir o reembolso das despesas originadas pela prestação de serviços nessas condições."
+    },
+    {
+     "t": "p",
+     "x": "8. Pelos serviços prestados devem as alfândegas cobrar os montantes relativos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A taxas de licenças anuais respeitantes aos locais designados, variando o seu montante de acordo com o tipo de instalação e o nível de serviço aduaneiro prestado;",
+      "A taxas de licenças de pessoas autorizadas a submeter despachos aduaneiros em nome de terceiros;",
+      "A taxas devidas pelo processamento de despachos aduaneiros e de outros documentos; e",
+      "A taxas devidas por outras actividades aduaneiras, mediante aprovação do Conselho de Ministros."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "9. As alfândegas podem também determinar o encerramento dos locais aprovados nos termos do Código e do Regulamento, cancelando as respectivas licenças, nos seguintes casos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Quando termine o uso das instalações autorizadas para o fim a que se destinavam;",
+      "Quando o operador autorizado se revele incapaz de gerir o funcionamento daqueles locais segundo os critérios estabelecidos no Regulamento;",
+      "Quando o encerramento for solicitado pelo operador;",
+      "Quando se verifique qualquer outra situação prevista no Regulamento."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "10. Compete ao Ministro das Finanças regular:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As condições, os critérios e os procedimentos para a designação dos locais destinados ao exercício da actividade aduaneira, a autorização dos operadores e, ainda, consoante os casos, o cancelamento das licenças e ou das aprovações; e",
+      "A fixação do valor das taxas dos serviços e de outros encargos, a que se refere o n.º 8 do presente artigo, e a sua actualização."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-34",
+   "label": "Artigo 34.º",
+   "epigraph": "Direito de agir directamente perante as alfândegas",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO II - Direitos e obrigações das pessoas que actuam perante as alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Qualquer pessoa que tenha o direito de dispor das mercadorias tem o direito de agir como declarante."
+    },
+    {
+     "t": "p",
+     "x": "2. O declarante é responsável perante as alfândegas pela veracidade e exactidão das informações constantes da declaração de mercadorias e pelo pagamento dos direitos e demais imposições aduaneiras devidos."
+    },
+    {
+     "t": "p",
+     "x": "3. Se o declarante for um organismo público ou uma pessoa colectiva, age em seu nome a pessoa que, por força da lei ou dos estatutos, tenha poderes de representação legal ou voluntária ou poderes delegados, podendo as alfândegas exigir, nesse caso, a apresentação do documento pelo qual hajam sido outorgados ou delegados tais poderes."
+    },
+    {
+     "t": "p",
+     "x": "4. Tendo havido delegação de poderes ou outorga de poderes de representação, a entidade que os tenha delegado ou outorgado é solidariamente responsável com o delegado ou representante pelos actos que estes hajam praticado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-35",
+   "label": "Artigo 35.º",
+   "epigraph": "Direito à representação",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO II - Direitos e obrigações das pessoas que actuam perante as alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O cumprimento, perante as alfândegas, dos procedimentos aduaneiros legalmente estabelecidos pode ser feito pelo interessado ou por um seu representante nos termos do Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "2. A representação é directa quando o representante age em nome e por conta da pessoa representada."
+    },
+    {
+     "t": "p",
+     "x": "3. A representação é indirecta quando o representante age em nome próprio e por conta da pessoa representada."
+    },
+    {
+     "t": "p",
+     "x": "4. Considera-se como agindo em seu próprio nome aquele que, actuando perante as alfândegas, não declare que age em nome de outrem."
+    },
+    {
+     "t": "p",
+     "x": "5. Só é havido como representante de outrem aquele que for titular de poderes de representação outorgados por instrumento próprio, podendo as alfândegas exigir a apresentação deste último."
+    },
+    {
+     "t": "p",
+     "x": "6. Havendo representação, é solidária a responsabilidade do representado e do representante pelos actos que este haja praticado."
+    },
+    {
+     "t": "p",
+     "x": "7. O representante do importador, do exportador ou do proprietário das mercadorias é responsável perante o Estado pelo cumprimento das obrigações aduaneiras legalmente previstas, incluindo o pagamento dos direitos e demais imposições aduaneiras devidos, devendo ainda, em caso de incumprimento, pagar as correspondentes multas. 8. Cessa a responsabilidade do representante que prove:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Que não teve conhecimento do incumprimento pelo representado ou por terceiro, nem nele participou de algum modo;",
+      "Que, tendo tido conhecimento daquele incumprimento e nele não tenha participado, comunicou tempestivamente às alfândegas tal facto;",
+      "Que realizou todas as diligências necessárias para impedir a verificação do incumprimento."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-36",
+   "label": "Artigo 36.º",
+   "epigraph": "Representantes de terceiros",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO II - Direitos e obrigações das pessoas que actuam perante as alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Actuam como representantes de terceiros, nos termos do Código e da demais legislação aplicável, as seguintes entidades:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os despachantes e os caixeiros despachantes, no acto de apresentação da declaração das mercadorias e em todas as demais actividades e formalidades relativas ao desalfandegamento de mercadorias importadas, exportadas ou sob qualquer outro regime aduaneiro;",
+      "Os agentes de navegação ou expedidores que, no acto de apresentação da declaração sumária dos meios de transporte respeitante a embarcações à chegada ou à saída do País, actuem perante as alfândegas como responsáveis por todas as mercadorias manifestadas; e",
+      "Os transitários, no que toca às declarações de trânsito aduaneiro de mercadorias internacionais e no que respeita às demais actividades que garantam a reexportação segura dessas mercadorias, bem como no que se refere às demais actividades que, no âmbito aduaneiro, estejam legalmente autorizados a exercer."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. A profissão de despachante é exercida, em todos os postos aduaneiros, em regime de profissão liberal e de livre concorrência, não havendo limitações quanto ao número mínimo ou máximo de despachantes, podendo os despachantes licenciados pela Direcção Nacional das Alfândegas exercer a sua actividade em todo o território nacional."
+    },
+    {
+     "t": "p",
+     "x": "3. Os caixeiros despachantes podem exercer a sua actividade em todos os postos aduaneiros, contanto que o façam ao serviço da empresa para que trabalham."
+    },
+    {
+     "t": "p",
+     "x": "4. A actividade das entidades referidas no n.º 1 deste artigo rege-se pelas disposições constantes do Regulamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-37",
+   "label": "Artigo 37.º",
+   "epigraph": "Dever de cooperar com as alfândegas",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO II - Direitos e obrigações das pessoas que actuam perante as alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Todas as entidades públicas e privadas devem cooperar, nos limites da sua competência, com as alfândegas, sempre que estas solicitem essa cooperação."
+    },
+    {
+     "t": "p",
+     "x": "2. Sobre os órgãos da administração do Estado, institutos públicos e empresas públicas recai um dever especial de cooperação com as alfândegas, devendo aqueles prestar todas as informações e esclarecimentos necessários ao integral desempenho das funções destas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-38",
+   "label": "Artigo 38.º",
+   "epigraph": "Obrigação de pagamento dos direitos e demais imposições aduaneiras",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO II - Direitos e obrigações das pessoas que actuam perante as alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Sem prejuízo do preceituado em outras disposições legais, todas as pessoas singulares ou colectivas estão sujeitas ao pagamento de direitos e demais imposições aduaneiras devidos ao Estado nos termos da legislação aduaneira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-39",
+   "label": "Artigo 39.º",
+   "epigraph": "Despesas de estiva, de inspecção, de pesagem e de verificação e outras despesas",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO II - Direitos e obrigações das pessoas que actuam perante as alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As pessoas autorizadas a operar nos locais designados, mediante solicitação das alfândegas, devem executar todas as operações necessárias para a realização da inspecção aduaneira de mercadorias, nomeadamente estiva e manuseamento, e devem, ainda, disponibilizar instalações, equipamentos e recursos que permitam a execução dessas operações."
+    },
+    {
+     "t": "p",
+     "x": "2. Os operadores dos locais designados devem pagar as despesas resultantes da execução das operações de inspecção aduaneira das mercadorias, nomeadamente as despesas de estiva, de inspecção, de pesagem e de verificação."
+    },
+    {
+     "t": "p",
+     "x": "3. As alfândegas, sempre que considerem necessário para o cumprimento das suas obrigações previstas neste Código, podem proceder à análise das amostras extraídas das mercadorias, suportando o respectivo custo, excepto nos casos em que, por força da peritagem realizada, se verifique que a declaração contém incorrecções quanto à classificação, quantidade, qualidade ou quanto ao valor das mercadorias, devendo, neste último caso, o declarante suportar o custo da peritagem."
+    },
+    {
+     "t": "p",
+     "x": "4. As alfândegas não são responsáveis por quaisquer factos que ocorram durante a realização da inspecção aduaneira das mercadorias ou durante o período que antecede a conclusão das formalidades de desalfandegamento, excepto no caso referido na primeira parte do número anterior ou nos casos em que tenha havido culpa por parte de qualquer funcionário aduaneiro."
+    }
+   ]
+  },
+  {
+   "id": "artigo-40",
+   "label": "Artigo 40.º",
+   "epigraph": "Documentação relativa à actividade aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO II - Direitos e obrigações das pessoas que actuam perante as alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem, no País, exercer actividade ligada ao comércio internacional ou outra actividade sujeita à jurisdição das alfândegas, deve conservar, de forma organizada em termos de escrituração comercial, todos os documentos e registos relativos às operações aduaneiras efectuadas, durante o período de cinco anos a contar da data da realização daquelas operações."
+    },
+    {
+     "t": "p",
+     "x": "2. Mediante solicitação das alfândegas, as pessoas mencionadas no número anterior devem:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Pôr à disposição das alfândegas todos os documentos e registos relativos às operações aduaneiras efectuadas;",
+      "Fornecer às alfândegas, de acordo com os termos por estas fixados, cópias daqueles documentos e registos;",
+      "Responder a qualquer questão relativa às inspecções aduaneiras e aos respectivos documentos e registos. 3. Sempre que a informação relativa às operações aduaneiras efectuadas conste de registo electrónico ou de qualquer outro suporte, as pessoas mencionadas no n.º 1, ou os seus representantes, a pedido das alfândegas, devem pôr em funcionamento o respectivo mecanismo electrónico ou suporte, ou permitir que os mesmos sejam postos em funcionamento, de modo a que seja facultada às alfândegas toda a informação necessária."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-41",
+   "label": "Artigo 41.º",
+   "epigraph": "Objectivo e âmbito do controlo aduaneiro",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO III - Controlo aduaneiro",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O controlo aduaneiro engloba todas as medidas que visam garantir o cumprimento da legislação aduaneira e a prevenção da prática de infracções fiscais aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "2. Estão sujeitas a desalfandegamento e a controlo aduaneiro, as mercadorias e ou os meios de transporte que, sendo objecto de comércio internacional, tenham origem no País ou a este se destinem, bem como o movimento dos viajantes e da bagagem por si transportada."
+    },
+    {
+     "t": "p",
+     "x": "3. A cabotagem ou transporte de mercadorias entre portos costeiros está sujeita a controlo aduaneiro nos termos definidos no Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "4. As embarcações de pesca, outras embarcações que entrem ou saiam de portos costeiros ou que transitem nos rios fronteiriços, portos, enseadas e ancoradouros, e as aeronaves que operem em voos domésticos, podem igualmente ser sujeitos a controlo e inspecção aduaneiros nos termos definidos no Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "5. O controlo aduaneiro é realizado, de forma selectiva ou permanente, pelas alfândegas ou pelos seus agentes delegados nos termos da Parte II deste Código."
+    },
+    {
+     "t": "p",
+     "x": "6. As alfândegas, na realização do controlo aduaneiro, devem, sempre que necessário, fazer uso das suas prerrogativas, quer na zona primária, quer na zona secundária, de acordo com o disposto na Parte II do Código."
+    }
+   ]
+  },
+  {
+   "id": "artigo-42",
+   "label": "Artigo 42.º",
+   "epigraph": "Controlo de chegadas e saídas",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO III - Controlo aduaneiro",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As entidades autorizadas a operar nos locais designados para a chegada e saída de pessoas, meios de transporte e mercadorias devem, como condição da respectiva concessão, proceder ao registo de todas as chegadas e saídas de meios de transporte e informar periodicamente as alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "2. Nos casos em que não haja concessão, o Director Nacional das Alfândegas deve realizar as diligências necessárias para a efectivação do registo."
+    },
+    {
+     "t": "p",
+     "x": "3. Todos os meios de transporte marítimo, aéreo, ferroviário, rodoviário ou de outra natureza, bem como os passageiros e mercadorias neles transportados, estão sujeitos, quer à entrada, quer à saída do território nacional, a controlo aduaneiro no local de entrada ou de saída ou, se o desalfandegamento não tiver sido realizado em nenhum desses locais, durante todo o trajecto da viagem em direcção a um posto aduaneiro; tal controlo prevalecerá até que os meios de transporte e ou as mercadorias estejam libertos da acção aduaneira ou sejam isentos de quaisquer condições legalmente exigidas pelas alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "4. É obrigatória uma declaração sumária dos meios de transporte relativa à mercadoria transportada com recurso a meios de transporte de qualquer tipo que entram ou saem do País, com excepção da bagagem acompanhada ou recebida por passageiros e do correio."
+    },
+    {
+     "t": "p",
+     "x": "5. Relativamente às mercadorias por si transportadas, os transportadores são obrigados a:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Impedir a introdução em livre circulação de quaisquer mercadorias que sejam objecto de transporte internacional ou que circulem sob controlo aduaneiro, nos casos em que essa introdução não seja permitida ou não tenha sido autorizada; e",
+      "Mencionar todas as mercadorias na declaração sumária dos meios de transporte ou garantir, por outra forma autorizada, que as alfândegas tenham conhecimento da sua existência."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "6. Os transportadores e os operadores dos locais designados para as chegadas e descargas devem registar todas as descargas e verificar se estas estão ou não em conformidade com o manifesto; no caso de detectarem alguma divergência, devem ainda comunicar a sua existência e extensão às alfândegas nos prazos e nos termos a definir pelo Director Nacional das Alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "7. Os transportadores e os operadores dos locais designados para as saídas e carregamentos devem registar todas as mercadorias; os transportadores devem ainda elaborar o manifesto de exportação que faz parte integrante da declaração sumária dos meios de transporte."
+    },
+    {
+     "t": "p",
+     "x": "8. Os operadores dos locais designados, nomeadamente dos locais de chegada, descarga, carga, saída, depósito temporário, armazenamento e desalfandegamento de mercadorias devem impedir a introdução em livre circulação de quaisquer mercadorias mantidas nas suas instalações, nos casos em que essa introdução não seja permitida ou não tenha sido autorizada."
+    },
+    {
+     "t": "p",
+     "x": "9. O Regulamento fixa a forma e os procedimentos de controlo que devem ser aplicados, e, ainda, os requisitos para:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O registo de chegada e de saída de todos os meios de transporte;",
+      "A apresentação às alfândegas de todos os passageiros, mercadorias e meios de transporte;",
+      "A apresentação da declaração sumária dos meios de transporte e dos documentos comerciais que atestem a propriedade das mercadorias transportadas nos meios de transporte;",
+      "A visita aduaneira aos meios de transporte e a inspecção no local de chegada e ou de saída;",
+      "O controlo e registo de cargas e descargas dos meios de transporte; e",
+      "Quaisquer movimentos afins dos meios de transporte."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "10. Quando, devido a acidente ocorrido no território nacional, se verifique dano, naufrágio ou destruição de navio, embarcação ou aeronave, o respectivo capitão, mestre, arrais, patrão ou piloto deve, com a brevidade possível, relatar a ocorrência às autoridades competentes e depositar os destroços na estância aduaneira ou em qualquer outro local sob acção aduaneira mais próximos."
+    },
+    {
+     "t": "p",
+     "x": "11. Os destroços abandonados estão sujeitos a confisco, excepto se o capitão, mestre, arrais, patrão ou piloto do navio, embarcação ou aeronave provem, perante as alfândegas, que cumpriram o disposto no presente diploma e demais legislação aplicável no que diz respeito a esses destroços."
+    },
+    {
+     "t": "p",
+     "x": "12. À organização, instrução e decisão dos processos relativos aos destroços a que se referem os n.ºs 10 e 11 aplica-se o disposto na Parte VII do presente diploma."
+    }
+   ]
+  },
+  {
+   "id": "artigo-43",
+   "label": "Artigo 43.º",
+   "epigraph": "Mercadorias em depósito temporário",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO III - Controlo aduaneiro",
+    "CAPÍTULO II - Das mercadorias em especial"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias, relativamente às quais se encontre pendente a designação de regime ou de destino aduaneiro, são consideradas como mercadorias em depósito temporário, suspendendo-se, neste caso, todos os direitos e demais imposições aduaneiras devidos e aplicando-se o disposto no artigo seguinte."
+    },
+    {
+     "t": "p",
+     "x": "2. As mercadorias em depósito temporário só podem ser guardadas em depósitos aduaneiros ou em locais autorizados pela autoridade aduaneira nas condições por esta fixadas com base na legislação vigente."
+    },
+    {
+     "t": "p",
+     "x": "3. O depositário e a pessoa que tenha o direito de dispor das mercadorias em depósito temporário são solidariamente responsáveis por qualquer prestação tributária aduaneira a que as mesmas mercadorias dêem origem."
+    },
+    {
+     "t": "p",
+     "x": "4. As mercadorias em depósito temporário devem ser conservadas no estado em que se encontrem no momento em que são depositadas, não podendo sofrer quaisquer modificações que alterem a sua forma, substância ou características técnicas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-44",
+   "label": "Artigo 44.º",
+   "epigraph": "Início das formalidades aduaneiras",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO III - Controlo aduaneiro",
+    "CAPÍTULO II - Das mercadorias em especial"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Devem ser declaradas às alfândegas, nos prazos previstos no Regulamento, todas as mercadorias manifestadas como tendo determinado destino ou como chegadas ao País ou destinadas a dele sair."
+    },
+    {
+     "t": "p",
+     "x": "2. Se a mercadoria for declarada, os correspondentes direitos e demais imposições aduaneiras devem ser pagos nos prazos previstos no Regulamento ou dentro das suas prorrogações legalmente previstas."
+    },
+    {
+     "t": "p",
+     "x": "3. Os operadores dos locais de entrada e ou de saída, devidamente autorizados, devem, sob supervisão aduaneira, garantir que todas as mercadorias mencionadas na declaração sumária dos meios de transporte sejam sujeitas, antes da sua remoção, à declaração aduaneira e ao desalfandegamento."
+    },
+    {
+     "t": "p",
+     "x": "4. Nos casos em que o valor FOB das mercadorias seja inferior a 400 UCF, as alfândegas podem, a requerimento escrito do interessado, dispensar o cumprimento das formalidades aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "5. O Regulamento deve definir os elementos que constarão do requerimento a que se refere o número anterior."
+    },
+    {
+     "t": "p",
+     "x": "6. O disposto nos números anteriores aplica-se igualmente aos meios de transporte importados para circular no País e aos meios de transporte destinados a exportação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-45",
+   "label": "Artigo 45.º",
+   "epigraph": "Mercadorias demoradas",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO III - Controlo aduaneiro",
+    "CAPÍTULO II - Das mercadorias em especial"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As seguintes formalidades, relativas às mercadorias em depósito temporário, devem ser concluídas:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A apresentação, no prazo fixado no Regulamento, de uma declaração pormenorizada no formato prescrito; ou",
+      "O pagamento dos direitos e demais imposições devidos, no prazo de dez dias úteis a contar da notificação; ou",
+      "A remoção, nos prazos estabelecidos no Regulamento, das mercadorias libertas do local de desalfandegamento."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. A inobservância dos referidos prazos determina a classificação das mercadorias respectivas como mercadorias demoradas e a sujeição destas a confisco pelo Estado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-46",
+   "label": "Artigo 46.º",
+   "epigraph": "Verificação ou extracção prévias de amostras de mercadorias",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO III - Controlo aduaneiro",
+    "CAPÍTULO II - Das mercadorias em especial"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As alfândegas podem autorizar o declarante a proceder, sob supervisão aduaneira, a uma prévia verificação das mercadorias ou à extracção de amostras, nos casos em que aquele não possa apresentar a declaração completa e exacta das mercadorias."
+    }
+   ]
+  },
+  {
+   "id": "artigo-47",
+   "label": "Artigo 47.º",
+   "epigraph": "Mercadorias em mau estado de conservação ou com prazo de validade expirado",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO III - Controlo aduaneiro",
+    "CAPÍTULO II - Das mercadorias em especial"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As alfândegas reconhecerão as mercadorias que cheguem ao País em mau estado de conservação ou cujo prazo de validade haja expirado com o objectivo de:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Determinar o valor correcto das mercadorias, cumprindo as normas e os procedimentos estabelecidos no regime de determinação do valor aduaneiro;",
+      "Garantir que as mercadorias que ponham em perigo a saúde pública sejam removidas com segurança e que sejam observados os procedimentos previstos no Regulamento."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. O transportador, o seu representante ou os operadores dos locais designados devem informar as alfândegas sobre a existência de mercadorias em mau estado de conservação ou cujo prazo de validade haja expirado."
+    },
+    {
+     "t": "p",
+     "x": "3. As alfândegas reconhecerão os danos que determinem a depreciação do valor das mercadorias nos casos em que esses danos se tenham verificado antes da chegada destas ao País e afectem o preço efectivamente pago ou a pagar."
+    },
+    {
+     "t": "p",
+     "x": "4. As despesas originadas pela destruição das mercadorias a que se refere o presente artigo devem ser suportadas pelo proprietário ou pelo consignatário de acordo com a carta de porte, conhecimento de embarque ou documento equivalente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-48",
+   "label": "Artigo 48.º",
+   "epigraph": "Obrigação de pagar os direitos e demais imposições aduaneiras",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO III - Controlo aduaneiro",
+    "CAPÍTULO III - Dos viajantes e dos tripulantes em especial"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias importadas ou exportadas por viajantes ou tripulantes estão sujeitas ao pagamento de direitos e demais imposições aduaneiras, nos termos da legislação em vigor."
+    },
+    {
+     "t": "p",
+     "x": "2. As isenções para as bagagens e objectos de uso pessoal, e as respectivas permissões e condições, são fixadas no Regulamento e na demais legislação aplicável."
+    },
+    {
+     "t": "p",
+     "x": "3. O Regulamento fixa o sistema de declaração de objectos de uso pessoal e as condições e formalidades de que depende a concessão das isenções."
+    }
+   ]
+  },
+  {
+   "id": "artigo-49",
+   "label": "Artigo 49.º",
+   "epigraph": "Obrigação de pagamento de direitos e demais imposições aduaneiras",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO III - Controlo aduaneiro",
+    "CAPÍTULO IV - Correios e pequenas encomendas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias importadas ou exportadas através dos correios ou em pequenas encomendas, por intermédio dos operadores do serviço postal, estão sujeitas ao pagamento de direitos e demais imposições aduaneiras, nos termos da legislação em vigor."
+    },
+    {
+     "t": "p",
+     "x": "2. As mercadorias, a que se refere o número anterior, devem ser apresentadas às alfândegas, para desalfandegamento, nos locais designados para o efeito."
+    },
+    {
+     "t": "p",
+     "x": "3. Às mercadorias, a que se refere o presente artigo, podem ser aplicados os princípios e as normas relativos aos despachos simplificados e à dispensa de formalidades aduaneiras previstos para as consignações cujo valor FOB seja inferior a 400 UCF."
+    }
+   ]
+  },
+  {
+   "id": "artigo-50",
+   "label": "Artigo 50.º",
+   "epigraph": "Designação de um destino aduaneiro",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO IV - Destino aduaneiro e regimes"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Salvo disposição em contrário, às mercadorias que sejam objecto de comércio internacional deve ser atribuído, independentemente da sua origem ou destino, natureza ou quantidade, o destino aduaneiro estabelecido na lei."
+    },
+    {
+     "t": "p",
+     "x": "2. O destino aduaneiro das mercadorias compreende:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A sujeição das mercadorias a um regime aduaneiro;",
+      "O confisco das mercadorias pelo Estado; ou",
+      "A destruição das mercadorias sob controlo das alfândegas."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-51",
+   "label": "Artigo 51.º",
+   "epigraph": "Regimes aduaneiros e códigos de procedimentos",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO IV - Destino aduaneiro e regimes"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias que sejam objecto de comércio internacional devem ser sujeitas, no momento da apresentação da declaração aduaneira às alfândegas, a um dos regimes aduaneiros mencionados nos números seguintes, de acordo com o uso ou destino que se lhes pretenda dar."
+    },
+    {
+     "t": "p",
+     "x": "2. São os seguintes os regimes aduaneiros:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Importação definitiva;",
+      "Importação temporária;",
+      "Reimportação;",
+      "Exportação definitiva;",
+      "Exportação temporária",
+      "Reexportação;",
+      "Armazenagem aduaneira;",
+      "Trânsito aduaneiro."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Os regimes podem ainda ser subdivididos em procedimentos aduaneiros especiais de acordo com qualquer tratamento especial que deva ser aplicado às mercadorias nos termos previstos no Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "4. Os procedimentos aduaneiros especiais serão introduzidos apenas quando existirem no País as condições necessárias à sua efectiva aplicação."
+    },
+    {
+     "t": "p",
+     "x": "5. Dependendo das condições fixadas no Regulamento, os procedimentos aduaneiros especiais podem incluir, nomeadamente:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O processamento ulterior de específicas mercadorias importadas ou exportadas, com isenção total ou parcial de direitos ou demais imposições aduaneiras;",
+      "O formulário simplificado da declaração aduaneira",
+      "A apresentação de uma declaração incompleta, nos casos em que o declarante não dispõe de toda a documentação e ou informação necessárias para a apresentação da declaração aduaneira."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "6. A admissão ou a utilização de um regime ou procedimento suspensivos carecem de autorização das alfândegas, da verificação das condições fixadas no Regulamento e, nos casos em que seja exigível, da prestação de garantia adequada."
+    },
+    {
+     "t": "p",
+     "x": "7. A utilização dos procedimentos especiais de aperfeiçoamento das mercadorias poderá ser condicionada à obtenção dos benefícios económicos decorrentes, designadamente à ausência de risco para as indústrias existentes ou em desenvolvimento ou para outros sectores da economia nacional."
+    },
+    {
+     "t": "p",
+     "x": "8. O Director Nacional das Alfândegas indicará os pormenores relativos aos números dos códigos correspondentes aos regimes aduaneiros e aos procedimentos especiais."
+    }
+   ]
+  },
+  {
+   "id": "artigo-52",
+   "label": "Artigo 52.º",
+   "epigraph": "Proibições e restrições",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO IV - Destino aduaneiro e regimes"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O disposto nos artigos 50.º e 51.º é aplicável independentemente das proibições ou das restrições vigentes em matéria de moral e de segurança, protecção da vida humana, da fauna e flora selvagens, do património industrial e comercial, do património nacional com valor artístico, histórico e arqueológico e da propriedade intelectual."
+    },
+    {
+     "t": "p",
+     "x": "2. As mercadorias proibidas ou sujeitas a restrições no acto de importação, exportação ou trânsito constam da legislação específica e geral respectiva."
+    }
+   ]
+  },
+  {
+   "id": "artigo-53",
+   "label": "Artigo 53.º",
+   "epigraph": "Abandono e destruição de mercadorias",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO V - Outros destinos aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Antes do decurso dos prazos fixados para o início dos procedimentos aduaneiros, o declarante pode requerer às alfândegas, e estas podem autorizar:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O abandono de mercadorias e o seu subsequente confisco pelo Estado;",
+      "A destruição, a expensas do declarante, de mercadorias sob controlo aduaneiro."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Tendo sido autorizado, pelas alfândegas, o abandono de mercadorias, o declarante fica isento do pagamento dos respectivos direitos e demais imposições aduaneiras, mas é obrigado a pagar as multas devidas e as despesas a que as mercadorias tenham dado origem."
+    },
+    {
+     "t": "p",
+     "x": "3. Se as alfândegas tiverem autorizado a destruição de mercadorias, o declarante fica isento do pagamento dos direitos e demais imposições aduaneiras que sobre elas recaem, mas é obrigado a pagar as despesas originadas pela destruição, as multas devidas e os direitos e demais imposições aduaneiras que separadamente recaem sobre os resíduos ou desperdícios resultantes da destruição."
+    },
+    {
+     "t": "p",
+     "x": "4. Se o proprietário requerer o abandono de mercadorias a favor do Estado, serão estas tratadas, após a autorização das alfândegas para o abandono, como mercadorias condenadas nos termos da Parte VIII do Código."
+    },
+    {
+     "t": "p",
+     "x": "5. Da destruição de mercadorias, a que se refere o presente artigo, é lavrado o respectivo auto nos termos do Regulamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-54",
+   "label": "Artigo 54.º",
+   "epigraph": "Obrigação de apresentação da declaração aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VI - Declaração aduaneira",
+    "CAPÍTULO I - Apresentação e processamento da declaração aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Com excepção dos casos expressamente previstos na lei, é obrigatória a apresentação da declaração aduaneira, com o fim de:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Determinar o regime aduaneiro que se pretenda dar às mercadorias e ou aos meios de transporte ou definir outro destino aduaneiro autorizado;",
+      "Fornecer às alfândegas os dados relativos à consignação que sejam legalmente exigidos;",
+      "Determinar a base legal para o cálculo do montante dos direitos e demais imposições aduaneiras devidos."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. A declaração aduaneira é apresentada às alfândegas, consoante os casos, pelo importador ou pelo exportador, ou pelos seus representantes com poderes para o acto, no lugar, momento e modo devidos, devendo ainda ser anexada a documentação legalmente exigida."
+    },
+    {
+     "t": "p",
+     "x": "3. O Regulamento prevê:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A simplificação da declaração aduaneira para consignações de menor valor, para bagagem não acompanhada e para a aceitação de declarações verbais dos viajantes e tripulantes;",
+      "A declaração periódica dos operadores cumpridores, quando houver justificação económica e contanto que as condições técnicas permitam a sua implementação."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "4. A simplificação, a que se refere a alínea a) do número anterior, pode implicar a aplicação de taxas agregadas de impostos a mercadorias diversas mas pertencentes ao mesmo tipo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-55",
+   "label": "Artigo 55.º",
+   "epigraph": "Sujeição das mercadorias a um regime aduaneiro",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VI - Declaração aduaneira",
+    "CAPÍTULO I - Apresentação e processamento da declaração aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Com excepção dos casos expressamente previstos na lei, para serem apresentados à estância aduaneira, as mercadorias e ou os meios de transporte devem ser declarados segundo o regime aduaneiro a que legalmente estão sujeitos e devem preencher os requisitos correspondentes a esse regime."
+    }
+   ]
+  },
+  {
+   "id": "artigo-56",
+   "label": "Artigo 56.º",
+   "epigraph": "Aceitação da declaração aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VI - Declaração aduaneira",
+    "CAPÍTULO I - Apresentação e processamento da declaração aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As declarações submetidas às alfândegas, que respeitem o disposto no artigo anterior, são imediatamente aceites, numeradas e registadas."
+    },
+    {
+     "t": "p",
+     "x": "2. A data da aceitação da declaração é a data considerada relevante para fins de aplicação das disposições que regulam o regime aduaneiro nos termos do qual foram declaradas as mercadorias e ou os meios de transporte."
+    }
+   ]
+  },
+  {
+   "id": "artigo-57",
+   "label": "Artigo 57.º",
+   "epigraph": "Processamento da declaração aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VI - Declaração aduaneira",
+    "CAPÍTULO I - Apresentação e processamento da declaração aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As alfândegas devem, na fase de processamento, verificar a exactidão e a legalidade da declaração."
+    },
+    {
+     "t": "p",
+     "x": "2. As normas e os procedimentos relativos ao processamento das declarações aduaneiras e à sua aceitação para os regimes aduaneiros e os códigos de procedimentos especiais são fixados pelo Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "3. As disposições referidas no número anterior regulam as inspecções aduaneiras das mercadorias e dos meios de transporte e a verificação dos respectivos documentos."
+    },
+    {
+     "t": "p",
+     "x": "4. Sempre que existam condições e infra-estruturas adequadas, a apresentação e processamento das declarações aduaneiras podem ser realizados de forma electrónica nos termos definidos no Regulamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-58",
+   "label": "Artigo 58.º",
+   "epigraph": "Desalfandegamento das mercadorias e dos meios de transporte",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VI - Declaração aduaneira",
+    "CAPÍTULO I - Apresentação e processamento da declaração aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias e os meios de transporte serão apenas desalfandegados do controlo fiscal aduaneiro depois de cumpridas todas as formalidades do processamento da correspondente declaração aduaneira e depois de os direitos e demais imposições aduaneiras terem sido pagos ou garantidos, ou aprovados os termos do respectivo pagamento de harmonia com as disposições do Código."
+    },
+    {
+     "t": "p",
+     "x": "2. O desalfandegamento das mercadorias e dos meios de transporte só pode ser realizado depois de concedida, pelas alfândegas, a respectiva autorização de desalfandegamento nos termos e condições definidos na lei."
+    }
+   ]
+  },
+  {
+   "id": "artigo-59",
+   "label": "Artigo 59.º",
+   "epigraph": "Obrigação de remoção das mercadorias desalfandegadas do local designado pelas alfândegas",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VI - Declaração aduaneira",
+    "CAPÍTULO I - Apresentação e processamento da declaração aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Depois de autorizada, pelas alfândegas, a respectiva remoção, o declarante deve remover, nos prazos estabelecidos no Regulamento, todas as mercadorias dos locais de depósito temporário ou de outros locais designados para o seu desalfandegamento, sem prejuízo de o Director Nacional das Alfândegas poder prorrogar os prazos para a remoção em caso de força maior ou nas situações em que a permanência das mercadorias desalfandegadas no local designado não impeça a realização eficiente das operações que aí devam ter lugar."
+    },
+    {
+     "t": "p",
+     "x": "2. As mercadorias e os meios de transporte que não tenham sido removidos nos prazos estabelecidos no Regulamento, ou nos prazos prorrogados por decisão do Director Nacional das Alfândegas, são considerados como mercadorias ou meios de transporte demorados e, como tal, sujeitos a confisco pelo Estado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-60",
+   "label": "Artigo 60.º",
+   "epigraph": "Correcção e cancelamento",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VI - Declaração aduaneira",
+    "CAPÍTULO II - Correcção e cancelamento da declaração aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O Regulamento deve prever a possibilidade de correcção e ou de cancelamento dos despachos apresentados, mediante requerimento do declarante apresentado antes de ter sido autorizado o desalfandegamento das mercadorias, e contanto que estejam preenchidas outras condições requeridas para o despacho."
+    },
+    {
+     "t": "p",
+     "x": "2. O Regulamento deve igualmente prever a possibilidade de as alfândegas corrigirem, oficiosamente, os dados declarados que não sejam exactos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-61",
+   "label": "Artigo 61.º",
+   "epigraph": "Correcções",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VI - Declaração aduaneira",
+    "CAPÍTULO II - Correcção e cancelamento da declaração aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São admitidas, sem a aplicação de qualquer sanção, as correcções requeridas pelo declarante durante o processo de desalfandegamento."
+    },
+    {
+     "t": "p",
+     "x": "2. Não são, porém, admitidas correcções quando requeridas pelo declarante depois de as alfândegas o terem notificado da intenção de proceder à verificação das mercadorias ou depois da detecção de qualquer inexactidão."
+    },
+    {
+     "t": "p",
+     "x": "3. São admitidas, sem a aplicação de qualquer sanção, as correcções de erros requeridas pelo declarante depois do desalfandegamento, contanto que:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O declarante prove, no prazo fixado no n.º 2 do artigo 85.º, que tenha agido de boa fé, nos casos em que do erro resulta a possibilidade de reembolso ou de entrega de Título de Encontro;",
+      "O declarante prove, no prazo fixado no n.º 1 do artigo 82.º, que tenha agido de boa fé, nos casos em que do erro resulta a possibilidade de dívida adicional às alfândegas."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "4. Quando as inexactidões resultem de negligência ou de fraude, são aplicáveis as disposições da Parte V."
+    },
+    {
+     "t": "p",
+     "x": "5. O Regulamento fixa os procedimentos a observar na correcção das declarações."
+    }
+   ]
+  },
+  {
+   "id": "artigo-62",
+   "label": "Artigo 62.º",
+   "epigraph": "Cancelamento",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VI - Declaração aduaneira",
+    "CAPÍTULO II - Correcção e cancelamento da declaração aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As alfândegas podem autorizar, a pedido do declarante, o cancelamento ou anulação de uma declaração já apresentada e aceite, desde que tal pedido seja feito antes da conclusão do processo de desalfandegamento da mercadoria, nos seguintes casos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Quando, por erro, a mercadoria tenha sido declarada sob um regime aduaneiro incorrecto;",
+      "Quando, devido a circunstâncias especiais, a declaração do regime aduaneiro em questão não for aplicável;",
+      "Quando existirem provas da não expedição das mercadorias."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. O cancelamento da declaração implica igualmente o cancelamento dos correspondentes anexos."
+    },
+    {
+     "t": "p",
+     "x": "3. O cancelamento ou anulação da declaração não extingue a obrigação de pagamento das taxas devidas às alfândegas pelos serviços por estas prestados nem exclui a aplicação das sanções correspondentes às infracções fiscais aduaneiras praticadas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-63",
+   "label": "Artigo 63.º",
+   "epigraph": "Admissibilidade",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VII - Auditoria pré ou pós-desalfandegamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Depois de autorizado o desalfandegamento das mercadorias e ou dos meios de transporte, podem as alfândegas realizar uma auditoria pós-desalfandegamento das declarações, quer nas instalações do declarante, quer nas instalações de outras entidades directa ou indirectamente envolvidas na transacção, compreendendo a referida auditoria, designadamente, a inspecção da documentação relevante, dos registos, das contas e do sistema electrónico ou informático."
+    },
+    {
+     "t": "p",
+     "x": "2. As alfândegas podem ainda examinar as mercadorias e ou os meios de transporte que encontrem no momento da realização da auditoria."
+    },
+    {
+     "t": "p",
+     "x": "3. Se, realizada a auditoria e concluído o exame a que se refere o presente artigo, se verificar que o regime aduaneiro foi atribuído com base em informação incompleta ou incorrecta, podem as alfândegas tomar as medidas necessárias para regularizar a situação, incluindo:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A instauração de um processo fiscal aduaneiro sempre que seja detectada a prática de alguma infracção fiscal aduaneira;",
+      "A cobrança dos valores em falta, sempre que, com base na informação entretanto recolhida, se verifique ter havido cobrança por defeito."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "4. As alfândegas podem, quando considerarem adequado, realizar, nos termos constantes dos números anteriores devidamente adaptados, auditorias antes do desalfandegamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-64",
+   "label": "Artigo 64.º",
+   "epigraph": "Pauta Aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A Pauta Aduaneira, que se baseia no Sistema Harmonizado de Designação e Codificação de Mercadorias, fixa as taxas dos direitos aduaneiros que recaem sobre as mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "2. Em função das exigências do comércio internacional, podem continuar a ser feitos desdobramentos nacionais na Pauta Aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "3. Compete ao Ministro das Finanças autorizar a introdução, no texto da Pauta Aduaneira, das eventuais actualizações da Convenção sobre o Sistema Harmonizado de Designação e Codificação de Mercadorias aprovadas pela Organização Mundial das Alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "4. Além dos direitos aduaneiros fixados na Pauta Aduaneira, as alfândegas devem ainda proceder à cobrança dos demais impostos e imposições aduaneiras cuja arrecadação lhes tenha sido legalmente cometida."
+    },
+    {
+     "t": "p",
+     "x": "5. Compete ao Ministro das Finanças, mediante solicitação do Ministro do Comércio ou do Ministro da Indústria:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Adoptar e implementar as necessárias medidas anti-dumping, tal como são definidas no Acordo Relativo à Aplicação do Artigo VI (Anti-dumping) do Acordo da Organização Mundial do Comércio (“GATT”), com vista a proteger o comércio ou a indústria nacionais contra o dumping de mercadorias, incluindo a criação de direitos anti-dumping;",
+      "Adoptar e implementar as necessárias medidas compensatórias, tal como são definidas nos artigos 1 a 9 do Acordo de Uruguai Round da Organização Mundial do Comércio (“GATT”), relativas a subsídios e medidas compensatórias, com vista a proteger o comércio ou a indústria nacionais contra a concessão de subsídios a entidades que exportam para Angola, incluindo a criação de direitos compensatórios."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "6. Os direitos anti-dumping e os direitos compensatórios devem constar de anexo à Pauta Aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "7. A cobrança de direitos anti-dumping e de direitos compensatórios acresce à cobrança de quaisquer outros direitos e imposições que sejam devidos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-65",
+   "label": "Artigo 65.º",
+   "epigraph": "Recipientes para acomodação de mercadorias",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O Regulamento estabelece o tratamento pautal dos recipientes para acomodação de mercadorias, designadamente dos contentores e de outras embalagens."
+    }
+   ]
+  },
+  {
+   "id": "artigo-66",
+   "label": "Artigo 66.º",
+   "epigraph": "Origem das mercadorias",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A sujeição das mercadorias a tributação ou a restrições aduaneiras pode depender da respectiva origem."
+    },
+    {
+     "t": "p",
+     "x": "2. O Regulamento fixa os critérios para a determinação da origem das mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "3. As alfândegas podem exigir a prova da origem das mercadorias importadas ao abrigo de acordo de comércio preferencial devidamente ratificado"
+    }
+   ]
+  },
+  {
+   "id": "artigo-67",
+   "label": "Artigo 67.º",
+   "epigraph": "Âmbito",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO II - Isenções aduaneiras e benefícios fiscais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A lei enumera os casos e as condições em que certas mercadorias que sejam objecto de importação ou exportação definitiva podem beneficiar de isenção parcial ou total de direitos e demais imposições aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "2. A isenção pode ser concedida em função do estado e condição do beneficiário e ou das condições de utilização das mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "3. O direito à concessão de benefícios fiscais é apenas reconhecido às mercadorias e ou às pessoas expressamente indicadas pela lei, contanto que sejam observadas as formalidades previstas no Regulamento e nas instruções do Director Nacional das Alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "4. Compete à autoridade aduaneira conceder ou não o benefício fiscal."
+    }
+   ]
+  },
+  {
+   "id": "artigo-68",
+   "label": "Artigo 68.º",
+   "epigraph": "Restrições ao uso de mercadorias",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO II - Isenções aduaneiras e benefícios fiscais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Sempre que a lei faça depender a concessão de isenção aduaneira ou de suspensão dos direitos e demais imposições aduaneiras à condição de que as mercadorias sejam apenas utilizadas para a prossecução de finalidade específica, a mudança de uso ou a alienação por qualquer forma dessas mercadorias carecem de prévia autorização das alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "2. Sendo concedida autorização para a mudança de uso ou para a alienação por qualquer forma das referidas mercadorias, serão devidos os direitos e demais imposições aduaneiras nos termos previstos no Código e no Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "3. A depreciação do valor das mercadorias sujeitas à mudança de uso será corrigida segundo um sistema simples de cálculo para cada ano ou parte do ano a partir da data do registo do respectivo despacho."
+    },
+    {
+     "t": "p",
+     "x": "4. As mercadorias importadas, que hajam beneficiado de isenção, ficam livres das restrições aduaneiras depois de decorridos cinco anos sobre a data da concessão da referida isenção."
+    }
+   ]
+  },
+  {
+   "id": "artigo-69",
+   "label": "Artigo 69.º",
+   "epigraph": "Conceito de dívida aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Entende-se por dívida aduaneira a obrigação que recai sobre uma pessoa de pagar às alfândegas os direitos de importação e ou de exportação e as demais imposições aplicáveis às mercadorias, nos termos da legislação vigente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-70",
+   "label": "Artigo 70.º",
+   "epigraph": "Privilégio creditório mobiliário especial",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os créditos do Estado relativos a despesas decorrentes de processos de contencioso aduaneiro, a direitos, a demais imposições aduaneiras e a multas têm privilégio sobre as mercadorias a que digam respeito, independentemente da sua localização."
+    },
+    {
+     "t": "p",
+     "x": "2. Os créditos com privilégio mobiliário referidos no número anterior graduam-se pela ordem seguinte:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os créditos por despesas decorrentes de processos de contencioso aduaneiro;",
+      "Os créditos por direitos e demais imposições aduaneiras;",
+      "Os créditos por multas substitutivas de confisco;",
+      "Os créditos pelas restantes multas."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. O privilégio creditório mobiliário especial, a que se referem os números anteriores, prevalece não só sobre os demais privilégios creditórios, como também sobre as outras garantias, mesmo anteriores, que onerem as mesmas mercadorias, e vale contra os terceiros adquirentes."
+    }
+   ]
+  },
+  {
+   "id": "artigo-71",
+   "label": "Artigo 71.º",
+   "epigraph": "Regra geral",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO II - Contribuintes e pessoas responsáveis pelo pagamento da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O contribuinte que tem a obrigação de pagar os direitos e as demais imposições aduaneiras é o importador ou o exportador das mercadorias sobre as quais aqueles recaem."
+    },
+    {
+     "t": "p",
+     "x": "2. É ainda responsável pelo pagamento dos direitos e demais imposições aduaneiras, a pessoa que, não sendo o importador ou exportador das mercadorias, assume a responsabilidade pelo pagamento da dívida aduaneira, nos termos das disposições legais aplicáveis."
+    }
+   ]
+  },
+  {
+   "id": "artigo-72",
+   "label": "Artigo 72.º",
+   "epigraph": "Responsabilidade solidária",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO II - Contribuintes e pessoas responsáveis pelo pagamento da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "São solidariamente responsáveis com o declarante, importador ou exportador pelo pagamento da dívida aduaneira:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os representantes do declarante, nomeadamente despachantes, que pratiquem actos que ultrapassem o âmbito das funções que lhes estão confiadas ou das atribuições que legalmente lhes são reconhecidas, ou que causem prejuízo ao erário público em virtude de falta de perícia ou de diligência sua ou dos seus funcionários;",
+      "Os responsáveis estatutários, os titulares da maioria das participações sociais, os gerentes, os directores ou administradores de sociedades que não realizem o pagamento dessa dívida;",
+      "As pessoas que tenham a posse ou detenção de mercadorias sujeitas a confisco por terem entrado ilegalmente no País e os possuidores ou detentores de mercadorias que tenham sido objecto de desvio relativamente à finalidade a que se destinavam;",
+      "Os transportadores, os depositários das mercadorias e os operadores dos locais designados que não cumpram as suas obrigações legais;",
+      "Os respectivos herdeiros que se tenham habilitado à herança, nos termos do artigo 2071.º do Código Civil."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-73",
+   "label": "Artigo 73.º",
+   "epigraph": "Factos constitutivos da dívida aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO III - Constituição e cálculo da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São os seguintes os factos constitutivos da dívida aduaneira na importação:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A introdução no País, através da sujeição a um dos regimes legalmente previstos, de mercadorias cativas de direitos e demais imposições aduaneiras;",
+      "A introdução irregular no País de mercadorias cativas de direitos e demais imposições aduaneiras, em violação da legislação que rege a apresentação das mercadorias às alfândegas;",
+      "O desvio, com o objectivo de não sujeição a controlo aduaneiro, de mercadorias cativas de direitos e demais imposições aduaneiras;",
+      "O não cumprimento de quaisquer obrigações ou a inobservância das condições relativas à armazenagem de mercadorias em depósito temporário ou de mercadorias sob regimes aduaneiros suspensivos;",
+      "O não cumprimento dos objectivos iniciais ou dos prazos referentes a mercadorias importadas para fins específicos e com benefício fiscal;",
+      "A autorização excepcional pelas alfândegas, nos termos do Código e do Regulamento, para mudar de um regime suspensivo para um regime definitivo ou para mudar a finalidade de uso das mercadorias importadas para fins específicos com qualquer benefício fiscal;",
+      "A permanência no território aduaneiro, a título definitivo, de desperdícios ou fragmentos passíveis de direitos e demais imposições aduaneiras e daqueles que resultem de mercadorias cuja destruição haja sido autorizada pela autoridade aduaneira."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. São considerados como factos constitutivos da dívida aduaneira na exportação:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A exportação, através da sujeição a um dos regimes legalmente previstos, de mercadorias cativas de direitos e demais imposições aduaneiras;",
+      "A exportação de mercadorias cativas de direitos e demais imposições aduaneiras, em violação da legislação que rege a apresentação das mercadorias às alfândegas;",
+      "O desvio, com o objectivo de não sujeição a controlo aduaneiro, de mercadorias cativas de direitos e demais imposições aduaneiras;",
+      "O não cumprimento de quaisquer obrigações ou a inobservância das condições relativas à armazenagem de mercadorias em depósito temporário ou de mercadorias sob regimes aduaneiros suspensivos;",
+      "O não cumprimento dos objectivos iniciais ou dos prazos referentes a mercadorias exportadas com benefício fiscal;",
+      "A autorização excepcional pelas alfândegas, nos termos do Código e do Regulamento, para mudar de um regime suspensivo para um regime definitivo ou para mudar a finalidade de uso das mercadorias exportadas com qualquer benefício fiscal."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-74",
+   "label": "Artigo 74.º",
+   "epigraph": "Data de importação",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO III - Constituição e cálculo da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A data de importação de quaisquer mercadorias ou meios de transporte é a data em que estes tenham atravessado a fronteira do País, ou, não sendo possível determinar a data em que a introdução no País teve lugar, a data em que as mercadorias e ou os meios de transporte sejam descobertos no território aduaneiro."
+    }
+   ]
+  },
+  {
+   "id": "artigo-75",
+   "label": "Artigo 75.º",
+   "epigraph": "Momento do cálculo da dívida aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO III - Constituição e cálculo da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O montante dos direitos e das demais imposições aduaneiras é calculado com base nas taxas dos direitos aduaneiros e na taxa de câmbio em vigor nas datas fixadas nos números seguintes."
+    },
+    {
+     "t": "p",
+     "x": "2. Tratando-se de mercadorias de importação definitiva, incluindo as mercadorias removidas dos armazéns aduaneiros ou de qualquer regime suspensivo, a data com base na qual é calculado o montante da dívida aduaneira é:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A data em que tenha sido devidamente aceite pelas alfândegas a declaração de mercadorias; ou",
+      "A data da importação estabelecida de acordo com os critérios fixados no artigo anterior, se não tiver sido apresentada qualquer declaração aduaneira, designadamente nos casos de importação ilegal ou desvio do controlo aduaneiro."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Havendo incumprimento:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Das condições de um regime suspensivo, ou",
+      "Das condições aplicáveis às mercadorias importadas com isenção para uma finalidade específica ou utilização lícita, ou, ainda,",
+      "Da obrigação de exportar do território aduaneiro mercadorias isentas do pagamento de direitos; a data com base na qual a dívida aduaneira é calculada é a data do incumprimento, ou se esta não puder ser apurada, a data da sua descoberta."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "4. Havendo uma autorização excepcional para mudar do regime suspensivo para o regime definitivo ou para mudar a utilização das mercadorias com benefício fiscal de isenção, a data de cálculo do montante da dívida aduaneira é a data da respectiva autorização."
+    },
+    {
+     "t": "p",
+     "x": "5. Tendo sido autorizada a destruição de mercadorias importadas e desta resultarem resíduos passíveis de tributação aduaneira, a data de cálculo do montante da dívida aduaneira é a data da destruição."
+    },
+    {
+     "t": "p",
+     "x": "6. Tratando-se de mercadorias de exportação definitiva, a data de cálculo do montante da dívida aduaneira é a data em que a declaração de mercadorias seja aceite pelas alfândegas ou deva ser apresentada a estas."
+    },
+    {
+     "t": "p",
+     "x": "7. As regras fixadas nos números anteriores aplicam-se igualmente à data de cálculo do montante das taxas devidas às alfândegas pelos serviços por estas prestados."
+    }
+   ]
+  },
+  {
+   "id": "artigo-76",
+   "label": "Artigo 76.º",
+   "epigraph": "Cálculo do montante dos direitos e demais imposições aduaneiras devidos",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO III - Constituição e cálculo da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O montante dos direitos de importação ou de exportação e das demais imposições aduaneiras aplicáveis às mercadorias é calculado pelas alfândegas com base nos valores declarados quando forem apresentados os despachos, aplicando-se as taxas dos impostos em vigor no momento da constituição da dívida definido nos termos do disposto no artigo precedente."
+    },
+    {
+     "t": "p",
+     "x": "2. O valor aduaneiro das mercadorias destinadas a armazéns de regime aduaneiro é o valor em moeda estrangeira estabelecido no momento da entrada dessas mercadorias no território aduaneiro pela primeira vez."
+    },
+    {
+     "t": "p",
+     "x": "3. Se os correspondentes despachos não tiverem sido apresentados, as alfândegas devem determinar as quantidades e os valores com base em qualquer documentação relevante existente e na inspecção das mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "4. O valor aduaneiro expresso em moeda estrangeira deverá ser convertido no correspondente valor em moeda nacional com base na taxa de câmbio fixada pelo Banco Nacional de Angola e em vigor no momento da constituição da dívida definido nos termos do disposto no artigo precedente, de harmonia com o disposto no Código e no Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "5. O cálculo da dívida relativa às taxas devidas às alfândegas pelos serviços por estas prestados é feito de acordo com as disposições constantes do Regulamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-77",
+   "label": "Artigo 77.º",
+   "epigraph": "Registo da dívida aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO IV - Cobrança da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O montante da dívida aduaneira calculado nos termos das disposições da secção anterior deve ser registado, conforme for definido pelas alfândegas, nas contas existentes, em documentos similares ou no registo computorizado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-78",
+   "label": "Artigo 78.º",
+   "epigraph": "Exigência do pagamento",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO IV - Cobrança da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O pagamento dos direitos de importação e ou de exportação e das demais imposições aduaneiras deve ser exigido ao declarante, ou ao seu representante, a partir do momento em que as alfândegas hajam procedido ao registo da dívida aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "2. Para os efeitos do disposto no número anterior, no momento em que tenham procedido ao registo da dívida aduaneira, as alfândegas devem enviar ao declarante, ou ao seu representante, uma Nota de Pagamento emitida ou não através de suporte electrónico."
+    },
+    {
+     "t": "p",
+     "x": "3. O declarante, ou o seu representante, deve pagar a dívida aduaneira no prazo de dez dias úteis a contar da data da emissão da respectiva Nota de Pagamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-79",
+   "label": "Artigo 79.º",
+   "epigraph": "Meios de pagamento",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO IV - Cobrança da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A dívida aduaneira deve ser paga em numerário, transferência bancária, cheque ou através de outros meios de pagamento aceitáveis nos termos das disposições legais em vigor."
+    }
+   ]
+  },
+  {
+   "id": "artigo-80",
+   "label": "Artigo 80.º",
+   "epigraph": "Juros e pagamento coercivo da dívida",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO IV - Cobrança da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o valor dos direitos e das demais imposições aduaneiras não tiver sido pago, ou se o respectivo pagamento não tiver sido garantido, dentro dos prazos legalmente fixados, são devidos às alfândegas, além da quantia em dívida, juros de mora vencidos sobre esta quantia desde o dia em que o devedor entrou em mora até efectivo e integral pagamento."
+    },
+    {
+     "t": "p",
+     "x": "2. A taxa dos juros de mora referidos no número anterior é fixada na legislação correspondente."
+    },
+    {
+     "t": "p",
+     "x": "3. O processo para a cobrança coerciva dos direitos, das demais imposições aduaneiras e dos respectivos juros, está previsto e regulado na Parte V do Código."
+    }
+   ]
+  },
+  {
+   "id": "artigo-81",
+   "label": "Artigo 81.º",
+   "epigraph": "Extinção da dívida aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO V - Extinção da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A dívida aduaneira extingue-se na importação, quando:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Tenham sido pagos os direitos e demais imposições aduaneiras devidos, quer na fase de desalfandegamento em cumprimento da legislação aduaneira, quer, em caso de incumprimento, após a instauração de algum processo destinado à arrecadação dos montantes em dívida;",
+      "A declaração aduaneira seja cancelada ou anulada nos termos legais;",
+      "Tenha decorrido o prazo de prescrição da dívida aduaneira previsto no artigo 82.º;",
+      "As mercadorias tenham sido voluntariamente abandonadas e, subsequentemente, confiscadas pelo Estado, ou quando as mercadorias tenham sido destruídas com autorização das alfândegas;",
+      "Se verifique a destruição ou perda irreparável das mercadorias em virtude da sua natureza, de acidente ou de caso de força maior, desde que o interessado faça prova, junto das alfândegas, de que a destruição ou perda ocorreram antes da chegada ao País das referidas mercadorias."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. As disposições constantes das alíneas a), b), c) e e) do número anterior são aplicáveis, com as necessárias adaptações, à exportação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-82",
+   "label": "Artigo 82.º",
+   "epigraph": "Prazo de prescrição da dívida aduaneira",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO V - Extinção da dívida aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A dívida aduaneira prescreve no prazo de cinco anos, a contar da data da notificação do devedor para pagar, ou, na falta dessa notificação, a contar da data da constituição da dívida."
+    },
+    {
+     "t": "p",
+     "x": "2. Nos casos em que o devedor haja cometido infracção fiscal aduaneira, o prazo de prescrição da dívida aduaneira é de vinte anos, a contar da data do trânsito em julgado da sentença condenatória."
+    }
+   ]
+  },
+  {
+   "id": "artigo-83",
+   "label": "Artigo 83.º",
+   "epigraph": "Noção e procedimento",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO VI - Reembolso dos direitos e das demais imposições aduaneiras ou dispensa do seu pagamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. É considerado como reembolso a restituição, total ou parcial, dos direitos e demais imposições aduaneiras que, no acto de importação ou de exportação, tenham sido pagos sobre as mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "2. Há dispensa de pagamento nos casos em que não sejam cobrados os direitos e ou demais imposições aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "3. O reembolso deve ser feito de acordo com as rubricas orçamentais definidas na legislação em vigor."
+    },
+    {
+     "t": "p",
+     "x": "4. O reembolso deve ser feito directamente à entidade em nome da qual foram feitos a declaração e o pagamento dos direitos e das demais imposições aduaneiras, ou ao seu representante, devendo este apresentar às alfândegas o documento pelo qual lhe hajam sido outorgados poderes para o acto."
+    },
+    {
+     "t": "p",
+     "x": "5. As alfândegas procederão ao reembolso de direitos e das demais imposições aduaneiras por entrega à entidade referida no número anterior de um Título de Encontro para futuras transacções aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "6. Qualquer Título de Encontro deve conter a menção expressa do tipo de direito ou da imposição aduaneira a que se refere cada quantia a reembolsar e só pode ser usado, pelo seu titular, para o pagamento da dívida aduaneira correspondente ao tipo de direito ou da imposição mencionados no Título."
+    },
+    {
+     "t": "p",
+     "x": "7. O reembolso de direitos e de demais imposições aduaneiras por restituição de valores monetários só pode ser autorizado pelo Ministro das Finanças quando o interessado justifique a impossibilidade de utilizar as respectivas quantias, por encontro, em futuras transacções aduaneiras ou a impossibilidade de endossar o Título de Encontro ao despachante que procedeu à tramitação do seu despacho."
+    }
+   ]
+  },
+  {
+   "id": "artigo-84",
+   "label": "Artigo 84.º",
+   "epigraph": "Admissibilidade",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO VI - Reembolso dos direitos e das demais imposições aduaneiras ou dispensa do seu pagamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quer o reembolso dos direitos e das demais imposições aduaneiras, quer a dispensa do seu pagamento, só podem ter lugar nos casos expressamente previstos na lei e desde que o interessado faça a devida prova, perante as alfândegas, da verificação dos respectivos requisitos."
+    },
+    {
+     "t": "p",
+     "x": "2. O reembolso dos direitos e das demais imposições aduaneiras tem lugar nos casos em que o interessado faça a devida prova, perante as alfândegas:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "De que o montante da dívida aduaneira registada foi pago, mas se refere a mercadorias em relação às quais nunca existiu qualquer dívida aduaneira; ou",
+      "De que o montante da dívida aduaneira registada foi pago, mas se refere a mercadorias em relação às quais existia uma dívida aduaneira, que, entretanto, se extinguiu por outras causas diferentes do pagamento; ou",
+      "De que o montante da dívida aduaneira registada foi pago, tendo, entretanto, sido cancelada a respectiva declaração nos termos do disposto no Código e no Regulamento; ou",
+      "De que o montante da dívida aduaneira registada foi pago, mas excede a quantia legalmente devida."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. No caso referido na alínea d) do número anterior, só deve ser reembolsado o montante pago que excede a quantia legalmente devida."
+    },
+    {
+     "t": "p",
+     "x": "4. A dispensa de pagamento dos direitos e das demais imposições aduaneiras tem lugar nos casos em que o interessado faça a devida prova, perante as alfândegas:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "De que o montante da dívida aduaneira registada se refere a mercadorias em relação às quais não existe qualquer dívida aduaneira; ou",
+      "De que o montante da dívida aduaneira registada se refere a mercadorias em relação às quais existia uma dívida aduaneira, que, entretanto, se extinguiu por outras causas diferentes do pagamento; ou",
+      "De que o montante da dívida aduaneira registada se refere a uma declaração que foi, entretanto, cancelada nos termos do disposto no Código e no Regulamento."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "5. Quer o reembolso dos direitos e das demais imposições aduaneiras, quer a dispensa do seu pagamento, não podem ser decretados sem prévia informação escrita e devidamente fundamentada a prestar pelos funcionários que intervieram no despacho ou noutros documentos relativos à entrada nos cofres públicos da quantia a que se refere o reembolso ou a dispensa."
+    },
+    {
+     "t": "p",
+     "x": "6. Sem prejuízo do disposto no n.º 2 do artigo 82.º, o direito das alfândegas de exigir do devedor o pagamento das quantias recebidas a menos prescreve no prazo de cinco anos, a contar da data da notificação do devedor para pagar, ou, na falta dessa notificação, a contar da data da constituição da dívida."
+    }
+   ]
+  },
+  {
+   "id": "artigo-85",
+   "label": "Artigo 85.º",
+   "epigraph": "Reembolso ou dispensa decretados oficiosamente ou mediante requerimento e respectivos prazos de prescrição",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO VI - Reembolso dos direitos e das demais imposições aduaneiras ou dispensa do seu pagamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O interessado deve requerer, na estância aduaneira competente, o reembolso ou a dispensa de pagamento dos direitos e das demais imposições aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "2. O direito ao reembolso ou ao encontro prescreve no prazo de um ano a contar da data do respectivo pagamento, podendo esse prazo ser prorrogado por período igual; o direito à dispensa de pagamento dos direitos e das demais imposições aduaneiras prescreve no prazo de um ano a contar da data do registo da dívida aduaneira, podendo esse prazo ser prorrogado por período igual."
+    },
+    {
+     "t": "p",
+     "x": "3. Sempre que se verifique alguma das situações previstas no artigo 84.º, as alfândegas devem, nos prazos fixados no número anterior, proceder, oficiosamente, ao reembolso ou à dispensa de pagamento dos direitos e das demais imposições aduaneiras."
+    }
+   ]
+  },
+  {
+   "id": "artigo-86",
+   "label": "Artigo 86.º",
+   "epigraph": "Mercadorias recusadas pelo importador",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO VI - Reembolso dos direitos e das demais imposições aduaneiras ou dispensa do seu pagamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Contanto que estejam preenchidas as condições fixadas no Regulamento, as autoridades aduaneiras podem igualmente proceder ao reembolso ou à dispensa de pagamento dos direitos de importação relativos a mercadorias que, por conterem defeitos ou não estarem de acordo com as especificações contratuais, tenham sido recusadas pelo importador."
+    },
+    {
+     "t": "p",
+     "x": "2. O reembolso ou a dispensa de pagamento devem ser requeridos pelo interessado no prazo de um ano a contar da data do registo da dívida aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "3. O levantamento da mercadoria pelo importador determina a não aplicação do regime de reembolso ou de dispensa de pagamento dos direitos de importação a que se refere o presente artigo."
+    },
+    {
+     "t": "p",
+     "x": "4. Exceptuam-se do disposto no número anterior as mercadorias que não possam ser experimentadas pelo importador no momento e no lugar da importação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-87",
+   "label": "Artigo 87.º",
+   "epigraph": "Erro no reembolso ou na dispensa de pagamento",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO III - Dívida aduaneira",
+    "SECÇÃO VI - Reembolso dos direitos e das demais imposições aduaneiras ou dispensa do seu pagamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se, por erro, tiver sido concedido o reembolso ou a dispensa de pagamento de direitos e demais imposições, podem as autoridades aduaneiras exigir, de novo, o seu pagamento imediato e integral."
+    }
+   ]
+  },
+  {
+   "id": "artigo-88",
+   "label": "Artigo 88.º",
+   "epigraph": "Requisitos das garantias aduaneiras",
+   "path": [
+    "PARTE III - ACTIVIDADE ADUANEIRA",
+    "TÍTULO VIII - Tributação aduaneira",
+    "CAPÍTULO IV - Garantias aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O Regulamento fixa as condições e o prazo para a prestação de uma garantia adequada que:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Garanta o pagamento dos direitos e demais imposições aduaneiras devidos;",
+      "Garanta o cumprimento das obrigações específicas que a legislação aduaneira prescreve."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Sempre que as alfândegas exijam a constituição de uma garantia, pode esta ser prestada nos termos prescritos no Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "3. Em situações especiais, contanto que haja razões justificativas, o Director Nacional das Alfândegas pode prescindir da constituição de qualquer garantia."
+    },
+    {
+     "t": "p",
+     "x": "4. O Regulamento deve ainda fixar um valor mínimo da prestação tributária aduaneira, abaixo do qual não é exigível a constituição de garantia."
+    }
+   ]
+  },
+  {
+   "id": "artigo-89",
+   "label": "Artigo 89.º",
+   "epigraph": "Princípio geral",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Critérios gerais para a determinação do valor aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O regime de determinação do valor aduaneiro das mercadorias fixa, de acordo com os princípios previstos no Acordo Relativo à Aplicação do Artigo VII do Acordo Geral sobre Pautas Aduaneiras e Comércio, os critérios e os procedimentos para a determinação do valor aduaneiro das mercadorias importadas, incluindo as mercadorias que sejam objecto de um contrato de aluguer, de locação financeira ou de um outro contrato com efeitos semelhantes."
+    },
+    {
+     "t": "p",
+     "x": "2. O valor aduaneiro deve basear-se em critérios simples, equitativos e compatíveis com a prática comercial, com exclusão de valores aduaneiros arbitrários ou fictícios."
+    },
+    {
+     "t": "p",
+     "x": "3. Os processos de determinação do valor aduaneiro devem ser de aplicação geral, sem distinção entre fontes de abastecimento."
+    },
+    {
+     "t": "p",
+     "x": "4. O regime de determinação do valor aduaneiro não pode ser utilizado no âmbito das medidas anti-dumping."
+    },
+    {
+     "t": "p",
+     "x": "5. Sem prejuízo do disposto no n.º 1, as alfândegas podem, também, fundamentar as suas decisões relativas à determinação do valor aduaneiro das mercadorias nas sugestões, pareceres, comentários e notas explicativas emanadas pelo Comité Técnico de Avaliação da Organização Mundial das Alfândegas e nas decisões da Organização Mundial do Comércio."
+    },
+    {
+     "t": "p",
+     "x": "6. As alfândegas devem manter, no Centro de Documentação e Informação da Direcção Nacional das Alfândegas, cópias, em inglês, espanhol e português, do Acordo e daqueles pareceres, sugestões, comentários e notas explicativas, e disponibilizá-las aos interessados para consulta."
+    },
+    {
+     "t": "p",
+     "x": "7. Na fundamentação das suas decisões relativas à determinação do valor aduaneiro, devem as alfândegas indicar as disposições legais e os referidos pareceres, sugestões, comentários e notas explicativas em que tenham baseado essas decisões."
+    }
+   ]
+  },
+  {
+   "id": "artigo-90",
+   "label": "Artigo 90.º",
+   "epigraph": "Valor aduaneiro das mercadorias destinadas a exportação",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Critérios gerais para a determinação do valor aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A exportação de mercadorias nacionais ou nacionalizadas está isenta de direitos aduaneiros."
+    },
+    {
+     "t": "p",
+     "x": "2. O valor aduaneiro das mercadorias exportadas deve ser o valor transaccional “Free On Board” (FOB) quando vendidas para exportação."
+    },
+    {
+     "t": "p",
+     "x": "3. Exceptuam-se do disposto nos números anteriores, as mercadorias que, nos termos do respectivo Quadro da Pauta Aduaneira, estejam sujeitas a direitos e demais imposições aduaneiras na exportação."
+    },
+    {
+     "t": "p",
+     "x": "4. Sem prejuízo do disposto nos números anteriores, compete à Direccção Nacional das Alfândegas a determinação do valor aduaneiro das mercadorias destinadas a exportação com base nos critérios fixados no Artigo VII do Acordo Geral sobre Pautas Aduaneiras e Comércio, da Organização Mundial do Comércio (“GATT”)."
+    }
+   ]
+  },
+  {
+   "id": "artigo-91",
+   "label": "Artigo 91.º",
+   "epigraph": "Base para a determinação do valor aduaneiro",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Critérios gerais para a determinação do valor aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A primeira base para a determinação do valor aduaneiro de qualquer mercadoria importada para o País é o seu valor transaccional, tal como definido no artigo 100.º."
+    },
+    {
+     "t": "p",
+     "x": "2. Não obstante o disposto no número anterior, o preço efectivamente pago ou a pagar pode ser objecto de ajustamentos nos termos previstos no artigo 117.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-92",
+   "label": "Artigo 92.º",
+   "epigraph": "Critérios subsidiários",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Critérios gerais para a determinação do valor aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Sempre que não possa ser determinado com base nos critérios fixados no artigo 100.º, o valor aduaneiro de uma mercadoria importada deve ser determinado de harmonia com o disposto nos artigos 105º a 116º do Código."
+    },
+    {
+     "t": "p",
+     "x": "2. Nos casos em que o valor aduaneiro tenha sido incorrectamente indicado pelo importador, podem as alfândegas determinar o valor aduaneiro com base em critérios razoáveis compatíveis com os princípios e as disposições gerais do Acordo, sem prejuízo do direito do importador ou do seu representante de interpor recurso."
+    }
+   ]
+  },
+  {
+   "id": "artigo-93",
+   "label": "Artigo 93.º",
+   "epigraph": "Valor estipulado em moeda estrangeira",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Critérios gerais para a determinação do valor aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O valor, o preço efectivamente pago ou o preço a pagar por quaisquer mercadorias importadas estipulado em moeda estrangeira será, para fins de determinação do respectivo valor aduaneiro, convertido em moeda nacional, segundo a taxa de câmbio em vigor no momento em que tenha sido devidamente aceite pelas alfândegas a declaração de mercadorias."
+    }
+   ]
+  },
+  {
+   "id": "artigo-94",
+   "label": "Artigo 94.º",
+   "epigraph": "Alteração do valor aduaneiro",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Critérios gerais para a determinação do valor aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quer na fase anterior, quer na fase posterior ao cumprimento das formalidades necessárias para o desembaraço aduaneiro, as alfândegas podem rejeitar qualquer declaração, documento ou informação falsos ou inexactos que o importador, ou o seu representante, hajam apresentado para fins de determinação do valor aduaneiro das mercadorias importadas."
+    },
+    {
+     "t": "p",
+     "x": "2. As alfândegas podem alterar o valor aduaneiro que inicialmente tenham determinado, se, na sequência de qualquer investigação, auditoria ou inspecção que hajam realizado, constatarem que esse valor foi determinado com base em declarações, documentos ou informações falsos ou inexactos."
+    },
+    {
+     "t": "p",
+     "x": "3. À rejeição e à alteração previstas nos números anteriores é aplicável, com as necessárias adaptações, o disposto nos artigos 95.º, 98.º e 99.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-95",
+   "label": "Artigo 95.º",
+   "epigraph": "Dever de informação",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO II - Dever de informação e dever de sigilo"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As alfândegas, mediante pedido escrito do importador ou do seu representante, devem informá-lo, por escrito, dos métodos e critérios utilizados para a determinação do valor aduaneiro da mercadoria por si importada."
+    }
+   ]
+  },
+  {
+   "id": "artigo-96",
+   "label": "Artigo 96.º",
+   "epigraph": "Circulares",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO II - Dever de informação e dever de sigilo"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A Direcção Nacional das Alfândegas pode emitir, por meio de circulares ou outros meios de comunicação, instruções e directivas que se venham a revelar indispensáveis para o cumprimento das normas relativas à determinação do valor aduaneiro das mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "2. A Direcção Nacional das Alfândegas pode ordenar a publicação, no jornal com maior tiragem no País ou no jornal com maior tiragem em cada Província, das circulares a que se refere o número anterior."
+    }
+   ]
+  },
+  {
+   "id": "artigo-97",
+   "label": "Artigo 97.º",
+   "epigraph": "Segredo profissional",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO II - Dever de informação e dever de sigilo"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os funcionários aduaneiros são obrigados a guardar segredo profissional relativamente a factos, informações e documentos de natureza confidencial, ou que tenham sido fornecidos a título confidencial, para fins de determinação do valor aduaneiro e de que tenham conhecimento em virtude do exercício das suas funções."
+    },
+    {
+     "t": "p",
+     "x": "2. Cessa o dever de segredo nos casos em que a divulgação dos factos, informações ou documentos confidenciais tenha sido expressamente autorizada pela pessoa ou pela entidade que os haja fornecido."
+    },
+    {
+     "t": "p",
+     "x": "3. Cessa igualmente o dever de segredo, a que se refere o presente artigo, quando a divulgação dos factos, informações e documentos seja ordenada, no quadro de processos judiciais, pela autoridade judicial competente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-98",
+   "label": "Artigo 98.º",
+   "epigraph": "Recurso para os Directores Regionais das Alfândegas e para o Conselho Superior Técnico Aduaneiro",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO III - Recursos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Da decisão pela qual haja sido determinado o valor aduaneiro, cabe recurso para o Director Regional das Alfândegas competente."
+    },
+    {
+     "t": "p",
+     "x": "2. Da decisão proferida pelo Director Regional das Alfândegas cabe recurso para o Conselho Superior Técnico Aduaneiro."
+    },
+    {
+     "t": "p",
+     "x": "3. A interposição dos recursos a que se referem os números anteriores não suspende a obrigação do importador de pagar os direitos e demais imposições liquidados com base no valor aduaneiro determinado pelas alfândegas, tendo estas o correspondente direito de exigir o seu pagamento tempestivo."
+    },
+    {
+     "t": "p",
+     "x": "4. Na pendência do recurso, o importador, ou o seu representante, podem, porém, requerer às alfândegas o desalfandegamento das mercadorias objecto do litígio, mediante prestação, nos termos prescritos no Regulamento, de uma garantia de valor igual ao dos direitos e demais imposições aduaneiras que incidam sobre aquelas mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "5. As decisões do Conselho Superior Técnico Aduaneiro proferidas sobre os recursos interpostos nos termos do presente artigo devem ser publicadas no Boletim Informativo da Direcção Nacional das Alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "6. Em tudo que não esteja especialmente regulado no presente capítulo, designadamente no que respeita a prazos e à sua contagem, observar-se-ão, na parte aplicável, os artigos 448.º a 451.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-99",
+   "label": "Artigo 99.º",
+   "epigraph": "Recurso para a Sala do Contencioso Fiscal e Aduaneiro",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO III - Recursos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o importador, ou o seu representante, não se conformarem com a decisão proferida pelo Conselho Superior Técnico Aduaneiro, poderão interpor recurso para a Sala do Contencioso Fiscal e Aduaneiro do Tribunal Provincial competente."
+    },
+    {
+     "t": "p",
+     "x": "2. O recurso a que se refere o presente artigo não tem efeito suspensivo."
+    },
+    {
+     "t": "p",
+     "x": "3. É aplicável ao recurso de que trata o presente artigo, com as necessárias adaptações, o disposto nos n.ºs 3 e 4 do artigo anterior."
+    }
+   ]
+  },
+  {
+   "id": "artigo-100",
+   "label": "Artigo 100.º",
+   "epigraph": "Regra geral",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO I - Método 1",
+    "SUBSECÇÃO I - Do valor transaccional em geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O valor aduaneiro das mercadorias importadas é o seu valor transaccional."
+    },
+    {
+     "t": "p",
+     "x": "2. Entende-se por valor transaccional o preço efectivamente pago ou a pagar pelas mercadorias quando vendidas para exportação com destino ao País, ajustado de acordo com as disposições do artigo 117º, desde que:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Não existam restrições relativas à cedência ou utilização das mercadorias pelo comprador para além das restrições que:\ni. São impostas ou exigidas pela lei ou pelas autoridades competentes no País;\nii. Limitam a zona geográfica na qual as mercadorias podem ser revendidas; ou iii. Não afectam substancialmente o valor das mercadorias.",
+      "A venda ou o preço não estejam sujeitos a condições ou a prestações cujo valor não se possa determinar relativamente às mercadorias a avaliar;",
+      "Não reverta, directa ou indirectamente, para o vendedor alguma parte do produto de qualquer revenda, cedência ou utilização posterior das mercadorias pelo comprador, salvo se puder ser efectuado um ajustamento apropriado em conformidade com as disposições do artigo 117.º; e",
+      "O comprador e o vendedor não estejam coligados ou, se estiverem, que o valor transaccional seja aceitável para fins aduaneiros, nos termos do disposto no artigo 102.º."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-101",
+   "label": "Artigo 101.º",
+   "epigraph": "Noção de preço pago ou a pagar",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO I - Método 1",
+    "SUBSECÇÃO I - Do valor transaccional em geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Entende-se por preço efectivamente pago ou a pagar o preço das mercadorias importadas, não fazendo parte do valor aduaneiro as transferências de dividendos ou os restantes pagamentos do comprador ao vendedor que não se refiram às mercadorias importadas."
+    },
+    {
+     "t": "p",
+     "x": "2. Entre as restrições que não são aceitáveis para a determinação do preço efectivamente pago ou a pagar figuram as que não afectam substancialmente o valor das mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "3. Se a venda ou o preço estiverem subordinados a condições ou prestações cujo valor não possa ser determinado relativamente às mercadorias a avaliar, o valor transaccional não será aceitável para fins aduaneiros."
+    },
+    {
+     "t": "p",
+     "x": "4. As condições ou prestações relacionadas com a produção ou a comercialização das mercadorias importadas não implicarão a rejeição do valor transaccional."
+    },
+    {
+     "t": "p",
+     "x": "5. O preço efectivamente pago ou a pagar é o montante total pago ou a pagar pelo comprador ao vendedor, ou em benefício deste, pelas mercadorias importadas, podendo o pagamento ser feito em dinheiro, por cartas de crédito ou por instrumentos, directa ou indirectamente, negociáveis."
+    },
+    {
+     "t": "p",
+     "x": "6. Para efeitos do disposto no número anterior, as actividades empreendidas pelo comprador, por sua própria conta, distintas das actividades para as quais esteja previsto um ajustamento no artigo 117.º, não são consideradas como pagamentos indirectos ao vendedor, mesmo se for legítimo considerar que beneficiam o vendedor, não devendo, assim, acrescer ao preço efectivamente pago ou a pagar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-102",
+   "label": "Artigo 102.º",
+   "epigraph": "Coligação",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO I - Método 1",
+    "SUBSECÇÃO II - Do valor transaccional em caso de coligação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Para determinar se o valor transaccional é aceitável para efeitos da aplicação do disposto no artigo 100.º, o facto de o comprador e o vendedor estarem coligados, na acepção do artigo 103.º, não constitui, em si mesmo, razão suficiente para considerar o valor transaccional das mercadorias como inaceitável."
+    },
+    {
+     "t": "p",
+     "x": "2. No caso referido no número anterior, devem ser examinadas as circunstâncias próprias da venda, sendo o valor transaccional das mercadorias aceite contanto que a coligação não tenha influenciado o montante do preço convencionado."
+    },
+    {
+     "t": "p",
+     "x": "3. Sempre que as alfândegas, com base em informações fornecidas pelo importador ou obtidas de outras fontes, tiverem motivos justificados para considerar que a coligação influenciou o preço convencionado, comunicarão ao importador, por escrito, essa conclusão e os motivos que a fundamentam, marcando-lhe um prazo entre cinco e dez dias úteis para apresentar a sua resposta escrita."
+    },
+    {
+     "t": "p",
+     "x": "4. Havendo coligação entre comprador e vendedor, o valor transaccional será aceite e as mercadorias serão avaliadas em conformidade com o disposto no artigo 100.º quando o importador demonstre que o referido valor está muito próximo de um dos valores seguintes em vigor no mesmo momento ou em momento muito aproximado:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Valor transaccional nas vendas, feitas a compradores não coligados com o vendedor, de mercadorias idênticas ou similares para exportação com destino ao País;",
+      "Valor aduaneiro de mercadorias idênticas ou similares determinado em conformidade com o disposto no artigo 112.º;",
+      "Valor aduaneiro de mercadorias idênticas ou similares determinado em conformidade com o disposto no artigo 114.º."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "5. Devem ser devidamente tidas em conta, na aplicação dos critérios enunciados anteriormente, quaisquer diferenças demonstradas entre os níveis comerciais, as quantidades, os elementos enumerados no artigo 117.º e os custos suportados pelo vendedor, nas vendas em que este e o comprador não estejam coligados e que o vendedor não suporte nas vendas em que ele e o comprador estão coligados."
+    },
+    {
+     "t": "p",
+     "x": "6. Os critérios enunciados no n.º 4 destinam-se a ser utilizados por iniciativa do importador e somente para efeitos de comparação, não podendo ser estabelecidos valores de substituição."
+    }
+   ]
+  },
+  {
+   "id": "artigo-103",
+   "label": "Artigo 103.º",
+   "epigraph": "Pessoas coligadas",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO I - Método 1",
+    "SUBSECÇÃO II - Do valor transaccional em caso de coligação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Para efeitos do disposto no Código e no Regulamento, só se consideram coligadas as pessoas quando:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Uma faça parte do conselho de administração ou da gerência da sociedade da outra e vice-versa;",
+      "Tenham juridicamente a qualidade de sócios da mesma ou das mesmas sociedades;",
+      "Uma seja empregadora da outra;",
+      "Uma possua, controle ou detenha, directa ou indirectamente, 5% ou mais das acções, quotas ou participações societárias emitidas com direito a voto em ambas;",
+      "Uma delas, directa ou indirectamente, controle a outra;",
+      "Ambas sejam, directa ou indirectamente, controladas por uma terceira pessoa;",
+      "Em conjunto, controlem, directa ou indirectamente, uma terceira pessoa; ou",
+      "Sejam membros da mesma família."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Consideram-se coligadas as pessoas que se tenham associado em negócios, sendo uma agente, distribuidora ou concessionária exclusiva da outra, independentemente da designação utilizada, contanto que se verifique uma das situações descritas no número anterior."
+    },
+    {
+     "t": "p",
+     "x": "3. Considera-se que uma pessoa controla outra quando a primeira estiver, de direito ou de facto, em posição de exercer sobre a segunda um poder de autoridade ou de direcção."
+    },
+    {
+     "t": "p",
+     "x": "4. Para efeitos do disposto na alínea h) do n.º 1, consideram-se membros da mesma família os cônjuges, os companheiros de união de facto e os parentes ou afins na linha recta ou parentes até ao quarto grau da linha colateral."
+    }
+   ]
+  },
+  {
+   "id": "artigo-104",
+   "label": "Artigo 104.º",
+   "epigraph": "Inquérito complementar",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO I - Método 1",
+    "SUBSECÇÃO II - Do valor transaccional em caso de coligação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Nos termos dos n.ºs 1, 2 e 3 do artigo 102.º, se as alfândegas não puderem aceitar o valor transaccional sem um inquérito complementar, deverão dar ao importador a possibilidade de fornecer todas as informações pormenorizadas que possam ser necessárias para lhe permitir examinar as circunstâncias próprias da venda, devendo as alfândegas, a fim de determinar se a coligação influenciou o preço, examinar os aspectos pertinentes da transacção, incluindo o modo como o comprador e o vendedor organizaram as respectivas relações comerciais e a forma pela qual o preço em questão foi calculado."
+    },
+    {
+     "t": "p",
+     "x": "2. Se puder ser provado que o comprador e o vendedor, apesar de estarem coligados na acepção do n.º 1 do artigo 103.º, compraram e venderam um ao outro como se não estivessem coligados, fica demonstrado que a coligação não influenciou o preço."
+    },
+    {
+     "t": "p",
+     "x": "3. Ao importador incumbe a responsabilidade de demonstrar que a relação não influenciou o preço."
+    }
+   ]
+  },
+  {
+   "id": "artigo-105",
+   "label": "Artigo 105.º",
+   "epigraph": "Outros métodos",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO I - Método 1",
+    "SUBSECÇÃO III - Do valor transaccional em outros casos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o valor aduaneiro das mercadorias importadas não puder ser determinado nos termos do artigo 100.º e 102.º, ou 107.º ou 110.º, deve ser determinado com base no disposto no artigo 112.º ou, quando o valor aduaneiro não puder ser determinado por aplicação deste artigo, com base no disposto no artigo 114.º."
+    },
+    {
+     "t": "p",
+     "x": "2. Pode, porém, inverter-se a ordem de aplicação dos artigos 112.º e 114.º, desde que o importador assim o requeira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-106",
+   "label": "Artigo 106.º",
+   "epigraph": "Mercadorias idênticas",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO II - Método 2"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São consideradas idênticas as mercadorias que possuem as mesmas características físicas, a mesma qualidade e o mesmo prestígio comercial."
+    },
+    {
+     "t": "p",
+     "x": "2. As pequenas diferenças de aspecto que as mercadorias eventualmente apresentem não obstam a que sejam qualificadas como idênticas."
+    },
+    {
+     "t": "p",
+     "x": "3. Não estão abrangidas no conceito de mercadorias idênticas as mercadorias que incorporem ou comportem, consoante os casos, trabalhos de engenharia, de estudo, de arte ou de design, ou planos e esboços, relativamente aos quais não tenha sido feito qualquer ajustamento por aplicação do artigo 117.º, n.º 1, al. b) iv., pelo facto de esses trabalhos terem sido executados no País."
+    },
+    {
+     "t": "p",
+     "x": "4. Só são consideradas idênticas as mercadorias que tenham sido produzidas no mesmo país em que hajam sido produzidas as mercadorias a avaliar."
+    },
+    {
+     "t": "p",
+     "x": "5. Só serão comparadas mercadorias produzidas por pessoas diferentes quando não existam mercadorias idênticas produzidas pela pessoa que produziu as mercadorias a avaliar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-107",
+   "label": "Artigo 107.º",
+   "epigraph": "Valor transaccional de mercadorias idênticas",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO II - Método 2"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O valor aduaneiro das mercadorias importadas, que não possa ser determinado com base no disposto nos artigos 100.º e 102.º, é o valor transaccional de mercadorias idênticas vendidas para exportação com destino ao País e exportadas no mesmo momento, ou em momento muito próximo, em que foram exportadas as mercadorias a avaliar."
+    },
+    {
+     "t": "p",
+     "x": "2. No momento da aplicação do disposto no presente artigo, o valor aduaneiro será determinado com recurso ao valor transaccional de mercadorias idênticas vendidas ao mesmo nível comercial e sensivelmente na mesma quantidade que as mercadorias a avaliar."
+    },
+    {
+     "t": "p",
+     "x": "3. Na falta de tais vendas, deve recorrer-se ao valor transaccional de mercadorias idênticas, vendidas a um nível comercial diferente e ou em quantidades diferentes, ajustado em função das diferenças correspondentes ao nível comercial e ou às quantidades, contanto que tais ajustamentos, independentemente de implicarem um aumento ou uma diminuição do valor, sejam efectuados com base em elementos de prova razoáveis e exactos."
+    },
+    {
+     "t": "p",
+     "x": "4. Quando os custos e as despesas referidos no n.º 2 do artigo 117.º estiverem incluídos no valor transaccional, este valor será ajustado em função de eventuais diferenças consideráveis dos custos e despesas entre as mercadorias importadas e as mercadorias idênticas consideradas, em consequência de diferenças nas distâncias e nos modos de transporte."
+    },
+    {
+     "t": "p",
+     "x": "5. Se, no momento da aplicação do disposto no presente artigo, for apurado mais de um valor transaccional de mercadorias idênticas, deve recorrer-se, para a determinação do valor aduaneiro das mercadorias importadas, ao valor transaccional mais baixo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-108",
+   "label": "Artigo 108.º",
+   "epigraph": "Ajustamentos",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO II - Método 2"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O valor transaccional de mercadorias idênticas importadas significa um valor aduaneiro ajustado em conformidade com o disposto nos n.ºs 2, 3 e 4 do artigo anterior, e já aceite nos termos do artigo 100.º."
+    },
+    {
+     "t": "p",
+     "x": "2. É condição para que possam ser feitos ajustamentos devidos às diferenças de nível comercial ou de quantidade, que esses ajustamentos, independentemente do facto de conduzirem a um aumento ou a uma diminuição do valor, apenas sejam efectuados com base em elementos comprovados que estabeleçam claramente que são razoáveis e exactos, tais como listas de preços em vigor em que figurem preços referentes a níveis diferentes ou a quantidades diferentes."
+    }
+   ]
+  },
+  {
+   "id": "artigo-109",
+   "label": "Artigo 109.º",
+   "epigraph": "Mercadorias similares",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO III - Método 3"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São consideradas similares as mercadorias que, apesar de apresentarem algumas diferenças entre si, têm características semelhantes, e são compostas por matérias semelhantes o que lhes permite preencher as mesmas funções e ser comercialmente permutáveis."
+    },
+    {
+     "t": "p",
+     "x": "2. A qualidade das mercadorias, o prestígio comercial e a existência de uma marca são elementos a tomar em consideração para determinar se as mercadorias são ou não similares."
+    },
+    {
+     "t": "p",
+     "x": "3. Não estão abrangidas no conceito de mercadorias similares as mercadorias que incorporem ou comportem, consoante os casos, trabalhos de engenharia, de estudo, de arte ou de design, ou planos e esboços, relativamente aos quais não tenha sido feito qualquer ajustamento por aplicação do artigo 117.º, n.º 1, al. b) iv., pelo facto de esses trabalhos terem sido executados no País."
+    },
+    {
+     "t": "p",
+     "x": "4. Só são consideradas similares as mercadorias que tenham sido produzidas no mesmo país em que hajam sido produzidas as mercadorias a avaliar."
+    },
+    {
+     "t": "p",
+     "x": "5. Só serão comparadas mercadorias produzidas por pessoas diferentes quando não existam mercadorias similares produzidas pela pessoa que produziu as mercadorias a avaliar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-110",
+   "label": "Artigo 110.º",
+   "epigraph": "Valor transaccional de mercadorias similares",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO III - Método 3"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O valor aduaneiro das mercadorias importadas, que não possa ser determinado com base no disposto nos artigos 100.º e 102.º ou 107.º, é o valor transaccional de mercadorias similares, vendidas para exportação com destino ao País e no mesmo momento, ou em momento muito próximo, em que foram exportadas as mercadorias a avaliar."
+    },
+    {
+     "t": "p",
+     "x": "2. No momento da aplicação do disposto no presente artigo, o valor aduaneiro será determinado com recurso ao valor transaccional de mercadorias similares, vendidas ao mesmo nível comercial e sensivelmente na mesma quantidade que as mercadorias a avaliar."
+    },
+    {
+     "t": "p",
+     "x": "3. Na falta de tais vendas, deve recorrer-se ao valor transaccional de mercadorias similares, vendidas a um nível comercial diferente e ou em quantidade diferente, ajustado em função das diferenças correspondentes ao nível comercial e ou à quantidade, contanto que tais ajustamentos, independentemente de implicarem um aumento ou uma diminuição do valor, sejam efectuados com base em elementos de prova razoáveis e exactos."
+    },
+    {
+     "t": "p",
+     "x": "4. Quando os custos e as despesas referidos no n.º 2 do artigo 117.º estiverem incluídos no valor transaccional, este valor será ajustado em função de eventuais diferenças consideráveis desses custos e despesas entre as mercadorias importadas e as mercadorias similares consideradas, em consequência de diferenças nas distâncias e nos modos de transporte."
+    },
+    {
+     "t": "p",
+     "x": "5. Se, no momento da aplicação do disposto no presente artigo, for apurado mais de um valor transaccional de mercadorias similares, deve recorrer-se, para a determinação do valor aduaneiro das mercadorias importadas, ao valor transaccional mais baixo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-111",
+   "label": "Artigo 111.º",
+   "epigraph": "Ajustamentos",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO III - Método 3"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O valor transaccional de mercadorias similares importadas significa um valor aduaneiro ajustado em conformidade com o disposto nos n.ºs 2, 3 e 4 do artigo anterior, e já aceite nos termos do artigo 100.º."
+    },
+    {
+     "t": "p",
+     "x": "2. É condição para que possam ser feitos ajustamentos devidos às diferenças de nível comercial ou de quantidade, que esses ajustamentos, independentemente do facto de conduzirem a um aumento ou a uma diminuição do valor, apenas sejam efectuados com base em elementos comprovados que estabeleçam claramente que são razoáveis e exactos, tais como listas de preços em vigor em que figurem preços referentes a níveis diferentes ou a quantidades diferentes."
+    }
+   ]
+  },
+  {
+   "id": "artigo-112",
+   "label": "Artigo 112.º",
+   "epigraph": "Método dedutivo",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO IV - Método 4"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se as mercadorias importadas, ou mercadorias idênticas ou similares importadas, forem vendidas no País no mesmo estado em que foram importadas, o valor aduaneiro das mercadorias importadas, determinado por aplicação das disposições do presente artigo, baseia-se no preço unitário de venda das mercadorias importadas, ou de mercadorias idênticas ou similares importadas, totalizando a quantidade mais elevada, desde que feitas a pessoas não coligadas com os vendedores, no mesmo momento ou em momento muito próximo da importação das mercadorias a avaliar, sujeitas às seguintes deduções:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "De comissões geralmente pagas ou acordadas, ou margens geralmente praticadas para lucros e despesas gerais relativos às vendas, no País, de mercadorias importadas da mesma natureza ou da mesma espécie, incluindo os custos directos e indirectos de comercialização das mercadorias no País;",
+      "De despesas habituais de transporte e de seguro, bem como de despesas conexas pagas no País;",
+      "De direitos e demais imposições a pagar no País em resultado da importação ou da venda das mercadorias."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Se as mercadorias importadas, ou as mercadorias idênticas ou similares importadas, não forem vendidas no mesmo momento ou em momento muito próximo do momento da importação das mercadorias a avaliar, o valor aduaneiro deve basear-se, sob reserva do disposto no n.º 1, no preço unitário a que as mercadorias importadas, ou mercadorias idênticas ou similares importadas, forem vendidas no País no mesmo estado em que foram importadas e na data mais próxima depois da importação das mercadorias a avaliar, mas antes de decorridos noventa dias a contar do momento dessa importação."
+    },
+    {
+     "t": "p",
+     "x": "3. Se nem as mercadorias importadas, nem as mercadorias idênticas ou similares importadas, forem vendidas no País no mesmo estado em que foram importadas, o valor aduaneiro deve basear-se, mediante requerimento escrito apresentado pelo importador, no preço unitário de venda das mercadorias importadas, totalizando a quantidade mais elevada, depois de um complemento de fabrico ou transformação ulterior, tendo em conta o valor acrescentado pelo complemento de fabrico ou pela transformação e as deduções previstas no n.º 1 do presente artigo, contanto que a referida venda seja feita no País a pessoas não coligadas com o vendedor."
+    }
+   ]
+  },
+  {
+   "id": "artigo-113",
+   "label": "Artigo 113.º",
+   "epigraph": "Preço unitário de venda",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO IV - Método 4"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Para os efeitos do disposto no n.º 3 do artigo anterior, entende-se por preço unitário de venda das mercadorias importadas, totalizando a quantidade mais elevada, o preço a que o maior número de unidades é vendido, no momento em que as vendas são feitas a pessoas não coligadas com o vendedor das mercadorias em questão, no primeiro nível comercial subsequente à importação."
+    },
+    {
+     "t": "p",
+     "x": "2. Para os efeitos do disposto no artigo anterior, na determinação do preço não deverá ser tomada em consideração nenhuma venda efectuada no país de importação, nas condições descritas no n.º 1 deste artigo, a uma pessoa que forneça, directa ou indirectamente, sem despesas ou a custo reduzido, qualquer dos elementos especificados na alínea b) do n.º 1 do artigo 117.º, para serem utilizados na produção ou na venda para exportação das mercadorias importadas."
+    },
+    {
+     "t": "p",
+     "x": "3. Sempre que se recorra ao método previsto no n.º 3 do artigo anterior, as deduções efectuadas para ter em conta o valor acrescentado pelo complemento de fabrico ou pela transformação ulterior devem basear-se em dados objectivos e quantificáveis relativos ao custo desses trabalhos, devendo os cálculos basear-se nas fórmulas, processos e métodos de cálculo admitidos no ramo de produção em causa e noutras práticas desse ramo de produção."
+    }
+   ]
+  },
+  {
+   "id": "artigo-114",
+   "label": "Artigo 114.º",
+   "epigraph": "Valor calculado",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO V - Método 5"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O valor aduaneiro das mercadorias importadas, determinado por aplicação das disposições do presente artigo, deve basear-se num valor calculado, que será igual à soma dos seguintes elementos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O custo ou valor das matérias-primas utilizadas e o custo das operações de fabrico ou outras efectuadas na produção das mercadorias importadas;",
+      "O montante representativo dos lucros e das despesas gerais, igual ao que é geralmente contabilizado nas vendas de mercadorias da mesma natureza ou da mesma espécie que as mercadorias a avaliar, efectuadas por produtores do país de exportação em operações de exportação com destino ao País;",
+      "Os custos e despesas referidos no n.º 2 do artigo 117.º."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-115",
+   "label": "Artigo 115.º",
+   "epigraph": "Último recurso",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO VI - Método 6"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O valor aduaneiro das mercadorias importadas, que não possa ser determinado com base no disposto nos artigos 100.º, 102.º, 105.º, 107.º, 110.º, 112.º e 114.º, será determinado com base em critérios razoáveis compatíveis com os princípios e as disposições gerais do Acordo e do Artigo VII do Acordo Geral sobre Pautas Aduaneiras e Comércio, tendo em conta os dados disponíveis no País."
+    },
+    {
+     "t": "p",
+     "x": "2. O valor aduaneiro determinado por aplicação das disposições do presente artigo não pode basear-se:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "No preço de venda no País de mercadorias aí produzidas;",
+      "Num sistema que preveja a aceitação, para fins aduaneiros, do mais elevado de dois valores possíveis;",
+      "No preço de mercadorias em vigor no mercado interno do país de exportação;",
+      "No custo de produção distinto dos valores calculados que tiverem sido determinados para mercadorias idênticas ou similares em conformidade com as disposições do artigo 114.º;",
+      "No preço de mercadorias vendidas para exportação com destino a um país distinto de Angola;",
+      "Em valores aduaneiros mínimos;",
+      "Em valores arbitrários ou fictícios."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. As alfândegas, mediante solicitação do importador, devem informá-lo, por escrito, do valor aduaneiro determinado com base no disposto no presente artigo e do método utilizado para o determinar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-116",
+   "label": "Artigo 116.º",
+   "epigraph": "Métodos a utilizar",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO I - Dos métodos em especial",
+    "SECÇÃO VI - Método 6"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O valor aduaneiro determinado por aplicação do disposto no artigo anterior deverá, tanto quanto possível, basear-se em valores aduaneiros previamente determinados."
+    },
+    {
+     "t": "p",
+     "x": "2. Os métodos da determinação do valor que devem ser utilizados por força do artigo anterior são os definidos nos artigos 100.º a 114.º, embora deva adoptar-se uma flexibilidade razoável na aplicação desses métodos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-117",
+   "label": "Artigo 117.º",
+   "epigraph": "Ajustamentos do preço efectivamente pago ou a pagar",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO II - Ajustamentos do preço e deduções"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Para determinar o valor aduaneiro com base no disposto no artigo 100.º e 102.º, deve acrescentar-se ao preço efectivamente pago ou a pagar pelas mercadorias importadas:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os seguintes valores, na medida em que tenham sido suportados pelo comprador, mas não tenham sido incluídos no preço efectivamente pago ou a pagar pelas mercadorias:\ni. Comissões e despesas de corretagem, com excepção das comissões de compra;\nii. Custo dos recipientes que, para fins aduaneiros, se consideram como constituindo um todo com a mercadoria;\niii. Custo do recipiente, compreendendo a mão-de-obra assim como os materiais;",
+      "O valor, imputado de maneira adequada, dos seguintes produtos e serviços, quando forem, directa ou indirectamente, fornecidos pelo comprador, sem despesas ou a custo reduzido, e utilizados aquando da produção e da venda para exportação das mercadorias importadas, na medida em que esse valor não tenha sido incluído no preço efectivamente pago ou a pagar:\ni. Matérias-primas, peças, componentes, partes e elementos similares incorporados nas mercadorias importadas;\nii. Ferramentas, matrizes, moldes e objectos similares utilizados para a produção das mercadorias importadas;\niii. Matérias-primas consumidas na produção das mercadorias importadas;\niv. Trabalhos de engenharia, de estudo, de arte e de design, planos e esboços, executados fora do País e necessários para a produção das mercadorias importadas;",
+      "Royalties e direitos de licença relativos às mercadorias a avaliar, que o comprador é obrigado a pagar, quer directa, quer indirectamente, como condição de venda das mercadorias a avaliar, na medida em que esses 66 royalties e direitos de licença não tenham sido incluídos no preço efectivamente pago ou a pagar;",
+      "O valor de qualquer parte do produto da revenda, cedência ou utilização ulterior das mercadorias importadas que, directa ou indirectamente, reverta para o vendedor."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Devem ser incluídos no valor aduaneiro das mercadorias importadas, na medida que tenham sido incluídos no preço efectivamente pago ou a pagar, os seguintes valores:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Despesas de transporte das mercadorias importadas até ao porto ou local de importação;",
+      "Despesas de carga, de descarga e de manipulação ligadas ao transporte das mercadorias importadas até ao porto ou local de importação no País; e",
+      "Custo do seguro."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Qualquer elemento que, por aplicação das disposições do presente artigo, for acrescentado ao preço efectivamente pago ou a pagar deve basear-se exclusivamente em dados objectivos e quantificáveis."
+    },
+    {
+     "t": "p",
+     "x": "4. Para a determinação do valor aduaneiro, nenhum outro valor será acrescentado ao preço efectivamente pago ou a pagar, com excepção dos valores previstos no presente artigo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-118",
+   "label": "Artigo 118.º",
+   "epigraph": "Comissões de compra e royalties",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO II - Ajustamentos do preço e deduções"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Para efeitos do disposto no artigo anterior, entende-se por comissões de compra os valores que um importador paga ao seu agente pelo serviço prestado ao representá-lo no estrangeiro na compra das mercadorias a avaliar."
+    },
+    {
+     "t": "p",
+     "x": "2. Para efeitos do disposto na alínea c) do n.º 1 do artigo anterior, os royalties e os direitos de licença incluirão os pagamentos para o uso de direitos referentes a:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Fabrico de mercadorias importadas, nomeadamente patentes, designs, modelos e know-how de fabrico; ou",
+      "Venda para exportação de mercadorias importadas, nomeadamente marcas comerciais e designs registados; ou",
+      "Uso ou revenda de mercadorias importadas, nomeadamente direitos de autor e processos de fabrico inseparavelmente incorporados nas mercadorias importadas."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Os pagamentos efectuados pelo comprador como contrapartida do direito de distribuir ou de revender as mercadorias importadas não serão acrescentados ao preço efectivamente pago ou a pagar pelas mercadorias importadas, se esses pagamentos não constituírem uma condição de venda das mercadorias importadas, para exportação com destino ao País."
+    },
+    {
+     "t": "p",
+     "x": "4. O valor referido no n.º 2 do artigo anterior será o valor real desses items e artigos e não valores especulativos ou estimados."
+    },
+    {
+     "t": "p",
+     "x": "5. Se o transporte for gratuito ou fornecido pelo comprador, serão incluídos no valor aduaneiro os custos de transporte até ao local de introdução, calculado em conformidade com a tabela de valores de frete aplicada normalmente para os meios de transporte."
+    }
+   ]
+  },
+  {
+   "id": "artigo-119",
+   "label": "Artigo 119.º",
+   "epigraph": "Deduções",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO II - Métodos de determinação do valor aduaneiro",
+    "CAPÍTULO II - Ajustamentos do preço e deduções"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Não devem ser incluídos no valor aduaneiro, desde que sejam apresentados separadamente do preço efectivamente pago ou a pagar pela mercadoria importada, os seguintes valores:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os encargos que resultem do transporte de mercadorias após a chegada ao local de entrada no País;",
+      "Os encargos que resultem da construção, instalação, montagem, manutenção ou assistência técnica, realizadas, depois da importação, em mercadorias importadas, tais como instalações, máquinas ou equipamentos industriais;",
+      "Os direitos e as taxas pagos ou a pagar em virtude da importação ou venda das mercadorias no País;",
+      "As comissões de compra;",
+      "Os encargos que derivem do direito de reproduzir no País mercadorias importadas;",
+      "Os encargos relativos a juros resultantes de qualquer acordo de financiamento celebrado pelo comprador e relativo à compra de mercadorias importadas, independentemente do financiamento ter sido concedido pelo vendedor ou por outra pessoa, desde que o acordo de financiamento tenha sido celebrado por escrito e, se necessário, o comprador possa demonstrar que:\ni. Tais mercadorias são efectivamente vendidas ao preço declarado como preço efectivamente pago ou a pagar, e\nii. A taxa de juro estipulada não excedia, no momento em que o referido financiamento tenha sido concedido, o quantitativo prevalecente no País para esse tipo de transacções."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-120",
+   "label": "Artigo 120.º",
+   "epigraph": "Declaração",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO I - Declaração de valor aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O importador de qualquer mercadoria, no momento em que elabora o respectivo despacho, deve apresentar uma declaração referente a essa mercadoria, devidamente preenchida nos formulários aprovados ou outros que as alfândegas venham a exigir, e indicar os elementos cuja menção é necessária para a correcta determinação do valor aduaneiro da mercadoria."
+    }
+   ]
+  },
+  {
+   "id": "artigo-121",
+   "label": "Artigo 121.º",
+   "epigraph": "Formulários",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO I - Declaração de valor aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As declarações de valor devem ser feitas somente por importadores que tenham a sua residência ou local de trabalho no País e que estejam habilitados a praticar actos de comércio."
+    },
+    {
+     "t": "p",
+     "x": "2. Os formulários relativos à aplicação do regime de determinação do valor aduaneiro das mercadorias importadas por uma sociedade comercial devem ser assinados pelos seus representantes legais, nomeadamente pelos seus administradores ou gerentes, contanto que, nos termos do respectivo contrato de sociedade, tenham capacidade para obrigar a sociedade."
+    },
+    {
+     "t": "p",
+     "x": "3. O disposto no artigo anterior é aplicável, com as necessárias adaptações, a outras pessoas colectivas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-122",
+   "label": "Artigo 122.º",
+   "epigraph": "Declarações Gerais de Valores",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO I - Declaração de valor aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os importadores que, de forma regular e mediante a estipulação de cláusulas comerciais iguais, importem mercadorias de um fornecedor, podem ser autorizados a utilizar Declarações Gerais de Valores nos termos estipulados pelas alfândegas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-123",
+   "label": "Artigo 123.º",
+   "epigraph": "Isenções",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO I - Declaração de valor aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Serão isentas das exigências estabelecidas no artigo 121.º, as mercadorias importadas:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Com valor CIF inferior a UCF 12.000;",
+      "Desalfandegadas sob regime simplificado;",
+      "Pelas embaixadas, consulados e outras representações diplomáticas;",
+      "Pelas organizações das Nações Unidas;",
+      "Por pessoas singulares ou passageiros, tratando-se de mercadorias não comerciais;",
+      "Doadas, com isenção de encargos, a organizações não governamentais ou a instituições similares."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. As alfândegas podem, em qualquer momento, exigir ao importador o preenchimento de uma declaração de valor referente às mercadorias importadas nas condições referidas no número anterior."
+    }
+   ]
+  },
+  {
+   "id": "artigo-124",
+   "label": "Artigo 124.º",
+   "epigraph": "Controlo do valor aduaneiro",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Todas as mercadorias importadas estão sujeitas ao controlo dos respectivos valores aduaneiros."
+    },
+    {
+     "t": "p",
+     "x": "2. O controlo do valor aduaneiro consiste na verificação da conformidade do valor aduaneiro declarado pelo importador com as regras estabelecidas na legislação aplicável."
+    },
+    {
+     "t": "p",
+     "x": "3. O controlo do valor aduaneiro deve ser realizado de forma selectiva, no momento do desalfandegamento ou no momento da revisão aduaneira pós-importação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-125",
+   "label": "Artigo 125.º",
+   "epigraph": "Análise do valor declarado",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A análise do valor declarado consiste nos seguintes procedimentos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Verificação da existência de documentos de suporte do valor aduaneiro, de acordo com o método de avaliação aplicado no formulário da declaração de valor;",
+      "Avaliação da autenticidade dos documentos apresentados;",
+      "Comparação das informações contidas no formulário do despacho de importação e na declaração de valor aduaneiro com as informações incluídas nos respectivos documentos de suporte;",
+      "Inquéritos, auditorias ou investigações, sempre que as circunstâncias o justificarem."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-126",
+   "label": "Artigo 126.º",
+   "epigraph": "Local dos inquéritos, auditorias ou investigações",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os inquéritos, auditorias ou investigações referidos na alínea d) do artigo anterior podem ser realizados nos estabelecimentos dos importadores ou de outra pessoa que esteja envolvida na operação de importação em causa."
+    }
+   ]
+  },
+  {
+   "id": "artigo-127",
+   "label": "Artigo 127.º",
+   "epigraph": "Prazo para a entrega da informação adicional",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO II - Controlo no desalfandegamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A informação adicional à contida no formulário do despacho de importação ou da declaração de valor aduaneiro, bem como os respectivos documentos de suporte exigidos para analisar o valor declarado, devem ser apresentados pelo importador no prazo de dez dias úteis, a contar da data em que tenha sido notificado para o efeito."
+    },
+    {
+     "t": "p",
+     "x": "2. Em casos devidamente justificados, as alfândegas podem prorrogar uma vez o prazo referido no número anterior."
+    },
+    {
+     "t": "p",
+     "x": "3. O pedido de prorrogação do prazo deve ser feito antes do termo deste."
+    }
+   ]
+  },
+  {
+   "id": "artigo-128",
+   "label": "Artigo 128.º",
+   "epigraph": "Prestação de garantia",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO II - Controlo no desalfandegamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O desembaraço de mercadorias do controlo aduaneiro pode ser efectuado mediante prestação de uma garantia de valor equivalente à diferença entre os direitos de importação arrecadados e os direitos a que as mercadorias poderão estar sujeitas, quando o valor aduaneiro:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Seja inferior a um valor considerado razoável para mercadorias idênticas ou similares; ou",
+      "Não possa ser determinado no momento do desembaraço, porque o preço final a pagar ou a informação exigida para a utilização adequada de um método de avaliação depende de factores a serem implementados após a importação."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. A garantia pode ser prestada por meio de depósito de dinheiro, de garantia bancária irrevogável, ou, ainda, através de organização aprovada com presença reconhecida no País."
+    },
+    {
+     "t": "p",
+     "x": "3. Se a informação solicitada não for prestada nos prazos fixados no artigo 127.º, a garantia será convertida em receita e o controlo do valor declarado será considerado finalizado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-129",
+   "label": "Artigo 129.º",
+   "epigraph": "Recusa da aplicação do método transaccional",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO II - Controlo no desalfandegamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Em caso de incumprimento do disposto no artigo 127.º, ou quando a informação fornecida não seja suficiente para a aceitação do valor declarado como preço 70 efectivamente pago ou a pagar pelas mercadorias importadas, ajustado em conformidade com o artigo 117.º, as alfândegas podem, nos termos do artigo 92.º, n.º 2, decidir da impossibilidade da aplicação do método transaccional."
+    },
+    {
+     "t": "p",
+     "x": "2. Nos casos referidos no número anterior, as alfândegas, mediante solicitação do importador, devem informá-lo sobre os motivos da recusa da aplicação do método transaccional."
+    }
+   ]
+  },
+  {
+   "id": "artigo-130",
+   "label": "Artigo 130.º",
+   "epigraph": "Procedimentos",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO III - Controlo pós-desalfandegamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. No momento da revisão aduaneira pós-importação, a que se refere o n.º 3 do artigo 124.º, o controlo do valor aduaneiro deve ser realizado de acordo com os procedimentos estabelecidos pelos artigos 125.º e 126.º e com as regras definidas pelas alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "2. Para efeitos do disposto neste artigo, o importador deve apresentar os necessários documentos de suporte no prazo de vinte e dois dias úteis, a contar da data em que tenha sido informado da selecção para o controlo do valor aduaneiro."
+    }
+   ]
+  },
+  {
+   "id": "artigo-131",
+   "label": "Artigo 131.º",
+   "epigraph": "Acesso às instalações",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO III - Controlo pós-desalfandegamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Para efeitos de verificação aduaneira pós-importação, a pedido das alfândegas, o importador, proprietário ou seu representante, em qualquer altura, devem:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Permitir a entrada dos funcionários aduaneiros no seu estabelecimento, sempre que estes, no exercício das suas funções, o exijam;",
+      "Pôr à disposição das alfândegas todos os documentos, correspondência, sistemas contabilísticos e registos necessários para verificar o valor aduaneiro declarado;",
+      "Fornecer às alfândegas, de acordo com os termos por estas fixados, cópias daqueles documentos, correspondência e registos;",
+      "Responder a qualquer questão relativa à verificação aduaneira pós-importação e aos respectivos documentos, correspondência, sistemas contabilísticos e registos."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Sempre que a informação relativa à verificação aduaneira pós-importação conste de registo electrónico ou de qualquer outro suporte, as pessoas mencionadas no n.º 1, ou os seus representantes, a pedido das alfândegas, devem pôr em funcionamento o respectivo mecanismo electrónico ou suporte, ou permitir que os mesmos sejam postos em funcionamento, de modo a que seja facultada às alfândegas toda a informação necessária."
+    }
+   ]
+  },
+  {
+   "id": "artigo-132",
+   "label": "Artigo 132.º",
+   "epigraph": "Conservação de dados, informações e documentos",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO III - Controlo pós-desalfandegamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O importador deve conservar, de forma organizada em termos de escrituração comercial, para efeitos de qualquer eventual verificação aduaneira pós-importação, todos os dados, informações e os respectivos documentos de suporte, bem como os correspondentes livros de contabilidade, durante um período de cinco anos a contar da data do registo do respectivo despacho de importação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-133",
+   "label": "Artigo 133.º",
+   "epigraph": "Recusa de apresentação de documentos",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO III - Controlo pós-desalfandegamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Para os efeitos do disposto nos artigos 127.º e 130.º, a não apresentação dos documentos de suporte dentro dos prazos estabelecidos constitui uma transgressão fiscal aduaneira nos termos da alínea a) do n.º 1 do artigo 211.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-134",
+   "label": "Artigo 134.º",
+   "epigraph": "Recusa da aplicação do método transaccional",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO III - Controlo pós-desalfandegamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Em caso de incumprimento do disposto no artigo 130.º, n.º 2, ou quando a informação fornecida não seja suficiente para a aceitação do valor declarado como preço efectivamente pago ou a pagar pelas mercadorias importadas, ajustado em conformidade com o artigo 117.º, as alfândegas podem, nos termos do artigo 92.º, n.º 2, decidir da impossibilidade da aplicação do método transaccional."
+    },
+    {
+     "t": "p",
+     "x": "2. Nos casos referidos no número anterior, as alfândegas, mediante solicitação do importador, devem informá-lo sobre os motivos da recusa da aplicação do método transaccional."
+    }
+   ]
+  },
+  {
+   "id": "artigo-135",
+   "label": "Artigo 135.º",
+   "epigraph": "Correcção de erros",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO III - Instruções preliminares",
+    "CAPÍTULO II - Controlo e análise do valor aduaneiro",
+    "SECÇÃO III - Controlo pós-desalfandegamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "É aplicável à correcção de erros, em matéria de valor aduaneiro, o disposto nos artigos 60.º e 61.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-136",
+   "label": "Artigo 136.º",
+   "epigraph": "Regime geral",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO IV - Disposições finais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Nos termos do Acordo, deve utilizar-se, para fins de avaliação aduaneira, sempre que possível, o valor transaccional de mercadorias importadas determinado de harmonia com o artigo 100.º e seguintes."
+    },
+    {
+     "t": "p",
+     "x": "2. Nos casos em que as mercadorias importadas não sejam objecto de venda, não haverá valor transaccional nos termos do artigo 100.º, devendo, assim, o valor aduaneiro ser determinado nos termos dos artigos 105.º a 116.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-137",
+   "label": "Artigo 137.º",
+   "epigraph": "Descontos",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO IV - Disposições finais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São admissíveis os descontos a pronto pagamento ou em função de quantidades."
+    },
+    {
+     "t": "p",
+     "x": "2. Não são, porém, admissíveis os descontos referidos no número anterior nos seguintes casos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Quando o comprador fornece outras mercadorias ou serviços a um terceiro, para ou em nome do vendedor, como uma condição de venda das mercadorias importadas;",
+      "Quando o relacionamento com a outra parte afecta o preço;",
+      "Quando o preço das mercadorias importadas receba créditos contraídos a respeito das transacções antecipadas."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Na determinação do valor aduaneiro deve ser feito um desconto de amostra, sempre que a compra satisfaça os requisitos do artigo 100.º."
+    },
+    {
+     "t": "p",
+     "x": "4. São geralmente admissíveis os descontos comerciais, mas as alfândegas reservam-se o direito de examinar, por preferência ou como uma questão de rotina, quaisquer descontos, caso haja motivo para suspeitar da existência de negligência ou de má fé."
+    },
+    {
+     "t": "p",
+     "x": "5. São geralmente admissíveis os descontos em função de quantidades, contanto que hajam sido concedidos no momento da compra e sejam um factor condicionante da fixação do preço das mercadorias importadas."
+    },
+    {
+     "t": "p",
+     "x": "6. Não são, porém, admissíveis, para fins de determinação do valor aduaneiro, os descontos concedidos retrospectivamente no fim de um período predeterminado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-138",
+   "label": "Artigo 138.º",
+   "epigraph": "Repartição de custos tributáveis, encargos e despesas",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO IV - Disposições finais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Caso seja necessário repartir custos tributáveis, encargos e despesas entre várias adições no formulário do despacho de importação, deve esta repartição ser feita com base no preço da factura de cada adição, independentemente do tipo de direitos aplicáveis."
+    }
+   ]
+  },
+  {
+   "id": "artigo-139",
+   "label": "Artigo 139.º",
+   "epigraph": "Facturação de mercadorias diferentes",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO IV - Disposições finais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Caso sejam vendidas e facturadas mercadorias diferentes a preço único, será impossível avaliar as condições e prestações das reduções e agravamentos dos ajustamentos de preços e aplicá-los nos termos da alínea b) do n.º 2 do artigo 100.º, não podendo, neste caso, a avaliação basear-se no método 1, isto é, no valor transaccional."
+    }
+   ]
+  },
+  {
+   "id": "artigo-140",
+   "label": "Artigo 140.º",
+   "epigraph": "Mercadorias vendidas para exportação com destino ao País",
+   "path": [
+    "PARTE IV - REGIME DE DETERMINAÇÃO DO VALOR ADUANEIRO DAS MERCADORIAS",
+    "TÍTULO IV - Disposições finais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Só se consideram como vendidas para exportação com destino ao País, para efeitos de enquadramento no artigo 100.º, as mercadorias vendidas ao importador no País, contanto que tenha sido efectuada uma transferência real das mercadorias, não tendo, porém, o exportador de estar domiciliado num país específico de exportação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-141",
+   "label": "Artigo 141.º",
+   "epigraph": "Âmbito de aplicação e objecto",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O regime jurídico definido nesta parte aplica-se às infracções à legislação aduaneira em vigor no País, incluindo a que respeita aos regimes aduaneiros suspensivos e de benefícios fiscais, de importação ou exportação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-142",
+   "label": "Artigo 142.º",
+   "epigraph": "Noção e tipos de infracções fiscais aduaneiras",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Infracção fiscal aduaneira é o facto ilícito declarado punível pelo Código ou por lei avulsa."
+    },
+    {
+     "t": "p",
+     "x": "2. As infracções fiscais aduaneiras classificam-se em crimes e transgressões."
+    }
+   ]
+  },
+  {
+   "id": "artigo-143",
+   "label": "Artigo 143.º",
+   "epigraph": "Lugar da prática da infracção fiscal aduaneira",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O Código é aplicável, seja qual for a nacionalidade do infractor, às infracções fiscais aduaneiras cometidas no território aduaneiro, e ainda, salvo convenção em contrário, às infracções que, tendo sido praticadas fora deste território, nele tenham produzido o seu resultado típico."
+    },
+    {
+     "t": "p",
+     "x": "2. A infracção fiscal aduaneira considera-se cometida ou praticada no lugar em que, total ou parcialmente, o infractor tenha actuado, ainda que sob qualquer forma de comparticipação, ou no lugar em que o resultado típico se tenha produzido, e, em caso de omissão, no lugar do serviço aduaneiro em que devia ter sido cumprido o dever violado ou no lugar onde o infractor devia ter actuado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-144",
+   "label": "Artigo 144.º",
+   "epigraph": "Concurso de infracções",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o mesmo facto constituir simultaneamente crime e transgressão, o infractor é punido a título de crime, sem prejuízo das sanções acessórias previstas para a transgressão."
+    },
+    {
+     "t": "p",
+     "x": "2. Os factos que forem qualificados, no todo ou em parte, como infracções fiscais aduaneiras por mais de uma disposição legal são punidos pela disposição que estabeleça pena mais grave."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando o mesmo facto constituir simultaneamente infracção fiscal aduaneira e de outra natureza, as sanções previstas para ambas as infracções são cumuláveis, desde que tenham sido violados interesses jurídicos distintos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-145",
+   "label": "Artigo 145.º",
+   "epigraph": "Presunção de fraude",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A presunção de fraude admite sempre prova em contrário."
+    }
+   ]
+  },
+  {
+   "id": "artigo-146",
+   "label": "Artigo 146.º",
+   "epigraph": "Punibilidade da tentativa",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A tentativa da prática de qualquer infracção fiscal aduaneira legalmente prevista é punível nos mesmos termos da infracção consumada."
+    }
+   ]
+  },
+  {
+   "id": "artigo-147",
+   "label": "Artigo 147.º",
+   "epigraph": "Actuação em nome de outrem",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Fica sujeito à aplicação das sanções correspondentes à violação das normas aduaneiras quem age voluntariamente como titular dos órgãos de uma pessoa colectiva, sociedade ou mera associação de facto, ou em representação legal ou voluntária de outrem, mesmo quando o respectivo tipo de infracção exija:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Determinados elementos pessoais e estes só se verifiquem na pessoa do representado;",
+      "Que o infractor pratique o facto no seu próprio interesse e o representante actue no interesse do representado."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. A ineficácia do acto que serve de fundamento à representação não impede a aplicação do disposto no número anterior."
+    },
+    {
+     "t": "p",
+     "x": "3. Não há responsabilidade do representante que prove:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Que não participou no facto ilícito praticado pelo representado ou por terceiro;",
+      "Que, não tendo participado no facto ilícito, mas tendo tido conhecimento da sua prática, comunicou às alfândegas essa prática;",
+      "Que agiu com diligência em todos os momentos do processo aduaneiro."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-148",
+   "label": "Artigo 148.º",
+   "epigraph": "Cúmplices e encobridores",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Aos cúmplices devem ser aplicadas penas iguais às que hajam sido aplicadas aos autores."
+    },
+    {
+     "t": "p",
+     "x": "2. Os encobridores são punidos com as penas aplicáveis aos autores, especialmente atenuadas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-149",
+   "label": "Artigo 149.º",
+   "epigraph": "Pluralidade de infractores",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se a infracção fiscal aduaneira for cometida por mais de uma pessoa, será aplicada a cada um dos infractores a pena correspondente à infracção."
+    },
+    {
+     "t": "p",
+     "x": "2. Se a infracção se verificar na bagagem de vários passageiros da mesma família viajando juntos, aplicar-se-á uma só multa, por cujo pagamento são todos solidariamente responsáveis."
+    }
+   ]
+  },
+  {
+   "id": "artigo-150",
+   "label": "Artigo 150.º",
+   "epigraph": "Presunção de comparticipação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Presume-se a comparticipação dos respectivos capitães, mestres, arrais, patrões e tripulantes de navios ou de quaisquer embarcações, se se reconhecer que as mercadorias objecto da infracção fiscal aduaneira faziam parte da carga dos aludidos navios ou embarcações."
+    },
+    {
+     "t": "p",
+     "x": "2. A presunção de comparticipação a que se refere o número anterior pode ser ilidida mediante prova em contrário."
+    }
+   ]
+  },
+  {
+   "id": "artigo-151",
+   "label": "Artigo 151.º",
+   "epigraph": "Responsabilidade das pessoas colectivas e entidades equiparadas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As pessoas colectivas e entidades equiparadas são responsáveis pela prática das infracções previstas no Código quando cometidas pelos seus agentes, órgãos ou representantes em seu nome ou no seu interesse."
+    },
+    {
+     "t": "p",
+     "x": "2. Esta responsabilidade é excluída quando o agente, órgão ou representante tiver actuado contra ordens ou instruções expressas de quem de direito."
+    },
+    {
+     "t": "p",
+     "x": "3. A responsabilidade das pessoas colectivas e das entidades equiparadas não exclui a responsabilidade individual dos seus agentes, órgãos ou representantes que hajam praticado a infracção."
+    },
+    {
+     "t": "p",
+     "x": "4. Se a sanção for aplicada a uma entidade sem personalidade jurídica, responderá por ela o património comum e, na sua falta ou insuficiência, solidariamente, o património de cada um dos associados."
+    }
+   ]
+  },
+  {
+   "id": "artigo-152",
+   "label": "Artigo 152.º",
+   "epigraph": "Determinação da medida das sanções",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Na determinação da medida das sanções aplicáveis, ter-se-á em conta a gravidade da infracção praticada, a culpa, as circunstâncias agravantes e atenuantes, a situação económica do infractor e a colaboração por ele prestada no decurso do processo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-153",
+   "label": "Artigo 153.º",
+   "epigraph": "Direitos e demais imposições devidos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O infractor é obrigado a pagar os direitos e demais imposições correspondentes às mercadorias objecto da infracção se tivessem sido regularmente despachadas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-154",
+   "label": "Artigo 154.º",
+   "epigraph": "Subsistência da obrigação de pagamento de direitos e demais imposições",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Aquele que for condenado pela prática de infracção fiscal aduaneira e cumprir a pena não é dispensado da obrigação de pagar os direitos e as demais imposições devidos pelas mercadorias objecto da infracção, salvo se, pertencendo-lhe aquelas mercadorias e não sendo das que a lei decreta a perda, as abandonarem com a consequente perda destas a favor do Estado nos termos previstos no Código."
+    },
+    {
+     "t": "p",
+     "x": "2. No caso previsto na parte final do número anterior, sempre que as mercadorias abandonadas sejam vendidas, o respectivo preço destina-se ao pagamento dos direitos e demais imposições aduaneiras devidos."
+    },
+    {
+     "t": "p",
+     "x": "3. O disposto nos números anteriores é aplicável à condenação, absolvição ou arquivamento dos autos."
+    },
+    {
+     "t": "p",
+     "x": "4. Consideram-se abandonadas a favor do Estado as mercadorias apreendidas ou colocadas à ordem das alfândegas se, após a decisão da autoridade competente, não forem iniciadas as formalidades de despacho nos prazos fixados no Regulamento ou não forem pagos ou caucionados os direitos e demais imposições em dívida no prazo de dez dias úteis a contar da respectiva notificação."
+    },
+    {
+     "t": "p",
+     "x": "5. Dentro do prazo referido no número anterior podem os interessados declarar por escrito que abandonam as mercadorias a favor do Estado ou solicitar a sua reexportação."
+    },
+    {
+     "t": "p",
+     "x": "6. A arrecadação de receitas aduaneiras e as formalidades de despacho, relativamente a mercadorias e a meios de transporte objecto de infracção fiscal aduaneira, são da exclusiva competência das alfândegas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-155",
+   "label": "Artigo 155.º",
+   "epigraph": "Pagamento em prestações",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Atentas as circunstâncias particulares do caso em questão e a salvaguarda do interesse público, o Ministro das Finanças pode autorizar o pagamento das multas devidas em prestações mensais em número não superior a doze."
+    },
+    {
+     "t": "p",
+     "x": "2. A autorização para o pagamento em prestações depende de caução, a prestar pelo requerente, de valor igual ao da totalidade da multa devida."
+    },
+    {
+     "t": "p",
+     "x": "3. O pagamento em prestações pode ser requerido em qualquer estado do processo e, uma vez deferido, sobrestará à execução."
+    },
+    {
+     "t": "p",
+     "x": "4. A falta de pagamento de qualquer prestação implica o imediato vencimento das restantes."
+    },
+    {
+     "t": "p",
+     "x": "5. A caução pode ser levantada quando esteja paga a totalidade da multa devida."
+    }
+   ]
+  },
+  {
+   "id": "artigo-156",
+   "label": "Artigo 156.º",
+   "epigraph": "Responsabilidade solidária",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando a infracção for cometida por diversas pessoas, todas são solidariamente responsáveis pelo pagamento dos direitos, das demais imposições e das multas devidas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-157",
+   "label": "Artigo 157.º",
+   "epigraph": "Responsabilidade do proprietário das mercadorias",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Nos crimes que forem praticados por despachantes, seus ajudantes, caixeiros despachantes ou agentes aduaneiros, responde o proprietário das mercadorias que tenha actuado com dolo ou negligência."
+    },
+    {
+     "t": "p",
+     "x": "2. O proprietário das mercadorias é sempre responsável, quanto ao pagamento dos direitos e demais imposições que forem devidos, por todos os actos praticados pelos despachantes, seus ajudantes, caixeiros despachantes ou agentes aduaneiros."
+    }
+   ]
+  },
+  {
+   "id": "artigo-158",
+   "label": "Artigo 158.º",
+   "epigraph": "Direito subsidiário",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Ao regime substantivo das infracções fiscais aduaneiras aplicam-se, subsidiariamente, as normas contidas na legislação penal e civil e as normas relativas às transgressões administrativas, na medida em que sejam conformes com o disposto no presente Código."
+    }
+   ]
+  },
+  {
+   "id": "artigo-159",
+   "label": "Artigo 159.º",
+   "epigraph": "Circunstâncias agravantes",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO II - Disposições aplicáveis aos crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Constituem circunstâncias agravantes da responsabilidade criminal do infractor:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Ser o crime cometido de noite ou em lugar ermo e aproveitando essas circunstâncias, por meio de violência ou ameaça de violência, com uso de arma ou por meio de arrombamento, escalamento ou chave falsa, ou por duas ou mais pessoas;",
+      "Ser o crime cometido com alteração, viciação ou falsificação de quaisquer documentos aduaneiros ou outros apresentados às alfândegas;",
+      "Ser o crime cometido por associação organizada para a prática de infracções fiscais aduaneiras;",
+      "Ser o crime praticado com recurso à corrupção de algum funcionário público;",
+      "Ser o autor ou o seu cúmplice funcionário ou representante das alfândegas ou da Polícia Fiscal, despachante, seu ajudante, caixeiro despachante ou agente aduaneiro;",
+      "Ser o crime cometido, nos respectivos meios de transporte, pelos comandantes ou tripulantes de aeronaves, pelos capitães, mestres, arrais, patrões ou tripulantes de navios ou de quaisquer embarcações, ou por qualquer empregado de empresa de transportes colectivos;",
+      "Ser o autor ou o seu cúmplice reincidente;",
+      "Ter havido sucessão de infracções."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Verificando-se qualquer circunstância agravante, os limites da multa aplicável ao autor ou ao seu cúmplice poderão ser elevados até ao dobro nos seus limites mínimos e máximos."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando no crime fiscal aduaneiro se verifique qualquer das agravantes das alíneas a), b), c) e d) do n.º 1, à pena de multa acresce a de prisão até um ano."
+    }
+   ]
+  },
+  {
+   "id": "artigo-160",
+   "label": "Artigo 160.º",
+   "epigraph": "Montante das penas de multa",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO II - Disposições aplicáveis aos crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A pena de multa é fixada em Unidades de Correcção Fiscal, abreviadamente designadas por UCF, ou tomando por base de cálculo o valor dos direitos e demais imposições aduaneiras devidos ou o valor aduaneiro da mercadoria."
+    },
+    {
+     "t": "p",
+     "x": "2. O valor aduaneiro da mercadoria é determinado de acordo com o disposto na Parte IV do Código."
+    }
+   ]
+  },
+  {
+   "id": "artigo-161",
+   "label": "Artigo 161.º",
+   "epigraph": "Suspensão ou demissão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO II - Disposições aplicáveis aos crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Pode ser suspenso ou demitido da função pública, segundo a gravidade da infracção, mediante a promoção do processo penal correspondente e a instauração de procedimento disciplinar, o funcionário público que haja praticado crime fiscal aduaneiro, com flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos seus deveres funcionais."
+    },
+    {
+     "t": "p",
+     "x": "2. O funcionário público, em especial o funcionário aduaneiro, pode ainda ser demitido quando o crime, embora praticado fora do exercício da função pública, revele que o funcionário é indigno de exercer o cargo ou signifique a perda de confiança geral necessária ao exercício da função."
+    },
+    {
+     "t": "p",
+     "x": "3. Às entidades competentes deve ser feita a devida comunicação logo que transite em julgado quer o despacho de indiciação quer a decisão final condenatória, para que, consoante os casos, se ordene a suspensão do indiciado ou para que se execute a pena de suspensão ou demissão que lhe tenha sido imposta."
+    },
+    {
+     "t": "p",
+     "x": "4. Tratando-se de crimes fiscais aduaneiros, a indiciação do arguido determina sempre a sua suspensão, quando pertencer ao serviço das alfândegas ou ao da Polícia Fiscal ou for despachante, seu ajudante, caixeiro despachante ou agente aduaneiro."
+    },
+    {
+     "t": "p",
+     "x": "5. A sentença, transitada em julgado, pela qual o funcionário público seja condenado pela prática de crime fiscal aduaneiro, constitui prova suficiente para a demissão."
+    }
+   ]
+  },
+  {
+   "id": "artigo-162",
+   "label": "Artigo 162.º",
+   "epigraph": "Proibição do exercício de determinadas profissões",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO II - Disposições aplicáveis aos crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Nos termos do § 5.º do artigo 70.º do Código Penal, pode ser decretada a proibição do exercício de determinadas profissões."
+    },
+    {
+     "t": "p",
+     "x": "2. Pode ser proibido o exercício, entre outras, da profissão de:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Despachante, ajudante ou praticante de despachante, caixeiro despachante e outros agentes aduaneiros, incluindo agentes de navegação e de trânsito;",
+      "Importador, exportador, operador de qualquer local designado pelas alfândegas nos termos do Código e transportador que opere no âmbito do comércio internacional;",
+      "Comandante ou tripulante de aeronave, capitão, mestre, arrais, patrão ou tripulante de navio ou qualquer embarcação, maquinista, condutor de camião ou de autocarro em viagens internacionais."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. A pessoa que tenha sido condenada pela prática de crime fiscal aduaneiro, e que tenha violado gravemente os deveres inerentes à sua profissão, pode ser proibida de exercer a sua profissão por um prazo de cinco anos."
+    },
+    {
+     "t": "p",
+     "x": "4. O prazo de proibição conta-se a partir do trânsito em julgado da sentença condenatória, mas suspende-se durante o tempo em que o infractor esteja a cumprir pena de prisão."
+    },
+    {
+     "t": "p",
+     "x": "5. O funcionário que, nos termos do artigo anterior, seja demitido fica igualmente proibido de exercer, por um prazo de cinco anos, as profissões enumeradas no n.º 2."
+    },
+    {
+     "t": "p",
+     "x": "6. A decisão que decretar a proibição ou a suspensão do exercício de função pública é comunicada aos dirigentes e responsáveis do serviço ou organismo de que depende o infractor condenado."
+    },
+    {
+     "t": "p",
+     "x": "7. A decisão que decretar a proibição ou a suspensão do exercício de profissão ou actividade que dependa de título público ou de autorização ou homologação de autoridade pública é comunicada, conforme os casos, ao organismo profissional em que o infractor condenado esteja inscrito ou à entidade competente para a autorização ou homologação."
+    },
+    {
+     "t": "p",
+     "x": "8. O tribunal pode decretar a apreensão, pelo tempo que durar a proibição ou suspensão, dos documentos que titulem a profissão ou actividade."
+    }
+   ]
+  },
+  {
+   "id": "artigo-163",
+   "label": "Artigo 163.º",
+   "epigraph": "Privação temporária do direito de participar em leilões ou arrematações de mercadorias",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO II - Disposições aplicáveis aos crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem for condenado por crime previsto no presente Código pode ser privado do direito de participar em leilões ou arrematações de mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "2. A privação do direito referido no número anterior não pode ter duração superior a dois anos contados a partir do trânsito em julgado da sentença condenatória."
+    },
+    {
+     "t": "p",
+     "x": "3. O tribunal pode limitar esta proibição a determinados leilões e arrematações ou a certas áreas territoriais."
+    }
+   ]
+  },
+  {
+   "id": "artigo-164",
+   "label": "Artigo 164.º",
+   "epigraph": "Privação do direito a receber subsídios ou subvenções",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO II - Disposições aplicáveis aos crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem for condenado por crime previsto neste diploma pode ser privado do direito a subsídios ou subvenções outorgados por entidades ou serviços públicos relacionados com os deveres cuja violação foi criminalmente punida."
+    },
+    {
+     "t": "p",
+     "x": "2. A duração da pena prevista no número anterior não pode ser superior a dois anos contados a partir do trânsito em julgado da sentença condenatória."
+    },
+    {
+     "t": "p",
+     "x": "3. A sentença deve ser comunicada às entidades competentes para a outorga dos subsídios ou subvenções referidos no nº 1."
+    }
+   ]
+  },
+  {
+   "id": "artigo-165",
+   "label": "Artigo 165.º",
+   "epigraph": "Suspensão de benefícios fiscais ou inibição de os obter",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO II - Disposições aplicáveis aos crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem for condenado pela prática de crimes previstos no presente Código pode ser punido com a suspensão de benefícios fiscais aduaneiros relacionados com os deveres cuja violação foi criminalmente punida, ou inibido de os obter ou renovar."
+    },
+    {
+     "t": "p",
+     "x": "2. As sanções a que se refere o nº 1 terão a duração máxima de dois anos contados a partir do trânsito em julgado da sentença condenatória."
+    }
+   ]
+  },
+  {
+   "id": "artigo-166",
+   "label": "Artigo 166.º",
+   "epigraph": "Medidas de segurança",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO II - Disposições aplicáveis aos crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Aquele que for condenado por crime cometido com grave violação dos deveres inerentes à profissão, comércio ou indústria que exerce ou dele for absolvido só por falta de imputabilidade pode ser interdito do exercício da respectiva actividade por período de um a cinco anos quando, em face do acto praticado e da personalidade do infractor, haja fundado receio de este vir a praticar outros crimes que ponham em perigo, directa ou indirectamente, certas pessoas ou a colectividade."
+    },
+    {
+     "t": "p",
+     "x": "2. O período da interdição conta-se a partir do trânsito em julgado da respectiva decisão, mas suspende-se durante o cumprimento, pelo infractor, de qualquer sanção criminal privativa de liberdade."
+    }
+   ]
+  },
+  {
+   "id": "artigo-167",
+   "label": "Artigo 167.º",
+   "epigraph": "Cassação de licenças ou concessões e suspensão de autorizações",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO II - Disposições aplicáveis aos crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O tribunal pode decretar a cassação de licenças ou concessões e a suspensão de autorizações, nomeadamente das que os operadores dos locais designados, quaisquer agentes que actuam junto das alfândegas ou os despachantes sejam titulares, incluindo as relativas aos procedimentos aduaneiros simplificados ou aos regimes suspensivos, a que o infractor condenado tenha direito, contanto que a infracção tenha sido cometida aquando da utilização das referidas licenças, concessões ou autorizações."
+    }
+   ]
+  },
+  {
+   "id": "artigo-168",
+   "label": "Artigo 168.º",
+   "epigraph": "Encerramento de estabelecimentos ou de depósitos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO II - Disposições aplicáveis aos crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem for condenado pela prática de crimes previstos neste diploma pode ser punido com o encerramento de estabelecimentos ou depósitos por período até dois anos contados a partir do trânsito em julgado da sentença condenatória."
+    },
+    {
+     "t": "p",
+     "x": "2. Não obstam à aplicação da pena prevista no número anterior a transmissão, a qualquer título, do estabelecimento ou depósito ou a cedência de direitos de qualquer natureza relacionados com a exploração daqueles, efectuada após a instauração do processo ou antes desta mas depois da prática da infracção, salvo se, neste último caso, o adquirente se encontrar de boa fé."
+    }
+   ]
+  },
+  {
+   "id": "artigo-169",
+   "label": "Artigo 169.º",
+   "epigraph": "Noção",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO III - Disposições aplicáveis às transgressões fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Transgressão fiscal aduaneira é todo o facto ou omissão que, não constituindo crime, seja contrário ao Código, ao Regulamento e à demais legislação fiscal aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "2. Nas transgressões é sempre punida a negligência."
+    }
+   ]
+  },
+  {
+   "id": "artigo-170",
+   "label": "Artigo 170.º",
+   "epigraph": "Determinação da medida das multas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO III - Disposições aplicáveis às transgressões fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A determinação da medida da multa far-se-á em função da gravidade da transgressão fiscal aduaneira, da culpa do infractor e da sua situação económica."
+    },
+    {
+     "t": "p",
+     "x": "2. Sem prejuízo dos limites fixados no Código, a multa deve, sempre que possível, exceder o benefício económico que o infractor retirou da prática da transgressão."
+    },
+    {
+     "t": "p",
+     "x": "3. No caso de a mercadoria objecto da transgressão ser de importação ou de exportação proibida ou restrita, tal circunstância deve ser considerada como agravante para efeito da determinação do montante da multa."
+    }
+   ]
+  },
+  {
+   "id": "artigo-171",
+   "label": "Artigo 171.º",
+   "epigraph": "Sanções acessórias",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO III - Disposições aplicáveis às transgressões fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Conjuntamente com a multa prevista no tipo legal de transgressão poderão ser aplicadas ao infractor uma ou mais das sanções acessórias previstas na Lei-Quadro das Transgressões Administrativas e respectivas alterações."
+    },
+    {
+     "t": "p",
+     "x": "2. A interdição de exercer definitivamente uma profissão ou actividade só pode ser determinada pela prática de contrabando."
+    }
+   ]
+  },
+  {
+   "id": "artigo-172",
+   "label": "Artigo 172.º",
+   "epigraph": "Punição das pessoas colectivas e entidades equiparadas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO III - Disposições aplicáveis às transgressões fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os limites mínimos e máximos das multas previstos nos diferentes tipos legais de transgressão são elevados para o dobro sempre que as multas sejam aplicadas a uma pessoa colectiva ou entidade equiparada."
+    },
+    {
+     "t": "p",
+     "x": "2. São aplicáveis às pessoas colectivas e entidades equiparadas, com as necessárias adaptações, as sanções acessórias referidas no artigo anterior e nos termos ali mencionados."
+    }
+   ]
+  },
+  {
+   "id": "artigo-173",
+   "label": "Artigo 173.º",
+   "epigraph": "Âmbito de aplicação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO IV - Da responsabilidade fiscal aduaneira de natureza civil"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A responsabilidade fiscal aduaneira de natureza civil, estabelecida na presente secção, aplica-se às pessoas singulares, às pessoas colectivas e entidades equiparadas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-174",
+   "label": "Artigo 174.º",
+   "epigraph": "Comitentes, mandantes e empregadores",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO IV - Da responsabilidade fiscal aduaneira de natureza civil"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando os comissários, empregados, operários, aprendizes, quaisquer outros subordinados ou mandatários, no desempenho da função que lhes foi confiada, forem autores, cúmplices ou encobridores de qualquer infracção fiscal aduaneira e não ficar solvida a sua responsabilidade, o comitente, o empregador, a pessoa a que se achem subordinados e o mandante são subsidiariamente responsáveis e, nesta qualidade, obrigados a pagar uma importância igual à da multa àqueles aplicável, salvo se provarem terem tomado as providências necessárias para os fazer observar a lei."
+    },
+    {
+     "t": "p",
+     "x": "2. O comitente, o empregador, o mandante e a pessoa a que se achem subordinados os comissários, empregados, operários e aprendizes são ainda solidariamente responsáveis pelo pagamento dos direitos e demais imposições aduaneiras que forem devidos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-175",
+   "label": "Artigo 175.º",
+   "epigraph": "Representantes legais",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO IV - Da responsabilidade fiscal aduaneira de natureza civil"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os pais ou representantes legais dos menores ou incapazes são responsáveis pelas infracções fiscais aduaneiras por eles cometidas."
+    },
+    {
+     "t": "p",
+     "x": "2. O disposto no artigo anterior aplica-se aos pais e aos representantes legais dos menores ou incapazes, quanto às infracções fiscais aduaneiras por estes cometidas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-176",
+   "label": "Artigo 176.º",
+   "epigraph": "Proprietário de mercadorias ou de meios de transporte",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO IV - Da responsabilidade fiscal aduaneira de natureza civil"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Tratando-se de crime fiscal aduaneiro, se o mandante, empregador ou pessoa que o infractor represente for dono ou consignatário das mercadorias objecto desse crime, ou proprietário dos respectivos meios de transporte, é obrigado a pagar uma importância igual à da multa que corresponda ao crime, salvo se provar que, sem seu conhecimento e só por facto ilícito criminal a que seja estranho ou de que tenha sido vítima, essas mercadorias ou meios de transporte vieram ao poder dos arguidos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-177",
+   "label": "Artigo 177.º",
+   "epigraph": "Responsabilidade solidária em caso de frustração de créditos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO IV - Da responsabilidade fiscal aduaneira de natureza civil"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Sem prejuízo do disposto no artigo 199.º, aquele que outorgue ou por qualquer forma beneficie em actos e contratos pelos quais os responsáveis em processo fiscal aduaneiro alienem ou onerem os seus bens para frustrar, no todo ou em parte, a cobrança coerciva de quaisquer quantias devidas ao Estado pela prática da infracção, é solidariamente responsável pelo pagamento das importâncias em que aqueles sejam condenados no referido processo, salvo se provar que agiu de boa fé."
+    }
+   ]
+  },
+  {
+   "id": "artigo-178",
+   "label": "Artigo 178.º",
+   "epigraph": "Responsabilidade solidária das pessoas colectivas ou entidades equiparadas e dos seus representantes",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO IV - Da responsabilidade fiscal aduaneira de natureza civil"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se a infracção fiscal aduaneira for cometida pelos representantes constituídos de qualquer pessoa colectiva ou entidade equiparada e no exercício dessa representação, será essa pessoa ou entidade solidariamente responsável com eles pelo pagamento das multas, direitos e demais imposições aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "2. Se a infracção fiscal aduaneira for cometida no decurso da actividade exercida por qualquer pessoa colectiva ou entidade equiparada e não se descobrir o indivíduo que a cometeu, respondem solidariamente a pessoa colectiva ou entidade equiparada e os seus representantes constitucionais à data da infracção ou da sua descoberta."
+    },
+    {
+     "t": "p",
+     "x": "3. Se a pessoa colectiva ou entidade equiparada já não existir quando se instaurar o processo fiscal aduaneiro, responderão solidariamente pelas multas, direitos e demais imposições aduaneiras os indivíduos que a geriam ou administravam."
+    }
+   ]
+  },
+  {
+   "id": "artigo-179",
+   "label": "Artigo 179.º",
+   "epigraph": "Cessação da responsabilidade fiscal de natureza civil",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO IV - Da responsabilidade fiscal aduaneira de natureza civil"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A obrigação de pagamento das importâncias fixadas em processos fiscais aduaneiros a título de responsabilidade fiscal de natureza civil cessa desde que os arguidos paguem os direitos, demais imposições e multas em que tenham sido condenados."
+    }
+   ]
+  },
+  {
+   "id": "artigo-180",
+   "label": "Artigo 180.º",
+   "epigraph": "Impossibilidade de prisão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO IV - Da responsabilidade fiscal aduaneira de natureza civil"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Não há lugar à substituição por prisão por falta de pagamento das importâncias fixadas a título de responsabilidade fiscal aduaneira de natureza civil."
+    }
+   ]
+  },
+  {
+   "id": "artigo-181",
+   "label": "Artigo 181.º",
+   "epigraph": "Direitos e demais imposições",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO V - Da prescrição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Em caso de prática de infracção fiscal aduaneira, a obrigação de pagar os direitos e demais imposições prescreve decorridos vinte anos, contados da data do trânsito em julgado da decisão condenatória."
+    }
+   ]
+  },
+  {
+   "id": "artigo-182",
+   "label": "Artigo 182.º",
+   "epigraph": "Crime fiscal aduaneiro",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO V - Da prescrição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O procedimento por crime fiscal aduaneiro prescreve decorridos cinco anos a contar do dia em que foi praticada a infracção."
+    },
+    {
+     "t": "p",
+     "x": "2. As multas aplicadas por crime prescrevem no prazo de cinco anos, contados a partir da data em que transitou em julgado a sentença que as aplicou."
+    },
+    {
+     "t": "p",
+     "x": "3. A prescrição da multa envolve a prescrição da sanção acessória que ainda não tenha sido executada."
+    },
+    {
+     "t": "p",
+     "x": "4. As penas de prisão aplicadas por crime fiscal aduaneiro prescrevem decorridos dez anos."
+    },
+    {
+     "t": "p",
+     "x": "5. A prescrição a que se refere o número anterior corre desde o dia em que a decisão condenatória transitou em julgado e interrompe-se pela execução da pena."
+    }
+   ]
+  },
+  {
+   "id": "artigo-183",
+   "label": "Artigo 183.º",
+   "epigraph": "Transgressão fiscal aduaneira",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO V - Da prescrição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O procedimento por transgressão fiscal aduaneira extingue-se por efeito da prescrição, logo que sobre a prática da mesma sejam decorridos os seguintes prazos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Dois anos, quando se trate de transgressão punível com multa superior a 300 UCF;",
+      "Um ano, nos restantes casos."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. As multas aplicadas por transgressão prescrevem no prazo de quatro anos contados a partir da data em que transitou em julgado o despacho ou sentença que as aplicou."
+    },
+    {
+     "t": "p",
+     "x": "3. A prescrição da multa envolve a prescrição da sanção acessória que ainda não tenha sido executada."
+    }
+   ]
+  },
+  {
+   "id": "artigo-184",
+   "label": "Artigo 184.º",
+   "epigraph": "Despesas de justiça",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO V - Da prescrição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A obrigação de pagar as despesas de justiça decorrentes do processo prescreve decorridos cinco anos após a notificação para o pagamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-185",
+   "label": "Artigo 185.º",
+   "epigraph": "Suspensão da prescrição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO V - Da prescrição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A prescrição interrompe-se por qualquer acto que constitua procedimento fiscal contra o infractor."
+    }
+   ]
+  },
+  {
+   "id": "artigo-186",
+   "label": "Artigo 186.º",
+   "epigraph": "Direito subsidiário",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO V - Da prescrição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Em tudo que não esteja especialmente regulado no Código e no Regulamento, designadamente no que respeita à contagem do prazo de prescrição do procedimento ou das multas e às circunstâncias em que o mesmo se suspende ou interrompe, observar-se-ão, na parte aplicável, quanto à prescrição em matéria de crimes fiscais aduaneiros, as disposições do direito penal comum e, quanto à prescrição em sede de transgressões fiscais aduaneiras, as da Lei-Quadro das Transgressões Administrativas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-187",
+   "label": "Artigo 187.º",
+   "epigraph": "Garantia do pagamento dos direitos, demais imposições aduaneiras, multas e despesas de justiça",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO VI - Das garantias fiscais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias, meios de transporte e outros valores apreendidos ou arrestados aos arguidos ou por eles abandonados e de que não seja decretada a perda, bem como as importâncias que os representam, são garantia dos direitos, demais imposições aduaneiras, despesas de justiça e multas que àqueles arguidos venham a ser aplicadas no processo fiscal por crime ou por transgressão."
+    },
+    {
+     "t": "p",
+     "x": "2. As mercadorias, meios de transporte e outros valores apreendidos ou arrestados que pertençam a pessoa que não seja responsável pela infracção cometida, garantem apenas o pagamento dos direitos e demais imposições que forem devidos."
+    },
+    {
+     "t": "p",
+     "x": "3. No caso de a dívida aduaneira não ter sido paga, as alfândegas podem, sem prejuízo da aplicação das sanções legalmente previstas e aplicáveis à infracção fiscal aduaneira cometida, reter compulsivamente quaisquer mercadorias que garantam o pagamento dessa dívida, salvo se for prestada caução suficiente que garanta esse pagamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-188",
+   "label": "Artigo 188.º",
+   "epigraph": "Outras mercadorias, bagagens ou valores",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO VI - Das garantias fiscais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias, bagagens ou quaisquer valores que os arguidos ou as pessoas civilmente responsáveis tenham nas estâncias aduaneiras ou em quaisquer outros locais sob acção aduaneira, ou de que sejam consignatários, consideram-se arrestados para garantia do pagamento das importâncias por que eles venham a ser responsabilizados no processo fiscal aduaneiro, ainda que essas mercadorias, bagagens ou valores não respeitem a este processo."
+    },
+    {
+     "t": "p",
+     "x": "2. As mercadorias, bagagens e valores referidos no número anterior não podem ser restituídos enquanto não for caucionado o seu valor ou aquela responsabilidade."
+    },
+    {
+     "t": "p",
+     "x": "3. Sem se mostrar prestada a caução a que este artigo se refere, as alfândegas também não podem restituir as mercadorias cujos conhecimentos, cartas de porte ou quaisquer outros títulos de propriedade tenham sido endossados por aqueles arguidos ou responsáveis, posteriormente à notificação do despacho de indiciação, ou sobre que, posteriormente a este mesmo acto, haja sido realizada qualquer operação comercial por eles ou pelas sociedades ou empresas de que façam parte."
+    }
+   ]
+  },
+  {
+   "id": "artigo-189",
+   "label": "Artigo 189.º",
+   "epigraph": "Aeronaves, navios, embarcações ou outros meios de transporte",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO I - Das infracções em geral",
+    "SECÇÃO VI - Das garantias fiscais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Consideram-se arrestados, nas mesmas condições do artigo anterior, as aeronaves, os navios e quaisquer embarcações ou outros meios de transporte, desde que sejam arguidos ou por qualquer forma responsáveis nos processos fiscais aduaneiros os seus comandantes, capitães, mestres ou arrais, ou os seus armadores ou proprietários."
+    }
+   ]
+  },
+  {
+   "id": "artigo-190",
+   "label": "Artigo 190.º",
+   "epigraph": "Contrabando de importação e de exportação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO I - Do contrabando"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Salvo se outra pena estiver estabelecida em lei especial, quem, por qualquer meio:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Fizer entrar no território aduaneiro ou dele fizer sair quaisquer mercadorias sem as passar pelas alfândegas; ou",
+      "Retirar das alfândegas ou passar através delas quaisquer mercadorias sem as submeter aos trâmites legais aduaneiros de desalfandegamento, mediante despacho com falsas indicações ou sem a licença ou autorização especial a que estejam sujeitas a respectiva importação ou exportação, de modo a evitar o pagamento total ou parcial dos direitos e demais imposições estabelecidos sobre a importação ou exportacão, é punido com prisão de 3 meses a 2 anos e multa de uma a três vezes o valor aduaneiro das mercadorias."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-191",
+   "label": "Artigo 191.º",
+   "epigraph": "Contrabando de circulação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO I - Do contrabando"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem, por qualquer meio, colocar ou detiver em circulação no interior do território aduaneiro mercadorias em violação de leis aduaneiras relativas à circulação interna de mercadorias sem o processamento dos documentos legalmente exigíveis ou sem os selos, marcas ou outros sinais apostos pelas alfândegas nos termos da legislação em vigor, é punido com prisão de 3 meses a 2 anos e multa de uma a três vezes o valor dos direitos e demais imposições devidos."
+    },
+    {
+     "t": "p",
+     "x": "2. Fazendo-se prova que a mercadoria é originária do território aduaneiro ou já se encontrava nacionalizada, fica afastada a possibilidade de punição com base no disposto no número anterior, sem prejuízo da aplicação da sanção por transgressão que ao caso couber."
+    }
+   ]
+  },
+  {
+   "id": "artigo-192",
+   "label": "Artigo 192.º",
+   "epigraph": "Contrabando qualificado",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO I - Do contrabando"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Salvo se outra pena mais grave estiver prevista em lei não aduaneira, os crimes previstos nos artigos 190.º e 191.º são punidos com prisão de 6 meses a 3 anos e multa de duas a quatro vezes o valor aduaneiro da mercadoria, quando se verifique qualquer das seguintes circunstâncias:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A mercadoria contrabandeada seja composta, no todo ou em parte, por objectos de considerável interesse histórico ou artístico cujo valor seja superior a UCF 15.000;",
+      "A mercadoria contrabandeada tenha valor superior a UCF 200.000; 86",
+      "Os crimes tenham sido cometidos de noite ou em lugar ermo e aproveitando essas circunstâncias, ou com o uso de armas, ou com o emprego de violência, ou por duas ou mais pessoas;",
+      "Os crimes tenham sido praticados com corrupção de qualquer funcionário público ou agente do Estado;",
+      "O autor ou o cúmplice do crime sejam funcionários aduaneiros ou agentes de autoridade;",
+      "O autor ou o cúmplice do crime sejam despachantes, ajudantes ou praticantes de despachante, caixeiros despachantes ou outros agentes aduaneiros, incluindo agentes de navegação ou transitários;",
+      "Tenha havido transbordo, em águas territoriais, de mercadorias contrabandeadas;",
+      "A mercadoria contrabandeada esteja tipificada no anexo I à Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Quando a mercadoria contrabandeada seja de importação, exportação, reexportação ou trânsito proibido ou restrito, os crimes previstos nos artigos 190.º e 191.º são punidos com prisão de 1 a 4 anos e multa de três a seis vezes o valor aduaneiro da mercadoria."
+    }
+   ]
+  },
+  {
+   "id": "artigo-193",
+   "label": "Artigo 193.º",
+   "epigraph": "Contrabando privilegiado",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO I - Do contrabando"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se os crimes previstos nos artigos 190.° e 191.º tiverem por objecto mercadorias sobre as quais recaiam direitos e demais imposições aduaneiras de UCF 25.000 a UCF 35.000, o infractor é punido somente com pena de multa de uma a duas vezes o valor aduaneiro das mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "2. Tratando-se de mercadorias de valor igual ou inferior a UCF 25.000, o infractor é punido somente com pena de multa de uma vez o valor aduaneiro das mercadorias."
+    }
+   ]
+  },
+  {
+   "id": "artigo-194",
+   "label": "Artigo 194.º",
+   "epigraph": "Contrabando de mercadorias não declaradas ou não manifestadas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO I - Do contrabando"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quem, em qualquer meio de transporte, tiver:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Mercadorias escondidas e não declaradas ou manifestadas;",
+      "Mercadorias não manifestadas que constituam toda a carga ou a sua parte de maior valor ou mercadorias sobre as quais recaiam direitos e demais imposições aduaneiras de UCF 35.000; é punido com prisão de 3 meses a 2 anos e multa de uma a três vezes o valor aduaneiro das mercadorias."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-195",
+   "label": "Artigo 195.º",
+   "epigraph": "Crimes de contrabando previstos em disposições especiais",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO I - Do contrabando"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quem tenha praticado facto ilícito expressamente qualificado em disposição especial como crime de contrabando é punido, consoante as circunstâncias, com as penas previstas nos artigos anteriores, salvo se destes artigos resultar a aplicação de pena mais grave."
+    }
+   ]
+  },
+  {
+   "id": "artigo-196",
+   "label": "Artigo 196.º",
+   "epigraph": "Fraude no transporte de mercadorias em regime suspensivo",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO II - Da fraude às garantias fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem, no decurso do transporte de mercadorias expedidas em regime suspensivo:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Subtrair ou substituir mercadorias transportadas em tal regime;",
+      "Alterar ou inutilizar os selos ou outros meios de selagem, de segurança ou de identificação aduaneira, com o fim de subtrair ou de substituir essas mercadorias;",
+      "Não observar os itinerários fixados, com o fim de se furtar à fiscalização; é punido com prisão de 3 meses a 2 anos e multa de uma a três vezes o valor dos direitos e demais imposições aduaneiras devidos."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Na mesma pena incorre quem, sem a devida autorização, altere a utilização ou o destino de quaisquer mercadorias que beneficiem de regime suspensivo e ou de isenção parcial ou total do pagamento de direitos e demais imposições aduaneiras."
+    }
+   ]
+  },
+  {
+   "id": "artigo-197",
+   "label": "Artigo 197.º",
+   "epigraph": "Fraude às garantias fiscais aduaneiras",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO II - Da fraude às garantias fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Sem prejuízo das responsabilidades que lhes caibam pela prática da primitiva infracção fiscal aduaneira, aqueles que, sendo donos, possuidores ou detentores de quaisquer mercadorias apreendidas nos termos deste Código, ou os seus cúmplices, que, no acto da apreensão ou posteriormente, as destruírem, danificarem ou inutilizarem, são punidos com prisão de 6 meses a 3 anos e multa de duas a três vezes o valor dos direitos e demais imposições aduaneiras devidos."
+    },
+    {
+     "t": "p",
+     "x": "2. Na mesma pena incorrem aqueles que, constituídos depositários de quaisquer mercadorias apreendidas nos termos deste Código, as não apresentarem à autoridade competente, no prazo que lhes for designado, com o objectivo de inutilizar as garantias fiscais aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "3. Na mesma pena incorre quem, depois de tomar conhecimento da instauração, contra si ou contra um comparticipante, de inquérito ou processo por crime ou transgressão previstos no presente Código, destruir, alienar ou onerar mercadorias apreendidas ou arrestadas para garantia do pagamento das quantias em que sejam condenados naquele processo, ainda que estas apenas sejam devidas por outro comparticipante ou responsável."
+    },
+    {
+     "t": "p",
+     "x": "4. Tratando-se de pessoa colectiva ou entidade equiparada, a condenação é imposta aos seus representantes constituídos ou, havendo deliberação social de que resultou a prática de infracção, aos que votaram essa deliberação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-198",
+   "label": "Artigo 198.º",
+   "epigraph": "Fraude fiscal aduaneira",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO II - Da fraude às garantias fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Comete o crime de fraude fiscal aduaneira, punível com pena de prisão de 6 meses a 3 anos e multa de duas a três vezes o valor dos direitos e demais imposições aduaneiras devidos, quem:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Preste à autoridade competente uma falsa declaração relativa a um facto importante para a percepção de direitos e demais imposições aduaneiras;",
+      "Entregue ou faça entregar à autoridade competente um documento falso e relevante para a percepção de direitos e demais imposições aduaneiras;",
+      "Falsifique ou faça falsificar qualquer documento a apresentar à autoridade competente e relevante para a percepção de direitos e demais imposições aduaneiras",
+      "Induza a autoridade competente em erro para obter isenções ou benefícios fiscais aduaneiros;",
+      "Com o fim de enganar autoridade pública ou prejudicar interesses de outra pessoa, introduzir no território aduaneiro ou tiver em sua posse qualquer factura em branco ou por preencher ou outro documento similar susceptível de ser preenchido e utilizado como factura de mercadorias importadas."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-199",
+   "label": "Artigo 199.º",
+   "epigraph": "Frustração de créditos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO II - Da fraude às garantias fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Sem prejuízo das penas em que hajam incorrido pela infracção que deu origem ao processo fiscal, aqueles que, após a instauração de inquérito ou processo por crime ou transgressão previstos neste Código, e para frustrar, no todo ou em parte, a cobrança coerciva de quaisquer quantias devidas ao Estado pela prática da infracção e por cujo pagamento vierem a ser declarados responsáveis, por qualquer forma alienarem ou onerarem os seus bens são condenados em prisão de 3 meses a 1 ano e multa de UCF 25.000 a UCF 50.000."
+    },
+    {
+     "t": "p",
+     "x": "2. Quem, tendo conhecimento da existência de inquérito ou de processo por crime ou transgressão, outorgar ou de qualquer forma beneficiar nos respectivos actos ou contratos que importem a transferência ou oneração dos bens com a intenção e os efeitos referidos no número anterior é condenado em prisão de 3 a 6 meses e multa de UCF 15.000 a UCF 30.000."
+    },
+    {
+     "t": "p",
+     "x": "3. Não haverá lugar a procedimento criminal pelos factos descritos no presente artigo se, entretanto, as quantias devidas forem integralmente pagas, sendo o infractor isento de pena no caso de o pagamento ocorrer no decurso do processo."
+    },
+    {
+     "t": "p",
+     "x": "4. É aplicável à frustração de créditos prevista no presente artigo, o disposto no n.º 4 do artigo 197.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-200",
+   "label": "Artigo 200.º",
+   "epigraph": "Oposição a verificação ou a exame",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO III - Da oposição a verificação ou a exame"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A entidade legalmente encarregada da instrução do processo fiscal pode mandar examinar a escrita comercial, quaisquer documentos, papéis, livros, objectos ou mercadorias que pertençam ou estejam em poder de qualquer pessoa singular ou colectiva, por peritos que se comprometam, sob juramento, a não divulgar o que viram nos exames a que procederam e a mencionar no respectivo relatório somente os factos concretos que interessem ao esclarecimento da causa."
+    },
+    {
+     "t": "p",
+     "x": "2. Aquele que se recusar a apresentar a sua escrita comercial, quaisquer documentos, papéis, livros, objectos ou mercadorias que lhe pertençam ou estejam em seu poder e cuja apresentação lhe seja ordenada pela entidade instrutora, por a julgar necessária à instrução do processo fiscal, e todo aquele que procurar impedir ou embaraçar qualquer verificação ou exame ordenado por aquela autoridade, é punido com prisão de 6 meses a 1 ano e multa de UCF 5.000 a UCF 15.000, independentemente das penas de resistência previstas no artigo 186.º do Código Penal, se a elas houver lugar."
+    },
+    {
+     "t": "p",
+     "x": "3. A entidade instrutora pode tornar efectivas as suas ordens, solicitando o auxílio da força pública, e tomará as providências necessárias para que não haja alteração ou substituição dos objectos a examinar."
+    },
+    {
+     "t": "p",
+     "x": "4. É aplicável ao crime fiscal aduaneiro previsto no presente artigo, o disposto no n.º 4 do artigo 197.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-201",
+   "label": "Artigo 201.º",
+   "epigraph": "Contrafacção, uso e quebra de marcas e de selos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO IV - Outros crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem, com intenção de os empregar como autênticos ou intactos, contrafizer ou falsificar chancelas, marcas, selos ou sinais prescritos nas leis aduaneiras é punido com pena de prisão de 1 a 5 anos."
+    },
+    {
+     "t": "p",
+     "x": "2. Quem, com a referida intenção, adquirir, receber em depósito, importar, ou por outro modo introduzir em território nacional, para si ou para outra pessoa, os objectos referidos no número anterior, quando falsos ou falsificados, é punido com pena de prisão até 3 anos."
+    },
+    {
+     "t": "p",
+     "x": "3. Quem, com intenção de causar prejuízo ao Estado, utilizar, sem autorização de quem de direito, objectos referidos no n.º 1, é punido com pena de prisão de 3 meses a 2 anos e com pena de multa de UCF 7.500 a UCF 20.000."
+    },
+    {
+     "t": "p",
+     "x": "4. Quem, sem a devida autorização, abrir, romper ou inutilizar, total ou parcialmente, marcas, selos ou sinais prescritos nas leis aduaneiras, apostos legitimamente por funcionário competente para identificar, segurar ou manter inviolável mercadoria sujeita a fiscalização, ou para certificar que sobre esta recaiu confisco, arresto, apreensão ou outra providência, é punido com prisão de 6 meses a 1 ano e multa de UCF 5.000 a UCF 15.000."
+    }
+   ]
+  },
+  {
+   "id": "artigo-202",
+   "label": "Artigo 202.º",
+   "epigraph": "Receptação de mercadorias objecto de infracção fiscal aduaneira",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO IV - Outros crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem, com intenção de obter, para si ou para terceiro, vantagem patrimonial, dissimular mercadoria objecto de infracção fiscal aduaneira, a receber em penhor, a adquirir por qualquer título, a detiver, conservar, transmitir ou contribuir para transmitir, ou de qualquer forma assegurar, para si ou para terceiros, a sua posse ou detenção, é punido com prisão de 3 meses a 2 anos e multa de duas a três vezes o valor aduaneiro da mercadoria, mas nunca inferior a UCF 10.000."
+    },
+    {
+     "t": "p",
+     "x": "2. Se a mercadoria não constar da previsão do artigo 192.º e tiver um valor inferior a UCF 10.000, é somente aplicável a pena de multa de UCF 10.000 a UCF 20.000."
+    },
+    {
+     "t": "p",
+     "x": "3. Se o infractor fizer modo de vida da receptação ou a praticar habitualmente, é aplicável a pena de prisão de 6 meses a 3 anos e multa de UCF 60.000 a UCF 100.000."
+    },
+    {
+     "t": "p",
+     "x": "4. A pena pode ser livremente atenuada, ou ser decretada a isenção da pena, se o infractor, antes de iniciado o processo penal ou mesmo no seu decurso, entregar a mercadoria objecto da infracção à autoridade competente e indicar, com verdade, de quem a recebeu."
+    },
+    {
+     "t": "p",
+     "x": "5. O disposto no número anterior não é aplicável se, no decurso do processo, se provar que o arguido pratica habitualmente a receptação de mercadorias objecto de infracção fiscal aduaneira ou dela faz modo de vida bem como se se verificar que já foi condenado por tal crime."
+    }
+   ]
+  },
+  {
+   "id": "artigo-203",
+   "label": "Artigo 203.º",
+   "epigraph": "Auxílio material",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO IV - Outros crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem auxiliar materialmente outrem a aproveitar-se do benefício económico proporcionado por mercadoria contrabandeada é punido com prisão de 3 a 18 meses e multa de UCF 5.000 a UCF 15.000."
+    },
+    {
+     "t": "p",
+     "x": "2. Tratando-se de mercadoria que não conste da previsão do artigo 192.º e cujo valor seja inferior a UCF 10.000, é somente aplicável a pena de multa de UCF 2.500 a UCF 7.500."
+    }
+   ]
+  },
+  {
+   "id": "artigo-204",
+   "label": "Artigo 204.º",
+   "epigraph": "Associações criminosas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO IV - Outros crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem fundar grupo, organização ou associação cuja actividade principal ou acessória seja dirigida à prática de infracções fiscais aduaneiras previstas no presente Código é punido com prisão de 2 a 8 anos e multa de UCF 50.000 a UCF 100.000, se outra pena mais grave não lhe for aplicável nos termos do Código Penal."
+    },
+    {
+     "t": "p",
+     "x": "2. Na mesma pena incorre quem fizer parte de tais grupos, organizações ou associações ou quem as apoiar, fornecendo armas, munições, instrumentos de infracção fiscal aduaneira, armazenagem ou locais para as reuniões ou qualquer auxílio para que se recrutem novos elementos."
+    },
+    {
+     "t": "p",
+     "x": "3. Quem chefiar ou dirigir os grupos, organizações ou associações referidas nos números anteriores é punido com a pena de prisão de 3 a 10 anos e multa de UCF 75.000 a UCF 150.000."
+    },
+    {
+     "t": "p",
+     "x": "4. As penas referidas podem ser livremente atenuadas, ou ser decretada a isenção da pena, se o infractor impedir a continuação dos grupos, organizações ou associações, ou comunicar à autoridade a sua existência a tempo de esta poder evitar a prática de infracções fiscais aduaneiras."
+    }
+   ]
+  },
+  {
+   "id": "artigo-205",
+   "label": "Artigo 205.º",
+   "epigraph": "Corrupção activa e obstrução à acção dos funcionários e da justiça aduaneira",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO IV - Outros crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quem por si, ou por interposta pessoa com o seu consentimento ou ratificação, der ou prometer a funcionário aduaneiro, ou a terceiro com conhecimento daquele, vantagem patrimonial ou não patrimonial que ao funcionário não seja devida, como contrapartida de acto ou de omissão contrários aos deveres do cargo, é punido com pena de prisão de 6 meses a 5 anos."
+    },
+    {
+     "t": "p",
+     "x": "2. Se a vantagem patrimonial ou não patrimonial for dada ou prometida como contrapartida de acto ou de omissão não contrários aos deveres do cargo, o agente é punido com pena de prisão até 6 meses e com pena de multa de UCF 5.000 a UCF 15.000."
+    },
+    {
+     "t": "p",
+     "x": "3. É punido com pena de prisão de 3 meses a 2 anos e com pena de multa de UCF 7.500 a UCF 20.000, quem:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Por meio de violência, ameaça de violência ou artifício fraudulento, impeça qualquer funcionário autorizado, ou seu auxiliar, de exercer as suas funções nos termos deste Código ou de outra legislação;",
+      "Impeça a realização de alguma inspecção de qualquer mercadoria sujeita a confisco nos termos deste Código ou dificulte a apreensão, arresto ou remoção dessa mercadoria;",
+      "Oculte, danifique ou destrua qualquer mercadoria sujeita, nos mesmos termos, a confisco ou a arresto;",
+      "Impeça busca ou qualquer outra diligência destinada a averiguar se determinada mercadoria está ou não sujeita a confisco ou a comprovar a prática de infracção fiscal aduaneira;",
+      "Impeça a detenção de pessoa ou abrigue uma pessoa que deva ser detida nos termos do presente Código."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-206",
+   "label": "Artigo 206.º",
+   "epigraph": "Usurpação das funções de funcionário aduaneiro",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO IV - Outros crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quem, com a intenção de praticar facto ilícito punível nos termos deste Código, do Regulamento e da demais legislação, usurpar nome, funções, título, uniforme ou insígnia de funcionário aduaneiro ou de outra pessoa com poderes ou autoridade delegados, ou alegando falsa ordem de autoridade pública, é punido com pena de prisão de 6 meses a 2 anos e com pena de multa de UCF 15.000 a UCF 30.000."
+    }
+   ]
+  },
+  {
+   "id": "artigo-207",
+   "label": "Artigo 207.º",
+   "epigraph": "Instigação à prática de crime fiscal aduaneiro",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO IV - Outros crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "É punido nos termos dos artigos 190.º a 206.º, quem provocar ou incitar à prática de um crime fiscal aduaneiro, se pena mais grave lhe não couber por força de outra disposição legal."
+    }
+   ]
+  },
+  {
+   "id": "artigo-208",
+   "label": "Artigo 208.º",
+   "epigraph": "Responsabilidade criminal e disciplinar dos funcionários aduaneiros",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO IV - Outros crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São qualificadas e punidas como crimes as infracções fiscais aduaneiras previstas nesta secção que os funcionários do Estado e os agentes que exerçam funções no âmbito da actividade aduaneira, usando prerrogativas oficiais, pratiquem ou ajudem a praticar, independentemente do montante dos direitos e demais imposições aduaneiras devidos ou do valor das mercadorias objecto de fraude."
+    },
+    {
+     "t": "p",
+     "x": "2. Sem prejuízo do disposto no número anterior, aos referidos funcionários e agentes aplicam-se as normas constantes do Capítulo XIII do Título III do Livro Segundo do Código Penal, as normas relativas ao regime disciplinar dos funcionários públicos e agentes administrativos do Estado e as normas constantes da demais legislação aplicável."
+    },
+    {
+     "t": "p",
+     "x": "3. O funcionário aduaneiro que por si, ou por interposta pessoa com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, como contrapartida de acto ou de omissão contrários aos deveres do cargo, é punido com pena de prisão de 1 a 8 anos."
+    },
+    {
+     "t": "p",
+     "x": "4. Se o facto não for executado, o agente é punido com pena de prisão até 3 anos."
+    },
+    {
+     "t": "p",
+     "x": "5. O funcionário aduaneiro que por si, ou por interposta pessoa com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, como contrapartida de acto ou de omissão não contrários aos deveres do cargo, é punido com pena de prisão até 2 anos e com pena de multa de UCF 7.500 a UCF 20.000."
+    },
+    {
+     "t": "p",
+     "x": "6. Aos crimes de corrupção passiva para acto ilícito previsto no n.º 3 e ao crime de corrupção passiva para acto lícito previsto no n.º 5, são aplicáveis as seguintes regras:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Se o agente, antes da prática do facto, voluntariamente repudiar o oferecimento ou a promessa que aceitara, ou restituir a vantagem, ou, tratando-se de coisa fungível, o seu valor, é dispensado de pena;",
+      "A pena pode ser especialmente atenuada se o agente auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura de outros responsáveis."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-209",
+   "label": "Artigo 209.º",
+   "epigraph": "Perturbação de arrematações",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO I - Dos crimes fiscais aduaneiros",
+    "SUBSECÇÃO IV - Outros crimes fiscais aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quem, com intenção de impedir ou prejudicar os resultados de arrematação a que se refere o Capítulo III da Parte VII ou de outra arrematação pública autorizada ou imposta pela legislação aduaneira, conseguir, por meio de dádiva, promessa, violência ou ameaça grave, que alguém não lance ou não concorra, ou que de alguma forma se prejudique a liberdade dos respectivos actos, é punido com pena de prisão até 2 anos e com pena de multa de UCF 15.000 a UCF 30.000, se pena mais grave lhe não couber por força de outra disposição legal."
+    }
+   ]
+  },
+  {
+   "id": "artigo-210",
+   "label": "Artigo 210.º",
+   "epigraph": "Tipos legais",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO II - Das transgressões fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São qualificados e punidos como transgressões fiscais aduaneiras os factos ilícitos descritos na secção anterior, quando:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O montante dos direitos e das demais imposições aduaneiras objecto de infracção não exceda o valor equivalente a UCF 20.000; ou",
+      "Não excedendo o montante dos direitos e das demais imposições aduaneiras objecto de infracção o valor equivalente a UCF 50.000, o infractor coopere completamente na investigação, divulgue todos os factos e realize o pagamento voluntário de todos os direitos, demais imposições aduaneiras, multas e despesas de justiça; ou",
+      "O valor total das mercadorias objecto de infracção não exceda o montante equivalente a UCF 30.000."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Contanto que não se trate de drogas perigosas, armas, munições e outras mercadorias proibidas definidas na legislação vigente, são qualificados e punidos como transgressões fiscais aduaneiras os factos ilícitos descritos nas alíneas a) e h) do n.º 1 e do n.º 2 do artigo 192.º, quando:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O valor total das mercadorias objecto de infracção não exceda o montante equivalente a UCF 10.000;",
+      "Não excedendo o valor total das mercadorias objecto de infracção o montante equivalente a UCF 25.000, o arguido coopere completamente na investigação, divulgue todos os factos, entregue todas as reservas guardadas de qualquer importação anteriormente efectuada em violação da lei, e realize o pagamento voluntário de todos os direitos, demais imposições aduaneiras, multas e despesas de justiça."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. O disposto nos números anteriores não se aplica nos casos em que se verifique alguma das circunstâncias agravantes da responsabilidade do infractor previstas no artigo 159.º, com excepção das mencionadas nas alíneas b) e f) do n.º 1 do artigo 159.º."
+    },
+    {
+     "t": "p",
+     "x": "4. Quem pratique uma infracção que, nos termos deste artigo, venha a ser qualificada como transgressão fiscal aduaneira, é punido apenas com pena de multa nos termos da Secção I do presente capítulo, mas o montante da multa não pode exceder o valor dos direitos e demais imposições aduaneiras devidos."
+    },
+    {
+     "t": "p",
+     "x": "5. Sem prejuízo da aplicação de outras sanções penais legalmente previstas, quem, agindo com negligência, pratique qualquer uma das infracções enumeradas na Secção I do presente capítulo de que resulte perda de receitas do Estado, é punido com pena de multa de UCF 500 a UCF 10.000, contanto que não se prove a existência de fraude premeditada."
+    }
+   ]
+  },
+  {
+   "id": "artigo-211",
+   "label": "Artigo 211.º",
+   "epigraph": "Violação de disposições estatutárias",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO II - Das transgressões fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. É punido com pena de multa de UCF 400 a UCF 8.000, quem não cumpra qualquer obrigação prevista no Código ou no Regulamento, ou não preencha qualquer condição para a aprovação de local, instalação, actividade, benefício ou regime, nomeadamente:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Não apresente às alfândegas, ou a outra entidade competente, no prazo fixado, qualquer documento, despacho ou outra informação prevista;",
+      "Entregue ou faça entregar às alfândegas, ou a outra entidade competente, documentos inexactos, ou preste a estas informações incorrectas, nomeadamente sobre a identificação, origem ou destino de meios de transporte ou de mercadorias, os respectivos lugares de armazenagem ou de estacionamento, sobre qualquer número de registo do declarante ou sobre dados estatísticos, nos casos em que aqueles documentos e estas informações, embora irrelevantes para a percepção de direitos e demais imposições aduaneiras, causem perturbação ao normal funcionamento dos serviços aduaneiros;",
+      "Não apresente às alfândegas, ou a outra entidade competente, no prazo, forma ou modalidade previstos, os meios de transporte e ou as mercadorias à entrada ou à saída do território aduaneiro ou quando essa apresentação for legalmente exigível;",
+      "Não coopere com as alfândegas na aplicação dos controlos ou no processo de desalfandegamento das mercadorias;",
+      "Elabore ou assine, sem a devida autorização legal, um despacho aduaneiro a favor de terceiros;",
+      "Não retenha qualquer documento, livro de registo ou conta, nos casos em que essa retenção esteja prevista;",
+      "Impeça o acesso das alfândegas a qualquer lugar em que estas tenham o direito de entrar;",
+      "Não apresente, dentro do prazo fixado por escrito, às alfândegas ou impeça o acesso destas a qualquer documento, livro de registo ou conta;",
+      "Não forneça, no prazo fixado por escrito, as informações solicitadas pelas alfândegas;",
+      "Não armazene mercadorias de forma organizada sempre que esta seja a condição para a autorização de um local de armazenagem ou de depósito temporário sob controlo aduaneiro;",
+      "Conserve em armazéns sob controlo aduaneiro mercadorias em menor quantidade do que a que neles deveria existir;",
+      "Não faça a declaração prévia da existência de substâncias inflamáveis ou perigosas ou de substâncias ou engenhos explosivos que tenham chegado a entrar nas estâncias aduaneiras;",
+      "Não reexporte, no prazo estabelecido, mercadorias importadas temporariamente;",
+      "Não reimporte, no prazo estabelecido, mercadorias exportadas temporariamente;",
+      "Importe, sem apresentar às alfândegas a documentação de inspecção pré-embarque, certificado ou licença, mercadorias sujeitas a essa apresentação;",
+      "Use ou altere a condição das mercadorias antes do desalfandegamento ou antes de qualquer outra autorização legal;",
+      "Entregue ou retire do controlo aduaneiro, sem autorização legal, quaisquer mercadorias;",
+      "Adquira ou receba, a qualquer título, mercadoria que, pela sua qualidade, natureza ou preço, leve uma pessoa normalmente diligente a suspeitar de que tenha sido objecto de prática de infracção fiscal aduaneira."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Sem prejuízo da aplicação das sanções legalmente previstas em sede de indisciplina, o funcionário público que, testemunhando a prática de infracção fiscal aduaneira, não adopte, de forma diligente, as medidas previstas no artigo 279.º, é punido com pena de multa de UCF 250 a UCF 5.000."
+    }
+   ]
+  },
+  {
+   "id": "artigo-212",
+   "label": "Artigo 212.º",
+   "epigraph": "Confisco de mercadorias",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO II - Das transgressões fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Nos processos por transgressão, a pena de confisco de mercadorias só pode ser aplicada quando norma especial expressamente o estabelecer."
+    }
+   ]
+  },
+  {
+   "id": "artigo-213",
+   "label": "Artigo 213.º",
+   "epigraph": "Remissão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO I - Das infracções fiscais aduaneiras",
+    "CAPÍTULO II - Das infracções fiscais aduaneiras em especial",
+    "SECÇÃO II - Das transgressões fiscais aduaneiras"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "É aplicável às transgressões fiscais aduaneiras, com as necessárias adaptações, o disposto no artigo 207.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-214",
+   "label": "Artigo 214.º",
+   "epigraph": "Direito aplicável",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO I - Da acção fiscal aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A acção fiscal aduaneira deve ser exercida nos termos do Código e demais legislação especial, observando-se, nos casos omissos, consoante os casos, as disposições do Código de Processo Penal e respectiva legislação complementar ou as disposições da Lei-Quadro 95 das Transgressões Administrativas compatíveis com a natureza do processo fiscal aduaneiro."
+    }
+   ]
+  },
+  {
+   "id": "artigo-215",
+   "label": "Artigo 215.º",
+   "epigraph": "Princípio geral",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO I - Da acção fiscal aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A aplicação das penas de prisão e ou de multa deve ser precedida do correspondente processo fiscal aduaneiro."
+    },
+    {
+     "t": "p",
+     "x": "2. No processo a que se refere o presente título, é garantido ao arguido o direito de defesa, nomeadamente o direito a ser ouvido e o direito a contradizer."
+    },
+    {
+     "t": "p",
+     "x": "3. Só nos casos excepcionais previstos na lei se podem tomar providências contra o arguido sem que este seja previamente ouvido."
+    },
+    {
+     "t": "p",
+     "x": "4. A decisão final condenatória ou absolutória deve ser notificada, por escrito, ao arguido."
+    }
+   ]
+  },
+  {
+   "id": "artigo-216",
+   "label": "Artigo 216.º",
+   "epigraph": "Questões de natureza não fiscal",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO I - Da acção fiscal aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. No processo fiscal aduaneiro serão também resolvidas as questões de natureza não fiscal que interessem à decisão da causa, contanto que a autoridade decidente seja legalmente competente para o efeito e haja elementos suficientes para que essas questões sejam aí decididas."
+    },
+    {
+     "t": "p",
+     "x": "2. Quando a autoridade decidente não seja legalmente competente ou não haja os elementos referidos no número anterior, poderá o processo fiscal ser suspenso, para que, consoante as circunstâncias, se intente e julgue no tribunal competente a respectiva acção ou para que se aguarde pela decisão da autoridade legalmente competente."
+    },
+    {
+     "t": "p",
+     "x": "3. A suspensão não pode, porém, prejudicar a realização de diligências urgentes de prova."
+    },
+    {
+     "t": "p",
+     "x": "4. A suspensão não pode exceder o prazo de seis meses e cessa se no prazo de um mês não for intentada a respectiva acção ou se por igual prazo estiver parada ou se nesse mesmo prazo a autoridade legalmente competente não se pronunciar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-217",
+   "label": "Artigo 217.º",
+   "epigraph": "Participação à autoridade competente",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO I - Da acção fiscal aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se pelo decorrer do processo fiscal aduaneiro se verificar a existência de qualquer infracção cujo conhecimento não pertença à Sala do Contencioso Fiscal e Aduaneiro ou às autoridades aduaneiras, será feita à autoridade competente a devida participação, com todos os elementos constantes do processo que sejam necessários para a sua punição."
+    }
+   ]
+  },
+  {
+   "id": "artigo-218",
+   "label": "Artigo 218.º",
+   "epigraph": "Tribunal competente",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO II - Da competência",
+    "SUBSECÇÃO I - Sala do Contencioso Fiscal e Aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As infracções fiscais aduaneiras são julgadas pela Sala do Contencioso Fiscal e Aduaneiro."
+    },
+    {
+     "t": "p",
+     "x": "2. A competência da Sala do Contencioso Fiscal e Aduaneiro será determinada pelo lugar ou área onde a apreensão se efectuou ou, não tendo havido apreensão, pelo lugar onde a infracção foi praticada e, não sendo este conhecido, pelo lugar onde se encontrar qualquer dos arguidos à data da participação ou denúncia."
+    }
+   ]
+  },
+  {
+   "id": "artigo-219",
+   "label": "Artigo 219.º",
+   "epigraph": "Competência",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO II - Da competência",
+    "SUBSECÇÃO I - Sala do Contencioso Fiscal e Aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "À Sala do Contencioso Fiscal e Aduaneiro compete:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Julgar todos os processos que, sobre matéria do contencioso fiscal, técnico e administrativo aduaneiro, lhe forem enviados, depois de devidamente instruídos, pelo Director Nacional das Alfândegas, pelo seu delegado, pelos Directores Regionais das Alfândegas e pelos chefes de delegações e de estâncias aduaneiras;",
+      "Julgar, em primeira instância, as infracções fiscais aduaneiras que constituam factos ilícitos penais;",
+      "Julgar, em sede de recurso, as transgressões fiscais aduaneiras que hajam sido apreciadas, em primeira instância, pela autoridade aduaneira, designadamente pelos Directores Regionais das Alfândegas;",
+      "Decidir os recursos interpostos contra as decisões de natureza fiscal, técnica ou administrativa que as alfândegas hajam proferido em primeira instância, incluindo os recursos dos actos de liquidação de quaisquer receitas tributárias aduaneiras, dos respectivos actos preparatórios susceptíveis de impugnação judicial autónoma e dos actos contenciosamente recorríveis do Conselho Superior Técnico Aduaneiro;",
+      "Decidir os recursos dos actos contenciosamente recorríveis de indeferimento total ou parcial de impugnações administrativas dos actos a que se refere a alínea anterior;",
+      "Decidir os recursos de actos de que resultem conflitos de atribuições em matéria fiscal aduaneira que envolvam órgãos de pessoas colectivas públicas diferentes;",
+      "Julgar os pedidos de intimação de autoridade administrativa para facultar a consulta de documentos ou processos e passar certidões, em matéria fiscal aduaneira, a fim de permitir aos requerentes o uso de meios administrativos ou contenciosos;",
+      "Julgar as acções para reconhecimento de direitos ou interesses legalmente protegidos em matéria fiscal aduaneira;",
+      "Julgar os processos de execução que se fundem em decisão por ela proferida, em sentença proferida por tribunal estrangeiro ou em decisão arbitral estrangeira sobre matéria de Direito Aduaneiro que hajam sido devidamente revistas e confirmadas, em outros títulos executivos que digam respeito a alguma ou algumas das questões enumeradas no presente artigo;",
+      "Conhecer, em revisão, dos julgamentos de que não tenha havido recurso ordinário ou extraordinário quando se alegue terem as autoridades fiscais praticado no processo ou julgamento alguma violência, preterição de formalidades essenciais, denegação de recurso contra expressa disposição da lei ou qualquer injustiça grave ou quando, sendo caso de recurso obrigatório, não tenha sido ordenada a subida do processo;",
+      "Decidir os recursos das resoluções das autoridades encarregadas da fiscalização e cobrança dos rendimentos das alfândegas quando tiverem por fundamento incompetência e excesso de poder, a não aplicação ou errada aplicação de qualquer disposição de Direito Aduaneiro, a ofensa ou violação de direitos adquiridos por virtude de legislação aduaneira ou de contratos celebrados com o Estado ou a preterição de formalidades essenciais do processo;",
+      "Decidir todas as questões em geral sobre matérias de Direito Aduaneiro;",
+      "Conhecer das demais matérias que legalmente lhe forem confiadas."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-220",
+   "label": "Artigo 220.º",
+   "epigraph": "Área de jurisidição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO II - Da competência",
+    "SUBSECÇÃO I - Sala do Contencioso Fiscal e Aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As Salas do Contencioso Fiscal e Aduaneiro funcionam junto das sedes das Direcções Regionais das Alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "2. A área de jurisdição de cada uma das Salas mencionadas no número anterior é a da respectiva circunscrição aduaneira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-221",
+   "label": "Artigo 221.º",
+   "epigraph": "Composição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO II - Da competência",
+    "SUBSECÇÃO I - Sala do Contencioso Fiscal e Aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A Sala do Contencioso Fiscal e Aduaneiro é constituída por três juízes de direito."
+    },
+    {
+     "t": "p",
+     "x": "2. O cargo de presidente da Sala do Contencioso Fiscal e Aduaneiro será exercido pelo juiz de direito que for designado pelo Juiz Presidente do respectivo Tribunal Provincial."
+    }
+   ]
+  },
+  {
+   "id": "artigo-222",
+   "label": "Artigo 222.º",
+   "epigraph": "Expediente",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO II - Da competência",
+    "SUBSECÇÃO I - Sala do Contencioso Fiscal e Aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O expediente de todos os processos e assuntos afectos à Sala do Contencioso Fiscal e Aduaneiro corre pelo Departamento do Contencioso Aduaneiro da sede da respectiva Direcção Regional das Alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "2. Fica a cargo do Departamento do Contencioso Aduaneiro a que se refere o número anterior:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O registo e organização dos processos instaurados por infracções fiscais aduaneiras;",
+      "A guarda e arquivo desses processos e demais documentos;",
+      "A coordenação e conservação do registo das penas aplicadas em processo fiscal aduaneiro, designado por registo das infracções fiscais aduaneiras."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-223",
+   "label": "Artigo 223.º",
+   "epigraph": "Deslocações",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO II - Da competência",
+    "SUBSECÇÃO I - Sala do Contencioso Fiscal e Aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os juízes das Salas do Contencioso Fiscal e Aduaneiro, quando se desloquem, por motivo de serviço relativo às mesmas, para fora da localidade onde têm a sua residência oficial, perceberão uma ajuda de custo diária igual à que estiver estabelecida para funcionários de idêntica categoria."
+    },
+    {
+     "t": "p",
+     "x": "2. Na contagem dos processos fiscais aduaneiros em que os arguidos tenham sido condenados serão incluídas as despesas com ajudas de custo e transportes despendidas pelos juízes das Salas, nos termos do número anterior."
+    }
+   ]
+  },
+  {
+   "id": "artigo-224",
+   "label": "Artigo 224.º",
+   "epigraph": "Competência",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO II - Da competência",
+    "SUBSECÇÃO II - Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Aos Directores Regionais das Alfândegas compete:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Preparar e instruir os processos por infracções fiscais aduaneiras, devendo fazê-lo, no caso de crimes fiscais aduaneiros, sob a orientação, fiscalização e controlo do Ministério Público;",
+      "Julgar os processos por transgressões fiscais aduaneiras cometidas por viajantes;",
+      "Julgar os processos por infracções fiscais que, por expressa disposição legal ou regulamentar, sejam qualificadas como meras transgressões e aplicar as correspondentes multas;",
+      "Aplicar, e ordenar ao pessoal técnico e auxiliar aduaneiro que aplique, as medidas e controlos legalmente previstos necessários à descoberta das infracções fiscais aduaneiras e à prova da sua prática."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. A competência dos Directores Regionais das Alfândegas de que trata este artigo é limitada à área da respectiva circunscrição aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "3. Os Directores Regionais das Alfândegas, sempre que se mostre justificado, podem prorrogar, pelo tempo necessário, os prazos para a conclusão dos actos que lhes caiba praticar nos processos referidos no n.º 1."
+    },
+    {
+     "t": "p",
+     "x": "4. Serão obrigatoriamente sujeitos a revisão do Director Nacional das Alfândegas os processos julgados na área da respectiva circunscrição aduaneira pelas autoridades designadas nos números anteriores quando a multa aplicada for superior a UCF 4.000, se os interessados não tiverem interposto recurso das decisões neles proferidas."
+    },
+    {
+     "t": "p",
+     "x": "5. Quando o Director Nacional das Alfândegas reconheça que houve falta de cumprimento de qualquer formalidade substancial do processo ou de diligência que repute essencial para a descoberta da verdade e justa aplicação da lei, mandará baixar o processo, por meio de despacho nele proferido, às autoridades referidas nos números anteriores para cumprimento dessas formalidades ou diligências, findas as quais será o processo devolvido ao mesmo Director."
+    },
+    {
+     "t": "p",
+     "x": "6. O Director Nacional das Alfândegas procederá do modo como ficou preceituado no número anterior, quando reconhecer que o quantitativo da multa aplicada é exagerado ou insuficiente em relação aos factos constitutivos da infracção."
+    }
+   ]
+  },
+  {
+   "id": "artigo-225",
+   "label": "Artigo 225.º",
+   "epigraph": "Delegação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO II - Da competência",
+    "SUBSECÇÃO II - Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os Directores Regionais das Alfândegas podem encarregar os funcionários dos quadros técnico e auxiliar aduaneiros e os funcionários encarregados da fiscalização aduaneira da área da respectiva circunscrição de praticar algum ou alguns dos actos próprios da instrução dos processos por transgressão fiscal aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "2. Os Directores Regionais das Alfândegas, sob a orientação, fiscalização e controlo do Ministério Público, podem encarregar, na fase da instrução preparatória dos processos por crime fiscal aduaneiro, os funcionários dos quadros técnico e auxiliar aduaneiros e os funcionários encarregados da fiscalização aduaneira da área da respectiva circunscrição de praticar algum ou alguns dos actos próprios da referida instrução, nomeadamente de:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Realizar buscas em qualquer estabelecimento existente naquela área;",
+      "Proceder a buscas ou apreensões em qualquer meio de transporte ou em qualquer estabelecimento, armazém ou loja, casa de habitação ou recinto fechado, quando haja suspeita fundada da prática de infracção fiscal aduaneira;",
+      "Deter os infractores que devem considerar-se em flagrante delito nos termos dos artigos 5.º a 9.º da Lei n.º 18-A/92, de 17 de Julho, ou impedir que estes ou os seus cúmplices façam desaparecer os vestígios da infracção;",
+      "Interrogar as pessoas que dentro das zonas fiscais se tornem suspeitas de qualquer infracção fiscal aduaneira e sujeitar a exame essas pessoas e as mercadorias ou meios de transporte que as acompanhem."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Do disposto nos números anteriores exceptuam-se os funcionários que prestam serviço na Sala do Contencioso Fiscal e Aduaneiro ou nos Departamentos do Contencioso Aduaneiro, aos quais é proibido proceder a buscas ou apreensões, ou intervir por qualquer forma nessas diligências, salvo quando presididas pela autoridade instrutora."
+    },
+    {
+     "t": "p",
+     "x": "4. Salvo nos casos de comprovada urgência ou de flagrante delito, é necessária prévia autorização, nas sedes das circunscrições aduaneiras, da autoridade competente para a instrução do processo, e a assistência de duas testemunhas."
+    },
+    {
+     "t": "p",
+     "x": "5. Se, pelo interrogatório ou exame mencionados na alínea d) do n.º 2, a suspeita se confirmar, proceder-se-á nos termos deste Código."
+    },
+    {
+     "t": "p",
+     "x": "6. Se a pessoa suspeita resistir ou procurar fugir, será detida; se se puser em fuga, é permitida a entrada em qualquer local onde ela procure refugiar-se, ainda que se trate de casa de habitação ou recinto fechado."
+    },
+    {
+     "t": "p",
+     "x": "7. Sem prejuízo da responsabilidade civil e disciplinar, os que procederam à diligência são responsáveis por qualquer abuso que cometam e incorrem na multa de UCF 500 a UCF 5.000, imposta em processo fiscal aduaneiro, quando se prove que, sem qualquer fundamento e só por má fé da sua parte, a diligência teve lugar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-226",
+   "label": "Artigo 226.º",
+   "epigraph": "Inspecção dos serviços aduaneiros",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO II - Da competência",
+    "SUBSECÇÃO III - Inspecção dos serviços aduaneiros"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Aos funcionários encarregados da inspecção dos serviços aduaneiros incumbe:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Fiscalizar, em todas as estâncias aduaneiras, se às quantias resultantes da liquidação dos processos de contencioso fiscal aduaneiro foi dado o destino legal;",
+      "Participar ao Juiz Presidente da respectiva Sala do Contencioso Fiscal e Aduaneiro quaisquer irregularidades que tenham encontrado na contagem e distribuição daquelas quantias, a fim de serem tomadas as devidas providências por aquela autoridade."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-227",
+   "label": "Artigo 227.º",
+   "epigraph": "Carácter secreto do processo fiscal aduaneiro",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO III - Do segredo de justiça"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O processo fiscal aduaneiro é secreto até ser notificado o despacho de indiciação ou de não indiciação."
+    },
+    {
+     "t": "p",
+     "x": "2. Caso convenha à descoberta da verdade, poderá a autoridade instrutora mostrar o processo, ou parte dele, aos autuantes ou participantes e dar conhecimento de actos ou documentos do processo aos peritos, intérpretes e testemunhas."
+    },
+    {
+     "t": "p",
+     "x": "3. Sobre os autuantes, participantes, peritos, intérpretes e testemunhas recai o dever de guardar segredo de justiça."
+    }
+   ]
+  },
+  {
+   "id": "artigo-228",
+   "label": "Artigo 228.º",
+   "epigraph": "Certidões do processo fiscal aduaneiro",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO III - Do segredo de justiça"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Dos processos que não estejam em segredo de justiça podem passar-se certidões, mas só mediante despacho da autoridade instrutora ou do juiz relator, segundo os casos."
+    },
+    {
+     "t": "p",
+     "x": "2. Poderão também passar-se certidões dos processos que estejam em segredo de justiça nos casos excepcionais em que haja manifesto interesse público e mediante despacho fundamentado da autoridade ou juiz referidos no número anterior."
+    }
+   ]
+  },
+  {
+   "id": "artigo-229",
+   "label": "Artigo 229.º",
+   "epigraph": "Modalidades de notificação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IV - Das notificações"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As notificações são feitas pessoalmente ou pelo correio com aviso de recepção, e, se no primeiro caso não for o escrivão a efectuá-las, passará este o competente mandato."
+    },
+    {
+     "t": "p",
+     "x": "2. Com as notificações dos despachos de indiciação e das decisões finais condenatórias será entregue ou remetida aos arguidos e às pessoas civilmente responsáveis cópia dos referidos despachos ou decisões."
+    },
+    {
+     "t": "p",
+     "x": "3. As notificações ao arguido ou à pessoa civilmente responsável que não sejam encontrados na sua residência, mas que tenham advogado ou procurador constituído, são feitas na pessoa do seu mandatário judicial ou procurador."
+    },
+    {
+     "t": "p",
+     "x": "4. Se o arguido ou a pessoa civilmente responsável não for encontrado na sua residência nem tiver advogado ou procurador constituído, a notificação será feita por um edital afixado no local onde correr o processo, passando-se certidão da afixação, que será junta aos autos e publicada num dos jornais mais lidos na circunscrição aduaneira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-230",
+   "label": "Artigo 230.º",
+   "epigraph": "Notificação do arguido desconhecido ou residente no estrangeiro",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IV - Das notificações"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se o arguido for desconhecido ou residir no estrangeiro, ou se a autoridade instrutora, depois de empregar todos os meios ao seu alcance, não conseguir averiguar a sua residência, a notificação far-se-á por edital afixado no local onde correr o processo, passando-se certidão da afixação, que será junta aos autos e publicada num dos jornais mais lidos na circunscrição aduaneira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-231",
+   "label": "Artigo 231.º",
+   "epigraph": "Notificações e contagem dos prazos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IV - Das notificações"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando a notificação for feita pelo correio, os prazos começam a contar-se desde a data da assinatura, no aviso de recepção, do notificando ou de alguém a seu rogo."
+    },
+    {
+     "t": "p",
+     "x": "2. Quando a notificação for feita por edital, os prazos começam a contar-se da data da respectiva afixação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-232",
+   "label": "Artigo 232.º",
+   "epigraph": "Carta precatória",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IV - Das notificações"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As notificações a fazer fora da área de jurisdição da autoridade instrutora efectuar-se-ão por carta precatória."
+    }
+   ]
+  },
+  {
+   "id": "artigo-233",
+   "label": "Artigo 233.º",
+   "epigraph": "Notificação dos participantes ou autuantes",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IV - Das notificações"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Havendo no processo mais de um participante ou autuante, a notificação de qualquer decisão nele proferida será feita unicamente ao primeiro que assine a respectiva participação ou auto, e, não podendo, por qualquer motivo, ser a este feita, terá ela lugar junto do que se lhe seguir na assinatura da participação ou do auto e assim sucessivamente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-234",
+   "label": "Artigo 234.º",
+   "epigraph": "Notificação para a prática de acto pessoal",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IV - Das notificações"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando a notificação se destine a chamar a parte para a prática de acto pessoal, além de ser notificado o mandatário, será também expedido pelo correio um aviso registado à própria parte, indicando a data, a hora, o local e o fim da comparência."
+    }
+   ]
+  },
+  {
+   "id": "artigo-235",
+   "label": "Artigo 235.º",
+   "epigraph": "Nulidades em processo fiscal aduaneiro",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO V - Das nulidades"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. É nulo todo o processo fiscal aduaneiro quando:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Tenham sido omitidas diligências que devam reputar-se essenciais para a descoberta da verdade;",
+      "Não tenha sido nomeado intérprete idóneo ao arguido ou à pessoa civilmente responsável quando estes sejam desconhecedores da língua portuguesa ou não possam fazer-se compreender;",
+      "O arguido detido não tenha sido assistido, no decurso do primeiro interrogatório, por advogado constituído ou por defensor nomeado oficiosamente ou a pedido dele;",
+      "O arguido não tenha sido assistido, na instrução contraditória ou na audiência, por advogado constituído ou por defensor nomeado oficiosamente ou a pedido dele, contanto que se trate de processo que possa dar lugar à aplicação de pena de prisão;",
+      "Sendo o arguido surdo, mudo, analfabeto, desconhecedor da língua portuguesa, menor de 18 anos, ou suscitando-se a questão da sua inimputabilidade ou da sua imputabilidade diminuída, não tenha sido ele assistido, em qualquer acto processual, por advogado constituído ou por defensor nomeado;",
+      "Não tenha sido notificado o despacho de indiciação ao arguido ou à pessoa civilmente responsável, ou o despacho de não indiciação ao autuante ou participante."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Considera-se sanada a nulidade prevista na alínea a) do número anterior quando as diligências omitidas já não puderem ser praticadas ou se a sua realização já não puder aproveitar à descoberta da verdade."
+    },
+    {
+     "t": "p",
+     "x": "3. Considera-se sanada a nulidade prevista na alínea f) do n.º 1 quando o despacho tenha sido objecto de contestação ou de recurso pela pessoa a favor de quem se prescreveu a nulidade ou quando ela tenha intervindo na contestação ou no recurso."
+    }
+   ]
+  },
+  {
+   "id": "artigo-236",
+   "label": "Artigo 236.º",
+   "epigraph": "Arguição e conhecimento oficioso das nulidades",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO V - Das nulidades"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As nulidades a que se refere o artigo anterior, quando não devam considerar-se sanadas, podem ser arguidas em qualquer estado do processo fiscal aduaneiro, e a autoridade instrutora e o julgador deverão tomar conhecimento delas oficiosamente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-237",
+   "label": "Artigo 237.º",
+   "epigraph": "Irregularidades processuais",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO V - Das nulidades"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Qualquer outra irregularidade do processo fiscal aduaneiro só poderá ser arguida pelo interessado no prazo de quinze dias úteis a contar da data em que dela teve conhecimento ou da data em que se presume que dela teve conhecimento."
+    },
+    {
+     "t": "p",
+     "x": "2. Contanto que não afecte a descoberta da verdade e a justa decisão da causa, a autoridade instrutora ou o julgador podem considerar suprida a irregularidade, devendo, nesse caso, mandar repetir o acto em que ela se verificou."
+    },
+    {
+     "t": "p",
+     "x": "3. Presume-se que o interessado teve conhecimento da irregularidade se, posteriormente à sua prática, foi notificado de qualquer termo do processo ou interveio em algum acto nele praticado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-238",
+   "label": "Artigo 238.º",
+   "epigraph": "Impedimentos e suspeições",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VI - Dos impedimentos e das suspeições"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Nenhuma autoridade que, nos termos do Código, seja competente para intervir no processo fiscal aduaneiro pode nele exercer as suas funções se se encontrar em qualquer uma das circunstâncias referidas no artigo 122.° e no n.° 1.° do artigo 127.° do Código de Processo Civil."
+    }
+   ]
+  },
+  {
+   "id": "artigo-239",
+   "label": "Artigo 239.º",
+   "epigraph": "Dever da autoridade impedida ou recusada",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VI - Dos impedimentos e das suspeições"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando se verifique alguma das circunstâncias mencionadas no artigo anterior, deve logo a autoridade, por despacho nos autos, declarar-se impedida."
+    },
+    {
+     "t": "p",
+     "x": "2. Se o não fizer, pode qualquer das partes, até à decisão final, requerer a declaração do impedimento."
+    },
+    {
+     "t": "p",
+     "x": "3. Seja qual for o valor da causa, é sempre admissível recurso, sem efeito suspensivo, da decisão de indeferimento, para a autoridade imediatamente superior."
+    },
+    {
+     "t": "p",
+     "x": "4. O recurso sobe imediatamente e em separado, seja qual for a forma do processo."
+    },
+    {
+     "t": "p",
+     "x": "5. Se o impedimento for de peritos do Conselho Superior Técnico Aduaneiro, o processo passará a outro perito, nos termos da legislação aplicável; se for de juiz da Sala do Contencioso Fiscal e Aduaneiro, de Directores Regionais das Alfândegas ou de chefes de delegações e de estâncias aduaneiras onde haja mais de um funcionário do quadro técnico aduaneiro, será remetido aos respectivos substitutos legais; e se for de outras autoridades será submetido à autoridade competente, nos termos do Código e da demais legislação aplicável."
+    }
+   ]
+  },
+  {
+   "id": "artigo-240",
+   "label": "Artigo 240.º",
+   "epigraph": "Regime subsidiário",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VI - Dos impedimentos e das suspeições"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Em tudo o que não esteja especialmente previsto na presente secção, é aplicável, com as necessárias adaptações, o disposto nos artigos 122.º a 136.º do Código de Processo Civil."
+    }
+   ]
+  },
+  {
+   "id": "artigo-241",
+   "label": "Artigo 241.º",
+   "epigraph": "Princípio geral",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VII - Da perda de mercadorias, instrumentos, produtos e vantagens e do abandono de mercadorias e de outros bens ou valores em processo fiscal aduaneiro",
+    "SUBSECÇÃO I - Da perda de mercadorias, instrumentos, produtos e vantagens"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São declarados perdidos a favor do Estado os objectos que tiverem servido ou estivessem destinados a servir para a prática de uma infracção fiscal aduaneira, quando, pela sua natureza ou pelas circunstâncias do caso, puserem em perigo a segurança das pessoas, a moral ou a ordem públicas, ou oferecerem sério risco de ser utilizados para o cometimento de novas infracções fiscais aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "2. O disposto no número anterior tem lugar ainda que nenhuma pessoa determinada possa ser punida pelo facto."
+    },
+    {
+     "t": "p",
+     "x": "3. Se a lei não fixar destino especial aos objectos perdidos nos termos dos números anteriores, pode o juiz ordenar que sejam total ou parcialmente destruídos ou postos fora do comércio."
+    }
+   ]
+  },
+  {
+   "id": "artigo-242",
+   "label": "Artigo 242.º",
+   "epigraph": "Armas e mercadorias apreendidas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VII - Da perda de mercadorias, instrumentos, produtos e vantagens e do abandono de mercadorias e de outros bens ou valores em processo fiscal aduaneiro",
+    "SUBSECÇÃO I - Da perda de mercadorias, instrumentos, produtos e vantagens"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Sem prejuízo do disposto nos artigos 506.º e seguintes, são sempre declaradas perdidas a favor do Estado:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As armas;",
+      "As mercadorias apreendidas por infracção fiscal aduaneira, quando o responsável da infracção fique desconhecido no processo e se não prove que pertencem a pessoas a quem não pode ser atribuída qualquer responsabilidade na infracção."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-243",
+   "label": "Artigo 243.º",
+   "epigraph": "Objectos pertencentes a terceiros",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VII - Da perda de mercadorias, instrumentos, produtos e vantagens e do abandono de mercadorias e de outros bens ou valores em processo fiscal aduaneiro",
+    "SUBSECÇÃO I - Da perda de mercadorias, instrumentos, produtos e vantagens"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Sem prejuízo do disposto no número seguinte, a perda não tem lugar se os objectos não pertencerem, à data da prática da infracção, a nenhum dos infractores ou beneficiários, ou não lhes pertencerem no momento em que a perda foi decretada."
+    },
+    {
+     "t": "p",
+     "x": "2. Ainda que os objectos pertençam a terceiros, é decretada a perda quando os seus titulares tiverem concorrido, de forma censurável, para a sua utilização, ou da infracção tiverem retirado vantagens, ou ainda quando os objectos forem, por qualquer título, adquiridos após a prática da infracção, conhecendo os adquirentes a sua proveniência."
+    }
+   ]
+  },
+  {
+   "id": "artigo-244",
+   "label": "Artigo 244.º",
+   "epigraph": "Perda de vantagens",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VII - Da perda de mercadorias, instrumentos, produtos e vantagens e do abandono de mercadorias e de outros bens ou valores em processo fiscal aduaneiro",
+    "SUBSECÇÃO I - Da perda de mercadorias, instrumentos, produtos e vantagens"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Toda a recompensa dada ou prometida aos infractores, para eles ou para outrem, é perdida a favor do Estado."
+    },
+    {
+     "t": "p",
+     "x": "2. São também perdidos a favor do Estado, sem prejuízo dos direitos do ofendido ou de terceiro de boa fé, as coisas, direitos ou vantagens que, através da infracção fiscal aduaneira, tiverem sido directamente adquiridos, para si ou para outrem, pelos infractores e representem uma vantagem patrimonial de qualquer espécie."
+    },
+    {
+     "t": "p",
+     "x": "3. O disposto nos números anteriores aplica-se às coisas ou aos direitos obtidos mediante transacção ou troca com as coisas ou direitos directamente conseguidos por meio da infracção fiscal aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "4. Se a recompensa, os direitos, coisas ou vantagens referidos nos números anteriores não puderem ser apropriados em espécie, a perda é substituída pelo pagamento ao Estado do respectivo valor."
+    }
+   ]
+  },
+  {
+   "id": "artigo-245",
+   "label": "Artigo 245.º",
+   "epigraph": "Pagamento diferido ou a prestações e atenuação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VII - Da perda de mercadorias, instrumentos, produtos e vantagens e do abandono de mercadorias e de outros bens ou valores em processo fiscal aduaneiro",
+    "SUBSECÇÃO I - Da perda de mercadorias, instrumentos, produtos e vantagens"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando a aplicação do artigo anterior vier a traduzir-se, em concreto, no pagamento de uma soma pecuniária, e sempre que a situação económica e financeira do condenado o justificar, o tribunal pode autorizar o pagamento dessa soma dentro de um prazo que não exceda 1 ano, ou permitir o pagamento em prestações, não podendo a última delas ir além dos 2 anos subsequentes à data do trânsito em julgado da condenação."
+    },
+    {
+     "t": "p",
+     "x": "2. Dentro dos limites referidos no número anterior e quando motivos supervenientes o justificarem, os prazos de pagamento inicialmente estabelecidos podem ser alterados."
+    },
+    {
+     "t": "p",
+     "x": "3. Se, atenta a situação sócio-económica da pessoa em causa, a aplicação do n.º 4 do artigo anterior se mostrar injusta ou demasiado severa, pode o tribunal atenuar equitativamente o valor referido naquele preceito."
+    }
+   ]
+  },
+  {
+   "id": "artigo-246",
+   "label": "Artigo 246.º",
+   "epigraph": "Abandono de mercadorias e de outros bens ou valores",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VII - Da perda de mercadorias, instrumentos, produtos e vantagens e do abandono de mercadorias e de outros bens ou valores em processo fiscal aduaneiro",
+    "SUBSECÇÃO II - Do abandono de mercadorias e de outros bens ou valores"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Consideram-se abandonados a favor do Estado as mercadorias e quaisquer outros bens ou valores pertencentes a interessados em processo fiscal aduaneiro se estes os não vierem receber no prazo de sessenta dias a contar da notificação do despacho ou da sentença que ordenar a sua entrega."
+    }
+   ]
+  },
+  {
+   "id": "artigo-247",
+   "label": "Artigo 247.º",
+   "epigraph": "Mercadorias e outros bens não susceptíveis de restituição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VIII - Da restituição de mercadorias e de outros bens apreendidos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Não se restituem:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As mercadorias cuja perda não tenha sido substituída, nos termos deste Código, por pena de multa e designadamente as de importação ou exportação proibidas, salvo se se provar que vieram ao poder dos arguidos sem conhecimento ou negligência dos seus proprietários. Neste caso, serão entregues a estes logo que paguem as despesas feitas com a sua conservação, guarda e transporte. Tratando-se de importação proibida, as mercadorias só serão restituídas se os seus proprietários se obrigarem a reexportá-las no prazo que for fixado pela autoridade julgadora, sem prejuízo das convenções internacionais em vigor;",
+      "As armas ou instrumentos que serviram para a prática de qualquer infracção fiscal aduaneira, salvo quando se provar que não pertencem aos arguidos e que vieram à sua posse sem conhecimento ou negligência dos seus proprietários, pois neste caso a estes serão entregues logo que paguem as despesas feitas com a sua conservação, guarda e transporte e satisfaçam as condições por lei exigidas para poderem ter aqueles objectos em seu poder;",
+      "As mercadorias apreendidas de que lei especial ordene a inutilização ou proiba a restituição."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-248",
+   "label": "Artigo 248.º",
+   "epigraph": "Mercadorias e ou meios de transporte susceptíveis de restituição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VIII - Da restituição de mercadorias e de outros bens apreendidos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Fora dos casos referidos no artigo anterior e do especialmente prescrito neste Código para os casos de perda, as mercadorias e ou os meios de transporte apreendidos restituem-se a quem pertencerem logo que seja depositado ou caucionado o seu valor e pagos os direitos e as demais imposições devidos e as despesas feitas com a sua conservação, guarda e transporte, ou logo que transitem em julgado o despacho de não indiciação ou a decisão final absolutória e se mostre não serem devidos direitos."
+    },
+    {
+     "t": "p",
+     "x": "2. Salvo prova em contrário, presume-se que as mercadorias ou os meios de transporte apreendidos pertencem às pessoas a quem foi feita a apreensão."
+    }
+   ]
+  },
+  {
+   "id": "artigo-249",
+   "label": "Artigo 249.º",
+   "epigraph": "Termos da restituição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VIII - Da restituição de mercadorias e de outros bens apreendidos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A restituição só terá lugar quando não prejudique a instrução do processo e depois de extraídas, se for possível, as amostras que se considerem necessárias para qualquer exame futuro."
+    }
+   ]
+  },
+  {
+   "id": "artigo-250",
+   "label": "Artigo 250.º",
+   "epigraph": "Risco de deterioração",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO VIII - Da restituição de mercadorias e de outros bens apreendidos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se não for requerida ou não puder ser ordenada a restituição das mercadorias apreendidas e estas estejam em risco de se deteriorarem, serão desde logo submetidas a leilão, nos termos dos artigos 331.º e 332.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-251",
+   "label": "Artigo 251.º",
+   "epigraph": "Princípio geral",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO I - Disposições comuns"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os processos fiscais aduaneiros estão sujeitos a custas judiciais e a imposto do selo, salvo se forem isentos por lei."
+    }
+   ]
+  },
+  {
+   "id": "artigo-252",
+   "label": "Artigo 252.º",
+   "epigraph": "Isenções",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO I - Disposições comuns"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São isentos de custas judiciais e do imposto do selo, além das demais entidades isentas por lei, os autuantes e participantes nos processos em que intervenham nessas qualidades, salvo se a instauração do processo ou os recursos por eles interpostos forem destituídos de todo o fundamento."
+    },
+    {
+     "t": "p",
+     "x": "2. Revelando-se má fé da sua parte, serão os autuantes ou participantes condenados no próprio processo em multa de UCF 100 a UCF 1.000."
+    }
+   ]
+  },
+  {
+   "id": "artigo-253",
+   "label": "Artigo 253.º",
+   "epigraph": "Regime aplicável às custas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Em tudo o que não esteja especialmente previsto na presente subsecção, é aplicável às custas o disposto no Código das Custas Judiciais, nomeadamente quanto ao âmbito das custas, às isenções subjectivas e objectivas de custas, ao valor da causa para efeitos de custas, à taxa de justiça em geral, à taxa de justiça inicial e subsequente, aos encargos, às custas de parte, aos reembolsos das custas de parte, à remuneração e compensação dos intervenientes acidentais, às despesas de transporte de magistrados e funcionários, à procuradoria, aos montantes relativos a actos avulsos, aos juros de mora e à respectiva taxa e ao pagamento coercivo das custas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-254",
+   "label": "Artigo 254.º",
+   "epigraph": "Forma de pagamento das custas judiciais",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O pagamento das custas judiciais pode ser efectuado:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Em terminais de pagamento automático da Sala do Contencioso Fiscal e Aduaneiro;",
+      "Em qualquer Multicaixa, desde o primeiro dia útil posterior ao da emissão das guias até às 24 horas do último dia do respectivo prazo;",
+      "Em qualquer balcão do Banco de Poupança e Crédito."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Para os efeitos previstos no n.º 1, as guias respeitantes às custas judiciais devem:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Conter o respectivo número sequencial, a importância a pagar e os códigos da Sala do Contencioso Fiscal e Aduaneiro;",
+      "Ser emitidas em duplicado."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Ao operador Multicaixa é comunicado o número sequencial das guias, a data da emissão e do termo do prazo de pagamento, a importância a pagar, os números de referência da Sala do Contencioso Fiscal e Aduaneiro e, ainda, o número da secção de processos emitente."
+    },
+    {
+     "t": "p",
+     "x": "4. Diariamente, o Secretário Judicial da Sala do Contencioso Fiscal e Aduaneiro procede ao lançamento de todas as operações de pagamento."
+    },
+    {
+     "t": "p",
+     "x": "5. Realizados o pagamento e o lançamento, é emitido recibo, que é de imediato junto ao respectivo processo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-255",
+   "label": "Artigo 255.º",
+   "epigraph": "Prazo de pagamento das custas judiciais",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Salvo disposição especial, o pagamento das custas judiciais deve ser efectuado no prazo de dez dias úteis após a notificação da conta ao responsável por elas, devendo para esse fim o tribunal entregar-lhe as competentes guias para proceder ao respectivo pagamento e apresentar, para ser junto aos autos, o duplicado depois de efectuado o pagamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-256",
+   "label": "Artigo 256.º",
+   "epigraph": "Acção executiva por dívida de custas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO II - Pagamento coercivo das custas judiciais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o pagamento das custas e selos não for efectuado no prazo legal, será extraída a competente certidão."
+    },
+    {
+     "t": "p",
+     "x": "2. A certidão extraída do processo fiscal aduaneiro nos termos do número anterior vale como título executivo."
+    },
+    {
+     "t": "p",
+     "x": "3. O Ministério Público instaurará execução se ao devedor de custas forem conhecidos bens penhoráveis."
+    },
+    {
+     "t": "p",
+     "x": "4. Não é instaurada nem prosseguirá qualquer execução se a dívida for de montante tão reduzido que não justifique a actividade ou as despesas a que o processo daria lugar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-257",
+   "label": "Artigo 257.º",
+   "epigraph": "Termos da execução por custas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO II - Pagamento coercivo das custas judiciais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Sem prejuízo do disposto no artigo seguinte, as execuções por custas são instauradas por apenso ao processo em que teve lugar a notificação para pagamento, autuando-se o requerimento inicial e observando-se os demais termos do processo sumário."
+    }
+   ]
+  },
+  {
+   "id": "artigo-258",
+   "label": "Artigo 258.º",
+   "epigraph": "Cumulação de execuções",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO II - Pagamento coercivo das custas judiciais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Instaurar-se-á uma só execução contra o mesmo responsável, ainda que sejam várias as contas com custas em dívida no processo e apensos."
+    },
+    {
+     "t": "p",
+     "x": "2. Sendo vários os responsáveis não solidários, é instaurada uma execução contra cada um deles."
+    }
+   ]
+  },
+  {
+   "id": "artigo-259",
+   "label": "Artigo 259.º",
+   "epigraph": "Depósito de custas prováveis",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO II - Pagamento coercivo das custas judiciais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Sem prejuízo de registo contabilístico autónomo, as custas prováveis são objecto de depósito na Conta Única do Tesouro titulada pelo Ministério das Finanças, podendo sê-lo juntamente com a quantia exequenda."
+    }
+   ]
+  },
+  {
+   "id": "artigo-260",
+   "label": "Artigo 260.º",
+   "epigraph": "Insuficiência do activo e arquivamento condicional da execução",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO II - Pagamento coercivo das custas judiciais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando se verifique que o executado não dispõe de outros bens penhoráveis e que os penhorados são insuficientes para o pagamento das custas, se sobre os bens não houver direitos reais de garantia registados, o juiz, a requerimento do Ministério Público, dispensará o concurso de credores e mandará proceder à imediata liquidação dos bens, a fim de, pelo seu produto, serem pagas as custas."
+    },
+    {
+     "t": "p",
+     "x": "2. Verificando-se que o executado não possui bens, é a execução arquivada, sem prejuízo de poder continuar logo que lhe sejam conhecidos bens."
+    }
+   ]
+  },
+  {
+   "id": "artigo-261",
+   "label": "Artigo 261.º",
+   "epigraph": "Prescrição do crédito de custas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO II - Pagamento coercivo das custas judiciais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O crédito de custas prescreve no prazo de cinco anos."
+    },
+    {
+     "t": "p",
+     "x": "2. Arquivada a execução nos termos do n.º 2 do artigo anterior, o prazo conta-se da data do despacho de arquivamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-262",
+   "label": "Artigo 262.º",
+   "epigraph": "Pagamento indevido",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO III - Pagamento indevido"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se as custas pagas excederem a importância devida, o Secretário Judicial da Sala do Contencioso Fiscal e Aduaneiro ou o escrivão do processo fará o levantamento e a restituição do excesso à parte no prazo de três dias úteis."
+    },
+    {
+     "t": "p",
+     "x": "2. Se a parte, depois de notificada, se não apresentar a recebê-lo dentro de dez dias úteis, reverterá o excesso a favor dos Cofres Gerais dos Tribunais."
+    }
+   ]
+  },
+  {
+   "id": "artigo-263",
+   "label": "Artigo 263.º",
+   "epigraph": "Reclamação e reforma da conta",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO IV - Reclamação e reforma da conta"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Oficiosamente, a requerimento do Ministério Público ou dos interessados, o juiz mandará reformar a conta se esta não estiver de harmonia com as disposições legais."
+    },
+    {
+     "t": "p",
+     "x": "2. A reclamação da conta pode ser apresentada:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Pelo responsável pelas custas, no prazo de pagamento voluntário, enquanto o não realizar;",
+      "Pelo Ministério Público, no prazo de dez dias úteis a contar da notificação da conta."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-264",
+   "label": "Artigo 264.º",
+   "epigraph": "Tramitação da reclamação da conta",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO IV - Reclamação e reforma da conta"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Apresentada a reclamação da conta, o processo vai imediatamente ao contador, para se pronunciar no prazo de cinco dias úteis, e, depois, com vista ao Ministério Público; em seguida, o juiz decidirá."
+    },
+    {
+     "t": "p",
+     "x": "2. Não é admitida segunda reclamação dos interessados sem o depósito das custas em dívida."
+    }
+   ]
+  },
+  {
+   "id": "artigo-265",
+   "label": "Artigo 265.º",
+   "epigraph": "Recurso da decisão sobre a reclamação da conta ou dúvidas do contador",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO IV - Reclamação e reforma da conta"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Da decisão do incidente de reclamação e da proferida sobre as dúvidas do contador cabe recurso."
+    }
+   ]
+  },
+  {
+   "id": "artigo-266",
+   "label": "Artigo 266.º",
+   "epigraph": "Reforma da conta com reposição de custas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO II - Custas judiciais",
+    "DIVISÃO IV - Reclamação e reforma da conta"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se da reforma da conta resultar a necessidade de qualquer reposição, é a importância da reposição descontada nas quantias que no mês seguinte devam ser depositadas na Conta Única do Tesouro titulada pelo Ministério das Finanças, a título de custas, comunicando-se o facto ao Tesouro Nacional por nota de estorno."
+    }
+   ]
+  },
+  {
+   "id": "artigo-267",
+   "label": "Artigo 267.º",
+   "epigraph": "Regime aplicável ao imposto do selo",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO III - Imposto do selo"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Em tudo o que não esteja especialmente previsto na presente subsecção, é aplicável ao imposto do selo, o disposto no Diploma Legislativo n.º 3841, de 6 de Agosto de 1968, com as alterações que lhe foram introduzidas pelo Decreto n.º 7/89, de 15 de Abril, e pelo Decreto executivo n.º 71/04, de 9 de Julho, e na respectiva Tabela Geral do Imposto do Selo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-268",
+   "label": "Artigo 268.º",
+   "epigraph": "Contagem dos selos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO III - Imposto do selo"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A contagem dos selos do processo far-se-á pela taxa legal do papel selado, cada meia folha."
+    }
+   ]
+  },
+  {
+   "id": "artigo-269",
+   "label": "Artigo 269.º",
+   "epigraph": "Indemnização das testemunhas, remunerações dos peritos e intérpretes e despesas de transporte",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO IV - Despesas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Às custas e ao imposto do selo, que constituem receita do Estado, acrescem as quantias referentes à indemnização das testemunhas, remunerações dos peritos e intérpretes e despesas de transporte das autoridades instrutoras e julgadoras, respectivos funcionários, escrivães e oficiais de diligências."
+    },
+    {
+     "t": "p",
+     "x": "2. A indemnização das testemunhas será fixada pela autoridade instrutora ou julgadora, consoante os casos, sempre que aquelas a peçam logo após o seu depoimento, na importância correspondente ao que a testemunha ganha, mas nunca excedendo UCF 25 por cada um dos dias em que tenham sido obrigadas a comparecer."
+    },
+    {
+     "t": "p",
+     "x": "3. A remuneração dos peritos e intérpretes será fixada pela autoridade instrutora ou julgadora, consoante os casos, em harmonia com as habilitações deles, tempo 110 despendido e serviço prestado e será por eles percebida ainda que sejam funcionários públicos com vencimento fixo."
+    },
+    {
+     "t": "p",
+     "x": "4. As despesas de transporte devem ser devidamente documentadas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-270",
+   "label": "Artigo 270.º",
+   "epigraph": "Despesas de transporte, guarda e conservação das mercadorias, meios de transporte, armas e quaisquer objectos apreendidos ou arrematados",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO I - Disposições gerais",
+    "SECÇÃO IX - Das custas judiciais, do imposto de selo e das despesas",
+    "SUBSECÇÃO IV - Despesas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Acrescerão às custas e ao imposto do selo, e serão pagas àqueles que as houverem feito, as despesas de transporte, guarda e conservação das mercadorias, meios de transporte, armas e quaisquer objectos apreendidos ou arrematados."
+    },
+    {
+     "t": "p",
+     "x": "2. As despesas de transporte, guarda e conservação das mercadorias arrematadas e as despesas dos anúncios para a respectiva venda serão pagas pelo produto da arrematação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-271",
+   "label": "Artigo 271.º",
+   "epigraph": "Auto de notícia",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os funcionários dos quadros técnico e auxiliar aduaneiros e os funcionários encarregados da fiscalização aduaneira em efectividade de serviço devem:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Proceder à imediata prisão de qualquer pessoa que encontrem em flagrante delito, quando à infracção cometida corresponda qualquer pena de prisão;",
+      "Apreender todas as armas ou instrumentos que tenham servido à prática da infracção e todas as mercadorias e respectivos meios de transporte;",
+      "Conduzir ao posto policial mais próximo as pessoas que se encontrem dentro das zonas fiscais, em relação às quais haja suspeita fundada de que praticaram alguma infracção fiscal aduaneira, contanto que essas pessoas sejam incapazes de se identificar ou se recusem a fazê-lo; essas pessoas só podem ser compelidas a permanecer ali pelo tempo estritamente necessário à identificação, em caso algum superior a seis horas."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. De tudo lavrarão o competente auto de notícia."
+    }
+   ]
+  },
+  {
+   "id": "artigo-272",
+   "label": "Artigo 272.º",
+   "epigraph": "Elementos do auto de notícia",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O auto de notícia deve ser assinado pelas pessoas que procederam à diligência, pelos arguidos que quiserem ou puderem fazê-lo e por duas testemunhas, se as houver e saibam escrever."
+    },
+    {
+     "t": "p",
+     "x": "2. Do auto de notícia devem constar:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A menção dos factos que constituem a infracção;",
+      "A menção do dia, hora, local e circunstâncias em que a infracção foi cometida;",
+      "A menção do dia, hora e local em que a detenção e a apreensão se realizaram, das razões que as motivaram e todas as circunstâncias que nelas se deram;",
+      "O que tiver sido possível averiguar acerca do nome, estado, profissão, idade, naturalidade, residência e antecedentes fiscais e aduaneiros dos autuados e das pessoas civilmente responsáveis;",
+      "A relação das coisas apreendidas, seu valor presumível e destino que lhes foi dado;",
+      "Tudo o que tiver sido possível averiguar acerca dos meios de prova conhecidos, nomeadamente o nome, estado, profissão, idade, naturalidade e residência das testemunhas que puderem depor sobre os factos."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Ao auto de notícia devem ser juntos todos os papéis e documentos encontrados ou apresentados que possam interessar à descoberta da verdade."
+    }
+   ]
+  },
+  {
+   "id": "artigo-273",
+   "label": "Artigo 273.º",
+   "epigraph": "Notificação verbal das testemunhas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O autuante notificará logo verbalmente as testemunhas para no prazo de vinte e quatro horas, não contando os sábados, domingos ou dias feriados, comparecerem perante a autoridade competente para a instrução do processo."
+    },
+    {
+     "t": "p",
+     "x": "2. À testemunha que, devidamente notificada, não comparecer no dia e hora designados nem justificar a falta no prazo que lhe for assinado, será aplicada no próprio processo a multa de UCF 40 a UCF 400, podendo ser compelida a depor sob prisão."
+    }
+   ]
+  },
+  {
+   "id": "artigo-274",
+   "label": "Artigo 274.º",
+   "epigraph": "Valor probatório do auto de notícia e das reproduções mecânicas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O auto de notícia fará fé em juízo até prova em contrário, mas só quanto aos factos presenciados pelos autuantes."
+    },
+    {
+     "t": "p",
+     "x": "2. As reproduções fotográficas, cinematográficas, fonográficas ou por meio de processo electrónico, nomeadamente scanners, e, de um modo geral, quaisquer reproduções mecânicas só valem como prova dos factos ou coisas reproduzidas se não forem ilícitas, nos termos da lei penal."
+    },
+    {
+     "t": "p",
+     "x": "3. Não se consideram, nomeadamente, ilícitas para os efeitos previstos no número anterior as reproduções mecânicas que obedecerem ao disposto no Capítulo III do Título II do Livro II do Código de Processo Penal."
+    },
+    {
+     "t": "p",
+     "x": "4. Sem prejuízo do disposto nos n.ºs 2 e 3, quando não se puder juntar ao processo ou nele conservar o original de qualquer documento, mas unicamente a sua reprodução mecânica, esta tem o mesmo valor probatório do original, se com ele tiver sido identificada nesse ou noutro processo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-275",
+   "label": "Artigo 275.º",
+   "epigraph": "Medidas cautelares e prisão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "No mais curto espaço de tempo possível, segundo as circunstâncias, e nunca em prazo superior a vinte e quatro horas, não contando os sábados, domingos e dias feriados:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As pessoas presas devem ser apresentadas, nos termos da legislação aplicável, ao tribunal para julgamento em processo sumário ou ao magistrado do Ministério Público competente;",
+      "O auto de notícia, as mercadorias e os meios de transporte apreendidos devem ser apresentados ao Ministério Público e à autoridade aduaneira competente para a instrução do processo."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-276",
+   "label": "Artigo 276.º",
+   "epigraph": "Prisão ou apreensão realizadas em dia não útil",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se a prisão ou a apreensão foram feitas em dia ou hora em que os serviços da autoridade aduaneira competente para a instrução do processo estiverem encerrados, observar-se-ão as seguintes disposições:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os arguidos ficarão detidos no posto da Polícia Fiscal ou na cadeia mais próxima do lugar da detenção e devem ser apresentados, nos termos da legislação aplicável, ao tribunal para julgamento em processo sumário ou ao magistrado do Ministério Público competente no primeiro dia útil seguinte ao da prisão;",
+      "O auto de notícia, as mercadorias e os meios de transporte apreendidos devem ser apresentados ao Ministério Público e à autoridade aduaneira competente para a instrução do processo no primeiro dia útil seguinte ao da apreensão ou prisão."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-277",
+   "label": "Artigo 277.º",
+   "epigraph": "Prisão ou apreensão realizadas por outras autoridades",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Qualquer autoridade ou agente de autoridade que não sejam os referidos no artigo 271.º deve deter as pessoas que encontre em flagrante delito, quando à infracção cometida corresponda qualquer pena de prisão, e, acto seguido, deve observar, com as necessárias adaptações, o disposto nos artigos 275.º e 276.º."
+    },
+    {
+     "t": "p",
+     "x": "2. Na delegação ou estância aduaneira em que tiverem sido apresentados os meios de transporte e as mercadorias apreendidos será lavrado o auto de notícia por qualquer dos funcionários ou agentes de fiscalização presentes, preferindo o mais graduado, e, em igualdade de graduação, o mais antigo no serviço, devendo o auto ser assinado por quem o lavrar, pelo captor ou apreensor e também pelo detido, se quiser ou puder fazê-lo."
+    },
+    {
+     "t": "p",
+     "x": "3. Quanto ao mais observar-se-ão, na parte aplicável, as disposições dos artigos 272.º a 276.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-278",
+   "label": "Artigo 278.º",
+   "epigraph": "Entrega das mercadorias ou dos meios de transporte a depositário idóneo ou a agentes de autoridade",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando se não torne possível o transporte imediato de mercadorias ou meios de transporte apreendidos, ou quando esse transporte se torne demasiadamente penoso ou possa causar deterioração, serão tais mercadorias ou meios de transporte relacionados e descritos em atenção à sua quantidade, qualidade e valor e entregues a um depositário idóneo, lavrando-se do depósito o respectivo termo, assinado pelos apreensores e testemunhas, havendo-as, e pelo depositário, a quem se entregará um duplicado da relação."
+    },
+    {
+     "t": "p",
+     "x": "2. Não havendo no local da apreensão depositário idóneo, ficarão as mercadorias ou meios de transporte apreendidos sob a guarda de agentes de autoridade até ordem da autoridade instrutora."
+    },
+    {
+     "t": "p",
+     "x": "3. As mercadorias ou objectos apreendidos serão, quando isso se mostre conveniente, devidamente empacotados e cintados com fio preso por meio de selos, sendo estes postos sobre uma etiqueta assinada pelos autuantes, pelos arguidos presentes, pelas testemunhas e pelo depositário, se o houver."
+    }
+   ]
+  },
+  {
+   "id": "artigo-279",
+   "label": "Artigo 279.º",
+   "epigraph": "Dever de participação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os funcionários dos quadros técnico e auxiliar aduaneiros e os funcionários encarregados da fiscalização aduaneira que tenham conhecimento de quaisquer factos que, em seu entender, possam constituir infracção fiscal aduaneira, darão deles participação por escrito à autoridade aduaneira competente."
+    },
+    {
+     "t": "p",
+     "x": "2. A participação deve conter, tanto quanto possível:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A indicação completa dos factos, data, hora e local em que foram praticados e circunstâncias que os acompanharam;",
+      "As razões em que se fundamenta o participante para entender que constituem infracção fiscal aduaneira;",
+      "O nome, estado, profissão, idade, naturalidade e residência ou quaisquer outros elementos que sirvam para identificar quem praticou os factos ou a quem se pode atribuir qualquer responsabilidade neles;",
+      "As pessoas que têm conhecimento dos factos e os podem testemunhar;",
+      "A qualidade, quantidade, valor e presumível destino das mercadorias e meios de transporte a que a possível infracção respeite;",
+      "Tudo o mais que possa contribuir para a descoberta e punição da infracção."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. A participação, na falta de testemunhas, fará fé em juízo até prova em contrário, mas só quanto aos factos presenciados pelos participantes."
+    }
+   ]
+  },
+  {
+   "id": "artigo-280",
+   "label": "Artigo 280.º",
+   "epigraph": "Auto de notícia em caso de buscas, apreensões, detenção e interrogatório",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os funcionários dos quadros técnico e auxiliar aduaneiros e os funcionários encarregados da fiscalização aduaneira, quando efectuarem algumas das diligências referidas no artigo 225.º, delas lavrarão igualmente auto de notícia, nos termos e para os efeitos dos artigos antecedentes."
+    }
+   ]
+  },
+  {
+   "id": "artigo-281",
+   "label": "Artigo 281.º",
+   "epigraph": "Denúncia e participação de infracções fiscais aduaneiras",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO I - Da notícia da infracção"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Fora das condições referidas nos artigos anteriores, qualquer autoridade ou agente de autoridade deve, e qualquer outra pessoa pode, dar conhecimento à autoridade aduaneira de qualquer facto que conheça e que em seu entender constitua infracção fiscal aduaneira e de todos elementos que sirvam para comprová-lo."
+    },
+    {
+     "t": "p",
+     "x": "2. A autoridade aduaneira encarregará um funcionário dos quadros técnico ou auxiliar aduaneiros ou um agente da fiscalização aduaneira de fazer a correspondente participação, que servirá de base ao processo e da qual constarão as circunstâncias da denúncia."
+    },
+    {
+     "t": "p",
+     "x": "3. A pessoa que, nos termos deste artigo, der à autoridade aduaneira conhecimento da infracção será, para os efeitos da distribuição de multa que vier a ser aplicada, considerada como participante; mas, se não for autoridade nem agente de autoridade, só terá direito a ser contemplada nessa distribuição se assim o requerer antes de transitar em julgado o despacho de indicação."
+    },
+    {
+     "t": "p",
+     "x": "4. Se a pessoa que, nos termos deste artigo, der à autoridade aduaneira conhecimento da infracção não for autoridade ou agente da autoridade, pode ficar desconhecida no processo se assim o desejar; mas, se vier a provar-se que a sua denúncia é inteiramente destituída de fundamento e foi feita de má fé, será pela autoridade aduaneira dado conhecimento da sua identidade ao suposto infractor que assim o requeira, para intentar o competente procedimento civil ou criminal contra o denunciante."
+    }
+   ]
+  },
+  {
+   "id": "artigo-282",
+   "label": "Artigo 282.º",
+   "epigraph": "Registo do auto de notícia e primeiro interrogatório",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO II - Do corpo de delito"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A autoridade aduaneira com competência processual mandará registar e autuar os autos de notícia e as participações que lhe sejam apresentadas e, em seguida, procederá ao interrogatório dos infractores e dos demais responsáveis, dos autuantes ou participantes, dos denunciantes cuja identidade conste do processo e dos donos das mercadorias e dos meios de transporte apreendidos que residam na área da sua jurisdição."
+    },
+    {
+     "t": "p",
+     "x": "2. Tratando-se de processo por crime fiscal aduaneiro, o interrogatório a que se refere o n.º 1 é feito pelo magistrado do Ministério Público competente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-283",
+   "label": "Artigo 283.º",
+   "epigraph": "Inquirição das testemunhas e outras diligências",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO II - Do corpo de delito"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Salvo quando possa haver lugar a julgamento imediato, a autoridade aduaneira com competência processual ou o magistrado do Ministério Público competente, consoante os casos, interrogadas as pessoas mencionadas no artigo anterior, procederá à inquirição das testemunhas indicadas e às demais diligências que lhe pareçam convenientes para averiguar a existência da infracção, fazer a investigação dos infractores e determinar a sua responsabilidade."
+    },
+    {
+     "t": "p",
+     "x": "2. Além das testemunhas indicadas deverão ser inquiridas quaisquer outras que a autoridade aduaneira ou o magistrado do Ministério Público entenda poderem contribuir para a descoberta da verdade."
+    },
+    {
+     "t": "p",
+     "x": "3. A autoridade aduaneira ou o magistrado do Ministério Público pode ordenar verbalmente que deponham ou prestem declarações as pessoas presentes."
+    },
+    {
+     "t": "p",
+     "x": "4. As testemunhas e declarantes que residam fora da área da jurisdição da autoridade instrutora podem ser inquiridas por carta precatória."
+    },
+    {
+     "t": "p",
+     "x": "5. Às testemunhas e declarantes que, devidamente notificados, não comparecerem no dia e hora designados nem justificarem a falta no prazo que lhe for assinado, será aplicada no próprio processo a multa de UCF 40 a UCF 400, podendo ser compelidos a depor sob prisão."
+    },
+    {
+     "t": "p",
+     "x": "6. A autoridade aduaneira com competência processual deve proceder à fixação dos direitos e demais imposições aduaneiras em dívida e do valor das mercadorias ou meios de transporte apreendidos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-284",
+   "label": "Artigo 284.º",
+   "epigraph": "Da capacidade para ser testemunha, dos depoimentos e das declarações",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO II - Do corpo de delito"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Têm capacidade para depor como testemunhas todos aqueles que tiverem aptidão física e mental para depor sobre os factos que constituam objecto da prova."
+    },
+    {
+     "t": "p",
+     "x": "2. Incumbe à autoridade aduaneira com competência processual ou ao magistrado do Ministério Público competente verificar a capacidade natural das pessoas arroladas como testemunhas, com vista a avaliar da admissibilidade e da credibilidade do respectivo depoimento."
+    },
+    {
+     "t": "p",
+     "x": "3. As pessoas referidas no artigo 216.º do Código de Processo Penal não podem ser testemunhas."
+    },
+    {
+     "t": "p",
+     "x": "4. Não são obrigadas a depor nem a prestar declarações as pessoas referidas no artigo 217.º do Código de Processo Penal."
+    }
+   ]
+  },
+  {
+   "id": "artigo-285",
+   "label": "Artigo 285.º",
+   "epigraph": "Imunidades, prerrogativas e medidas especiais de protecção",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO II - Do corpo de delito"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Têm aplicação em processo fiscal aduaneiro todas as imunidades e prerrogativas estabelecidas na lei quanto ao dever de testemunhar e ao modo e local de prestação das declarações e dos depoimentos."
+    },
+    {
+     "t": "p",
+     "x": "2. A protecção das testemunhas, dos guias, descobridores, informadores e de outros intervenientes no processo contra formas de ameaça, pressão ou intimidação, nomeadamente nos casos de terrorismo, criminalidade violenta ou altamente organizada, é regulada em diploma especial."
+    }
+   ]
+  },
+  {
+   "id": "artigo-286",
+   "label": "Artigo 286.º",
+   "epigraph": "Exames",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO II - Do corpo de delito"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A autoridade aduaneira com competência processual pode ordenar a realização dos exames que julgue necessários, inclusivamente ao local da infracção, para descoberta dos vestígios e circunstâncias desta."
+    },
+    {
+     "t": "p",
+     "x": "2. Tratando-se de processo por crime fiscal aduaneiro, compete ao magistrado do Ministério Público ordenar, oficiosamente ou a pedido da autoridade aduaneira, a realização dos exames a que se refere o n.º 1."
+    },
+    {
+     "t": "p",
+     "x": "3. Os exames serão feitos por dois peritos nomeados pela autoridade aduaneira ou pelo magistrado do Ministério Público competente, consoante os casos, devendo perante estes prestar o competente compromisso de honra previsto no artigo 179.º do Código de Processo Penal."
+    },
+    {
+     "t": "p",
+     "x": "4. Ao perito que faltar e não justificar a falta no prazo que lhe for assinado, será aplicada no próprio processo a multa de UCF 40 a UCF 400, podendo a autoridade aduaneira ou o magistrado do Ministério Público nomear outro em sua substituição."
+    }
+   ]
+  },
+  {
+   "id": "artigo-287",
+   "label": "Artigo 287.º",
+   "epigraph": "Verificação das mercadorias",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO II - Do corpo de delito"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A autoridade instrutora poderá, sempre que o entenda necessário, determinar ou requisitar, conforme os casos, a verificação das mercadorias apreendidas e a contagem dos direitos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-288",
+   "label": "Artigo 288.º",
+   "epigraph": "Junção de documentos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO II - Do corpo de delito"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Serão juntos ao processo os documentos que os autuantes, participantes ou denunciantes, os infractores e os donos das mercadorias ou meios de transporte apreendidos apresentarem para esse fim."
+    },
+    {
+     "t": "p",
+     "x": "2. Poderá ainda a autoridade instrutora ordenar, oficiosamente, a junção de quaisquer documentos e a sua requisição às autoridades públicas competentes."
+    }
+   ]
+  },
+  {
+   "id": "artigo-289",
+   "label": "Artigo 289.º",
+   "epigraph": "Prolação do despacho",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO III - Do despacho de indiciação ou de não indiciação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Tratando-se de processo por crime fiscal aduaneiro, deve observar-se, quanto à prolação do despacho de indiciação ou de não indiciação, o disposto no Código de Processo Penal, sem prejuízo do disposto na presente secção."
+    },
+    {
+     "t": "p",
+     "x": "2. Nos processos por transgressão fiscal aduaneira, cumprido o disposto nos artigos anteriores, a autoridade aduaneira com competência processual deve proferir, no prazo de dez dias úteis, despacho fundamentado de indiciação ou de não indiciação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-290",
+   "label": "Artigo 290.º",
+   "epigraph": "Requisitos do despacho de indiciação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO III - Do despacho de indiciação ou de não indiciação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O despacho de indiciação deve ser escrito, datado e assinado por quem o proferir, nele se devendo julgar subsistente o auto de notícia ou fundada a participação."
+    },
+    {
+     "t": "p",
+     "x": "2. O despacho de indiciação deve conter:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O nome, estado, profissão, naturalidade e residência, quando conhecidos, de todos os responsáveis ou as indicações necessárias para estes serem identificados;",
+      "Os factos de que derivam as suas responsabilidades e a lei que as estabelece;",
+      "A indicação do valor das mercadorias ou dos meios de transporte apreendidos, dos direitos e demais imposições em dívida e do máximo da multa aplicável;",
+      "A importância da caução a prestar pelos arguidos para se manterem em liberdade;",
+      "A menção expressa de que os arguidos são desconhecidos, quando se dê esta circunstância;",
+      "A decretação da perda, a favor do Estado, das armas ou instrumentos que serviram para a prática da infracção e, se a ela houver lugar, das mercadorias e meios de transporte ou do seu valor."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-291",
+   "label": "Artigo 291.º",
+   "epigraph": "Requisitos do despacho de não indiciação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO III - Do despacho de indiciação ou de não indiciação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O despacho de não indiciação será escrito, datado e assinado por quem o proferir, nele se devendo julgar o auto de notícia insubsistente ou a participação infundada, ordenando-se que sejam imediatamente postos em liberdade os arguidos que estiverem presos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-292",
+   "label": "Artigo 292.º",
+   "epigraph": "Notificação dos despachos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO III - Do despacho de indiciação ou de não indiciação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os despachos a que se referem os artigos anteriores serão notificados aos autuantes ou participantes e aos arguidos ou pessoas civilmente responsáveis no prazo de quinze dias úteis."
+    }
+   ]
+  },
+  {
+   "id": "artigo-293",
+   "label": "Artigo 293.º",
+   "epigraph": "Efeitos do despacho de indiciação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO III - Do despacho de indiciação ou de não indiciação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Nos processos por transgressão fiscal aduaneira, o despacho de indiciação terá o efeito de julgamento definitivo:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Se o infractor não for conhecido e tiver havido apreensão, contanto que não haja recurso algum no prazo de vinte dias úteis a contar da data da notificação por edital afixado no lugar onde correr o processo, procedendo-se, nesse caso, à arrematação das mercadorias e ou dos meios de transporte;",
+      "Se, embora sendo conhecido o infractor, quer tenha havido ou não apreensão, à infracção não corresponder pena de demissão ou suspensão e os responsáveis, notificados nos termos do artigo 229.º e seguintes, não interpuserem recurso ou não contestarem no prazo legal."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. No caso da alínea b) do n.º 1, logo que expire o prazo da contestação, a autoridade instrutora proferirá sentença, graduando a multa, se não houver lugar a recurso obrigatório."
+    }
+   ]
+  },
+  {
+   "id": "artigo-294",
+   "label": "Artigo 294.º",
+   "epigraph": "Efeitos do despacho de não indiciação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO III - Do despacho de indiciação ou de não indiciação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se for proferido despacho de não indiciação e os autuantes ou participantes, devidamente notificados, não interpusem recurso no prazo legal, e não for caso de recurso obrigatório, a autoridade instrutora mandará logo restituir, a quem pertencerem, as mercadorias ou os meios de transporte apreendidos e qualquer depósito que tenha sido feito nos autos e em seguida arquivar o processo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-295",
+   "label": "Artigo 295.º",
+   "epigraph": "Recurso dos despachos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO III - Do despacho de indiciação ou de não indiciação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Do despacho de indiciação ou de não indiciação cabe recurso."
+    }
+   ]
+  },
+  {
+   "id": "artigo-296",
+   "label": "Artigo 296.º",
+   "epigraph": "Prazo para a contestação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Proferido o despacho de indiciação, os arguidos podem contestar no prazo de dez dias úteis, a contar da data da notificação do despacho."
+    }
+   ]
+  },
+  {
+   "id": "artigo-297",
+   "label": "Artigo 297.º",
+   "epigraph": "Elementos da contestação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A contestação consistirá numa exposição escrita e concisa dos factos em que se baseia a exposição do contestante, não precisando ser articulada."
+    },
+    {
+     "t": "p",
+     "x": "2. A contestação deve ser assinada por advogado, ou pelo interessado ou a seu rogo, devendo a assinatura, neste caso, ser reconhecida ou o rogo dado perante notário."
+    },
+    {
+     "t": "p",
+     "x": "3. Se o arguido estiver preso, o reconhecimento do notário pode ser substituído por autenticação do director da prisão em que se encontre."
+    }
+   ]
+  },
+  {
+   "id": "artigo-298",
+   "label": "Artigo 298.º",
+   "epigraph": "Indicação das testemunhas e das provas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Na contestação indicará o contestante até três testemunhas por cada facto, se entender que deve fazer por esse meio a prova dos factos alegados, e requererá qualquer outra diligência probatória que lhe seja permitida por lei."
+    }
+   ]
+  },
+  {
+   "id": "artigo-299",
+   "label": "Artigo 299.º",
+   "epigraph": "Notificação das testemunhas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As testemunhas que residam na área de jurisdição da autoridade instrutora devem ser notificadas para depor no dia, hora e local que forem designados para a inquirição."
+    },
+    {
+     "t": "p",
+     "x": "2. As notificações das testemunhas são feitas por meio de aviso expedido pelo correio, sob registo, indicando-se a data, a hora, o local e o fim da comparência."
+    },
+    {
+     "t": "p",
+     "x": "3. A notificação considera-se efectuada mesmo que o destinatário se recuse a receber o expediente, devendo o distribuidor do serviço postal lavrar nota da ocorrência."
+    },
+    {
+     "t": "p",
+     "x": "4. À testemunha que, devidamente notificada, não comparecer no dia, hora e local designados nem justificar a falta no prazo que lhe for assinado, será aplicada no próprio processo a multa de UCF 40 a UCF 400, podendo ser compelida a depor sob prisão."
+    },
+    {
+     "t": "p",
+     "x": "5. Não é permitida a inquirição de testemunhas por meio de carta precatória ou rogatória, mas podem ser apresentadas, pelos interessados, as testemunhas residentes fora da área de jurisdição da autoridade instrutora."
+    },
+    {
+     "t": "p",
+     "x": "6. A autoridade instrutora deve entregar ao contestante os avisos relativos às testemunhas que residam fora daquela área e que ele se haja comprometido a apresentar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-300",
+   "label": "Artigo 300.º",
+   "epigraph": "Inquirição das testemunhas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As testemunhas são inquiridas com as formalidades legais no dia, hora e local designados, sobre factos de que possuam conhecimento directo e que constituam objecto da prova."
+    },
+    {
+     "t": "p",
+     "x": "2. Quando se contestar apenas o valor dado às mercadorias ou meios de transporte apreendidos ou de que a lei decrete a perda, a inquirição das testemunhas recairá só sobre este ponto."
+    },
+    {
+     "t": "p",
+     "x": "3. As partes podem estar presentes com os seus advogados, para o que serão devidamente notificadas."
+    },
+    {
+     "t": "p",
+     "x": "4. Tratando-se de processo por transgressão fiscal aduaneira, as testemunhas são inquiridas pela autoridade instrutora, mas as partes ou os seus advogados podem deduzir impugnações ou contraditas e requerer as acareações, nos termos do Código de Processo Civil, e ainda requerer que as respostas das testemunhas sejam esclarecidas ou completadas, o que a autoridade instrutora deferirá se o reputar necessário para a descoberta da verdade."
+    },
+    {
+     "t": "p",
+     "x": "5. Todos os depoimentos serão escritos e, salvo acordo em contrário das partes, serão as testemunhas inquiridas pela ordem da sua inscrição e das contestações."
+    }
+   ]
+  },
+  {
+   "id": "artigo-301",
+   "label": "Artigo 301.º",
+   "epigraph": "Adiamento da inquirição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A inquirição não pode ser adiada mais de uma vez por falta de testemunhas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-302",
+   "label": "Artigo 302.º",
+   "epigraph": "Outras diligências probatórias",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A autoridade instrutora poderá indeferir o pedido das diligências probatórias que lhe pareçam impertinentes, desnecessárias ou meramente dilatórias e poderá ordenar as que lhe pareçam necessárias para a descoberta da verdade, ainda que não tenham sido requeridas."
+    },
+    {
+     "t": "p",
+     "x": "2. Seja qual for o valor da causa, é sempre admissível recurso, sem efeito suspensivo, do despacho de indeferimento daquelas diligências."
+    }
+   ]
+  },
+  {
+   "id": "artigo-303",
+   "label": "Artigo 303.º",
+   "epigraph": "Ónus da prova de certos factos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Nos processos relativos à prática de infracção fiscal aduaneira e em outros litígios que envolvam as alfândegas, o ónus da prova recai sobre a contraparte envolvida no processo ou no litígio, sempre que se suscitarem dúvidas sobre:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O local de proveniência das mercadorias ou o uso ou destino que lhes haja sido dado;",
+      "Quaisquer direitos ou taxas pagos ou garantidos relativamente a quaisquer mercadorias;",
+      "Qualquer mercadoria ou coisa que tenha a mesma descrição ou natureza das constantes da participação ou de outro documento do processo;",
+      "Quaisquer mercadorias que tenham sido legalmente carregadas em qualquer meio de transporte ou legalmente exportadas;",
+      "Quaisquer mercadorias que tenham sido legalmente trazidas para qualquer lugar para serem carregadas ou descarregadas de qualquer meio de transporte ou legalmente importadas e ou exportadas."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-304",
+   "label": "Artigo 304.º",
+   "epigraph": "Momento da apresentação dos documentos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os documentos destinados a fazer prova dos fundamentos da contestação devem ser apresentados com ela."
+    },
+    {
+     "t": "p",
+     "x": "2. Podem, porém, ser apresentados com a minuta do recurso da decisão final os documentos que não tenha sido possível obter antes ou que se tornem necessários em consequência daquela decisão."
+    },
+    {
+     "t": "p",
+     "x": "3. Os pareceres de advogados, professores ou técnicos podem ser juntos em qualquer estado do processo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-305",
+   "label": "Artigo 305.º",
+   "epigraph": "Nomeação dos peritos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A perícia é requisitada, consoante os casos, pela autoridade aduaneira com competência processual ou pelo magistrado do Ministério Público competente, a estabelecimento, laboratório ou serviço oficial apropriado ou, quando tal não seja possível ou conveniente, realizada por um único perito, nomeado por essas autoridades de entre pessoas de reconhecida idoneidade e competência na matéria em causa, sem prejuízo do disposto no artigo seguinte."
+    },
+    {
+     "t": "p",
+     "x": "2. A perícia é realizada por mais de um perito, até ao número de três, funcionando em moldes colegiais ou interdisciplinares, quando as autoridades mencionadas no n.º 1 oficiosamente o determinem, por entenderem que a perícia reveste especial complexidade ou exige conhecimento de matérias distintas."
+    },
+    {
+     "t": "p",
+     "x": "3. A nomeação dos peritos terá lugar perante as autoridades mencionadas no n.º 1 no dia em que elas designarem, e de tudo se lavrará auto, que será devidamente assinado."
+    },
+    {
+     "t": "p",
+     "x": "4. O perito ou peritos nomeados prestarão juramento nos termos do artigo 559.º do Código de Processo Civil."
+    }
+   ]
+  },
+  {
+   "id": "artigo-306",
+   "label": "Artigo 306.º",
+   "epigraph": "Elaboração dos quesitos e realização dos exames",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO IV - Da defesa"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. No prazo de dez dias úteis a contar da nomeação dos peritos, a autoridade aduaneira com competência processual ou o magistrado do Ministério Público competente, consoante os casos, devem formular, por escrito, os quesitos para o exame."
+    },
+    {
+     "t": "p",
+     "x": "2. Findo o prazo mencionado no número anterior e formulados os quesitos, as autoridades mencionadas no n.º 1 devem ordenar a realização do exame ou dos exames, designando a respectiva data."
+    },
+    {
+     "t": "p",
+     "x": "3. Os peritos devem ser notificados da data mencionada no número anterior."
+    },
+    {
+     "t": "p",
+     "x": "4. Ao perito que, devidamente notificado, não comparecer no dia e hora designados nem justificar a falta no prazo que lhe for assinado, será aplicada no próprio processo a 120 multa de UCF 40 a UCF 400, podendo as autoridades mencionadas no n.º 1 nomear outro em sua substituição."
+    }
+   ]
+  },
+  {
+   "id": "artigo-307",
+   "label": "Artigo 307.º",
+   "epigraph": "Prazo para alegações",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO V - Da discussão"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Finda a produção das provas, serão notificados, no prazo de quarenta e oito horas, os autuantes, participantes, arguidos e as pessoas civilmente responsáveis para, no prazo de dez dias úteis, alegarem por escrito, podendo o processo ser examinado pelos interessados."
+    },
+    {
+     "t": "p",
+     "x": "2. O prazo para os arguidos e civilmente responsáveis alegarem só começa a contar-se findo o prazo para as alegações dos autuantes ou participantes."
+    }
+   ]
+  },
+  {
+   "id": "artigo-308",
+   "label": "Artigo 308.º",
+   "epigraph": "Prisão preventiva",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO VI - Da prisão"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Serão detidos e mantidos em prisão preventiva, quando sejam maiores de 16 anos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Aqueles que forem encontrados em flagrante delito, tratando-se de crimes fiscais aduaneiros a que seja aplicável pena de prisão;",
+      "Aqueles que, fora de flagrante delito, sejam suspeitos da prática de crime fiscal aduaneiro doloso e punível com pena de prisão superior a um ano e não seja conveniente ou admissível a concessão de liberdade provisória;",
+      "Aqueles que não cumprirem as obrigações a que fica sujeita a liberdade provisória."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Para os efeitos do disposto na alínea b) do n.º 1, entende-se que há suspeita da prática de crime fiscal aduaneiro quando se encontrar provada a existência deste e se verifiquem indícios suficientes para a sua imputação ao arguido, sendo sempre ilegal a captura destinada a obter esses indícios."
+    },
+    {
+     "t": "p",
+     "x": "3. O despacho de indiciação será notificado aos detidos antes de serem entregues ou apresentados às autoridades competentes, se for possível, mas, se o não tiver sido, far-se-á a notificação por ordem delas, dentro de vinte e quatro horas, para o que se lhe enviará certidão do despacho."
+    },
+    {
+     "t": "p",
+     "x": "4. Em tudo o que não esteja especialmente previsto neste artigo, é aplicável, com as necessárias adaptações, o disposto na Lei n.º 18-A/92, de 17 de Julho."
+    }
+   ]
+  },
+  {
+   "id": "artigo-309",
+   "label": "Artigo 309.º",
+   "epigraph": "Detenção para identificação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO VI - Da prisão"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Pode ser ordenada a detenção de infractores ou suspeitos com o objectivo de apurar a sua identidade."
+    },
+    {
+     "t": "p",
+     "x": "2. No caso referido no número anterior, os detidos devem ser postos em liberdade logo que provem a sua identidade, declarem a sua residência e se obriguem a comparecer perante a autoridade judiciária sempre que para isso sejam notificados."
+    },
+    {
+     "t": "p",
+     "x": "3. Para o efeito de ser notificado, o detido pode indicar a sua residência ou o seu local de trabalho."
+    },
+    {
+     "t": "p",
+     "x": "4. Se o detido residir ou for residir para fora da área de jurisdição onde o processo corre, deve indicar pessoa que, residindo dentro dessa área, tome o encargo de receber as notificações que lhe devem ser feitas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-310",
+   "label": "Artigo 310.º",
+   "epigraph": "Identidade do arguido",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO VII - Do termo de identidade e residência e cauções"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A identidade do arguido deve considerar-se provada:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Se for conhecida da autoridade judiciária;",
+      "Se apresentar em ordem o seu passaporte ou o bilhete de identidade;",
+      "Se apresentar pessoa idónea que declare conhecê-lo."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. A autoridade judiciária sujeita a termo de identidade e residência lavrado no processo todo aquele que for constituído arguido."
+    },
+    {
+     "t": "p",
+     "x": "3. Do termo deve constar que ao arguido foi dado conhecimento:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Da obrigação de comparecer perante a autoridade competente ou de se manter à disposição dela sempre que a lei o obrigar ou para tal for devidamente notificado;",
+      "Da obrigação de não mudar de residência nem dela se ausentar por mais de cinco dias sem comunicar a nova residência ou o lugar onde possa ser encontrado."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-311",
+   "label": "Artigo 311.º",
+   "epigraph": "Falta de comparência perante a autoridade competente",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO VII - Do termo de identidade e residência e cauções"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o arguido que ficar em liberdade, mediante termo de identidade e residência, deixar de comparecer perante a autoridade competente, sempre que para tal seja notificado, e não justificar a falta, ser-lhe-á arbitrada pelo juiz caução para se manter em liberdade, e, se a não prestar, será preso."
+    },
+    {
+     "t": "p",
+     "x": "2. O mesmo se observará quando, tratando-se de crime fiscal aduaneiro a que seja aplicável pena de prisão, o arguido estiver em liberdade sem termo de identidade e residência nem caução."
+    }
+   ]
+  },
+  {
+   "id": "artigo-312",
+   "label": "Artigo 312.º",
+   "epigraph": "Caução",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO VII - Do termo de identidade e residência e cauções"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o crime fiscal aduaneiro imputado for punível com pena de prisão, o juiz pode impor a obrigação de prestar caução:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Aos presos, na ocasião de estes serem interrogados;",
+      "Aos demais arguidos logo que se torne necessária ou quando eles o requeiram."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Na fixação do montante da caução, atender-se-á aos fins de natureza cautelar a que se destina, à gravidade do crime imputado, ao dano por este causado e à condição sócioeconómica do arguido, não podendo esse montante ser inferior ao dobro do valor aduaneiro das mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "3. A caução assegura a comparência dos arguidos perante a autoridade competente, sempre que para tal sejam notificados, e constitui garantia do pagamento dos direitos, demais imposições devidos, custas, selos e multas em que os arguidos venham a ser condenados, subsistindo até que esse pagamento se efectue ou a caução seja executada."
+    }
+   ]
+  },
+  {
+   "id": "artigo-313",
+   "label": "Artigo 313.º",
+   "epigraph": "Reforço da caução",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO VII - Do termo de identidade e residência e cauções"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o arguido, que estiver em liberdade por ter prestado a caução que lhe foi arbitrada, não comparecer perante a autoridade competente quando para isso for notificado e não justificar a falta, ser-lhe-á exigido reforço da caução de montante igual ao da caução inicialmente arbitrada."
+    },
+    {
+     "t": "p",
+     "x": "2. É também exigível o reforço da caução:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Quando houver destruição dos objectos depositados ou dos bens dados em garantia ou estes se depreciem de modo a que o seu valor se torne manifestamente insuficiente;",
+      "Quando haja receio de falência ou de insolvência do fiador;",
+      "Quando em decisão posterior à que arbitrou o valor da caução se julgue insuficiente a caução prestada."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. O arguido que, notificado para proceder ao reforço da caução, o não fizer, poderá ser preso."
+    }
+   ]
+  },
+  {
+   "id": "artigo-314",
+   "label": "Artigo 314.º",
+   "epigraph": "Remessa do processo para a Sala do Contencioso Fiscal e Aduaneiro",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO II - Da instrução",
+    "SECÇÃO VIII - Do encerramento da instrução"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Concluída a instrução do processo por crime fiscal aduaneiro nos termos dos artigos anteriores, será este imediatamente remetido ao presidente da Sala do Contencioso Fiscal e Aduaneiro competente."
+    },
+    {
+     "t": "p",
+     "x": "2. Não obstante o disposto no número anterior, o presidente da Sala do Contencioso Fiscal e Aduaneiro pode, por sua iniciativa ou por proposta do relator, mandar baixar o processo à autoridade instrutora a fim de ser cumprida qualquer formalidade substancial do processo ou diligência que repute essencial para a descoberta da verdade e para a justa aplicação da lei."
+    }
+   ]
+  },
+  {
+   "id": "artigo-315",
+   "label": "Artigo 315.º",
+   "epigraph": "Direito subsidiário",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "São subsidiariamente aplicáveis ao julgamento dos crimes fiscais aduaneiros, as disposições do Código de Processo Penal e da respectiva legislação complementar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-316",
+   "label": "Artigo 316.º",
+   "epigraph": "Distribuição e vista do processo",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O presidente da Sala do Contencioso Fiscal e Aduaneiro, depois de ter recebido o processo, fá-lo-á registar em livro especial, indicando-se o processo de que se trata e o dia e hora em que foi entregue."
+    },
+    {
+     "t": "p",
+     "x": "2. É pela distribuição que, a fim de repartir com igualdade o serviço da Sala, se designa a secção em que o processo há-de correr ou o juiz que há-de exercer as funções de relator."
+    },
+    {
+     "t": "p",
+     "x": "3. Se a Sala dispuser de sistema informático, a operação de distribuição é objecto de tratamento automático, que garantirá o mesmo grau de aleatoriedade no resultado e de igualdade na distribuição de serviço."
+    },
+    {
+     "t": "p",
+     "x": "4. As listagens produzidas por computador, quando assinadas ou rubricadas pelo magistrado ou funcionário que intervém no acto por elas documentado, têm o mesmo valor que os livros, pautas e listas que visam substituir."
+    },
+    {
+     "t": "p",
+     "x": "5. Os mandatários judiciais podem solicitar na secretaria da Sala qualquer informação acerca do resultado da distribuição dos processos referentes às partes que patrocinam."
+    },
+    {
+     "t": "p",
+     "x": "6. O relator terá vista do processo por quinze dias úteis e os restantes juízes terão vista dele por oito dias úteis."
+    },
+    {
+     "t": "p",
+     "x": "7. O presidente convocará o tribunal para julgamento no prazo de dez dias úteis contados da data do visto do último juiz."
+    }
+   ]
+  },
+  {
+   "id": "artigo-317",
+   "label": "Artigo 317.º",
+   "epigraph": "Conhecimento das nulidades, ilegitimidades e excepções",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "No acordão conhecerá o tribunal das nulidades, ilegitimidades, excepções e quaisquer outras questões prévias que possam obstar à apreciação do mérito da causa e que não tenham sido ainda resolvidas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-318",
+   "label": "Artigo 318.º",
+   "epigraph": "Alteração não substancial dos factos descritos na acusação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se, no decurso da audiência de julgamento, se verificar uma alteração não substancial dos factos descritos na acusação, com relevo para a decisão da causa, o presidente, oficiosamente ou a requerimento, comunica a alteração ao arguido e concede-lhe o tempo estritamente necessário para a preparação da defesa."
+    },
+    {
+     "t": "p",
+     "x": "2. Ressalva-se do disposto no número anterior o caso de a alteração ter derivado de factos alegados pela defesa."
+    },
+    {
+     "t": "p",
+     "x": "3. O disposto no n.º 1 é correspondentemente aplicável quando o tribunal alterar a qualificação jurídica dos factos descritos na acusação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-319",
+   "label": "Artigo 319.º",
+   "epigraph": "Alteração substancial dos factos descritos na acusação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Uma alteração substancial dos factos descritos na acusação não pode ser tomada em conta pelo tribunal para o efeito de condenação no processo em curso."
+    },
+    {
+     "t": "p",
+     "x": "2. Ressalvam-se do disposto no número anterior os casos em que o Ministério Público e o arguido estiverem de acordo com a continuação do julgamento pelos novos factos, se estes não determinarem a incompetência do tribunal."
+    },
+    {
+     "t": "p",
+     "x": "3. Nos casos referidos no número anterior, o presidente concede ao arguido, a requerimento deste, prazo para preparação da defesa não superior a dez dias úteis, com o consequente adiamento da audiência, se necessário."
+    }
+   ]
+  },
+  {
+   "id": "artigo-320",
+   "label": "Artigo 320.º",
+   "epigraph": "Conteúdo do acórdão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O acordão deve conter:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O relatório da questão;",
+      "Os nomes e categorias dos autuantes ou participantes;",
+      "Os nomes, estados, profissões, naturalidades e residências dos responsáveis e das qualidades em que o são;",
+      "Os fundamentos de facto e de direito em que se baseia a decisão."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. O acórdão deve ainda:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Concluir pela condenação ou absolvição;",
+      "Classificar a infracção;",
+      "Aplicar a pena;",
+      "Fixar os direitos e demais imposições devidos, as custas e as importâncias a pagar pelas pessoas civilmente responsáveis;",
+      "Decretar a perda de mercadorias, quando for caso disso;",
+      "Aplicar as penas de suspensão, demissão ou outras quando a elas houver lugar."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Os condenados em pena de prisão dão entrada no estabelecimento prisional por mandado do juiz competente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-321",
+   "label": "Artigo 321.º",
+   "epigraph": "Prolação e notificação do acórdão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Efectuado o julgamento, a decisão proferida deve ser registada no processo, ordenando o tribunal a notificação do acórdão aos interessados."
+    }
+   ]
+  },
+  {
+   "id": "artigo-322",
+   "label": "Artigo 322.º",
+   "epigraph": "Notificação para pagamento",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO I - Do pagamento dos direitos, demais imposições, multas e outras quantias devidas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O processo será contado no prazo de dez dias úteis a contar do trânsito em julgado da decisão condenatória."
+    },
+    {
+     "t": "p",
+     "x": "2. Contado o processo, serão logo notificados os arguidos para, no prazo de dez dias úteis a contar da notificação, pagarem a importância da conta."
+    },
+    {
+     "t": "p",
+     "x": "3. Se o pagamento não for efectuado no prazo a que se refere a parte final do número anterior, é ordenada a notificação da pessoa civilmente responsável para, no prazo de cinco dias úteis a contar da notificação, depositar a importância em que tiver sido fixada a sua responsabilidade."
+    },
+    {
+     "t": "p",
+     "x": "4. Findo o prazo estabelecido no n.º 3, se os arguidos não tiverem solvido as suas responsabilidades, serão notificados os fiadores para o fazerem no prazo de cinco dias úteis a contar da notificação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-323",
+   "label": "Artigo 323.º",
+   "epigraph": "Liquidação em caso de não pagamento",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO I - Do pagamento dos direitos, demais imposições, multas e outras quantias devidas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando os arguidos, os seus fiadores ou as pessoas civilmente responsáveis não tiverem pago os direitos, demais imposições, multas e outras quantias devidas nos prazos fixados no artigo antecedente, proceder-se-á à competente liquidação pela forma e ordem em seguida enumeradas:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Pelas quantias ou valores depositados no processo;",
+      "Pelo produto de arrematação das mercadorias, meios de transporte e outros objectos apreendidos;",
+      "Pelo produto da arrematação das mercadorias e objectos arrestados, nos termos dos artigos 188.º e 189.º."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-324",
+   "label": "Artigo 324.º",
+   "epigraph": "Promoção da execução",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO I - Do pagamento dos direitos, demais imposições, multas e outras quantias devidas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se os valores obtidos pelo cumprimento do disposto nas diferentes alíneas do artigo anterior não forem suficientes para pagar as quantias devidas pelos arguidos, será extraída certidão de onde conste a sentença, a conta, a data das respectivas notificações e a indicação das importâncias obtidas nas arrematações realizadas, e iniciado o respectivo processo de execução patrimonial na Sala do Contencioso Fiscal e Aduaneiro em que tiver corrido o processo fiscal aduaneiro e proferida a decisão condenatória."
+    },
+    {
+     "t": "p",
+     "x": "2. A execução corre por apenso ao processo, já findo, em que a decisão condenatória haja sido proferida."
+    },
+    {
+     "t": "p",
+     "x": "3. As quantias realizadas por virtude da execução devem ser depositadas no banco comercial em que estiver domiciliada a conta da Sala do Contencioso Fiscal e Aduaneiro competente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-325",
+   "label": "Artigo 325.º",
+   "epigraph": "Arquivamento dos autos de execução",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO I - Do pagamento dos direitos, demais imposições, multas e outras quantias devidas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os processos de que trata o artigo anterior devem ser arquivados, quando, posteriormente, tenham sido apreendidas e arrematadas outras mercadorias, contanto que o produto da arrematação dessas mercadorias tenha atingido o montante necessário para o pagamento total da importância devida pelos arguidos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-326",
+   "label": "Artigo 326.º",
+   "epigraph": "Execução promovida contra a pessoa civilmente responsável",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO I - Do pagamento dos direitos, demais imposições, multas e outras quantias devidas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se a pessoa civilmente responsável não fizer o depósito a que alude o n.º 3 do artigo 322.º ou não tiver apresentado a garantia exigida, a decisão torna-se logo executória e proceder-se-á contra ele conforme o disposto nos artigos anteriores, na parte aplicável."
+    }
+   ]
+  },
+  {
+   "id": "artigo-327",
+   "label": "Artigo 327.º",
+   "epigraph": "Insuficiência do património dos executados",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO I - Do pagamento dos direitos, demais imposições, multas e outras quantias devidas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o património do arguido ou do seu fiador não chegar para pagamento das quantias devidas, pode qualquer interessado requerer que o processo seja remetido ao tribunal competente, para nele ser decretada a falência ou insolvência dos executados."
+    },
+    {
+     "t": "p",
+     "x": "2. Tendo sido requerida a falência ou insolvência dos executados, deve ser ordenada a suspensão da execução, seguindo-se os demais termos previstos no Código de Processo Civil."
+    },
+    {
+     "t": "p",
+     "x": "3. A execução prosseguirá se, antes do fim do prazo da prescrição, ao arguido ou ao seu fiador advierem quaisquer bens."
+    },
+    {
+     "t": "p",
+     "x": "4. O disposto nos números anteriores é ainda aplicável se nem ao arguido nem ao seu fiador forem encontrados bens em que possa recair a execução."
+    }
+   ]
+  },
+  {
+   "id": "artigo-328",
+   "label": "Artigo 328.º",
+   "epigraph": "Destino das importâncias depositadas pelas pessoas civilmente responsáveis",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO I - Do pagamento dos direitos, demais imposições, multas e outras quantias devidas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Sem prejuízo do direito de regresso das pessoas civilmente responsáveis contra os arguidos, as importâncias depositadas por aquelas pessoas nos termos do n.º 3 do artigo 322.º ou deles cobradas por força do disposto no artigo 326.º serão aplicadas no pagamento 126 dos direitos e demais imposições, multas, custas e selos do processo, e pela ordem desta enumeração."
+    }
+   ]
+  },
+  {
+   "id": "artigo-329",
+   "label": "Artigo 329.º",
+   "epigraph": "Exequibilidade das certidões exaradas pelas alfândegas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO I - Do pagamento dos direitos, demais imposições, multas e outras quantias devidas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Fora dos casos previstos nos artigos anteriores, quando verifiquem que uma dívida registada nos termos das disposições constantes da Parte III do Código não foi paga pelo devedor, devem as alfândegas instaurar o respectivo processo de execução patrimonial para a cobrança coerciva da dívida, aplicando-se, neste caso, com as necessárias adaptações, o disposto no presente capítulo."
+    },
+    {
+     "t": "p",
+     "x": "2. A execução a que se refere o número anterior tem por base uma certidão exarada pelas alfândegas de onde conste a identificação do devedor, a enumeração das quantias devidas, a data das notificações e a indicação das importâncias obtidas nas arrematações realizadas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-330",
+   "label": "Artigo 330.º",
+   "epigraph": "Direito subsidiário",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO I - Do pagamento dos direitos, demais imposições, multas e outras quantias devidas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Em tudo o que não esteja especialmente previsto no Código, é aplicável ao processo de execução a que se refere o presente capítulo, com as necessárias adaptações, o disposto no Código das Execuções Fiscais e no Código de Processo Civil."
+    }
+   ]
+  },
+  {
+   "id": "artigo-331",
+   "label": "Artigo 331.º",
+   "epigraph": "Lugar da arrematação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO II - Da arrematação das mercadorias e ou dos meios de transporte apreendidos, perdidos ou abandonados"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A arrematação das mercadorias e ou dos meios de transporte apreendidos, perdidos ou abandonados a favor do Estado far-se-á perante o director da respectiva alfândega ou chefe da respectiva delegação ou estância aduaneira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-332",
+   "label": "Artigo 332.º",
+   "epigraph": "Momento da arrematação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO II - Da arrematação das mercadorias e ou dos meios de transporte apreendidos, perdidos ou abandonados"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Sem prejuízo do disposto do artigo 250.º, a arrematação far-se-á logo que a decisão transite em julgado e nela se procederá, na parte aplicável, de harmonia com o disposto neste Código para a venda de mercadorias."
+    }
+   ]
+  },
+  {
+   "id": "artigo-333",
+   "label": "Artigo 333.º",
+   "epigraph": "Destino do produto da arrematação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO III - Da distribuição do produto da arrematação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O produto da arrematação das mercadorias e ou dos meios de transporte apreendidos, perdidos ou abandonados, seja qual for a sua proveniência, pertence ao Estado."
+    },
+    {
+     "t": "p",
+     "x": "2. O produto da liquidação prescrita nos artigos 323.º e 324.º será aplicado no pagamento dos direitos e demais imposições, multas, custas e selos do processo, e pela ordem desta enumeração."
+    }
+   ]
+  },
+  {
+   "id": "artigo-334",
+   "label": "Artigo 334.º",
+   "epigraph": "Competência para a distribuição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO III - Da distribuição do produto da arrematação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A autoridade aduaneira que houver instruído o processo por transgressão fiscal aduaneira é competente para, depois de transitada em julgado a decisão condenatória, determinar, por despacho, a distribuição de que trata o artigo anterior."
+    },
+    {
+     "t": "p",
+     "x": "2. Nos processos por crime fiscal aduaneiro, compete à Sala do Contencioso Fiscal e Aduaneiro determinar, por despacho, a distribuição a que se refere o artigo anterior."
+    }
+   ]
+  },
+  {
+   "id": "artigo-335",
+   "label": "Artigo 335.º",
+   "epigraph": "Recurso do despacho que ordena a distribuição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO III - Da distribuição do produto da arrematação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Qualquer que seja o valor da causa, é sempre admissível recurso, sem efeito suspensivo, do despacho que ordenar a distribuição prevista na presente secção."
+    }
+   ]
+  },
+  {
+   "id": "artigo-336",
+   "label": "Artigo 336.º",
+   "epigraph": "Destino do montante das multas",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO IV - Da distribuição das multas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Nos processos por crime fiscal aduaneiro, o montante das multas aplicadas reverte:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Em 50% para o Orçamento Geral do Estado;",
+      "Em 10% para os Cofres Gerais dos Tribunais;",
+      "Em 10% para os escrivães;",
+      "Em 30% para os autuantes, participantes e denunciantes."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Nos processos por transgressão fiscal aduaneira, o montante das multas aplicadas reverte:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Em 50% para o Orçamento Geral do Estado;",
+      "Em 10% para os Cofres Gerais dos Tribunais;",
+      "Em 10% para os escrivães;",
+      "Em 30% para os autuantes, participantes e denunciantes."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Se forem vários os escrivães, o montante que resultar da aplicação das percentagens referidas na alínea c) do n.º 1 e na alínea c) do n.º 2 é dividido em partes iguais por todos eles, independentemente das respectivas categorias."
+    },
+    {
+     "t": "p",
+     "x": "4. Se forem vários os autuantes, participantes e denunciantes, o montante que resultar da aplicação das percentagens referidas na alínea d) do n.º 1 e na alínea d) do n.º 2 é dividido, em partes iguais, por todos eles, independentemente das respectivas categorias."
+    },
+    {
+     "t": "p",
+     "x": "5. Para os efeitos do disposto na alínea d) do n.º 1 e na alínea d) do n.º 2, consideram-se autuantes ou participantes os membros do pessoal técnico e auxiliar aduaneiro e os oficiais e agentes da Polícia Nacional que tenham realizado ou participado em quaisquer inspecções, inquéritos e investigações relativas à prática de qualquer infracção fiscal aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "6. O montante da multa que reverta para o Orçamento Geral do Estado é considerado como receita efectiva do Estado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-337",
+   "label": "Artigo 337.º",
+   "epigraph": "Auxiliares",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO IV - Da distribuição das multas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se a detenção dos arguidos ou a apreensão das mercadorias tiverem sido coadjuvadas por qualquer pessoa deverá abonar-se-lhe, como auxiliar, um prémio até 10 por cento da 128 percentagem da multa que cabe aos autuantes, participantes ou denunciantes e fixado em atenção ao valor do auxílio prestado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-338",
+   "label": "Artigo 338.º",
+   "epigraph": "Guias, descobridores e informadores",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO IV - Da distribuição das multas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando a detenção ou apreensão se efectuarem em virtude de informação de qualquer guia, descobridor ou informador que não seja denunciante, deverá abonar-se-lhes um prémio de 10 a 35 por cento da percentagem da multa que cabe aos autuantes, participantes ou denunciantes e fixado em atenção ao valor da informação prestada e ao nível de risco assumido."
+    }
+   ]
+  },
+  {
+   "id": "artigo-339",
+   "label": "Artigo 339.º",
+   "epigraph": "Infracção descoberta no decurso do processo",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO IV - Da distribuição das multas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Ainda que haja participação de algum facto irregular ou suspeito, se a infracção só vier a descobrir-se pelo decorrer do processo, os autuantes, participantes ou denunciantes terão direito apenas a metade da percentagem estabelecida nos n.ºs 1 e 2 do artigo 336.º, revertendo a parte restante a favor do Orçamento Geral do Estado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-340",
+   "label": "Artigo 340.º",
+   "epigraph": "Competência para a distribuição e recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO IV - Da execução",
+    "SECÇÃO IV - Da distribuição das multas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Depois de transitada em julgado a decisão condenatória, a autoridade aduaneira que houver instruído o processo ou a Sala do Contencioso Fiscal e Aduaneiro, consoante os casos, determinam, no despacho a que se refere o artigo 334.º, a distribuição de que tratam os artigos anteriores."
+    },
+    {
+     "t": "p",
+     "x": "2. É aplicável à distribuição prevista na presente secção, o disposto no artigo 335.º."
+    },
+    {
+     "t": "p",
+     "x": "3. A distribuição das multas aplicadas em processo fiscal aduaneiro não pode ser feita antes do trânsito em julgado da decisão condenatória."
+    }
+   ]
+  },
+  {
+   "id": "artigo-341",
+   "label": "Artigo 341.º",
+   "epigraph": "Pagamento voluntário",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO V - Disposições especiais",
+    "SECÇÃO I - Do pagamento voluntário"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O arguido pode realizar, perante a autoridade instrutora ou perante o tribunal, consoante os casos, o pagamento voluntário dos direitos, demais imposições aduaneiras, despesas de justiça e multas."
+    },
+    {
+     "t": "p",
+     "x": "2. O pagamento pode ser feito, consoante os casos, em qualquer delegação ou estância aduaneira ou segundo as formas previstas no n.º 1 do artigo 254.º, mediante guias em duplicado."
+    },
+    {
+     "t": "p",
+     "x": "3. Nos casos em que seja realizado o pagamento voluntário, a multa deve ser reduzida para 50% do limite mínimo da sanção aplicável, mas subsiste a obrigação de pagamento das taxas aduaneiras devidas, das despesas de armazenagem e das multas substitutivas do confisco."
+    },
+    {
+     "t": "p",
+     "x": "4. Realizado o pagamento voluntário:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Extingue-se a responsabilidade do arguido pela prática da infracção;",
+      "O arguido que estiver preso é logo restituído à liberdade;",
+      "São restituídos, nos termos deste Código, ao arguido, as mercadorias e ou os meios de transporte apreendidos, se não forem dos que a lei decreta a perda nem haja dúvida de que lhe pertençam;",
+      "A autoridade instrutora deve decidir do destino das mercadorias e ou dos meios de transporte que não tenham sido entregues nos termos da alínea anterior e ordenar a distribuição do produto da arrematação e da multa."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "5. A extinção da responsabilidade a que se refere a alínea a) do número anterior só tem lugar se:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O pagamento voluntário for realizado antes do trânsito em julgado do despacho de indiciação;",
+      "Do cadastro constar que o infractor não cometeu, nos dois anos anteriores, uma outra infracção fiscal aduaneira;",
+      "A infracção cometida for punível apenas com multa."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "6. Se verificar que o pagamento voluntário não foi realizado nos termos legalmente previstos ou que à infracção corresponde pena de prisão, a autoridade instrutora ou o tribunal deve retomar a tramitação normal do processo nos termos deste Código, como se tal pagamento não tivesse sido feito, mas as importâncias pagas serão levadas em conta em qualquer caução a fazer pelos arguidos ou na liquidação final."
+    },
+    {
+     "t": "p",
+     "x": "7. Se forem vários os arguidos e só alguns fizerem o pagamento a que este artigo se refere, a autoridade instrutora ou o tribunal deve fazer seguir o processo contra os outros arguidos e pessoas civilmente responsáveis, tudo sem prejuízo da responsabilidade solidária a que haja lugar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-342",
+   "label": "Artigo 342.º",
+   "epigraph": "Admissibilidade",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO V - Disposições especiais",
+    "SECÇÃO II - Do pedido de liquidação"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando à infracção fiscal aduaneira não corresponda pena de prisão, pode o arguido requerer, em qualquer estado do processo, a liquidação da sua responsabilidade, e neste caso a autoridade instrutora ou o tribunal, consoante os casos, deve proceder ao julgamento e liquidação, graduando a multa."
+    },
+    {
+     "t": "p",
+     "x": "2. Havendo no processo mais de um arguido, pode qualquer deles requerer a liquidação da sua responsabilidade."
+    },
+    {
+     "t": "p",
+     "x": "3. Conformando-se o arguido com a decisão da autoridade instrutora ou do tribunal e não sendo caso de recurso obrigatório, o processo é declarado findo logo que sejam pagos os direitos, as demais imposições aduaneiras, a multa, as custas e os selos do processo."
+    },
+    {
+     "t": "p",
+     "x": "4. Não se conformando com a decisão da autoridade instrutora ou do tribunal, qualquer das partes pode interpor recurso, seja qual for o valor da causa."
+    }
+   ]
+  },
+  {
+   "id": "artigo-343",
+   "label": "Artigo 343.º",
+   "epigraph": "Admissibilidade",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO V - Disposições especiais",
+    "SECÇÃO III - Do julgamento imediato"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Depois de registados e autuados os autos de notícia e participações, nos termos do artigo 282.º, os arguidos e as pessoas civilmente responsáveis podem, mediante declaração reduzida a auto e reproduzida integralmente, sujeitar-se a:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Julgamento imediato da autoridade instrutora nos processos por transgressão fiscal aduaneira;",
+      "Julgamento imediato da Sala do Contencioso Fiscal e Aduaneiro nos processos por crime fiscal aduaneiro."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. O julgamento imediato a que se refere a alínea a) do número anterior só pode ter lugar quando a autoridade instrutora seja o director da alfândega ou chefe da delegação ou estância aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "3. O julgamento imediato previsto na alínea b) do n.º 1 só pode ter lugar quando à infracção cometida não corresponda pena de prisão."
+    },
+    {
+     "t": "p",
+     "x": "4. A autoridade instrutora ou o tribunal, consoante os casos, depois de ouvir sumariamente os arguidos, as pessoas civilmente responsáveis e as testemunhas que estiverem presentes, reduzirá as suas declarações a auto."
+    },
+    {
+     "t": "p",
+     "x": "5. O auto a que se refere o número anterior deve ser assinado por todos e dele devem constar também os resultados de quaisquer verificações ou exames a que se torne indispensável proceder."
+    },
+    {
+     "t": "p",
+     "x": "6. A autoridade instrutora ou o tribunal, consoante os casos, deve, em seguida, proferir a decisão:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Absolvendo os arguidos e as pessoas civilmente responsáveis e ordenando a entrega das mercadorias e ou dos meios de transporte apreendidos; ou,",
+      "Condenando os mesmos arguidos e pessoas civilmente responsáveis, fixando os direitos e demais imposições devidos, a multa e as importâncias a pagar pelas pessoas civilmente responsáveis e decretando a perda, se a ela houver lugar, das mercadorias e ou dos meios de transporte apreendidos ou de seu valor."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "7. Depois de julgados pela autoridade instrutora, os processos a que se refere a alínea a) do n.º 1 ficam sujeitos a revisão obrigatória do Director Nacional das Alfândegas, se os arguidos ou as pessoas civilmente responsáveis não tiverem interposto recurso da decisão."
+    }
+   ]
+  },
+  {
+   "id": "artigo-344",
+   "label": "Artigo 344.º",
+   "epigraph": "Procedimentos simplificados",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO V - Disposições especiais",
+    "SECÇÃO IV - Da simplificação dos inquéritos, da instrução e do julgamento",
+    "SUBSECÇÃO I - Processos por transgressão fiscal aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O Regulamento deve definir procedimentos simplificados em matéria de inquéritos, instrução e julgamento em caso de prática de transgressão fiscal aduaneira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-345",
+   "label": "Artigo 345.º",
+   "epigraph": "Não instauração do inquérito e não realização das demais diligências processuais",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO V - Disposições especiais",
+    "SECÇÃO IV - Da simplificação dos inquéritos, da instrução e do julgamento",
+    "SUBSECÇÃO I - Processos por transgressão fiscal aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Não obstante o disposto no artigo anterior, no caso de ter sido praticada uma transgressão fiscal aduaneira, as alfândegas podem prescindir da instauração do correspondente inquérito e da realização das demais diligências processuais, desde que se verifiquem, cumulativamente, os seguintes pressupostos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A transgressão fiscal aduaneira praticada tiver por objecto mercadoria cujo valor aduaneiro seja inferior a UCF 5.000;",
+      "Não se verifique nenhuma das circunstâncias agravantes da responsabilidade do infractor previstas no n.º 1 do artigo 159.º;",
+      "O infractor requeira a não instauração do inquérito e a não realização das demais diligências processuais;",
+      "O infractor requeira a devolução imediata das mercadorias apreendidas;",
+      "O infractor requeira a liquidação dos direitos, das demais imposições aduaneiras e da multa substitutiva do confisco prevista no artigo 510.º;",
+      "O infractor pague os direitos, demais imposições aduaneiras e multa substitutiva do confisco que sejam devidos."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Compete ao Director Nacional das Alfândegas definir ou alterar, sempre que necessário:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As instruções necessárias para a aplicação do disposto no presente artigo, designadamente quanto aos procedimentos simplificados a adoptar;",
+      "O formulário e o formato do requerimento a que se referem as alíneas c) e d) do número anterior."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-346",
+   "label": "Artigo 346.º",
+   "epigraph": "Admissibilidade",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO V - Disposições especiais",
+    "SECÇÃO IV - Da simplificação dos inquéritos, da instrução e do julgamento",
+    "SUBSECÇÃO II - Da liquidação de multas na declaração aduaneira"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Serão cobradas por liquidação efectuada na declaração aduaneira, se esta ainda não estiver paga, as multas impostas pelos Directores Regionais das Alfândegas e pelos chefes das delegações e estâncias aduaneiras, quando se verifiquem as seguintes transgressões fiscais aduaneiras:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Falta de apresentação às alfândegas, ou a outra entidade competente, no prazo fixado, de qualquer documento ou informação exigível;",
+      "Quaisquer outras transgressões fiscais aduaneiras motivadas por falta de cumprimento de formalidades do despacho, quando o montante dos direitos e das demais imposições aduaneiras objecto de infracção não exceda o valor equivalente a UCF 10.000."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. A liquidação da multa nas condições estabelecidas neste artigo só se efectuará quando o responsável, conformando-se com a participação feita pelo funcionário competente, assim o requeira, por escrito, na declaração aduaneira, na qual o Director Regional das Alfândegas ou o chefe da delegação ou estância aduaneira exarará despacho fixando o quantitativo da multa."
+    },
+    {
+     "t": "p",
+     "x": "3. Não são devidas custas quando as multas forem liquidadas na declaração aduaneira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-347",
+   "label": "Artigo 347.º",
+   "epigraph": "Regime aplicável aos recursos em matéria penal",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os recursos dos despachos, sentenças ou acórdãos proferidos em matéria penal regem-se pelo disposto no Código de Processo Penal e na respectiva legislação complementar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-348",
+   "label": "Artigo 348.º",
+   "epigraph": "Âmbito deste capítulo",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São aplicáveis aos recursos dos despachos, decisões, sentenças e acórdãos não compreendidos no artigo anterior as normas do presente capítulo e, subsidiariamente, as disposições do Regulamento do Processo de Contencioso Administrativo e da lei processual civil, com as necessárias adaptações."
+    },
+    {
+     "t": "p",
+     "x": "2. Os recursos a que se refere o n.º 1 são processados como os recursos de apelação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-349",
+   "label": "Artigo 349.º",
+   "epigraph": "Quem pode recorrer",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Podem interpor recurso:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A autoridade aduaneira, os infractores e as pessoas que foram julgadas civilmente responsáveis, quando, na decisão recorrida, tenham ficado vencidos;",
+      "O Ministério Público, se a decisão tiver sido proferida com violação de disposições ou princípios constitucionais ou legais."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Do despacho que ordenar a distribuição da multa ou do produto da arrematação podem recorrer os autuantes, participantes, denunciantes, guias ou descobridores e auxiliares."
+    },
+    {
+     "t": "p",
+     "x": "3. Nos processos impugnatórios, considera-se designadamente vencido, para o efeito do disposto no n.º 1, o autor que, tendo invocado várias causas de invalidade contra o mesmo acto administrativo, tenha decaído relativamente à verificação de alguma delas, na medida em que o reconhecimento, pelo tribunal de recurso, da existência dessa causa de invalidade impeça ou limite a possibilidade de renovação do acto anulado."
+    },
+    {
+     "t": "p",
+     "x": "4. Ainda que um acto administrativo tenha sido anulado com fundamento na verificação de diferentes causas de invalidade, a sentença pode ser impugnada com base na inexistência de apenas uma dessas causas de invalidade, na medida em que do reconhecimento da inexistência dessa causa de invalidade dependa a possibilidade de o acto anulado vir a ser renovado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-350",
+   "label": "Artigo 350.º",
+   "epigraph": "Decisões que admitem recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O recurso das decisões que, em primeiro grau de jurisdição, tenham conhecido do mérito da causa é admitido nos processos de valor superior à alçada do tribunal do qual se recorre."
+    },
+    {
+     "t": "p",
+     "x": "2. Para os efeitos do disposto no número anterior, consideram-se incluídas nas decisões sobre o mérito da causa as que, em sede executiva, declarem a existência de causa legítima de inexecução, pronunciem a invalidade de actos desconformes ou fixem indemnizações fundadas na existência de causa legítima de inexecução."
+    },
+    {
+     "t": "p",
+     "x": "3. Para além dos casos previstos na lei processual civil, é sempre admissível recurso, seja qual for o valor da causa, das decisões:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Proferidas, pela autoridade instrutora, em julgamentos imediatos e pedidos de liquidação nos processos por transgressão fiscal aduaneira;",
+      "Proferidas sobre custas e sobre distribuição de multas ou produto de arrematações;",
+      "De improcedência de pedidos de intimação para protecção de direitos, liberdades e garantias;",
+      "Proferidas, no âmbito de processos por transgressão fiscal aduaneira, em matéria sancionatória;",
+      "Proferidas contra jurisprudência uniformizada pelo Tribunal Supremo;",
+      "Que ponham termo ao processo sem se pronunciarem sobre o mérito da causa."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "4. As decisões proferidas em despachos interlocutórios devem ser impugnadas no recurso que venha a ser interposto da decisão final, excepto nos casos de subida imediata previstos no Código de Processo Civil."
+    }
+   ]
+  },
+  {
+   "id": "artigo-351",
+   "label": "Artigo 351.º",
+   "epigraph": "Decisões que admitem recurso extraordinário",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Cabe recurso extraordinário sempre que em qualquer processo de que não caiba ou se não tenha admitido recurso ordinário ou em que não haja lugar a recurso obrigatório se atribuir aos funcionários aduaneiros ou às autoridades instrutoras alguma violência, preterição de formalidades essenciais, denegação de recurso contra lei expressa ou qualquer injustiça grave."
+    }
+   ]
+  },
+  {
+   "id": "artigo-352",
+   "label": "Artigo 352.º",
+   "epigraph": "Recurso obrigatório",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "É obrigatório recurso para a Sala do Contencioso Fiscal e Aduaneiro:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Dos despachos de indiciação proferidos nos termos da alínea b) do n.º 1 do artigo 293.º, quando a notificação ao responsável tenha sido feita editalmente;",
+      "Das decisões finais absolutórias, quando o montante dos direitos e das demais imposições aduaneiras objecto de infracção exceda o valor equivalente a UCF 2.000."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-353",
+   "label": "Artigo 353.º",
+   "epigraph": "Despachos que admitem recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Cabe recurso do despacho de indiciação e do despacho de não indiciação."
+    },
+    {
+     "t": "p",
+     "x": "2. Cabe recurso, sem efeito suspensivo, de qualquer outro despacho proferido no processo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-354",
+   "label": "Artigo 354.º",
+   "epigraph": "Despachos que não admitem recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Não admitem recurso os despachos de mero expediente nem os proferidos no uso legal de um poder discricionário."
+    }
+   ]
+  },
+  {
+   "id": "artigo-355",
+   "label": "Artigo 355.º",
+   "epigraph": "Efeitos dos recursos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Salvo o disposto em lei especial, os recursos têm efeito suspensivo da decisão recorrida."
+    },
+    {
+     "t": "p",
+     "x": "2. Os recursos interpostos de intimações para protecção de direitos, liberdades e garantias e de decisões respeitantes à adopção de providências cautelares têm efeito meramente devolutivo."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando a suspensão dos efeitos da decisão seja passível de originar situações de facto consumado ou a produção de prejuízos de difícil reparação para a parte vencedora ou para os interesses, públicos ou privados, por ela prosseguidos, pode ser requerido ao tribunal para o qual se recorre que ao recurso seja atribuído efeito meramente devolutivo."
+    },
+    {
+     "t": "p",
+     "x": "4. Quando a atribuição de efeito meramente devolutivo ao recurso possa ser causadora de danos, o tribunal pode determinar a adopção de providências adequadas para evitar ou minorar esses danos e impor a prestação, pelo interessado, de garantia destinada a responder pelos mesmos."
+    },
+    {
+     "t": "p",
+     "x": "5. A atribuição de efeito meramente devolutivo ao recurso é recusada quando os danos que dela resultariam se mostrem superiores àqueles que podem resultar da sua não atribuição, sem que a lesão possa ser evitada ou atenuada pela adopção de providências adequadas para evitar ou minorar esses danos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-356",
+   "label": "Artigo 356.º",
+   "epigraph": "Não recebimento do recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O recurso não será recebido, e se o for não poderá o tribunal de recurso dele tomar conhecimento:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Quando interposto fora do prazo legal;",
+      "Quando o recorrente não tenha previamente pago ou caucionado a importância dos direitos e demais imposições aduaneiras devidos, multa, custas e selos do processo ou a importância em que tenha sido fixada a sua responsabilidade de harmonia com a decisão recorrida."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Não se aplica o disposto na alínea b) do número anterior, sendo recebido o recurso, se se tratar de recurso do despacho de indiciação."
+    },
+    {
+     "t": "p",
+     "x": "3. Não poderá também o tribunal de recurso tomar conhecimento do recurso extraordinário quando o recorrente não comprove ter pago ou caucionado a importância da condenação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-357",
+   "label": "Artigo 357.º",
+   "epigraph": "Recurso de revisão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A revisão de sentença transitada em julgado pode ser pedida ao tribunal que a tenha proferido, sendo subsidiariamente aplicável o disposto no Código de Processo Civil, no que não colida com o que se estabelece nos artigos seguintes."
+    },
+    {
+     "t": "p",
+     "x": "2. No processo de revisão, pode ser cumulado o pedido de indemnização pelos danos sofridos."
+    },
+    {
+     "t": "p",
+     "x": "3. A decisão transitada em julgado só pode ser objecto de revisão nos seguintes casos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Quando haja fundado motivo para supor que as autoridades ou funcionários aduaneiros praticaram no processo ou no julgamento alguma violência, preterição de formalidades essenciais, denegação de recurso contra lei expressa ou qualquer injustiça grave ou quando, sendo caso de recurso obrigatório, não tenha sido ordenada a subida do processo;",
+      "Quando se mostre, por sentença criminal passada em julgado, que foi proferida por prevaricação, concussão ou corrupção do juiz ou de algum dos juízes que na decisão intervieram;",
+      "Quando se apresente sentença já transitada que tenha verificado a falsidade de documento ou acto judicial, de depoimento ou das declarações de peritos, que possam em qualquer dos casos ter determinado a decisão a rever. A falsidade de documentos ou acto judicial não é, todavia, fundamento de revisão, se a matéria tiver sido discutida no processo em que foi proferida a decisão a rever;",
+      "Quando tenha sido declarada nula ou anulada, por sentença já transitada, a confissão, desistência ou transacção em que a decisão se fundasse;",
+      "Quando, tendo corrido o processo e a execução à revelia, por falta absoluta de intervenção do infractor, se mostre que faltou a sua citação ou é nula a citação feita."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-358",
+   "label": "Artigo 358.º",
+   "epigraph": "Interposição do recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO II - Da interposição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O recurso é interposto por meio de requerimento no qual se indica a espécie de recurso interposto."
+    },
+    {
+     "t": "p",
+     "x": "2. O requerimento dos infractores ou pessoas civilmente responsáveis a que se refere o número anterior deve ser feito em papel selado, assinado nos termos do n.º 2 do artigo 297.º."
+    },
+    {
+     "t": "p",
+     "x": "3. Tratando-se de despachos ou decisões orais, reproduzidos no processo, o requerimento de interposição pode ser ditado para a acta."
+    }
+   ]
+  },
+  {
+   "id": "artigo-359",
+   "label": "Artigo 359.º",
+   "epigraph": "Prazo de interposição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO II - Da interposição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O prazo para a interposição dos recursos é de dez dias úteis a contar da notificação do respectivo despacho, decisão, sentença ou acórdão ou da afixação do competente edital."
+    },
+    {
+     "t": "p",
+     "x": "2. Tratando-se de despachos ou decisões orais, reproduzidos no processo, o prazo corre do dia em que foram proferidos, se o interessado esteve presente; no caso contrário, o prazo corre nos termos do número anterior."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando, fora dos casos previstos nos números anteriores, não se tenha de fazer a notificação, o prazo corre desde o dia em que o interessado teve conhecimento da decisão."
+    },
+    {
+     "t": "p",
+     "x": "4. Se a parte for revel, o prazo para a interposição do recurso é de dez dias úteis a contar da publicação da decisão. 5. Se a revelia da parte cessar antes de decorridos os dez dias úteis posteriores à publicação, tem a sentença ou despacho de ser notificado e começa o prazo a correr da data da notificação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-360",
+   "label": "Artigo 360.º",
+   "epigraph": "Indeferimento do requerimento",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO II - Da interposição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Junto o requerimento ao processo, será indeferido quando se entenda que a decisão não admite recurso, ou que este foi interposto fora do tempo, ou o requerente não tem as condições necessárias para recorrer."
+    },
+    {
+     "t": "p",
+     "x": "2. O requerimento não pode, porém, ser indeferido com o fundamento de ter havido erro na espécie de recurso."
+    },
+    {
+     "t": "p",
+     "x": "3. Salvo o disposto no número seguinte, do despacho que não admita o recurso ou o retenha pode o recorrente reclamar para o presidente do tribunal que seria competente para dele conhecer, segundo o disposto na lei processual civil, com as necessárias adaptações."
+    },
+    {
+     "t": "p",
+     "x": "4. Do despacho do relator que não receba o recurso interposto de decisão da Câmara do Cível e Administrativo do Tribunal Supremo para o Plenário do mesmo Tribunal, ou o retenha cabe reclamação para a conferência e da decisão desta não há recurso."
+    },
+    {
+     "t": "p",
+     "x": "5. A decisão que admita o recurso, fixe a sua espécie ou determine o efeito que lhe compete não vincula o tribunal superior, e as partes só a podem impugnar nas suas alegações."
+    }
+   ]
+  },
+  {
+   "id": "artigo-361",
+   "label": "Artigo 361.º",
+   "epigraph": "Recebimento do recurso, notificação dos recorridos e subida do recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO II - Da interposição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Junto o requerimento ao processo será este concluso à autoridade instrutora ou ao tribunal, consoante os casos, para receber ou não o recurso, sendo o respectivo despacho notificado às partes no prazo de dez dias úteis."
+    },
+    {
+     "t": "p",
+     "x": "2. Dentro de dez dias úteis a contar da notificação prescrita no número anterior deve o recorrente apresentar a sua petição de recurso, acompanhada dos documentos que lhe seja lícito juntar."
+    },
+    {
+     "t": "p",
+     "x": "3. Recebida a petição de recurso, a secretaria promove oficiosamente a notificação do recorrido ou recorridos para alegarem no prazo de dez dias úteis."
+    },
+    {
+     "t": "p",
+     "x": "4. Em seguida, recebidas as contra-alegações ou expirado o prazo para a sua apresentação, o recurso, acompanhado de cópia impressa ou dactilografada da decisão recorrida, da petição e resposta, ou do correspondente suporte informático, sobe nos próprios autos ao tribunal de recurso, notificando-se às partes a remessa no prazo de dez dias úteis."
+    },
+    {
+     "t": "p",
+     "x": "5. Quando se trata de recurso de despacho de indiciação ou de não indiciação, pode a autoridade instrutora, depois de findos os prazos referidos nos números anteriores, sustentar o despacho ou modificá-lo, mandando no primeiro caso subir o recurso."
+    },
+    {
+     "t": "p",
+     "x": "6. Na hipótese a que o número anterior se refere, se a autoridade instrutora modificar o despacho, cabe novo recurso do despacho que proferir, mas a autoridade instrutora não poderá já modificá-lo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-362",
+   "label": "Artigo 362.º",
+   "epigraph": "Interposição do recurso extraordinário",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO II - Da interposição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O recurso extraordinário será interposto directamente na Sala do Contencioso Fiscal e Aduaneiro e consistirá numa simples exposição feita em papel selado dos factos arguidos nos termos do artigo 297.º."
+    },
+    {
+     "t": "p",
+     "x": "2. Esta exposição deverá ser apresentada em duplicado na secretaria daquele tribunal dentro de vinte dias úteis, contados conforme o disposto no artigo 359.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-363",
+   "label": "Artigo 363.º",
+   "epigraph": "Recurso de outros despachos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO II - Da interposição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O recurso do despacho que não seja o de indiciação ou de não indiciação interpõe-se por meio de requerimento no qual se indique a espécie de recurso interposto."
+    },
+    {
+     "t": "p",
+     "x": "2. O prazo para a interposição do recurso é de dez dias úteis a contar da notificação do respectivo despacho ou da afixação do competente edital ou do dia em que deve reputar-se que a parte teve conhecimento da decisão."
+    },
+    {
+     "t": "p",
+     "x": "3. O requerimento dos infractores ou pessoas civilmente responsáveis a que se refere o n.º 1 deve ser feito em papel selado, assinado nos termos do n.º 2 do artigo 297.º."
+    },
+    {
+     "t": "p",
+     "x": "4. No requerimento indicará o requerente as peças do processo de que pretende certidão para instruir o recurso; a certidão ser-lhe-á entregue no prazo de cinco dias úteis."
+    },
+    {
+     "t": "p",
+     "x": "5. O recurso subirá em separado, sendo-lhe aplicáveis as disposições dos n.ºs 1 e 2 do artigo 361.º."
+    },
+    {
+     "t": "p",
+     "x": "6. O escrivão autuará a petição de recurso, a alegação da outra parte e as respectivas certidões e documentos e fará tudo concluso à autoridade instrutora ou ao tribunal, consoante os casos, seguindo-se os termos prescritos nos n.ºs 4 e 5 do artigo 361.º."
+    },
+    {
+     "t": "p",
+     "x": "7. A autoridade instrutora pode mandar juntar as certidões do processo que entender necessárias para sustentação do despacho."
+    }
+   ]
+  },
+  {
+   "id": "artigo-364",
+   "label": "Artigo 364.º",
+   "epigraph": "Recurso obrigatório",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO II - Da interposição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. No caso de recurso obrigatório, o processo subirá mediante simples despacho da autoridade instrutora."
+    },
+    {
+     "t": "p",
+     "x": "2. Este despacho será proferido no prazo de dez dias úteis, depois de findo o prazo para os recursos referidos nos artigos anteriores."
+    }
+   ]
+  },
+  {
+   "id": "artigo-365",
+   "label": "Artigo 365.º",
+   "epigraph": "Interposição do recurso de revisão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO II - Da interposição"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A revisão será requerida dentro do prazo de três anos a contar do trânsito em julgado da decisão ou do termo do prazo em que devia ser ordenada a subida do processo em recurso obrigatório."
+    },
+    {
+     "t": "p",
+     "x": "2. O requerimento, devidamente fundamentado e em duplicado, será apresentado directamente na secretaria da Sala do Contencioso Fiscal e Aduaneiro."
+    },
+    {
+     "t": "p",
+     "x": "3. Têm legitimidade para requerer a revisão:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O Ministério Público;",
+      "As partes no processo;",
+      "Quem, devendo ser obrigatoriamente citado no processo, não o tenha sido e quem, não tendo tido a oportunidade de participar no processo, tenha sofrido ou esteja em vias de sofrer a execução da decisão a rever."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-366",
+   "label": "Artigo 366.º",
+   "epigraph": "Registo, autuação e distribuição",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os recursos apresentados directamente na secretaria do tribunal e os remetidos pelas autoridades aduaneiras devem ser, depois de registados e autuados, distribuídos, nos termos da legislação aplicável, no mesmo tribunal."
+    },
+    {
+     "t": "p",
+     "x": "2. Os recursos serão registados por extracto em livro próprio e os acórdãos que puserem termo ao processo serão publicados no Boletim Informativo da Direcção Nacional das Alfândegas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-367",
+   "label": "Artigo 367.º",
+   "epigraph": "Função do relator",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O juiz a quem o processo for distribuído fica sendo o relator, incumbindo-lhe deferir a todos os termos do recurso até final, designadamente:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Ordenar a realização das diligências que considere necessárias;",
+      "Corrigir a qualificação dada ao recurso, o efeito atribuído à sua interposição, o regime fixado para a sua subida, ou convidar as partes a aperfeiçoar as conclusões das respectivas alegações;",
+      "Declarar a suspensão da instância;",
+      "Autorizar ou recusar a junção de documentos e pareceres;",
+      "Julgar extinta a instância por causa diversa do julgamento ou julgar findo o recurso, pelo não conhecimento do seu objecto;",
+      "Julgar os incidentes suscitados."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Na decisão do objecto do recurso e das questões a apreciar em conferência intervêm, pela sua ordem, os juízes seguintes ao relator. A designação de cada um destes juízes fixa-se no momento em que o processo lhe for com vista e subsiste ainda que o relator seja substituído."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando a parte se considere prejudicada por qualquer despacho do relator, que não seja de mero expediente, pode requerer que sobre a matéria do despacho recaia um acórdão; o relator deve submeter o caso à conferência, depois de ouvida a parte contrária."
+    },
+    {
+     "t": "p",
+     "x": "4. A reclamação deduzida é decidida no acórdão que julga o recurso, salvo quando a natureza das questões suscitadas impuser decisão imediata."
+    }
+   ]
+  },
+  {
+   "id": "artigo-368",
+   "label": "Artigo 368.º",
+   "epigraph": "Exame preliminar do relator e aperfeiçoamento das conclusões das alegações de recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Recebido o processo no tribunal de recurso e efectuada a distribuição, o relator aprecia se o recurso é o próprio, se deve manter-se o efeito que lhe foi atribuído, se alguma circunstância obsta ao conhecimento do seu objecto, ou se as partes devem ser convidadas a aperfeiçoar as conclusões das alegações apresentadas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-369",
+   "label": "Artigo 369.º",
+   "epigraph": "Intervenção do Ministério Público",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Realizado o exame preliminar a que se refere o artigo anterior, a secretaria notifica o Ministério Público, quando este não se encontre na posição de recorrente ou recorrido, para, querendo, se pronunciar, no prazo de dez dias úteis, sobre o mérito do recurso, em defesa dos direitos fundamentais dos cidadãos ou de interesses públicos especialmente relevantes ou de algum dos valores ou bens constitucionalmente protegidos, como a saúde pública, o ambiente, o património cultural e os bens do Estado e das autarquias locais."
+    },
+    {
+     "t": "p",
+     "x": "2. No caso de o Ministério Público exercer a faculdade que lhe é conferida no número anterior, as partes são notificadas para responder no prazo de dez dias úteis."
+    }
+   ]
+  },
+  {
+   "id": "artigo-370",
+   "label": "Artigo 370.º",
+   "epigraph": "Deserção dos recursos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se houver lugar a preparo e este não for feito no prazo legal, o processo será concluso nas quarenta e oito horas seguintes e o recurso julgado deserto por simples despacho do juiz ou relator."
+    },
+    {
+     "t": "p",
+     "x": "2. O recurso é julgado deserto por falta de alegação do recorrente ou quando, por inércia deste, esteja parado durante mais de um ano."
+    },
+    {
+     "t": "p",
+     "x": "3. Tendo surgido algum incidente com efeito suspensivo, o recurso é julgado deserto se decorrer mais de um ano sem que se promovam os termos do incidente."
+    },
+    {
+     "t": "p",
+     "x": "4. A deserção é julgada no tribunal onde se verifique a falta, por simples despacho do juiz ou do relator."
+    }
+   ]
+  },
+  {
+   "id": "artigo-371",
+   "label": "Artigo 371.º",
+   "epigraph": "Erro na espécie de recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o relator entender que houve erro na espécie de recurso, ouvirá, antes de decidir, as partes, no prazo de dez dias úteis, processando-se os termos subsequentes do recurso conforme a espécie que venha a ser julgada adequada."
+    },
+    {
+     "t": "p",
+     "x": "2. Se a questão tiver sido levantada por alguma das partes na sua alegação, o relator ouvirá a parte contrária que não tenha tido oportunidade de responder."
+    }
+   ]
+  },
+  {
+   "id": "artigo-372",
+   "label": "Artigo 372.º",
+   "epigraph": "Erro quanto ao efeito do recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o relator entender que deve alterar-se o efeito do recurso, ouvirá as partes, nos termos previstos no artigo anterior."
+    },
+    {
+     "t": "p",
+     "x": "2. Se a questão tiver sido suscitada por alguma das partes na sua alegação, aplica-se o disposto no n.º 2 do artigo anterior."
+    },
+    {
+     "t": "p",
+     "x": "3. Decidindo-se que ao recurso, recebido no efeito meramente devolutivo, deve atribuir-se efeito suspensivo, expedir-se-á ofício, se o recorrente o requerer, para ser suspensa a execução. O ofício conterá unicamente a identificação da sentença cuja execução deve ser suspensa."
+    }
+   ]
+  },
+  {
+   "id": "artigo-373",
+   "label": "Artigo 373.º",
+   "epigraph": "Não conhecimento do objecto do recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se entender que não pode conhecer-se do recurso, o relator faz a exposição escrita do seu parecer e mandará ouvir, nas quarenta e oito horas, cada uma das partes, se estas ainda não tiverem alegado."
+    },
+    {
+     "t": "p",
+     "x": "2. Em seguida, vai o processo com vista, por quarenta e oito horas, a cada um dos dois juízes imediatos, decidindo-se depois a questão prévia na primeira sessão."
+    }
+   ]
+  },
+  {
+   "id": "artigo-374",
+   "label": "Artigo 374.º",
+   "epigraph": "Decisão liminar do objecto do recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando o relator entender que a questão a decidir é simples, designadamente por ter já sido jurisdicionalmente apreciada, de modo uniforme e reiterado, ou que o recurso é manifestamente infundado, profere decisão sumária, que pode consistir em simples remissão para as precedentes decisões, de que se juntará cópia."
+    }
+   ]
+  },
+  {
+   "id": "artigo-375",
+   "label": "Artigo 375.º",
+   "epigraph": "Junção de documentos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As partes podem juntar às alegações:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os documentos cuja apresentação não tenha sido possível até ao encerramento da discussão;",
+      "Os documentos cuja apresentação se tenha tornado necessária por virtude de ocorrência posterior;",
+      "Os pareceres de advogados, professores ou técnicos."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-376",
+   "label": "Artigo 376.º",
+   "epigraph": "Conclusão ao relator e preparação da decisão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Cumpridos os trâmites previstos no artigo 369.º, os autos são conclusos ao relator."
+    },
+    {
+     "t": "p",
+     "x": "2. Decididas as questões que devam ser apreciadas antes do julgamento do recurso, se não se verificar o caso previsto no artigo 374.º, o processo vai com vista aos dois juízes adjuntos, pelo prazo de dez dias úteis a cada um, e depois ao relator, pelo prazo de vinte dias úteis, a fim de ser elaborado o projecto de acórdão, depois do que será apresentado a julgamento na primeira sessão do tribunal."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando a simplicidade das questões a decidir ou a necessidade de celeridade no julgamento do recurso o aconselhem, pode o relator, com a concordância dos adjuntos, dispensar os vistos e levar o processo à conferência e julgar-se-á logo se assim se resolver."
+    },
+    {
+     "t": "p",
+     "x": "4. Na sessão anterior ao julgamento do recurso, o relator faz entrega aos juízes que nele devem intervir de cópia do projecto de acórdão."
+    },
+    {
+     "t": "p",
+     "x": "5. Quando a complexidade das questões a apreciar o justifique, pode o relator elaborar, no prazo de oito dias úteis, um relatório contendo o enunciado das questões a decidir e da solução para elas proposta, com indicação sumária dos respectivos fundamentos, de que se distribuirá cópia aos restantes juízes com intervenção no julgamento do recurso."
+    }
+   ]
+  },
+  {
+   "id": "artigo-377",
+   "label": "Artigo 377.º",
+   "epigraph": "Sugestões dos adjuntos",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se qualquer dos actos compreendidos nas atribuições do relator for sugerido por algum dos juízes adjuntos, cabe ao relator ordenar a sua prática, se com ela concordar, ou submetê-la à conferência, no caso contrário."
+    },
+    {
+     "t": "p",
+     "x": "2. Realizada a diligência, podem os juízes adjuntos ter nova vista, sempre que necessário, para examinar o seu resultado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-378",
+   "label": "Artigo 378.º",
+   "epigraph": "Julgamento do objecto do recurso",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os juízes, depois de examinarem o processo, põem nele o seu visto, datando e assinando."
+    },
+    {
+     "t": "p",
+     "x": "2. Terminados os vistos, a secretaria faz entrar o processo em tabela para julgamento."
+    },
+    {
+     "t": "p",
+     "x": "3. No caso previsto no n.º 3 do artigo 376.º, o processo é inscrito em tabela logo que se mostre decorrido o prazo para o relator elaborar o projecto de acórdão."
+    },
+    {
+     "t": "p",
+     "x": "4. Sempre que possível, será facultada, no início da sessão, uma fotocópia do projecto a cada um dos juízes adjuntos."
+    },
+    {
+     "t": "p",
+     "x": "5. No dia do julgamento, o relator faz sucinta apresentação do projecto do acórdão e, em seguida, dão o seu voto os juízes adjuntos, pela ordem da sua intervenção no processo."
+    },
+    {
+     "t": "p",
+     "x": "6. A discussão é dirigida pelo presidente."
+    },
+    {
+     "t": "p",
+     "x": "7. A decisão é tomada por maioria, desempatando o presidente quando não possa formar-se maioria."
+    }
+   ]
+  },
+  {
+   "id": "artigo-379",
+   "label": "Artigo 379.º",
+   "epigraph": "Falta ou impedimento dos juízes",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O relator é substituído pelo primeiro adjunto nas faltas ou impedimentos que não justifiquem segunda distribuição e enquanto esta se não efectuar."
+    },
+    {
+     "t": "p",
+     "x": "2. Se a falta ou impedimento respeitar a um dos juízes adjuntos, a substituição cabe ao juiz seguinte ao último deles."
+    }
+   ]
+  },
+  {
+   "id": "artigo-380",
+   "label": "Artigo 380.º",
+   "epigraph": "Modificabilidade da decisão de facto e regra da substituição ao tribunal recorrido",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Embora o tribunal de recurso declare nula a decisão recorrida, não deixará de conhecer do objecto do recurso, conhecendo da matéria de facto e do direito."
+    },
+    {
+     "t": "p",
+     "x": "2. O tribunal de recurso pode determinar a renovação dos meios de prova produzidos que se mostrem indispensáveis ao apuramento da verdade, quanto à matéria de facto impugnada."
+    },
+    {
+     "t": "p",
+     "x": "3. No caso de haver lugar à produção de prova em sede de recurso, é aplicável às diligências ordenadas, com as necessárias adaptações, o preceituado quanto à instrução, discussão, alegações e julgamento em primeira instância judicial, podendo o relator determinar a comparência pessoal dos depoentes."
+    },
+    {
+     "t": "p",
+     "x": "4. Se o tribunal recorrido tiver julgado do mérito da causa, mas deixado de conhecer de certas questões, designadamente por as considerar prejudicadas pela solução dada ao litígio, o tribunal de recurso, se entender que o recurso procede e que nada obsta à apreciação daquelas questões, conhece delas no mesmo acórdão em que revoga a decisão recorrida, sempre que disponha dos elementos necessários."
+    },
+    {
+     "t": "p",
+     "x": "5. Se, por qualquer motivo, o tribunal recorrido não tiver conhecido do pedido, o tribunal de recurso, se julgar que o motivo não procede e que nenhum outro obsta a que se conheça do mérito da causa, conhece deste no mesmo acórdão em que revoga a decisão recorrida."
+    },
+    {
+     "t": "p",
+     "x": "6. Nas situações previstas nos números anteriores, o relator, antes de ser proferida decisão, ouve cada uma das partes no prazo de dez dias úteis."
+    }
+   ]
+  },
+  {
+   "id": "artigo-381",
+   "label": "Artigo 381.º",
+   "epigraph": "Elaboração do acórdão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O acórdão definitivo é lavrado de harmonia com a orientação que tenha prevalecido, devendo o vencido, quanto à decisão ou quanto aos simples fundamentos, assinar em último lugar, com sucinta menção das razões da discordância."
+    },
+    {
+     "t": "p",
+     "x": "2. O acórdão principia pelo relatório, em que se enunciam sucintamente as questões a decidir no recurso, exporá de seguida os fundamentos e concluirá pela decisão, observando-se, na parte aplicável, o preceituado nos artigos 659.º a 665.º do Código de Processo Civil no que se refere à elaboração da sentença."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando, no pleno da secção, o relator fique vencido quanto à decisão ou a todos os fundamentos desta, o acórdão é lavrado por juiz a determinar por sorteio, de entre os que tenham feito vencimento, o qual deferirá ainda aos termos que se seguirem, para integração, aclaração ou reforma do acórdão."
+    },
+    {
+     "t": "p",
+     "x": "4. Dos sorteios vão sendo sucessivamente excluídos os juízes que já tenham relatado por vencimento."
+    },
+    {
+     "t": "p",
+     "x": "5. Quando o tribunal de recurso confirmar inteiramente e sem qualquer declaração de voto a decisão recorrida, quer quanto ao seu sentido, quer quanto aos respectivos fundamentos, pode o acórdão limitar-se a negar provimento ao recurso, remetendo para os fundamentos da decisão impugnada."
+    },
+    {
+     "t": "p",
+     "x": "6. Quando não tenha sido impugnada, nem haja lugar a qualquer alteração da matéria de facto, o acórdão limitar-se-á a remeter para os termos da decisão recorrida que decidiu aquela matéria."
+    }
+   ]
+  },
+  {
+   "id": "artigo-382",
+   "label": "Artigo 382.º",
+   "epigraph": "Registo do resultado da votação",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se não for possível lavrar imediatamente o acordão, será o resultado da votação registado num livro de lembranças, que será assinado por todos os que intervieram na votação."
+    },
+    {
+     "t": "p",
+     "x": "2. O juiz a quem competir a elaboração do acórdão fica com o processo e apresentará o acórdão na primeira sessão."
+    }
+   ]
+  },
+  {
+   "id": "artigo-383",
+   "label": "Artigo 383.º",
+   "epigraph": "Data do acórdão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O acórdão tem a data da sessão em que for assinado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-384",
+   "label": "Artigo 384.º",
+   "epigraph": "Vícios e reforma do acórdão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A rectificação, aclaração ou reforma do acórdão, bem como a arguição de nulidade, são decididas em conferência."
+    },
+    {
+     "t": "p",
+     "x": "2. Quando o pedido ou reclamação forem complexos ou de difícil decisão, pode esta ser precedida de vista por quarenta e oito horas, a cada um dos juízes adjuntos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-385",
+   "label": "Artigo 385.º",
+   "epigraph": "Reforma do acórdão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o Tribunal Supremo anular o acórdão e o mandar reformar, intervirão na reforma, sempre que possível, os mesmos juízes."
+    },
+    {
+     "t": "p",
+     "x": "2. O acórdão será reformado nos precisos termos que o Tribunal Supremo tiver fixado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-386",
+   "label": "Artigo 386.º",
+   "epigraph": "Baixa do processo",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se do acórdão da Sala do Contencioso Fiscal e Aduaneiro não for interposto recurso, o processo baixa à autoridade instrutora, ficando traslado na Sala."
+    }
+   ]
+  },
+  {
+   "id": "artigo-387",
+   "label": "Artigo 387.º",
+   "epigraph": "Tramitação do recurso de revisão",
+   "path": [
+    "PARTE V - CONTENCIOSO FISCAL ADUANEIRO",
+    "TÍTULO II - Do processo fiscal aduaneiro",
+    "CAPÍTULO VI - Dos recursos e da revisão",
+    "SECÇÃO III - Do julgamento"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Uma vez admitido o recurso de revisão, o juiz ou relator manda apensá-lo ao processo a que respeita, que para o efeito é avocado ao arquivo onde se encontre, e ordena a notificação de todos os que tenham intervindo no processo em que foi proferida a decisão a rever."
+    },
+    {
+     "t": "p",
+     "x": "2. O processo tem o seguimento estabelecido para aquele em que tenha sido proferida a decisão a rever, sendo a questão novamente julgada e mantida ou revogada, a final, a decisão recorrida."
+    }
+   ]
+  },
+  {
+   "id": "artigo-388",
+   "label": "Artigo 388.º",
+   "epigraph": "Âmbito de aplicação",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Disposições comuns"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O regime jurídico ora definido aplica-se aos processos de carácter técnico que se suscitarem nas alfândegas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-389",
+   "label": "Artigo 389.º",
+   "epigraph": "Direito subsidiário",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Disposições comuns"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Em tudo o que não estiver previsto nesta Parte observar-se-ão nos processos técnicos, na parte aplicável, os preceitos do Contencioso Fiscal Aduaneiro compatíveis com a natureza do processo técnico."
+    }
+   ]
+  },
+  {
+   "id": "artigo-390",
+   "label": "Artigo 390.º",
+   "epigraph": "Competência",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Disposições comuns"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As decisões de carácter técnico proferidas pelas alfândegas podem ser impugnadas por meio de recursos interpostos perante os Directores Regionais das Alfândegas e o Conselho Superior Técnico Aduaneiro."
+    }
+   ]
+  },
+  {
+   "id": "artigo-391",
+   "label": "Artigo 391.º",
+   "epigraph": "Expediente",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Disposições comuns"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O expediente de todos os processos e assuntos afectos aos Directores Regionais das Alfândegas corre pelo Departamento do Contencioso Aduaneiro da sede da respectiva Direcção Regional das Alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "2. O expediente de todos os processos e assuntos afectos ao Conselho Superior Técnico Aduaneiro corre pelo Departamento do Contencioso Aduaneiro da Direcção Regional das Alfândegas de Luanda."
+    },
+    {
+     "t": "p",
+     "x": "3. Ficam a cargo dos Departamentos do Contencioso Aduaneiro a que se referem os números anteriores:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A guarda e arquivo dos processos e demais documentos;",
+      "A coordenação e conservação do registo, denominado registo dos processos de carácter técnico, das decisões proferidas em processo técnico aduaneiro."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-392",
+   "label": "Artigo 392.º",
+   "epigraph": "Deslocações",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Disposições comuns"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os Directores Regionais das Alfândegas e os peritos do Conselho Superior Técnico Aduaneiro, quando se desloquem, por motivo de serviço, para fora da localidade onde têm a sua residência oficial, perceberão uma ajuda de custo diária igual à que estiver estabelecida para funcionários de idêntica categoria."
+    },
+    {
+     "t": "p",
+     "x": "2. Na contagem dos processos técnicos em que as partes tenham decaído serão incluídas as despesas com ajudas de custo e transportes despendidas por aqueles peritos, nos termos do número anterior."
+    }
+   ]
+  },
+  {
+   "id": "artigo-393",
+   "label": "Artigo 393.º",
+   "epigraph": "Preferência",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Disposições comuns"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O serviço no Conselho Superior Técnico Aduaneiro prefere a qualquer outro que não seja determinado por comissão urgente de serviço público."
+    }
+   ]
+  },
+  {
+   "id": "artigo-394",
+   "label": "Artigo 394.º",
+   "epigraph": "Inspecção dos serviços aduaneiros",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO I - Disposições comuns"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Aos funcionários encarregados da inspecção dos serviços aduaneiros incumbe:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Fiscalizar, em todas as estâncias aduaneiras, se às quantias resultantes da liquidacão dos processos de contencioso técnico aduaneiro foi dado o destino legal;",
+      "Participar ao director da circunscrição aduaneira quaisquer irregularidades que tenham encontrado na contagem e distribuição daquelas quantias, a fim de serem tomadas as devidas providências por aquele director."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-395",
+   "label": "Artigo 395.º",
+   "epigraph": "Competência",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO II - Dos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os processos de carácter técnico, que se suscitarem nas alfândegas, serão julgados, em primeira instância, pelos Directores Regionais das Alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "2. Cabe aos Directores Regionais das Alfândegas decidir, em primeira instância administrativa de recurso, todas as contestações de natureza técnica e administrativa que hajam sido deduzidas pelos operadores de comércio internacional em matéria de aplicação da legislação aduaneira, dos procedimentos aduaneiros, da avaliação e classificação pautal de mercadorias, bem como as questões suscitadas pelos casos omissos na Pauta Aduaneira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-396",
+   "label": "Artigo 396.º",
+   "epigraph": "Reuniões e decisões",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO II - Dos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os Directores Regionais das Alfândegas devem possuir conhecimentos técnicos qualificados."
+    },
+    {
+     "t": "p",
+     "x": "2. Compete aos Directores Regionais das Alfândegas preparar o processo, dirigir a instrução, conduzir os trabalhos das audiências e ordenar os debates."
+    },
+    {
+     "t": "p",
+     "x": "3. Para a prossecução das atribuições enunciadas no número anterior, os Directores Regionais das Alfândegas podem convocar as reuniões que julgarem necessárias."
+    },
+    {
+     "t": "p",
+     "x": "4. Nas reuniões a que se refere o número anterior podem participar, sem direito a voto, os funcionários aduaneiros e as pessoas cujos pareceres ou informações sobre assuntos específicos sejam requeridos mediante prévia solicitação do Director Regional das Alfândegas competente."
+    },
+    {
+     "t": "p",
+     "x": "5. O Director Regional das Alfândegas competente pode ordenar a comparência do operador de comércio internacional que tiver interposto o recurso, ou o seu representante."
+    },
+    {
+     "t": "p",
+     "x": "6. Desde que notificados para o efeito, os funcionários aduaneiros que tenham tomado a decisão recorrida são obrigados a comparecer perante o Director Regional das Alfândegas competente para fundamentarem essa decisão."
+    },
+    {
+     "t": "p",
+     "x": "7. As decisões dos Directores Regionais das Alfândegas são tomadas em forma de acórdãos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-397",
+   "label": "Artigo 397.º",
+   "epigraph": "Competência",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO III - Do Conselho Superior Técnico Aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Cabe ao Conselho Superior Técnico Aduaneiro, adiante designado por CSTA, decidir, em última instância administrativa de recurso e após a elaboração prévia do correspondente relatório pelo departamento competente da Direcção Nacional das Alfândegas, todas as contestações de natureza técnica e administrativa que hajam sido deduzidas pelos operadores de comércio internacional em matéria de aplicação da legislação aduaneira, dos procedimentos aduaneiros, da avaliação e classificação pautal de mercadorias, bem como as questões suscitadas pelos casos omissos na Pauta Aduaneira."
+    },
+    {
+     "t": "p",
+     "x": "2. Haverá um só Conselho Superior Técnico Aduaneiro com sede na Direcção Nacional das Alfândegas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-398",
+   "label": "Artigo 398.º",
+   "epigraph": "Composição e funcionamento",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO III - Do Conselho Superior Técnico Aduaneiro"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O CSTA é constituído por cinco peritos permanentes, nomeados pelo Ministro das Finanças sob proposta do Director Nacional das Alfândegas, devendo três dos peritos nomeados ser provenientes de instituições externas às alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "2. Os peritos devem ser pessoas singulares e plenamente capazes e possuir conhecimentos técnicos qualificados na matéria submetida a julgamento."
+    },
+    {
+     "t": "p",
+     "x": "3. Ninguém pode ser obrigado a funcionar como perito; mas, se o encargo tiver sido aceite, só será legítima a escusa fundada em causa superveniente que impossibilite o designado de exercer a função."
+    },
+    {
+     "t": "p",
+     "x": "4. Cabe ao presidente da Sala do Contencioso Fiscal e Aduaneiro do Tribunal Provincial de Luanda decidir se a escusa é ou não legítima."
+    },
+    {
+     "t": "p",
+     "x": "5. O perito que, tendo aceitado o encargo, se escusar injustificadamente ao exercício da sua função, responde pelos danos que causar."
+    },
+    {
+     "t": "p",
+     "x": "6. Os peritos escolherão entre si o presidente do CSTA."
+    },
+    {
+     "t": "p",
+     "x": "7. Não sendo possível a designação do presidente nos termos do número anterior, caberá a escolha ao presidente da Sala do Contencioso Fiscal e Aduaneiro do Tribunal Provincial de Luanda."
+    },
+    {
+     "t": "p",
+     "x": "8. Compete ao presidente do CSTA preparar o processo, dirigir a instrução, conduzir os trabalhos das audiências e ordenar os debates."
+    },
+    {
+     "t": "p",
+     "x": "9. O CSTA terá as reuniões que forem convocadas pelo presidente."
+    },
+    {
+     "t": "p",
+     "x": "10. As reuniões do CSTA só podem ter lugar com um número mínimo de três membros permanentes, nelas podendo ainda participar, de forma não permanente e sem direito a voto, os funcionários aduaneiros e as pessoas cujos pareceres ou informações sobre assuntos específicos sejam requeridos mediante prévia solicitação do presidente."
+    },
+    {
+     "t": "p",
+     "x": "11. O operador de comércio internacional que tiver interposto o recurso, ou o seu representante, pode comparecer, mediante solicitação, perante o CSTA para apresentar o caso submetido a julgamento."
+    },
+    {
+     "t": "p",
+     "x": "12. Desde que notificados para o efeito, os funcionários aduaneiros que tenham tomado a decisão recorrida são obrigados a fundamentar por escrito, perante o CSTA, essa decisão."
+    },
+    {
+     "t": "p",
+     "x": "13. As decisões do CSTA, em forma de acórdãos, são tomadas por maioria de votos, em deliberações em que todos os peritos presentes devem participar; em caso de empate, o presidente tem voto de qualidade, considerando-se a questão decidida no sentido do voto do presidente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-399",
+   "label": "Artigo 399.º",
+   "epigraph": "Âmbito",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO IV - Dos processos técnicos em geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Determinam processos técnicos, nomeadamente:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As contestações que se suscitarem entre os funcionários técnico-aduaneiros e os donos ou consignatários das mercadorias a respeito da classificação ou valor destas, taras, aplicação de taxas pautais e, em geral, sobre quaisquer actos inerentes à sua verificação e tributação;",
+      "As divergências que surgirem entre os funcionários técnico-aduaneiros em hipóteses idênticas às referidas na alínea anterior;",
+      "Os casos em que as mercadorias sejam unanimemente consideradas omissas na Pauta."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-400",
+   "label": "Artigo 400.º",
+   "epigraph": "Notificações",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO IV - Dos processos técnicos em geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As notificacões devem ser feitas nos termos do artigo 229.º e seguintes, na parte aplicável."
+    },
+    {
+     "t": "p",
+     "x": "2. Não serão feitas aos funcionários técnico-aduaneiros as notificações de decisões de que possam tomar conhecimento através das declarações aduaneiras."
+    }
+   ]
+  },
+  {
+   "id": "artigo-401",
+   "label": "Artigo 401.º",
+   "epigraph": "Nulidades",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO IV - Dos processos técnicos em geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São nulidades em processo técnico:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A omissão das diligências prescritas obrigatoriamente neste Código;",
+      "A falta de notificação do despacho que ordene a apresentação dos requerimentos ou pareceres que iniciem processos."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. As nulidades referidas neste artigo não podem ser supridas, salva a hipótese, quanto à alínea b) do número anterior, de terem sido presentes os requerimentos ou pareceres."
+    }
+   ]
+  },
+  {
+   "id": "artigo-402",
+   "label": "Artigo 402.º",
+   "epigraph": "Impedimentos e suspeições",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO IV - Dos processos técnicos em geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando em algum Director Regional das Alfândegas ou membro do Conselho Superior Técnico Aduaneiro se verifique qualquer dos impedimentos a que se refere o artigo 238.º, deve esse membro declarar-se impedido, sendo chamado o seu substituto legal."
+    },
+    {
+     "t": "p",
+     "x": "2. Se o impedimento não for declarado oficiosamente, pode qualquer das partes requerer, consoante os casos, à Direcção Nacional das Alfândegas ou àquele Conselho, que seja declarado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-403",
+   "label": "Artigo 403.º",
+   "epigraph": "Remoção das mercadorias",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO IV - Dos processos técnicos em geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias sobre as quais tenha recaído qualquer processo técnico poderão ser removidas antes de haver resolução competente se os interessados fizerem depósito de importância correspondente aos direitos e demais imposições aduaneiras devidos, e, na hipótese de se presumir responsabilidade fiscal, ainda a importância julgada suficiente para garantir esta responsabilidade."
+    },
+    {
+     "t": "p",
+     "x": "2. Nos processos em que alguma das partes considera a mercadoria omissa, o interessado depositará quantia correspondente aos direitos e demais imposições aduaneiras devidos."
+    },
+    {
+     "t": "p",
+     "x": "3. Os depósitos a que se referem os números anteriores podem ser substituídos por garantia prestada nos termos prescritos no Regulamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-404",
+   "label": "Artigo 404.º",
+   "epigraph": "Mercadorias idênticas",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO IV - Dos processos técnicos em geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. De qualquer processo técnico que se tenha levantado será dado imediato conhecimento em ordem de serviço das alfândegas, ficando as mercadorias idênticas que estejam ou venham a estar submetidas a despacho sujeitas ao disposto no artigo anterior, se os interessados não preferirem aguardar a resolução final do Director Regional das Alfândegas competente ou do Conselho Superior Técnico Aduaneiro."
+    },
+    {
+     "t": "p",
+     "x": "2. Para efeitos deste artigo a Direcção Regional das Alfândegas onde se tenha levantado o processo técnico fará às outras Direcções Regionais das Alfândegas a competente comunicação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-405",
+   "label": "Artigo 405.º",
+   "epigraph": "Processos de divergência",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO IV - Dos processos técnicos em geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A decisão proferida pelos Directores Regionais das Alfândegas e pelo Conselho Superior Técnico Aduaneiro no âmbito dos processos de divergência é aplicável a futuros casos idênticos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-406",
+   "label": "Artigo 406.º",
+   "epigraph": "Direito de comparência",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO IV - Dos processos técnicos em geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os donos ou consignatários das mercadorias e seus representantes legais terão o direito de comparecer perante os Directores Regionais das Alfândegas e perante o Conselho Superior Técnico Aduaneiro para expor verbalmente os esclarecimentos que julgarem convenientes, não podendo, porém, assistir às deliberações."
+    }
+   ]
+  },
+  {
+   "id": "artigo-407",
+   "label": "Artigo 407.º",
+   "epigraph": "Lugar e prazo de pagamento das custas",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO V - Das custas, do imposto do selo, do custo das análises e das despesas de transporte"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As custas relativas aos processos técnicos devem ser pagas por depósito na tesouraria da estância aduaneira competente, mediante guias em duplicado passadas no Departamento do Contencioso Aduaneiro, sendo o duplicado, depois de efectuado o depósito, apresentado neste Departamento no prazo de cinco dias úteis a contar da apresentação do requerimento de recurso."
+    }
+   ]
+  },
+  {
+   "id": "artigo-408",
+   "label": "Artigo 408.º",
+   "epigraph": "Montante das custas",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO V - Das custas, do imposto do selo, do custo das análises e das despesas de transporte"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Nos recursos interpostos perante os Directores Regionais das Alfândegas, o montante das custas devidas é o constante da tabela anexa, sendo calculado sobre o valor dos processos, dos incidentes ou dos recursos."
+    },
+    {
+     "t": "p",
+     "x": "2. Nos recursos interpostos perante o Conselho Superior Técnico Aduaneiro, as custas são de metade das constantes na tabela a que se refere o número anterior. 3. Sobre as custas não recai adicional algum."
+    },
+    {
+     "t": "p",
+     "x": "3. As custas serão restituídas ao dono ou ao consignatário da mercadoria que não tenha decaído no recurso."
+    }
+   ]
+  },
+  {
+   "id": "artigo-409",
+   "label": "Artigo 409.º",
+   "epigraph": "Imposto do selo",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO V - Das custas, do imposto do selo, do custo das análises e das despesas de transporte"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Em tudo o que não esteja especialmente previsto no presente capítulo, é aplicável ao imposto do selo, o disposto no Diploma Legislativo n.º 3841, de 6 de Agosto de 1968, com as alterações que lhe foram introduzidas pelo Decreto n.º 7/89, de 15 de Abril, e pelo Decreto executivo n.º 71/04, de 9 de Julho, e na respectiva Tabela Geral do Imposto do Selo."
+    },
+    {
+     "t": "p",
+     "x": "2. A contagem dos selos far-se-á pela taxa legal do papel selado, cada meia folha."
+    }
+   ]
+  },
+  {
+   "id": "artigo-410",
+   "label": "Artigo 410.º",
+   "epigraph": "Custo das análises e despesas de transporte",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO I - Disposições gerais",
+    "CAPÍTULO V - Das custas, do imposto do selo, do custo das análises e das despesas de transporte"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Às custas e ao imposto do selo acrescerá o custo das análises quando for devido."
+    },
+    {
+     "t": "p",
+     "x": "2. No pagamento das despesas de transporte das amostras e dos processos observar-se-á o disposto no Regulamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-411",
+   "label": "Artigo 411.º",
+   "epigraph": "Âmbito de aplicação",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "À instrução e julgamento dos processos de carácter técnico que se suscitarem nas alfândegas aplicam-se os preceitos estabelecidos no presente título."
+    }
+   ]
+  },
+  {
+   "id": "artigo-412",
+   "label": "Artigo 412.º",
+   "epigraph": "Competência para a instrução",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A instrução do processo de contencioso técnico aduaneiro é da competência do Director Regional das Alfândegas da região aduaneira em que o processo tenha sido suscitado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-413",
+   "label": "Artigo 413.º",
+   "epigraph": "Diligências iniciais",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Sem prejuízo do disposto no n.º 2, logo que tenha sido suscitado o processo ou a contestação, o Director Regional das Alfândegas competente pode solicitar parecer aos funcionários encarregados da verificação ou da reverificação."
+    },
+    {
+     "t": "p",
+     "x": "2. Se concluir que o requerimento foi apresentado fora do prazo, o Director Regional das Alfândegas não tomará conhecimento dele e, fundamentando o seu despacho de indeferimento, fá-lo-á notificar aos interessados."
+    }
+   ]
+  },
+  {
+   "id": "artigo-414",
+   "label": "Artigo 414.º",
+   "epigraph": "Emissão de parecer pelos funcionários encarregados da verificação ou da reverificação",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Em cada uma das Direcções Regionais das Alfândegas, haverá funcionários encarregados da verificação e da reverificação, aos quais competirá dar parecer sobre os processos técnico-aduaneiros."
+    },
+    {
+     "t": "p",
+     "x": "2. Os funcionários referidos no número anterior devem emitir o seu parecer no prazo máximo de oito dias úteis a contar da data em que hajam recebido a solicitação a que se refere o n.º 1 do artigo anterior."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando não haja unanimidade de votos, considerar-se-á parecer a opinião que obtiver mais votos."
+    },
+    {
+     "t": "p",
+     "x": "4. No parecer será indicada a natureza da amostra apresentada ou elementos que constituem a sua denominação comercial ou industrial, classificação pautal que lhe deve ser aplicada ou declaração de que deve ser considerada omissa, com a indicação dos respectivos fundamentos."
+    },
+    {
+     "t": "p",
+     "x": "5. O parecer será assinado pelos funcionários que hajam participado na votação, não sendo admitidos votos de vencido."
+    },
+    {
+     "t": "p",
+     "x": "6. Na votação a que se refere o presente artigo não intervirão os funcionários que já tenham dado parecer na qualidade de verificadores ou de reverificadores, conforme os casos, das mercadorias que sejam objecto do respectivo processo."
+    },
+    {
+     "t": "p",
+     "x": "7. Das sessões da reunião dos funcionários encarregados da verificação ou da reverificação lavrar-se-á acta, servindo de secretário para este efeito um funcionário presente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-415",
+   "label": "Artigo 415.º",
+   "epigraph": "Remessa do processo para o Director Regional das Alfândegas",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O requerimento e o parecer aludidos nos artigos anteriores, acompanhados das amostras ou dos elementos que as substituam, de cópias do Documento Único e de quaisquer outros elementos necessários para a instrução do processo, serão remetidos, no prazo de oito dias úteis, ao Director Regional das Alfândegas competente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-416",
+   "label": "Artigo 416.º",
+   "epigraph": "Registo, autuação e distribuição",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O Director Regional das Alfândegas, logo que receba os elementos referidos no artigo anterior, mandará registar e autuar."
+    },
+    {
+     "t": "p",
+     "x": "2. O chefe do Departamento do Contencioso Aduaneiro fará em seguida concluso o processo ao referido Director, que poderá ordenar a recolha de outros elementos, 150 designadamente amostras já existentes no museu e análises a realizar no laboratório, nomeando em seguida o relator, ao qual o processo será enviado pelo Departamento do Contencioso Aduaneiro."
+    }
+   ]
+  },
+  {
+   "id": "artigo-417",
+   "label": "Artigo 417.º",
+   "epigraph": "Realização de outras diligências instrutórias",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando o relator julgue conveniente a realização de qualquer diligência para completa instrução do processo, solicitá-la-á ao Director Regional das Alfândegas, que resolverá, fundamentado o seu despacho se indeferir o pedido do relator."
+    }
+   ]
+  },
+  {
+   "id": "artigo-418",
+   "label": "Artigo 418.º",
+   "epigraph": "Devolução do processo",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O relator devolverá o processo ao Director Regional das Alfândegas acompanhado do seu relatório ou do pedido de diligências, no prazo de dez dias úteis a contar da data em que o tiver recebido."
+    }
+   ]
+  },
+  {
+   "id": "artigo-419",
+   "label": "Artigo 419.º",
+   "epigraph": "Conclusão ao Director Regional das Alfândegas",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Recebido o processo e o relatório, o chefe do Departamento do Contencioso Aduaneiro fará concluso o primeiro ao Director Regional das Alfândegas, que ordenará a junção do relatório aos autos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-420",
+   "label": "Artigo 420.º",
+   "epigraph": "Convocações e avisos",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O Director Regional das Alfândegas designará o dia da sessão em que o processo deve ser presente."
+    },
+    {
+     "t": "p",
+     "x": "2. As convocações das sessões serão expedidas pelo chefe do Departamento do Contencioso Aduaneiro com a antecedência mínima de cinco dias úteis da data fixada para a reunião."
+    },
+    {
+     "t": "p",
+     "x": "3. Com a mesma antecedência serão expedidos os avisos para os interessados ou seus representantes legais comparecerem na sessão de discussão, quando tenham requerido o uso da faculdade que lhes é conferida pelo 406.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-421",
+   "label": "Artigo 421.º",
+   "epigraph": "Deliberações",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As deliberações serão tomadas pelo Director Regional das Alfândegas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-422",
+   "label": "Artigo 422.º",
+   "epigraph": "Conteúdo do acórdão",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Compete ao Director Regional das Alfândegas, além das atribuições mencionadas em outras disposições, a redacção dos acórdãos em harmonia com a discussão que tiver ocorrido, podendo delegar este encargo no seu substituto legal."
+    },
+    {
+     "t": "p",
+     "x": "2. O acórdão começará com o relatório da questão, exporá em seguida os fundamentos e terminará pela decisão devendo ser assinado pelo Director Regional das Alfândegas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-423",
+   "label": "Artigo 423.º",
+   "epigraph": "Registo da votação e assinatura do acórdão",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se não for possível lavrar imediatamente o acordão, será a decisão registada num livro de lembranças, que será assinado pelo Director Regional das Alfândegas."
+    },
+    {
+     "t": "p",
+     "x": "2. O acórdão deve ser assinado no prazo de oito dias úteis a contar da data da sessão em que foi discutido o assunto a que se refere e terá a data dessa sessão."
+    },
+    {
+     "t": "p",
+     "x": "3. As decisões do Director Regional das Alfândegas são averbadas nos respectivos processos técnicos pelo chefe do Departamento do Contencioso Aduaneiro, de conformidade com as notas tomadas no respectivo livro de lembranças."
+    }
+   ]
+  },
+  {
+   "id": "artigo-424",
+   "label": "Artigo 424.º",
+   "epigraph": "Pareceres",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Será aplicável aos pareceres emitidos pelo Director Regional das Alfândegas o preceituado nos artigos anteriores acerca dos acórdãos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-425",
+   "label": "Artigo 425.º",
+   "epigraph": "Termos subsequentes",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O chefe do Departamento do Contencioso Aduaneiro deve fazer os processos conclusos e praticar os outros actos de expediente no prazo de três dias úteis, salvo em casos excepcionais que serão apreciados pelo Director Regional das Alfândegas competente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-426",
+   "label": "Artigo 426.º",
+   "epigraph": "Baixa do processo e notificação da decisão",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO II - Da instrução e julgamento dos processos pelos Directores Regionais das Alfândegas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Proferida qualquer decisão pelo Director Regional das Alfândegas competente, o processo baixará imediatamente à respectiva alfândega, para dela serem notificados os donos ou consignatários das mercadorias ou os seus represenantes no prazo de dez dias úteis, a contar da data do recebimento do processo, e ser averbada no respectivo Documento Único, se tiver transitado em julgado."
+    },
+    {
+     "t": "p",
+     "x": "2. Na sede de alfândega e suas estâncias aduaneiras mandará proceder à notificação o chefe do Departamento do Contencioso Aduaneiro e nos demais casos o chefe da respectiva estância aduaneira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-427",
+   "label": "Artigo 427.º",
+   "epigraph": "Recurso dos acórdãos dos Directores Regionais das Alfândegas",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO III - Dos recursos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os donos ou consignatários das mercadorias, ou seus representantes, podem recorrer de todos os acórdãos proferidos pelos Directores Regionais das Alfândegas nos processos em que sejam parte e em que hajam decaído."
+    },
+    {
+     "t": "p",
+     "x": "2. O Director Nacional das Alfândegas, quando reconheça que a decisão é contrária aos interesses do Estado, pode interpor recurso."
+    },
+    {
+     "t": "p",
+     "x": "3. É obrigatório recurso dos acórdãos dos Directores Regionais das Alfândegas que julguem a mercadoria omissa na Pauta."
+    },
+    {
+     "t": "p",
+     "x": "4. Os recursos devem ser interpostos dentro dos prazos prescritos no artigo 430.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-428",
+   "label": "Artigo 428.º",
+   "epigraph": "Recurso dos despachos",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO III - Dos recursos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os donos ou consignatários das mercadorias, ou os seus representantes, podem interpor recurso dos despachos proferidos sobre requerimentos por si apresentados sobre qualquer matéria relativa aos processos do contencioso técnico."
+    },
+    {
+     "t": "p",
+     "x": "2. Os recursos a que o número anterior se refere serão interpostos nos termos previstos no presente título."
+    }
+   ]
+  },
+  {
+   "id": "artigo-429",
+   "label": "Artigo 429.º",
+   "epigraph": "Efeitos dos recursos",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO III - Dos recursos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os recursos têm efeito suspensivo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-430",
+   "label": "Artigo 430.º",
+   "epigraph": "Interposição do recurso",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO III - Dos recursos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando os donos ou consignatários das mercadorias, ou os seus representantes, queiram usar do direito de recurso referido nos artigos anteriores, deverão entregar na estância aduaneira onde lhes foi notificada a decisão ou na secretaria do Conselho Superior Técnico Aduaneiro, no prazo de dez dias úteis, contado da data da notificação, a sua petição ou minuta de recurso, acompanhada dos documentos justificativos que entenderem dever juntar."
+    },
+    {
+     "t": "p",
+     "x": "2. O recurso será interposto mediante requerimento fundamentado."
+    },
+    {
+     "t": "p",
+     "x": "3. Recebido o requerimento do recurso, deverá o chefe da estância aduaneira onde for entregue, anotá-lo com a data da apresentação, a fim de, por intermédio da direcção da alfândega, ser remetido com o processo à secretaria do Conselho Superior Técnico Aduaneiro."
+    },
+    {
+     "t": "p",
+     "x": "4. As petições de recurso e os documentos mencionados no n.º 1, depois de registados na secretaria do Conselho Superior Técnico Aduaneiro, devem ser imediatamente remetidos ao presidente deste Conselho."
+    },
+    {
+     "t": "p",
+     "x": "5. Ao presidente do Conselho Superior Técnico Aduaneiro deve ser remetido um exemplar das amostras, desenhos, fotografias, modelos ou memórias descritivas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-431",
+   "label": "Artigo 431.º",
+   "epigraph": "Despesas de transporte",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO III - Dos recursos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As despesas de transporte de amostras, desenhos, fotografias, modelos ou memórias descritivas, qualquer que seja o meio de transporte utilizado, serão sempre pagas pelos donos ou consignatários das mercadorias, ou seus representantes, quando decaírem nos processos em que sejam recorrentes ou em que hajam produzido alegações."
+    }
+   ]
+  },
+  {
+   "id": "artigo-432",
+   "label": "Artigo 432.º",
+   "epigraph": "Exequibilidade das decisões dos Directores Regionais das Alfândegas",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO III - Dos recursos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As decisões dos Directores Regionais das Alfândegas de que não haja sido interposto recurso dentro do prazo legal terão força de sentença, sendo desde logo executórias em relação aos casos objecto de decisão."
+    }
+   ]
+  },
+  {
+   "id": "artigo-433",
+   "label": "Artigo 433.º",
+   "epigraph": "Julgamento dos recursos",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO III - Dos recursos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "No julgamento dos recursos interpostos para o Conselho Superior Técnico Aduaneiro observar-se-ão, na parte aplicável, as disposições dos artigos 366.º a 387.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-434",
+   "label": "Artigo 434.º",
+   "epigraph": "Recurso dos acórdãos do Conselho Superior Técnico Aduaneiro",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO III - Dos recursos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se os donos ou consignatários das mercadorias, ou os seus representantes, não se conformarem com a decisão proferida pelo Conselho Superior Técnico Aduaneiro, poderão interpor recurso para a Sala do Contencioso Fiscal e Aduaneiro do Tribunal Provincial competente."
+    },
+    {
+     "t": "p",
+     "x": "2. O recurso a que se refere o número anterior não tem efeito suspensivo."
+    },
+    {
+     "t": "p",
+     "x": "3. Em tudo o que não estiver previsto nesta Parte, observar-se-ão na interposição, tramitação e julgamento do recurso a que se refere o presente artigo, na parte aplicável, os preceitos do Contencioso Fiscal Aduaneiro compatíveis com a natureza do processo técnico."
+    },
+    {
+     "t": "p",
+     "x": "4. A doutrina dos acórdãos da Sala do Contencioso Fiscal e Aduaneiro será obrigatoriamente aplicada aos casos idênticos, até que, por acordão posterior daquela Sala ou por disposição legal, seja modificada."
+    }
+   ]
+  },
+  {
+   "id": "artigo-435",
+   "label": "Artigo 435.º",
+   "epigraph": "Âmbito de aplicação",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os processos de contestação, com excepção dos de valores, suscitados entre os donos ou consignatários das mercadorias, ou seus representantes, e os funcionários das alfândegas, ou os de divergência entre aqueles funcionários, acerca da classificação das mercadorias, taras, aplicação de taxas pautais, de tráfego e de armazenagem, assim como quaisquer outras taxas ou impostos que incidam sobre as mercadorias entradas ou saídas do território aduaneiro e, em geral sobre quaisquer outros actos inerentes à verificação e tributação das mesmas mercadorias, bem como os processos que se referem a mercadorias consideradas omissas na Pauta, serão resolvidos conforme os preceitos estabelecidos nos artigos seguintes."
+    },
+    {
+     "t": "p",
+     "x": "2. Do disposto no corpo deste artigo exceptuam-se os casos respeitantes à contagem de prazos para aplicação de disposições legais, que serão resolvidos por via administrativa."
+    }
+   ]
+  },
+  {
+   "id": "artigo-436",
+   "label": "Artigo 436.º",
+   "epigraph": "Prazo para a apresentação de alegações ou de parecer",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando se levantem as contestações sobre os casos de que trata o artigo anterior entre os donos ou consignatários das mercadorias, ou seus representantes, e os funcionários aduaneiros, devem aqueles apresentar, no caso de terem mantido a declaração para despacho constante do respectivo Documento Único, ao chefe do serviço do despacho nas sedes das alfândegas, ou aos chefes das estâncias aduaneiras, no prazo de dez dias úteis, a contar da data em que lhes foi dado 154 conhecimento da participação dos funcionários aduaneiros que impugnaram a declaração, as suas alegações devidamente fundamentadas."
+    },
+    {
+     "t": "p",
+     "x": "2. Nestes casos têm os funcionários aduaneiros de formular, também por escrito, no mesmo prazo, o seu parecer fundamentado."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando se trate de divergências entre funcionários, o prazo para apresentarem os seus pareceres será de cinco dias úteis, contados a partir da data em que seja ordenada a sua apresentação ao funcionário encarregado da verificação ou da reverificação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-437",
+   "label": "Artigo 437.º",
+   "epigraph": "Extracção de amostras",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Por cada processo de contestação, divergência ou omissão instaurados nas alfândegas devem ser extraídas, sempre que possível, duas amostras, sendo uma destinada ao processo e a outra ao museu de amostras."
+    }
+   ]
+  },
+  {
+   "id": "artigo-438",
+   "label": "Artigo 438.º",
+   "epigraph": "Remessa do requerimento e de outros elementos para o Director Regional das Alfândegas",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O requerimento, acompanhado do parecer dos funcionários encarregados da verificação ou da reverificação, das cópias das declarações aduaneiras, das amostras das mercadorias, devidamente autenticadas, e de quaisquer outros elementos necessários para a instrução e julgamento do processo serão remetidos, dentro dos dez dias úteis seguintes, ao Director Regional das Alfândegas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-439",
+   "label": "Artigo 439.º",
+   "epigraph": "Impossibilidade de envio de amostras",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando não seja possível enviar amostras, podem estas suprir-se por desenhos, modelos, fotografias ou por descrição minuciosa da natureza, forma e aplicação do objecto que originou o processo, não podendo neste caso as mercadorias ser removidas das estâncias aduaneiras sem que os desenhos, modelos, descrições ou fotografias sejam, pelo chefe do Departamento do Contencioso Aduaneiro, declarados suficientes para ulterior julgamento do processo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-440",
+   "label": "Artigo 440.º",
+   "epigraph": "Análise química dos produtos",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando tenha sido necessária a análise química dos produtos em contestação ou divergência, devem os processos ser instruídos com o resultado que constar do respectivo boletim de análise."
+    }
+   ]
+  },
+  {
+   "id": "artigo-441",
+   "label": "Artigo 441.º",
+   "epigraph": "Remoção das mercadorias",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o interessado quiser retirar das estâncias aduaneiras, antes de haver resolução superior, as mercadorias sobre que versar a contestação ou divergência, ou ainda aquelas que estejam aguardando o resultado da análise, poderá fazê-lo, caucionando a importância correspondente aos direitos e demais imposições aduaneiras mais elevados."
+    },
+    {
+     "t": "p",
+     "x": "2. Sem embargo do disposto no número anterior, as mercadorias a respeito das quais se tenha instaurado processo de contencioso técnico ou fiscal poderão conservar-se em depósito nas alfândegas até resolução final, devendo ser removidas nos prazos estabelecidos no Regulamento, contados da data em que tiver sido notificada à parte essa resolução."
+    },
+    {
+     "t": "p",
+     "x": "3. São aplicáveis, à obrigação de remoção a que se refere o número anterior, com as necessárias adaptações, o disposto no artigo 59.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-442",
+   "label": "Artigo 442.º",
+   "epigraph": "Despesas do processo",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se houver contestação e esta for resolvida a favor do contestante, não se cobram as despesas do processo."
+    },
+    {
+     "t": "p",
+     "x": "2. No caso de haver somente divergência entre os funcionários das alfândegas, a remessa das amostras é feita por conta das alfândegas, e não há despesas a cobrar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-443",
+   "label": "Artigo 443.º",
+   "epigraph": "Processo de omissão",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando for apresentada a despacho nas estâncias aduaneiras qualquer mercadoria e o dono ou os funcionários aduaneiros que intervierem na verificação e na reverificação entendam que não está compreendida em nenhum dos artigos da Pauta, proceder-se-á conforme está preceituado para as contestações e divergências, formando-se um processo de omissão."
+    }
+   ]
+  },
+  {
+   "id": "artigo-444",
+   "label": "Artigo 444.º",
+   "epigraph": "Remoção das mercadorias",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As mercadorias que sejam consideradas omissas na Pauta, em conformidade com o disposto no artigo anterior, podem ser removidas das estâncias aduaneiras pelos interessados, mediante depósito ou fiança dos direitos que lhes sejam arbitrados pelo Director Regional das Alfândegas, o qual dará do caso imediato conhecimento ao Director Nacional das Alfândegas, que, por sua vez, confirmará ou mandará reforçar o depósito ou a fiança."
+    }
+   ]
+  },
+  {
+   "id": "artigo-445",
+   "label": "Artigo 445.º",
+   "epigraph": "Liquidação dos direitos devidos pelas mercadorias omissas",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A liquidação dos direitos devidos pelas mercadorias omissas deve ser efectuada de harmonia com as taxas que tiverem sido fixadas pelo Ministro das Finanças, sob proposta do Conselho Superior Técnico Aduaneiro."
+    },
+    {
+     "t": "p",
+     "x": "2. Ao Conselho referido no número anterior deve ser enviado, com o respectivo processo de omissão, organizado nos termos dos artigos anteriores e com o parecer do Director Nacional das Alfândegas sobre os direitos propostos, um exemplar das amostras, modelos, desenhos, fotografias ou das memórias descritivas das mercadorias de que trata este artigo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-446",
+   "label": "Artigo 446.º",
+   "epigraph": "Não aceitação das divergências",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os Directores Regionais das Alfândegas têm a faculdade de não admitir, quando assim o entendam, quaisquer divergências em questões propriamente de facto, ou quando o assunto já tenha sido superiormente resolvido e haja parecer unânime dos funcionários encarregados da verificação ou da reverificação, não votando os funcionários que intervieram no despacho. 156"
+    }
+   ]
+  },
+  {
+   "id": "artigo-447",
+   "label": "Artigo 447.º",
+   "epigraph": "Divergências findas por iniciativa do dono das mercadorias",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO I - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando se levantem divergências que não tenham seguimento, por ter o dono ou consignatário das mercadorias, ou seu representante, preferido pagar o maior direito, dar-se-á do caso conhecimento ao Director Regional das Alfândegas competente, enviando-se, sempre que possível, uma amostra, modelo, desenho, fotografia ou descrição minuciosa da mercadoria, acompanhados dos pareceres dos funcionários que intervieram no despacho e dos funcionários encarregados da verificação ou da reverificação, conforme os casos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-448",
+   "label": "Artigo 448.º",
+   "epigraph": "Regime aplicável",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO II - Das contestações de valor"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As contestações de valor levantadas pelos funcionários aduaneiros nos despachos de mercadorias serão resolvidas conforme os preceitos estabelecidos nos artigos seguintes."
+    }
+   ]
+  },
+  {
+   "id": "artigo-449",
+   "label": "Artigo 449.º",
+   "epigraph": "Contestação dos valores declarados no despacho",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO II - Das contestações de valor"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os interessados, ao tomarem conhecimento dos valores determinados pelos funcionários aduaneiros com base nas regras estabelecidas na Parte IV, quando estes tenham contestado os que se encontravam declarados no despacho, devem declarar se se conformam ou não com aqueles valores."
+    },
+    {
+     "t": "p",
+     "x": "2. Em caso afirmativo, o despacho segue os seus trâmites ordinários."
+    },
+    {
+     "t": "p",
+     "x": "3. Se não se conformarem com os valores arbitrados pelos funcionários aduaneiros, os interessados devem apresentar ao Director Regional das Alfândegas competente requerimento em que fundamentem os motivos da sua discordância, acompanhando o requerimento de duas amostras, desenhos ou fotografias da mercadoria."
+    },
+    {
+     "t": "p",
+     "x": "4. Em seguida, o Director Regional das Alfândegas decidirá."
+    }
+   ]
+  },
+  {
+   "id": "artigo-450",
+   "label": "Artigo 450.º",
+   "epigraph": "Instauração de processo fiscal aduaneiro",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO II - Das contestações de valor"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando os interessados se conformem com os valores arbitrados ou quando os Directores Regionais das Alfândegas fixarem valor que exceda o declarado pelas partes, instaurar-se-á o competente processo fiscal aduaneiro, se for caso disso, a fim de ser definida a sua responsabilidade."
+    }
+   ]
+  },
+  {
+   "id": "artigo-451",
+   "label": "Artigo 451.º",
+   "epigraph": "Interposição de recurso",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO II - Das contestações de valor"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As decisões dos Directores Regionais das Alfândegas sobre contestações de valor devem ser notificadas aos declarantes e contestantes, que delas podem recorrer, no prazo de dez dias úteis a contar da notificação, para o Conselho Superior Técnico Aduaneiro, que decide em última instância administrativa de recurso."
+    },
+    {
+     "t": "p",
+     "x": "2. Para interpor este recurso, os donos das mercadorias devem depositar previamente a quantia suficiente para garantir o pagamento dos direitos e demais imposições devidos, multas prováveis, custas e selos, a que fica obrigado se não obtiver provimento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-452",
+   "label": "Artigo 452.º",
+   "epigraph": "Requerimento e amostras",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO III - Das consultas prévias sobre classificação pautal de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando se suscitem dúvidas, por parte dos interessados, sobre a classificação pautal a aplicar a qualquer mercadoria que se pretenda importar ou exportar e ainda não submetida a despacho, devem apresentar ao Director Regional das Alfândegas competente, requerimento em que fundamentem os motivos das suas dúvidas, acompanhando o requerimento de duas amostras, desenhos ou fotografias da mesma mercadoria devidamente acondicionados e com rótulos assinados pelos requerentes."
+    },
+    {
+     "t": "p",
+     "x": "2. No aludido requerimento deverá designar-se a denominação comercial ou industrial da mercadoria, as matérias-primas que entram na sua composição, as suas aplicações, valor, procedência e local do fabrico ou origem."
+    }
+   ]
+  },
+  {
+   "id": "artigo-453",
+   "label": "Artigo 453.º",
+   "epigraph": "Requerimento, desenhos, modelos ou fotografias",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO III - Das consultas prévias sobre classificação pautal de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando a dúvida dos interessados versar sobre a classificação de máquinas, aparelhos ou de quaisquer mercadorias de que não seja possível apresentar amostras, devem os mesmos interessados juntar aos seus requerimentos os desenhos, modelos ou fotografias dessas máquinas, aparelhos ou mercadorias, acompanhados de resenha minuciosa da quantidade e qualidade das peças de que eles se compõem e do fim a que se destinam."
+    },
+    {
+     "t": "p",
+     "x": "2. Os trâmites a seguir no caso de que trata este artigo são os mesmos que ficam estabelecidos de um modo geral para os processos em que sejam exigidas amostras para sua resolução."
+    }
+   ]
+  },
+  {
+   "id": "artigo-454",
+   "label": "Artigo 454.º",
+   "epigraph": "Intervenção dos funcionários encarregados da verificação ou da reverificação",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO III - Das consultas prévias sobre classificação pautal de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O Director Regional das Alfândegas, logo que receba os requerimentos de que trata o artigo anterior, reconhecendo que são fundamentados os motivos das dúvidas alegadas, ordena a emissão de parecer sobre os mesmos requerimentos pelos funcionários encarregados da verificação ou da reverificação, que para tal fim reunirão em conferência, sob a presidência do chefe do serviço do despacho, servindo de secretário um dos vogais."
+    },
+    {
+     "t": "p",
+     "x": "2. O parecer a que se refere o número anterior deve ser apresentado no prazo máximo de dez dias úteis, salvo nos casos em que se torne indispensável proceder à análise das amostras, o qual se contará a partir da data da junção ao processo do respectivo boletim."
+    },
+    {
+     "t": "p",
+     "x": "3. No parecer deve ser indicada a natureza da amostra apresentada, a sua denominação comercial ou industrial, a classificação pautal fundamentada que lhe deva ser aplicada ou a declaração de que os funcionários encarregados da verificação ou da reverificação entendem que a mercadoria submetida ao seu exame é omissa na Pauta."
+    },
+    {
+     "t": "p",
+     "x": "4. Deve ser lavrada acta das sessões."
+    },
+    {
+     "t": "p",
+     "x": "5. O parecer deve ser assinado pelos funcionários presentes."
+    }
+   ]
+  },
+  {
+   "id": "artigo-455",
+   "label": "Artigo 455.º",
+   "epigraph": "Produtos de composição indefinida ou de difícil identificação",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO III - Das consultas prévias sobre classificação pautal de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Tratando-se de produtos de composição indefinida ou que não possam ser facilmente identificados, deve o interessado instruir o processo de consulta prévia com os documentos que as alfândegas solicitem."
+    }
+   ]
+  },
+  {
+   "id": "artigo-456",
+   "label": "Artigo 456.º",
+   "epigraph": "Prolação da decisão",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO III - Das consultas prévias sobre classificação pautal de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O parecer dos funcionários encarregados da verificação ou da reverificação deve ser seguidamente enviado ao Director Regional das Alfândegas competente, acompanhado das amostras e de outros documentos e elementos descritivos ou informativos."
+    },
+    {
+     "t": "p",
+     "x": "2. O Director Regional das Alfândegas deve proferir sobre o assunto a sua decisão, no prazo máximo de quinze dias úteis, após a recepcão dos processos e amostras."
+    },
+    {
+     "t": "p",
+     "x": "3. Nos casos em que for indispensável proceder a análise laboratorial, o prazo referido no número anterior contar-se-á a partir da data da junção ao processo do respectivo boletim."
+    }
+   ]
+  },
+  {
+   "id": "artigo-457",
+   "label": "Artigo 457.º",
+   "epigraph": "Interposição de recurso",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO III - Das consultas prévias sobre classificação pautal de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As decisões dos Directores Regionais das Alfândegas sobre os processos de consultas prévias devem ser notificadas aos interessados, que delas podem recorrer, no prazo de dez dias úteis a contar da notificação, para o Conselho Superior Técnico Aduaneiro, que decide em última instância administrativa de recurso."
+    },
+    {
+     "t": "p",
+     "x": "2. Para interpor este recurso, os donos ou consignatários das mercadorias, ou seus representantes, devem depositar previamente a quantia suficiente para garantir o pagamento das custas e selos a que ficam obrigados se o recurso não obtiver provimento."
+    },
+    {
+     "t": "p",
+     "x": "3. Os acórdãos do Conselho Superior Técnico Aduaneiro proferidos sobre consultas prévias são, imediata e obrigatoriamente, aplicáveis aos casos sujeitos e aos idênticos nas alfândegas nacionais."
+    },
+    {
+     "t": "p",
+     "x": "4. Os direitos e demais imposições devidos pelas mercadorias submetidas a consulta prévia, quando os seus donos ou consignatários tenham usado da faculdade que lhes é conferida pelo presente capítulo, serão caucionadas até resolução final do respectivo processo."
+    },
+    {
+     "t": "p",
+     "x": "5. A caução será arbitrada pelo valor dos direitos e demais imposições estabelecidos por decisão do Director Regional das Alfândegas competente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-458",
+   "label": "Artigo 458.º",
+   "epigraph": "Despacho de indeferimento liminar",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO III - Das consultas prévias sobre classificação pautal de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o Director Regional das Alfândegas competente reconhecer que as mercadorias sobre cuja classificação pautal se pedem esclarecimentos estão especificadas na Pauta, ou compreendidas nos agrupamentos da mesma Pauta, sem que sobre a classificacão das aludidas mercadorias se tenha suscitado qualquer dúvida ou contestação, ou que, tendo-se suscitado, esteja devidamente esclarecida ou resolvida por decisão anterior dos Directores Regionais das Alfândegas ou do Conselho Superior Técnico Aduaneiro, indeferirá liminarmente o requerimento, fundamentando o despacho."
+    },
+    {
+     "t": "p",
+     "x": "2. O despacho de indeferimento liminar deve ser notificado aos interessados, que dele podem interpor recurso, perante o Conselho Superior Técnico Aduaneiro, no prazo de dez dias úteis a contar da notificação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-459",
+   "label": "Artigo 459.º",
+   "epigraph": "Taxa de justiça, custo das análises e despesas de transporte",
+   "path": [
+    "PARTE VI - CONTENCIOSO TÉCNICO ADUANEIRO",
+    "TÍTULO IV - Disposições especiais",
+    "CAPÍTULO III - Das consultas prévias sobre classificação pautal de mercadorias"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Nos processos de consultas prévias não é devida taxa de justiça, cobrando-se, porém, sempre o custo das análises e as despesas de transporte das amostras."
+    }
+   ]
+  },
+  {
+   "id": "artigo-460",
+   "label": "Artigo 460.º",
+   "epigraph": "Regime aplicável",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os processos administrativos que se suscitarem nas alfândegas são resolvidos com base nos preceitos estabelecidos nesta Parte."
+    }
+   ]
+  },
+  {
+   "id": "artigo-461",
+   "label": "Artigo 461.º",
+   "epigraph": "Direito subsidiário",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Em tudo o que não estiver previsto nesta Parte, observar-se-ão nos processos administrativos, na parte aplicável, os preceitos do Contencioso Fiscal Aduaneiro e do Contencioso Técnico Aduaneiro compatíveis com a natureza do processo administrativo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-462",
+   "label": "Artigo 462.º",
+   "epigraph": "Âmbito",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Determinam processos administrativos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As mercadorias armazenadas em quaisquer depósitos temporários ou em quaisquer armazéns sob controlo aduaneiro, quando neles excedam os respectivos prazos de armazenagem;",
+      "As mercadorias sujeitas à acção fiscal quando tenham sido abandonadas a favor do Estado e não sejam objecto de processo fiscal;",
+      "As mercadorias achadas no mar ou por ele arrojadas",
+      "As mercadorias salvadas de naufrágio, se o navio tiver sido abandonado ou quando o capitão requerer a sua venda, observando-se, porém, o disposto nas convenções internacionais aplicáveis;",
+      "As mercadorias provenientes de arrojos aéreos;",
+      "Quaisquer outras mercadorias indicadas na lei;",
+      "A cobrança coerciva de quaisquer importâncias que devam ser arrecadadas pela alfândegas."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Para as mercadorias compreendidas nas diversas alíneas do número anterior será sempre organizado processo, mesmo nos casos em que elas sejam objecto de requisição temporária ou de expropriação ao abrigo da legislação especial vigente."
+    },
+    {
+     "t": "p",
+     "x": "3. Nos casos referidos no n.º 2, observar-se-á os preceitos estabelecidos nessa legislação, sem prejuízos dos fixados neste Código, na parte aplicável."
+    }
+   ]
+  },
+  {
+   "id": "artigo-463",
+   "label": "Artigo 463.º",
+   "epigraph": "Departamento do Contencioso Aduaneiro",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Ao Departamento do Contencioso Aduaneiro da sede da respectiva Direcção Regional das Alfândegas incumbe:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A organização, instrução e liquidação dos processos administrativos respeitantes à cobrança coerciva de importâncias em dívida às alfândegas e que por estas devam ser arrecadadas;",
+      "O registo e organização dos processos de carácter administrativo e que sejam relativos a mercadorias demoradas além dos prazos legais, abandonadas de facto ou por termo ou declaração escrita a favor de terceira pessoa ou do Estado, arrojadas do ar ou pelo mar, salvadas de naufrágios ou achadas;",
+      "O registo e organização dos processos de carácter administrativo relativos a espólios;",
+      "Quaisquer outros indicados na lei."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. O Departamento do Contencioso Aduaneiro de cada Direcção Regional das Alfândegas é considerado, para todas os efeitos, como uma secretaria judicial, sendo escrivão dos respectivos processos o chefe do Departamento ou um escriturário do quadro auxiliar designado pelo respectivo Director Regional das Alfândegas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-464",
+   "label": "Artigo 464.º",
+   "epigraph": "Inspecção dos serviços aduaneiros",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Aos funcionários encarregados da inspecção dos serviços aduaneiros cabe exercer, nos processos de contencioso administrativo aduaneiro, as prerrogativas mencionadas no artigo 394.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-465",
+   "label": "Artigo 465.º",
+   "epigraph": "Remessa de mercadorias para o armazém de leilões",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias de que tratam as alíneas a) e b) do n.º 1 do artigo 462.º serão remetidas para o armazém de leilões logo que findem os prazos de armazenagem ou sejam abandonadas."
+    },
+    {
+     "t": "p",
+     "x": "2. Todas as remessas de mercadorias para o armazém de leilões devem ser acompanhadas de guias, em duplicado, onde se mencionem as contramarcas, marcas, números, quantidade e qualidade dos volumes, a designação genérica das mercadorias, seus pesos, valor, procedência e origem, além de quaisquer outros elementos constantes da documentação que tiver acompanhado a mercadoria, devendo cada guia ser referida a uma só remessa, da mesma contramarca, pertencente ao mesmo dono."
+    }
+   ]
+  },
+  {
+   "id": "artigo-466",
+   "label": "Artigo 466.º",
+   "epigraph": "Conferência das mercadorias remetidas",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. No momento da sua entrada no armazém de leilões, as mercadorias remetidas serão conferidas pelo funcionário aduaneiro que desempenhe as funções de fiel de armazém."
+    },
+    {
+     "t": "p",
+     "x": "2. A conferência deve ser feita em vista das respectivas guias, devendo aquele funcionário anotar todas as entradas em livro de movimento e passar recibo no duplicado da guia."
+    }
+   ]
+  },
+  {
+   "id": "artigo-467",
+   "label": "Artigo 467.º",
+   "epigraph": "Balanço das mercadorias existentes no armazém de leilões",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "No fim de cada mês e na presença do chefe do Departamento do Contencioso Aduaneiro ou de um escriturário do quadro auxiliar designado pelo Director, o funcionário aduaneiro que desempenhe as funções de fiel de armazém de leilões dará balanço das mercadorias ali existentes, conferindo-as com a sua escrita e inventário e lavrando-se auto."
+    }
+   ]
+  },
+  {
+   "id": "artigo-468",
+   "label": "Artigo 468.º",
+   "epigraph": "Entradas",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O funcionário aduaneiro que desempenhar as funções de fiel de armazém deve:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Registar em livro próprio, ou em suporte informático adequado, as entradas constantes da documentação;",
+      "Arquivar o original da guia;",
+      "Anotar as entradas no duplicado da guia;",
+      "Devolver à entidade remetente o duplicado da guia;",
+      "Participar, ao Director Regional das Alfândegas, as entradas e os respectivos elementos."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-469",
+   "label": "Artigo 469.º",
+   "epigraph": "Registo e autuação",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Recebida a participação a que se refere a alínea e) do artigo anterior, o Director Regional das Alfândegas deve ordenar, mediante despacho, o registo e autuação pelo escrivão."
+    },
+    {
+     "t": "p",
+     "x": "2. No mesmo despacho, deve o Director Regional das Alfândegas ordenar o prosseguimento dos demais termos até à formação dos lotes prescritos no artigo 474.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-470",
+   "label": "Artigo 470.º",
+   "epigraph": "Vista do processo ao funcionário aduaneiro que desempenhe as funções de fiel de armazém",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O escrivão, depois de registar e autuar, deve dar vista do processo ao funcionário aduaneiro que desempenhe as funções de fiel de armazém, que, por sua vez, deve averbar no registo de entrada o número do processo e neste a indicação do número de ordem do registo, apresentando, em seguida, o processo e os volumes ao funcionário encarregado da verificação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-471",
+   "label": "Artigo 471.º",
+   "epigraph": "Verificação e indicação da designação comercial",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A verificação deve ser exarada no próprio processo nos termos prescritos no Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "2. Deve também ser indicada a designação comercial por que são conhecidas as mercadorias."
+    }
+   ]
+  },
+  {
+   "id": "artigo-472",
+   "label": "Artigo 472.º",
+   "epigraph": "Contagem e reverificação",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Feita a verificação, deve proceder-se à contagem e à reverificação nos termos prescritos no Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "2. A contagem e a reverificação devem ser exaradas no próprio processo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-473",
+   "label": "Artigo 473.º",
+   "epigraph": "Incidentes, formalidades especiais e avarias",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Nos incidentes que surjam na verificação, na contagem ou reverificação devem seguir-se os trâmites estabelecidos no Regulamento."
+    },
+    {
+     "t": "p",
+     "x": "2. O disposto no número anterior é aplicável a quaisquer formalidades especiais a que o despacho das respectivas mercadorias esteja sujeito, incluindo a desinfecção daquelas que por lei a devem ter."
+    },
+    {
+     "t": "p",
+     "x": "3. Serão dispensadas as formalidades especiais aludidas neste artigo quando, pela sua natureza ou finalidade, não devam ser seguidas."
+    },
+    {
+     "t": "p",
+     "x": "4. Se as mercadorias estiverem avariadas, a percentagem de avaria deve ser determinada por dois árbitros, devendo intervir no caso de empate um terceiro árbitro, que, obrigatoriamente, se deve pronunciar por uma das soluções que lhe forem presentes."
+    },
+    {
+     "t": "p",
+     "x": "5. A nomeação dos árbitros referidos no número anterior compete nas sedes das alfândegas ao Director Regional e nas demais delegações ou estâncias aduaneiras ao respectivo chefe, devendo recair, sempre que possível, em funcionários técnico-aduaneiros."
+    }
+   ]
+  },
+  {
+   "id": "artigo-474",
+   "label": "Artigo 474.º",
+   "epigraph": "Formação, descrição e registo de lotes",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Realizada a reverificação, o funcionário aduaneiro que desempenhar as funções de fiel de armazém deve:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Proceder à formação de lotes, de harmonia com as designações comerciais e os valores dados às mercadorias, formando um lote por cada dono ou consignatário;",
+      "Proceder à descrição dos lotes no processo;",
+      "Registar e transcrever em livro de listas a descrição dos lotes;",
+      "Indicar em livro de listas o número de registo de entrada e o do processo, as contramarcas, marcas e números dos volumes, os nomes dos donos, quando sejam conhecidos, e o valor por que as mercadorias vão à praça;",
+      "Indicar no livro de entradas o número da lista e o dos lotes."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Cumprido o disposto no número anterior, a cada lote será colada uma estampilha com a indicação do número de registo, quantidade e qualidade da mercadoria."
+    }
+   ]
+  },
+  {
+   "id": "artigo-475",
+   "label": "Artigo 475.º",
+   "epigraph": "Marcação da data do leilão",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando o número de lotes registados for suficiente para a realização de leilão, o funcionário aduaneiro que desempenhe as funções de fiel de armazém deve dar do facto conhecimento ao Director Regional das Alfândegas, devendo este designar o dia e a hora em que o mesmo se deve realizar, com a antecipação necessária para, mediante editais e anúncios, se dar ao facto a maior publicidade."
+    }
+   ]
+  },
+  {
+   "id": "artigo-476",
+   "label": "Artigo 476.º",
+   "epigraph": "Remessa de cópia da lista das mercadorias",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO II - Da organização e instrução dos processos administrativos"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Logo que tenha sido fixada a data referida no artigo anterior, o funcionário aduaneiro que desempenhe as funções de fiel de armazém deve remeter ao escrivão cópia da lista das mercadorias."
+    }
+   ]
+  },
+  {
+   "id": "artigo-477",
+   "label": "Artigo 477.º",
+   "epigraph": "Modalidades de disposição",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO I - Disposição geral"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "São as seguintes as modalidades de disposição de mercadorias e ou de meios de transporte:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Distribuição a serviços do Estado;",
+      "Venda."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-478",
+   "label": "Artigo 478.º",
+   "epigraph": "Procedimentos",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO II - Distribuição a serviços do Estado"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias a que se refere o n.º 1 do artigo 462.º só podem ser anunciadas para venda quando se reconheça não haver conveniência no seu aproveitamento para serviço do Estado."
+    },
+    {
+     "t": "p",
+     "x": "2. A distribuição de mercadorias a serviços do Estado deve ser precedida da apresentação da correspondente requisição pelo competente serviço."
+    },
+    {
+     "t": "p",
+     "x": "3. A Direcção Nacional das Alfândegas, mediante proposta devidamente fundamentada, deve indicar ao Ministro das Finanças as mercadorias que seja conveniente distribuir a serviços do Estado."
+    },
+    {
+     "t": "p",
+     "x": "4. O Ministro das Finanças, depois de ter recebido o parecer que entenda solicitar à Direcção Nacional do Património do Estado, decide, por despacho que recairá sobre a proposta a que se refere o número anterior, se há ou não conveniência no aproveitamento das referidas mercadorias para serviço do Estado."
+    },
+    {
+     "t": "p",
+     "x": "5. Cabe à Direcção Nacional do Património do Estado realizar as diligências necessárias para assegurar a transmissão, a favor do Estado, do direito de propriedade sobre as referidas mercadorias e requerer o registo dos factos jurídicos que determinem a aquisição pelo Estado desse direito."
+    },
+    {
+     "t": "p",
+     "x": "6. Quando as mercadorias referidas no n.º 1 forem distribuídas a serviços do Estado, competirá a estes entregar na sede da alfândega ou na delegação ou estância aduaneira as importâncias mencionadas nas diversas alíneas dos n.ºs 2 e 3 do artigo 503.º, com excepção das multas."
+    },
+    {
+     "t": "p",
+     "x": "7. Depois de ter sido lavrado o registo a que se refere o n.º 5, a Direcção Nacional das Alfândegas, em coordenação com a Direcção Nacional do Património do Estado, deve proceder à entrega das mencionadas mercadorias aos serviços do Estado a que elas hajam sido afectadas."
+    },
+    {
+     "t": "p",
+     "x": "8. Da entrega, a que se refere o número anterior, deve ser lavrado auto e exigido o correspondente recibo de entrega que será junto ao processo."
+    },
+    {
+     "t": "p",
+     "x": "9. A Direcção Nacional das Alfândegas deve remeter cópia autenticada do auto de entrega ao Ministro das Finanças, à Direcção Nacional do Património do Estado e ao serviço beneficiário."
+    },
+    {
+     "t": "p",
+     "x": "10. Os serviços do Estado, a quem as mercadorias hajam sido distribuídas, são obrigados a destiná-las exclusivamente aos respectivos fins."
+    }
+   ]
+  },
+  {
+   "id": "artigo-479",
+   "label": "Artigo 479.º",
+   "epigraph": "Direito aplicável",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A venda de mercadorias e de meios de transporte pelas alfândegas rege-se pelos preceitos estabelecidos no presente capítulo."
+    },
+    {
+     "t": "p",
+     "x": "2. Salvo se do contexto resultar outro sentido, o preceituado no presente capítulo é igualmente aplicável, com as necessárias adaptações, aos meios de transporte."
+    }
+   ]
+  },
+  {
+   "id": "artigo-480",
+   "label": "Artigo 480.º",
+   "epigraph": "Publicidade da venda",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Recebida a cópia mencionada no artigo 476.º, o escrivão deve redigir edital."
+    },
+    {
+     "t": "p",
+     "x": "2. O edital é afixado, com a antecipação de dez dias úteis, na porta da sede da alfândega ou da delegação ou estância aduaneira e na porta do armazém de leilões em que os bens se encontrem."
+    },
+    {
+     "t": "p",
+     "x": "3. O edital é publicado, com igual antecipação, em dois números seguidos de um dos jornais mais lidos na circunscrição aduaneira, salvo se o Director Regional das Alfândegas, tendo em conta o diminuto valor das mercadorias, considerar a publicação dispensável."
+    },
+    {
+     "t": "p",
+     "x": "4. O Director Regional das Alfândegas, oficiosamente ou por sugestão dos interessados na venda, pode determinar que ela seja publicitada ainda por outros meios que considere mais eficazes."
+    },
+    {
+     "t": "p",
+     "x": "5. O edital e os anúncios devem conter nomeadamente:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A indicação do dia, hora e local da venda;",
+      "A identificação sumária das mercadorias;",
+      "A indicação do valor base da venda;",
+      "A menção da designação comercial das mercadorias a vender;",
+      "A indicação do título, número e data do jornal em que foram publicados os anúncios."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "6. Quando se tratar de mercadorias que, pelo seu estado ou natureza, estejam sujeitas a desnaturação, o edital, além dos elementos referidos no número anterior, deve mencionar:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Que as mercadorias só poderão ser arrematadas depois de desnaturadas nos termos legais;",
+      "Que as despesas de desnaturação são da conta dos arrematantes."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-481",
+   "label": "Artigo 481.º",
+   "epigraph": "Despacho posterior ao anúncio da venda",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os donos das mercadorias demoradas além dos prazos legais de armazenagem podem despachá-las mesmo depois de anunciada a sua venda, desde que assim o requeiram dentro do prazo para a interposição do recurso do aviso de apreensão, salvo quando aquelas mercadorias hajam sido abandonadas expressamente a favor do Estado ou hajam sido confiscadas."
+    },
+    {
+     "t": "p",
+     "x": "2. O despacho referido no número anterior deve ser feito nos termos previstos no Código e no Regulamento, devendo, porém, a conferência da respectiva declaração com o título de propriedade ser feita pelo funcionário aduaneiro que desempenhe as funções de fiel de armazém de leilões."
+    },
+    {
+     "t": "p",
+     "x": "3. As mercadorias despachadas ao abrigo do disposto neste artigo, além das despesas de armazenagem e de tráfego devidas anteriormente à sua entrada no armazém de leilões, são cativas do pagamento das despesas de armazenagem e tráfego desde a referida entrada, dos anúncios que já tiverem sido publicados e da multa correspondente a cinco por cento do seu valor."
+    },
+    {
+     "t": "p",
+     "x": "4. A multa referida na parte final do número anterior constitui receita do Estado e sobre ela não recairá adicional algum."
+    },
+    {
+     "t": "p",
+     "x": "5. A baixa no registo de entrada no armazém de leilões será dada mediante requisição feita pelo funcionário aduaneiro encarregado da verificação, devendo esta requisição ser junta ao processo instaurado para a venda da mercadoria."
+    }
+   ]
+  },
+  {
+   "id": "artigo-482",
+   "label": "Artigo 482.º",
+   "epigraph": "Depósito prévio dos direitos e demais imposições",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Só podem ser deferidos os requerimentos solicitando a retirada do leilão das mercadorias já anunciadas, a fim de serem submetidas a despacho, quando os donos depositem previamente o montante dos direitos e demais imposições de que as respectivas mercadorias estejam cativas."
+    },
+    {
+     "t": "p",
+     "x": "2. Quando os requerentes não efectuem o depósito a que se refere o número anterior devem as mercadorias ser consideradas como abandonadas expressamente a favor do Estado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-483",
+   "label": "Artigo 483.º",
+   "epigraph": "Mercadorias que podem ser vendidas",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Podem ser vendidas pelas alfândegas, depois de observados os preceitos legais correspondentes, além das mercadorias mencionadas nas alíneas a) a f) do n.º 1 do artigo 462.º:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As mercadorias arrestadas ou confiscadas pelo Estado;",
+      "As mercadorias resgatadas em meio de transporte abandonado;",
+      "As mercadorias sujeitas a deterioração, perecimento ou a danos, que estejam na posse das alfândegas e que possam ser vendidas nos termos do artigo 250.º."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Para as mercadorias compreendidas no número anterior será sempre organizado processo, mesmo nos casos em que elas sejam objecto de requisição temporária ou de expropriação ao abrigo da legislação especial vigente."
+    },
+    {
+     "t": "p",
+     "x": "3. A venda de mercadorias sob acção aduaneira que se encontrem arrestadas a pedido das autoridades judiciais só pode ser efectuada com autorização expressa destas autoridades."
+    }
+   ]
+  },
+  {
+   "id": "artigo-484",
+   "label": "Artigo 484.º",
+   "epigraph": "Presunção de abandono expresso das mercadorias abandonadas",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O dono das mercadorias demoradas deve ser notificado, directamente ou por edital, conforme for ou não conhecido, para as submeter, nos prazos previstos no Regulamento, a despacho de importação definitiva ou de reexportação."
+    },
+    {
+     "t": "p",
+     "x": "2. Presumem-se sempre expressamente abandonadas a favor do Estado as mercadorias que não hajam sido objecto do despacho referido no número anterior dentro daqueles prazos."
+    },
+    {
+     "t": "p",
+     "x": "3. As mercadorias de que trata o número anterior devem ser relacionadas em listas que serão remetidas ao Director Regional das Alfândegas competente para se proceder à sua venda. 167"
+    }
+   ]
+  },
+  {
+   "id": "artigo-485",
+   "label": "Artigo 485.º",
+   "epigraph": "Mercadorias sujeitas a restrições",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As mercadorias de importação ou de exportação restrita só podem ser arrematadas para importação por entidade devidamente habilitada a importar tais mercadorias."
+    }
+   ]
+  },
+  {
+   "id": "artigo-486",
+   "label": "Artigo 486.º",
+   "epigraph": "Mercadorias proibidas",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As mercadorias proibidas não podem ir à praça, sendo-lhes dado o destino previsto na legislação aplicável."
+    }
+   ]
+  },
+  {
+   "id": "artigo-487",
+   "label": "Artigo 487.º",
+   "epigraph": "Bens ou valores especiais",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Sem prejuízo do disposto em legislação especial, devem ser depositados no Banco Nacional de Angola, à ordem da autoridade aduaneira competente, até à conclusão do processo, podendo ser objecto de venda futura:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Dinheiro e outros valores em moeda forte;",
+      "Moedas e notas estrangeiras;",
+      "Pedras e metais preciosos;",
+      "Artigos de joalharia;",
+      "Títulos de crédito."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Os bens ou valores de que trata este artigo só podem ser entregues a quem forem devidos depois de pagos os direitos, demais imposições aduaneiras e despesas de que estejam cativos."
+    },
+    {
+     "t": "p",
+     "x": "3. Sem prejuízo do disposto na legislação especial a que se refere o n.º 1, os bens ou valores especiais podem ser vendidos com autorização da autoridade aduaneira competente, decorridos cinco anos sobre a data da constituição do depósito, se não tiver havido reclamação dos interessados."
+    },
+    {
+     "t": "p",
+     "x": "4. A venda a que se refere o número anterior deve ser publicitada mediante editais afixados noventa dias antes da sua realização."
+    },
+    {
+     "t": "p",
+     "x": "5. O produto da venda deve ser depositado na Conta Única do Tesouro titulada pelo Ministério das Finanças."
+    }
+   ]
+  },
+  {
+   "id": "artigo-488",
+   "label": "Artigo 488.º",
+   "epigraph": "Modalidades de venda",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Sem prejuízo de outras modalidades previstas no Regulamento, a venda de mercadorias é feita, em regra, por arrematação em hasta pública ou por meio de propostas em carta fechada."
+    },
+    {
+     "t": "p",
+     "x": "2. A realização da venda de mercadorias apreendidas pode ainda ser adjudicada a empresas com experiência neste tipo de actividade, sendo os respectivos serviços contratados, nos termos do Regulamento, após a abertura de concurso público."
+    }
+   ]
+  },
+  {
+   "id": "artigo-489",
+   "label": "Artigo 489.º",
+   "epigraph": "Lugar da realização da venda",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A venda das mercadorias deve ser realizada na estância aduaneira onde elas se encontrem, designando-se o local de realização da venda como armazém de leilões."
+    },
+    {
+     "t": "p",
+     "x": "2. Não obstante o disposto no número anterior, as mercadorias podem ser removidas para outra estância aduaneira para se proceder à respectiva venda, se, considerada a qualidade, quantidade ou valor dessas mercadorias e as condições locais, o Director Regional das Alfândegas julgar essa remoção conveniente à melhor defesa dos interesses do Estado."
+    },
+    {
+     "t": "p",
+     "x": "3. A venda de mercadorias demoradas em quaisquer armazéns ou depósitos aduaneiros além do prazo de armazenagem ou ali abandonadas pode ser feita nesses armazéns ou depósitos, quando o Director Regional das Alfândegas o julgue conveniente."
+    },
+    {
+     "t": "p",
+     "x": "4. As mercadorias achadas no mar ou por ele arrojadas, as salvadas de naufrágio, as provenientes de arrojos aéreos, as resgatadas em meio de transporte abandonado e as sujeitas a deterioração, perecimento ou a danos, podem ser vendidas nos próprios locais em que estiverem quando, por motivo de dificuldade ou excessivo custo de transporte, o Director Regional das Alfândegas o julgue conveniente."
+    }
+   ]
+  },
+  {
+   "id": "artigo-490",
+   "label": "Artigo 490.º",
+   "epigraph": "Quem realiza a venda",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A venda de mercadorias que se encontram sob acção fiscal, quer estejam armazenadas em estâncias aduaneiras, em quaisquer armazéns ou noutros locais, com excepção dos refugos postais a que se refere o artigo 493.º, deve ser realizada pela autoridade aduaneira."
+    }
+   ]
+  },
+  {
+   "id": "artigo-491",
+   "label": "Artigo 491.º",
+   "epigraph": "Pessoas que orientam as arrematações",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As arrematações são presididas pelo respectivo Director Regional das Alfândegas e, excepcionalmente, pelo chefe da respectiva delegação ou estância aduaneira ou pelo funcionário técnico-aduaneiro que aquele Director julgue conveniente designar."
+    },
+    {
+     "t": "p",
+     "x": "2. O Director Regional das Alfândegas competente, ou o chefe da delegação ou estância aduaneira ou o funcionário designados nos termos do número anterior, são secretariados, no acto da venda das mercadorias, pelo chefe do Departamento do Contencioso Aduaneiro e pelo funcionário aduaneiro que desempenhe as funções de fiel de armazém."
+    },
+    {
+     "t": "p",
+     "x": "3. A pessoa que preside à arrematação deve designar pessoa idónea para exercer as funções de pregoeiro."
+    }
+   ]
+  },
+  {
+   "id": "artigo-492",
+   "label": "Artigo 492.º",
+   "epigraph": "Valor por que os bens vão à praça",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias vão à praça pelo respectivo valor aduaneiro fixado nos termos da Parte IV do Código."
+    },
+    {
+     "t": "p",
+     "x": "2. Quando as mercadorias submetidas a leilão não tiverem obtido em primeira praça lanço que cubra o valor estipulado no número anterior, devem ser postas em segunda praça noutro leilão, pelo valor dos respectivos direitos e demais imposições aduaneiras devidos."
+    },
+    {
+     "t": "p",
+     "x": "3. Se as mercadorias não tiverem obtido em segunda praça lanço que cubra o valor dos respectivos direitos e demais imposições aduaneiras devidos, podem ser postas em terceira praça por qualquer valor ou ser postas à venda por propostas em carta fechada."
+    }
+   ]
+  },
+  {
+   "id": "artigo-493",
+   "label": "Artigo 493.º",
+   "epigraph": "Leilão de refugos postais",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Devem ser realizados por intermédio das próprias repartições ou secções dos serviços postais, de harmonia com a legislação específica aplicável ao serviço de encomendas postais, os leilões dos refugos postais que:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Estejam cativos de direitos e demais imposições aduaneiras que não excedam UCF 1.000; e",
+      "Que tenham de ser vendidos nos termos das convenções internacionais em vigor."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-494",
+   "label": "Artigo 494.º",
+   "epigraph": "Obrigação de mostrar os bens",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Durante o prazo do edital e anúncios, o funcionário aduaneiro que desempenha as funções de fiel de armazém é obrigado a mostrar os bens a quem pretenda examiná-los; mas pode fixar as horas em que, durante o dia, facultará a inspecção tornando-as conhecidas do público por qualquer meio."
+    }
+   ]
+  },
+  {
+   "id": "artigo-495",
+   "label": "Artigo 495.º",
+   "epigraph": "Apresentação a leilão",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "No dia fixado para a venda, o funcionário aduaneiro que desempenha as funções de fiel de armazém deve ter os volumes dispostos de modo a poderem ser sucessivamente apresentados a leilão."
+    }
+   ]
+  },
+  {
+   "id": "artigo-496",
+   "label": "Artigo 496.º",
+   "epigraph": "Anotação do resultado do leilão",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. À medida que os lotes forem sendo submetidos a leilão, o respectivo resultado deve ser mencionado pelo presidente e pelo funcionário aduaneiro que desempenha as funções de fiel de armazém no livro de listas prescritas na alínea c) do n.º 1 do artigo 474.º."
+    },
+    {
+     "t": "p",
+     "x": "2. No caso de arrematação, deve indicar-se, além das outras ocorrências, a data da mesma, o nome e a morada do arrematante, os bens a que respeita e o seu preço."
+    },
+    {
+     "t": "p",
+     "x": "3. Os bens são identificados pela referência ao respectivo processo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-497",
+   "label": "Artigo 497.º",
+   "epigraph": "Auto de arrematação ou de não arrematação",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Depois de anotado o resultado a que se refere o artigo anterior, o escrivão deve lavrar auto de arrematação ou de não arrematação."
+    },
+    {
+     "t": "p",
+     "x": "2. O auto de arrematação deve ser assinado pelo presidente, pelo escrivão e pelo arrematante."
+    },
+    {
+     "t": "p",
+     "x": "3. O auto de não arrematação deve conter a assinatura do presidente e do escrivão."
+    }
+   ]
+  },
+  {
+   "id": "artigo-498",
+   "label": "Artigo 498.º",
+   "epigraph": "Irregularidades ou frustração da venda",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Exceptuando o que se dispõe quanto à perturbação de arrematações, as irregularidades relativas à abertura do leilão, licitação, apreciação e aceitação das propostas só podem ser arguidas no próprio acto."
+    },
+    {
+     "t": "p",
+     "x": "2. No caso de inexistência de proponentes ou de rejeição das propostas, o Director Regional das Alfândegas decide sobre a forma como se deve fazer a venda das mercadorias."
+    }
+   ]
+  },
+  {
+   "id": "artigo-499",
+   "label": "Artigo 499.º",
+   "epigraph": "Pagamento ou depósito do preço",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando a mercadoria tenha sido arrematada, o escrivão, depois de ter lavrado o respectivo auto, deve passar as competentes guias para o pagamento ou depósito do preço."
+    },
+    {
+     "t": "p",
+     "x": "2. Ao preço da arrematação acrescerá sempre a percentagem de dez por cento, sobre a qual não recairá adicional algum."
+    },
+    {
+     "t": "p",
+     "x": "3. O produto da percentagem a que se refere o número anterior reverte:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Em 50% para o Orçamento Geral do Estado;",
+      "Em 15% para o Director Regional das Alfândegas ou para o chefe da delegação ou estância aduaneira, conforme os casos;",
+      "Em 5% para o escrivão;",
+      "Em 5% para o funcionário aduaneiro que desempenhou as funções de fiel de armazém;",
+      "Em 5% para o pregoeiro;",
+      "Em 20% para os restantes funcionários da respectiva Direcção Regional das Alfândegas, delegação ou estância aduaneira, consoante os casos."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "4. A parte que o Director Regional das Alfândegas, o chefe da delegação ou estância aduaneira, o escrivão, o funcionário aduaneiro que desempenhou as funções de fiel de armazém, o pregoeiro ou os restantes funcionários da respectiva Direcção Regional das Alfândegas, delegação ou estância aduaneira não puderem receber reverte para o Orçamento Geral do Estado."
+    },
+    {
+     "t": "p",
+     "x": "5. No acto da arrematação, o arrematante é notificado para, no prazo de dez dias úteis, pagar ou depositar o preço da arrematação e a percentagem a que se refere o n.º 2, com a cominação prevista no artigo seguinte."
+    },
+    {
+     "t": "p",
+     "x": "6. É aplicável ao pagamento ou depósito das quantias referidas no número anterior, com as necessárias adaptações, o disposto no artigo 254.º no que respeita à forma de pagamento das custas judiciais."
+    }
+   ]
+  },
+  {
+   "id": "artigo-500",
+   "label": "Artigo 500.º",
+   "epigraph": "Sanções",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Se o arrematante não pagar ou depositar o preço, nos termos previstos no artigo anterior, será o processo concluso ao Director Regional das Alfândegas, devendo este:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Ordenar arresto em bens do arrematante remisso suficientes para garantir o valor do pagamento ou depósito e das custas e despesas acrescidas, sem prejuízo de procedimento criminal; ou",
+      "Determinar que a venda fique sem efeito e que os bens voltem a ser colocados em praça idêntica àquela em que se verificou a arrematação não liquidada."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. No caso previsto na alínea a) do número anterior, o arrematante remisso é executado, no próprio processo, para o pagamento daquele valor e acréscimos, sendo o arresto levantado logo que o pagamento ou depósito esteja feito acrescido do depósito da quantia de custas e despesas, que será imediatamente calculada."
+    },
+    {
+     "t": "p",
+     "x": "3. No caso a que se refere a alínea b) do n.º 1, o arrematante remisso não é admitido a adquirir os bens novamente, ficando responsável pela diferença do preço e pelas despesas a que der causa. 4. Nos casos previstos nos números anteriores, deve o Departamento do Contencioso Aduaneiro liquidar a responsabilidade do arrematante remisso."
+    }
+   ]
+  },
+  {
+   "id": "artigo-501",
+   "label": "Artigo 501.º",
+   "epigraph": "Entrega dos bens",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os bens são entregues ao arrematante depois de se mostrar integralmente pago ou depositado o montante do preço e da percentagem legal a que se refere o n.º 2 do artigo 499.º e satisfeitas as obrigações fiscais inerentes à transmissão."
+    },
+    {
+     "t": "p",
+     "x": "2. Proferido despacho de adjudicação dos bens, é passado ao adquirente título da transmissão, no qual se identifiquem os bens, se certifique o pagamento do preço e o cumprimento das obrigações fiscais e se declare a data em que os bens lhe foram adjudicados."
+    },
+    {
+     "t": "p",
+     "x": "3. O arrematante deve solicitar a entrega das mercadorias no prazo de dez dias úteis a contar da data em que lhe haja sido passado e entregue o título da transmissão a que se refere o número anterior."
+    },
+    {
+     "t": "p",
+     "x": "4. Quando o arrematante não solicite, no prazo referido no número anterior, a entrega das mercadorias, o escrivão faz o processo concluso, com a menção desse facto, ao Director Regional das Alfândegas para resolver."
+    }
+   ]
+  },
+  {
+   "id": "artigo-502",
+   "label": "Artigo 502.º",
+   "epigraph": "Termos subsequentes",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Cumprido o disposto no n.º 1 do artigo anterior, o escrivão deve juntar, ao processo, a guia de pagamento ou depósito e o funcionário aduaneiro que desempenha as funções de fiel de armazém, depois de se certificar dessa junção, deve enviar os lotes à reverificação."
+    },
+    {
+     "t": "p",
+     "x": "2. Sempre que o julgue conveniente, o funcionário encarregado da reverificação pode proceder ao exame do conteúdo dos volumes."
+    },
+    {
+     "t": "p",
+     "x": "3. Cabe ao funcionário encarregado da reverificação autorizar a saída dos volumes, mencionando o facto no processo e comunicando-o ao funcionário que tem a seu cargo a conferência de saída, devendo este funcionário auxiliar aqueloutro na realização do exame a que se refere o número anterior."
+    },
+    {
+     "t": "p",
+     "x": "4. O funcionário aduaneiro que desempenha as funções de fiel de armazém deve registar, no livro próprio a que se refere a alínea a) do artigo 468.º, o destino dado às mercadorias e, se estas tiverem sido vendidas, o valor da arrematação e o número sequencial das guias de pagamento ou depósito."
+    },
+    {
+     "t": "p",
+     "x": "5. Em seguida, aquele funcionário deve devolver o processo ao escrivão."
+    },
+    {
+     "t": "p",
+     "x": "6. Cumprido o disposto no número anterior, o processo deve ser concluso ao Director Regional das Alfândegas, que ordenará, por despacho, a sua liquidação."
+    }
+   ]
+  },
+  {
+   "id": "artigo-503",
+   "label": "Artigo 503.º",
+   "epigraph": "Liquidação do processo",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A liquidação prescrita no n.º 6 do artigo anterior deve ser efectuada no prazo de vinte dias úteis, a contar da data em que tiver sido proferido o despacho que ordene a sua realização."
+    },
+    {
+     "t": "p",
+     "x": "2. Do produto da arrematação das mercadorias demoradas e abandonadas de que tratam as alíneas a) e b) do n.º 1 do artigo 462.º, devem deduzir-se, por esta ordem:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os direitos e demais imposições aduaneiras devidos e que não tenham sido pagos;",
+      "A multa aplicada, se esta não tiver sido paga;",
+      "A multa substitutiva de confisco, sempre que esta não tenha sido paga;",
+      "As despesas de transporte;",
+      "As despesas de armazenagem;",
+      "As despesas da publicação dos anúncios;",
+      "As despesas do processo;",
+      "As despesas de deslocação e as ajudas de custo do Director Regional das Alfândegas, do escrivão e do funcionário aduaneiro que desempenha as funções de fiel de armazém, quando se trate de leilões realizados fora da localidade onde exerçam funções."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Do produto da arrematação das mercadorias, a que se referem as alíneas c), d) e e) do n.º 1 do artigo 462.º, devem deduzir-se, por esta ordem:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os direitos e demais imposições aduaneiras devidos e que não tenham sido pagos;",
+      "A multa aplicada, se esta não tiver sido paga;",
+      "A multa substitutiva de confisco, sempre que esta não tenha sido paga;",
+      "As despesas de transporte;",
+      "As despesas de armazenagem;",
+      "As despesas da publicação dos anúncios;",
+      "As despesas de beneficiação;",
+      "As despesas do processo;",
+      "As despesas de deslocação e as ajudas de custo do Director Regional das Alfândegas, do escrivão e do funcionário aduaneiro que desempenha as funções de fiel de armazém, quando se trate de leilões realizados fora da localidade onde exerçam funções;",
+      "A parte para o achador, que será de um terço do valor da mercadoria."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "4. Nos casos referidos nos n.ºs 2 e 3, a importância líquida reverte para o Orçamento Geral do Estado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-504",
+   "label": "Artigo 504.º",
+   "epigraph": "Destino da receita líquida arrecadada",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A receita líquida arrecadada com a venda das mercadorias e dos meios de transporte é depositada na Conta Única do Tesouro titulada pelo Ministério das Finanças."
+    },
+    {
+     "t": "p",
+     "x": "2. Serão igualmente depositados na Conta Única do Tesouro titulada pelo Ministério das Finanças, os valores monetários recebidos como garantia pelo confisco ou pelo arresto de mercadorias que tenham sido devolvidas aos seus proprietários."
+    },
+    {
+     "t": "p",
+     "x": "3. Os depósitos referidos nos números anteriores devem ser registados com a indicação do número do respectivo processo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-505",
+   "label": "Artigo 505.º",
+   "epigraph": "Arquivamento do processo",
+   "path": [
+    "PARTE VII - CONTENCIOSO ADMINISTRATIVO ADUANEIRO",
+    "CAPÍTULO III - Da disposição de mercadorias e de meios de transporte e da liquidação dos processos administrativos",
+    "SECÇÃO III - Venda"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Realizada a liquidação a que se refere o artigo 503.º, o processo deve ser novamente concluso ao Director Regional das Alfândegas, que o mandará arquivar."
+    }
+   ]
+  },
+  {
+   "id": "artigo-506",
+   "label": "Artigo 506.º",
+   "epigraph": "Abandono expresso e abandono tácito",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO I - Do abandono"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O abandono é expresso quando a renúncia da propriedade de quaisquer mercadorias ou meios de transporte sob acção fiscal, por parte do seu legítimo dono ou consignatário, é feita por escrito."
+    },
+    {
+     "t": "p",
+     "x": "2. O abandono é tácito, quando aquela renúncia se deduz de factos que, com toda a probabilidade, a revelam."
+    }
+   ]
+  },
+  {
+   "id": "artigo-507",
+   "label": "Artigo 507.º",
+   "epigraph": "Forma do abandono expresso",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO I - Do abandono"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O abandono expresso deve constar de declaração apresentada ao Director Regional das Alfândegas competente ou ao chefe da delegação ou estância aduaneira sob cuja jurisdição as mercadorias se encontrem."
+    },
+    {
+     "t": "p",
+     "x": "2. A declaração, a que se refere o número anterior, deve ser feita no título de transporte ou em documento equivalente e conter a assinatura do dono ou consignatário das mercadorias abandonadas, ou de seu bastante procurador, devidamente reconhecida por notário."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando o dono ou consignatário das mercadorias tiver feito apenas declaração verbal de abandono, ou não souber escrever, deve lavrar-se termo em livro especialmente destinado a esse fim."
+    },
+    {
+     "t": "p",
+     "x": "4. O termo a que se refere o número anterior deve ser assinado pelo Director Regional das Alfândegas ou pelo chefe da delegação ou estância aduaneira sob cuja jurisdição as mercadorias se encontrem, pelo dono ou consignatário quando souber escrever e por duas testemunhas idóneas."
+    },
+    {
+     "t": "p",
+     "x": "5. A declaração e o termo mencionados nos números anteriores devem ser numerados e registados, por ordem cronológica, no livro mencionado no n.º 3."
+    }
+   ]
+  },
+  {
+   "id": "artigo-508",
+   "label": "Artigo 508.º",
+   "epigraph": "Princípio geral",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O confisco, acto legal definitivo pelo qual as mercadorias são transferidas do seu dono para o Estado, só pode ser decretado após a verificação dos respectivos requisitos e a adequada tramitação do processo de condenação."
+    },
+    {
+     "t": "p",
+     "x": "2. A pena de confisco só pode ser aplicada, quando prevista, nos termos do presente Código."
+    },
+    {
+     "t": "p",
+     "x": "3. O confisco é, em regra, precedido pela apreensão, medida com a qual se visa garantir a custódia das mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "4. É decretado o arresto de mercadorias quando, nos termos deste Código, hajam sido tomadas, sob custódia do Estado e como garantia do pagamento de dívidas resultantes do processo aduaneiro, outras mercadorias insusceptíveis de confisco."
+    },
+    {
+     "t": "p",
+     "x": "5. A decisão pela qual hajam sido decretados o confisco, a apreensão ou o arresto, admite sempre a interposição de recurso."
+    }
+   ]
+  },
+  {
+   "id": "artigo-509",
+   "label": "Artigo 509.º",
+   "epigraph": "Mercadorias e meios de transporte susceptíveis de confisco",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São susceptíveis de confisco pelo Estado:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As mercadorias que, sem o pagamento dos direitos e demais imposições aduaneiras devidos, hajam sido voluntariamente abandonadas a favor do Estado;",
+      "As mercadorias demoradas, nos termos descritos neste Código e no Regulamento",
+      "As mercadorias encontradas no território aduaneiro:\ni. Que tenham sido ilegalmente importadas sem passar pelas alfândegas;\nii. Que, à chegada ou à saída do País, tenham sido ocultadas em meio de transporte ou em outro lugar, ou passadas em quantidade superior à manifestada;\niii. Que tenham sido acomodadas ou embaladas com as mercadorias referidas na alínea anterior e, directa ou indirectamente, usadas para a ocultação destas;\niv. Que tenham sido retiradas do controlo aduaneiro sem a autorização necessária ou sem o cumprimento das formalidades previstas neste Código e no Regulamento, ou, ainda, sem o pagamento dos direitos e demais imposições aduaneiras devidos;\nv. Em relação às quais haja sido violada qualquer norma relativa à proibição ou restrição dessas mercadorias;\nvi. Em relação às quais haja sido violada qualquer norma relativa a benefícios fiscais aduaneiros, nomeadamente à suspensão ou isenção do pagamento de direitos e demais imposições aduaneiras;\nvii. Que tenham sido colocadas em um local de exportação, ou carregadas a bordo de qualquer meio de transporte com destino à exportação directa, em violação de qualquer proibição ou restrição na sua exportação;\nviii. Que tenham sido colocadas em um local de exportação, ou carregadas a bordo de qualquer meio de transporte com destino à exportação directa, sem o pagamento dos direitos e demais imposições aduaneiras devidos;",
+      "As mercadorias mantidas em regime suspensivo com excesso ou defeito em relação aos registos das quantidades armazenadas;",
+      "As mercadorias que tenham sido objecto da prática de infracção fiscal aduaneira, as armas e outros objectos que tenham sido efectivamente utilizados ou que se destinavam a ser utilizados na prática dessa infracção, mercadorias e objectos esses que são susceptíveis de confisco nos termos do artigo seguinte;",
+      "Os meios de transporte:\ni. Que tenham sido construídos ou adaptados para a prática de contrabando;\nii. Que, maioritariamente, contenham mercadorias contrabandeadas ou não manifestadas que se enquadrem na alínea c);\niii. Que estejam a ser usados ou que tenham sido utilizados no transporte de mercadorias sujeitas a confisco."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Não se aplica o disposto nas alíneas c), d), e) e f) do número anterior, quando o proprietário das mercadorias ou dos meios de transporte prove que não é responsável pela prática da infracção que origina o confisco, sendo, neste caso, o infractor obrigado a pagar ao Estado a correspondente pena de multa e o proprietário obrigado a pagar os direitos e demais imposições aduaneiras."
+    },
+    {
+     "t": "p",
+     "x": "3. Não se aplica o disposto no n.º1, alínea c), ii., quando as mercadorias que tenham passado em quantidade superior à manifestada sejam mercadorias a grosso e a diferença seja aceitável nos termos de convénio internacional ou dos padrões industriais, contanto que não haja indícios da prática de facto ilícito e culposo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-510",
+   "label": "Artigo 510.º",
+   "epigraph": "Confisco de mercadorias objecto de infracção fiscal aduaneira",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Salvo se se provar que pertencem a pessoas a quem não pode ser atribuída qualquer responsabilidade na infracção, são susceptíveis de confisco as mercadorias que, tendo ou não sido desalfandegadas do controlo aduaneiro, sejam objecto da prática das infracções fiscais aduaneiras previstas nos artigos 190.º, 191.º, 192.º, 194.º, 195.º, 196.º, 197.º, 198.º, 201.º, 202.º, 210.º e 211.º, n.º 1, alíneas a), b), l), m), n) e o)."
+    },
+    {
+     "t": "p",
+     "x": "2. Deve ser decretado o confisco dos barcos, aeronaves, veículos e quaisquer outros meios de transporte quando a parte principal da sua carga consistir em mercadorias que sejam objecto da prática das infracções fiscais aduaneiras previstas nos artigos mencionados no número anterior e os seus proprietários não provem que foi sem seu conhecimento ou sem negligência da sua parte que eles foram utilizados."
+    }
+   ]
+  },
+  {
+   "id": "artigo-511",
+   "label": "Artigo 511.º",
+   "epigraph": "Multas substitutivas de confisco",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Sem prejuízo da obrigação de pagamento dos direitos, demais imposições aduaneiras, multas e despesas de justiça, nos casos em que as mercadorias susceptíveis de confisco não sejam apreendidas, sejam devolvidas ou novamente armazenadas pelo proprietário nos termos desta Parte do presente Código, a pena de confisco das mercadorias será substituída:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Pela condenação em multa de importância igual a dez por cento do valor das mercadorias demoradas; e",
+      "Pela condenação em multa de importância igual a vinte e cinco por cento do valor das mercadorias, sempre que se verifiquem as outras situações previstas no artigo 509.º."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. A substituição prevista no número anterior não é aplicável às mercadorias voluntariamente abandonadas a favor do Estado nem aos casos em que, nos termos do Código, é vedada a restituição das mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando se verifique a hipótese a que se refere a primeira parte do artigo anterior, deve sempre aplicar-se, em lugar da pena de confisco, multa de importância igual ao valor da mercadoria."
+    },
+    {
+     "t": "p",
+     "x": "4. A pena de confisco dos meios de transporte pode ser substituída pelo pagamento do seu valor quando o infractor requeira a sua restituição."
+    }
+   ]
+  },
+  {
+   "id": "artigo-512",
+   "label": "Artigo 512.º",
+   "epigraph": "Apreensão das mercadorias susceptíveis de confisco",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As mercadorias sujeitas ao disposto nas alíneas b) a f) do n.º 1 do artigo 509.º devem ser apreendidas pelas alfândegas quando se verifiquem os requisitos de que depende o seu confisco pelo Estado."
+    },
+    {
+     "t": "p",
+     "x": "2. Realizada a apreensão, as alfândegas devem emitir, por escrito, um aviso dirigido ao importador e ou ao exportador, ou, sendo estes desconhecidos, ao possuidor das mercadorias, nele definindo:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As características, a quantidade e a descrição das mercadorias apreendidas;",
+      "A especificação do meio de transporte utilizado e a indicação do respectivo número de referência, quando conhecido;",
+      "Os fundamentos legais da apreensão;",
+      "O prazo para a interposição de recurso hierárquico com fundamento na não susceptibilidade de confisco das mercadorias apreendidas;",
+      "A indicação de que as mercadorias apreendidas estão sujeitas a confisco, no caso de não ser interposto, no prazo fixado, o recurso a que se refere a alínea anterior."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Será publicado no Jornal Diário um resumo de todos os avisos de apreensão de mercadorias demoradas para além dos prazos legais de armazenagem em zonas fiscais."
+    },
+    {
+     "t": "p",
+     "x": "4. As mercadorias que hajam sido apreendidas pelas alfândegas devem ser remetidas ao local aduaneiro de armazenagem mais próximo, ou a um local alternativo a indicar pelas alfândegas, sendo os locais alternativos de armazenagem designados de acordo com as normas e os procedimentos constantes do Regulamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-513",
+   "label": "Artigo 513.º",
+   "epigraph": "Venda das mercadorias apreendidas",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO I - Disposições gerais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O tribunal competente para julgar o crime cometido, ou a entidade competente para apreciar a transgressão praticada, podem autorizar, no prazo máximo de dois dias úteis, a venda imediata das mercadorias apreendidas, sempre que estas se deteriorarem ou sempre que o interesse público assim o justifique."
+    },
+    {
+     "t": "p",
+     "x": "2. A venda das mercadorias apreendidas deve ser realizada pela autoridade aduaneira nos termos do disposto no Capítulo III da Parte VII, sendo o preço da venda depositado à ordem da entidade titular do respectivo processo."
+    },
+    {
+     "t": "p",
+     "x": "3. Se as alfândegas tiverem procedido à venda de mercadorias que, nos termos deste Código, não são susceptíveis de confisco, o preço da venda, após a dedução do valor de quaisquer direitos e demais imposições aduaneiras, deve ser entregue às pessoas com direito a recebê-lo ou, quando essa entrega não for possível, colocado à sua disposição durante o prazo de seis meses a contar da data da celebração da venda."
+    }
+   ]
+  },
+  {
+   "id": "artigo-514",
+   "label": "Artigo 514.º",
+   "epigraph": "Interposição de recurso hierárquico da decisão que decrete a apreensão",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO I - Recurso hierárquico"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O recurso hierárquico, a que se referem as alíneas d) e e) do n.º 2 do artigo 512.º, deve ser interposto no prazo de dez dias úteis a contar da data da notificação do aviso de apreensão."
+    },
+    {
+     "t": "p",
+     "x": "2. Compete ao Director Nacional das Alfândegas, ou ao seu delegado, o conhecimento dos recursos hierárquicos interpostos das decisões das alfândegas que decretem a apreensão de mercadorias."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando o proprietário das mercadorias interponha recurso com fundamento em que as mercadorias não são susceptíveis de confisco, devem as alfândegas realizar as diligências necessárias para determinar a verificação dos pressupostos de que depende o confisco das mercadorias."
+    }
+   ]
+  },
+  {
+   "id": "artigo-515",
+   "label": "Artigo 515.º",
+   "epigraph": "Devolução das mercadorias apreendidas",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO I - Recurso hierárquico"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando, no caso concreto, não se verifiquem os pressupostos de que depende o confisco das mercadorias apreendidas, deve o Director Nacional das Alfândegas, ou o seu delegado, ordenar, por despacho, a sua devolução ao respectivo proprietário."
+    },
+    {
+     "t": "p",
+     "x": "2. O despacho a que se refere o número anterior deve ser notificado ao proprietário das mercadorias."
+    }
+   ]
+  },
+  {
+   "id": "artigo-516",
+   "label": "Artigo 516.º",
+   "epigraph": "Interposição de recurso contencioso",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO II - Recurso contencioso"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O interessado pode interpor recurso contencioso da decisão que negou provimento ao recurso hierárquico por si interposto, no prazo de dez dias úteis a contar da data em que tenha sido notificado dessa decisão."
+    },
+    {
+     "t": "p",
+     "x": "2. O recurso contencioso deve ser interposto, mediante requerimento, perante a Sala do Contencioso Fiscal e Aduaneiro competente."
+    },
+    {
+     "t": "p",
+     "x": "3. No requerimento de interposição do recurso, deve o recorrente expor, sem necessidade de forma articulada, a sua pretensão e os respectivos fundamentos, oferecendo logo as provas. 178"
+    }
+   ]
+  },
+  {
+   "id": "artigo-517",
+   "label": "Artigo 517.º",
+   "epigraph": "Citação do Director Nacional das Alfândegas",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO II - Recurso contencioso"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O Director Nacional das Alfândegas, ou o seu delegado, é citado para responder, no prazo de dez dias úteis, contado da notificação da apresentação do recurso, devendo oferecer logo as respectivas provas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-518",
+   "label": "Artigo 518.º",
+   "epigraph": "Elementos que devem constar do processo",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO II - Recurso contencioso"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "O processo deve incluir uma cópia do auto de apreensão, do recurso hierárquico interposto pelo interessado e do despacho sobre este proferido."
+    }
+   ]
+  },
+  {
+   "id": "artigo-519",
+   "label": "Artigo 519.º",
+   "epigraph": "Exame preliminar",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO II - Recurso contencioso"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Distribuído o processo, o relator aprecia se alguma circunstância obsta ao conhecimento do objecto do recurso, se as partes devem ser convidadas a aperfeiçoar as conclusões das alegações e se existe alguma excepção ou nulidade que o tribunal deva conhecer."
+    },
+    {
+     "t": "p",
+     "x": "2. Se for alegada a prática de uma infracção fiscal aduaneira, o tribunal deve adiar a sua decisão e aguardar pelo resultado da respectiva investigação."
+    },
+    {
+     "t": "p",
+     "x": "3. Não se verificando a situação prevista no número anterior, é logo marcada a audiência de julgamento, que deve efectuar-se dentro de vinte dias úteis a contar da data da apresentação da resposta a que se refere o artigo 517.º."
+    }
+   ]
+  },
+  {
+   "id": "artigo-520",
+   "label": "Artigo 520.º",
+   "epigraph": "Julgamento do recurso",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO II - Recurso contencioso"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O juiz presidente deve inquirir as testemunhas e, em seguida, determinar a realização das restantes diligências probatórias."
+    },
+    {
+     "t": "p",
+     "x": "2. A falta de qualquer das partes ou seus mandatários, ainda que justificada, não é motivo de adiamento da audiência de julgamento."
+    },
+    {
+     "t": "p",
+     "x": "3. Pode, porém, o juiz presidente decidir sobre o adiamento ou suspensão da audiência de julgamento, se faltarem testemunhas que tiverem sido convocadas."
+    },
+    {
+     "t": "p",
+     "x": "4. As testemunhas são apresentadas pelas partes, sem necessidade de notificação, salvo se a parte que as indicou requerer oportunamente que sejam notificadas."
+    },
+    {
+     "t": "p",
+     "x": "5. Se ao juiz presidente parecer indispensável, para boa decisão da causa, que se proceda a alguma diligência, suspenderá a audiência na altura que repute mais conveniente e marcará logo dia para a sua realização, devendo o julgamento concluir-se dentro de vinte dias úteis; a prova pericial é sempre realizada por um único perito."
+    },
+    {
+     "t": "p",
+     "x": "6. Finda a produção de prova, pode cada um dos advogados fazer uma breve alegação oral."
+    }
+   ]
+  },
+  {
+   "id": "artigo-521",
+   "label": "Artigo 521.º",
+   "epigraph": "Prolação da sentença",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO II - Recurso contencioso"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A sentença, julgando a matéria de facto e de direito, deve ser sucintamente fundamentada e ditada logo para a acta."
+    },
+    {
+     "t": "p",
+     "x": "2. Sem prejuízo da pendência de outros processos relativos à prática de infracção fiscal aduaneira, o tribunal deve limitar-se, na sua decisão, à apreciação da questão do confisco, podendo decretar, consoante os casos, o confisco das mercadorias apreendidas ou a sua devolução ao respectivo proprietário que tenha agido sem culpa."
+    },
+    {
+     "t": "p",
+     "x": "3. Se tiver sido proferida sentença que decrete o confisco das mercadorias apreendidas, este produz os seus efeitos desde a data da apreensão."
+    },
+    {
+     "t": "p",
+     "x": "4. Se o tribunal decidir que as mercadorias não são susceptíveis de confisco, deve ordenar a sua restituição imediata, suportando as alfândegas as respectivas despesas de armazenagem e de transporte."
+    },
+    {
+     "t": "p",
+     "x": "5. O disposto nos números anteriores é aplicável, com as necessárias adaptações, às mercadorias arrestadas, devendo o tribunal confirmar, neste caso, a manutenção do arresto ou a devolução das mercadorias ao interessado."
+    }
+   ]
+  },
+  {
+   "id": "artigo-522",
+   "label": "Artigo 522.º",
+   "epigraph": "Devolução das mercadorias apreendidas após prestação de garantia",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO II - Recurso contencioso"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Antes da prolação da sentença que decrete o confisco das mercadorias apreendidas, a requerimento do interessado e mediante prestação de garantia ou realização de depósito de montante equivalente ao respectivo valor, podem as mercadorias isentas de proibição ou restrições ser devolvidas ao interessado, contanto que não sejam necessárias para efeitos probatórios."
+    },
+    {
+     "t": "p",
+     "x": "2. A devolução só pode ser efectuada desde que tenha sido autorizada pelo tribunal competente para julgar o crime cometido, ou pela entidade competente para apreciar a transgressão praticada, e contanto que tenham sido extraídas as amostras ou fotografias necessárias."
+    },
+    {
+     "t": "p",
+     "x": "3. O disposto no número anterior, salvo no que toca à extracção de amostras ou fotografias, é aplicável, com as necessárias adaptações, às mercadorias arrestadas."
+    },
+    {
+     "t": "p",
+     "x": "4. A sentença final deve especificar a parte do montante depositado que tenha sido utilizado para compensar as despesas de justiça correspondentes ao processo, incluindo a multa substitutiva do confisco."
+    }
+   ]
+  },
+  {
+   "id": "artigo-523",
+   "label": "Artigo 523.º",
+   "epigraph": "Devolução de mercadorias mediante pagamento de multa substitutiva de confisco",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO II - Recurso contencioso"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Antes da prolação da sentença que decrete o confisco das mercadorias apreendidas, a requerimento do interessado e mediante pagamento da multa substitutiva do confisco, das multas e despesas de justiça decorrentes do respectivo processo, podem as mercadorias isentas de proibição ou restrições ser devolvidas."
+    },
+    {
+     "t": "p",
+     "x": "2. Não pode, porém, ser efectuada a devolução antes de proferida a sentença final relativa à infracção, excepto se for prestada garantia adequada nos termos do número anterior."
+    }
+   ]
+  },
+  {
+   "id": "artigo-524",
+   "label": "Artigo 524.º",
+   "epigraph": "Destruição de mercadorias proibidas antes da instauração do processo",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO II - Recursos da decisão de apreensão",
+    "SECÇÃO II - Recurso contencioso"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Se, por documento escrito, as partes concordarem que as mercadorias em causa são proibidas e estiverem igualmente de acordo quanto à quantidade e descrição dessas mercadorias, podem estas ser destruídas antes de qualquer processo, desde que a destruição seja previamente autorizada, consoante os casos, pelo tribunal ou pela autoridade competente, e contanto que sejam extraídas amostras representativas para efeitos probatórios."
+    }
+   ]
+  },
+  {
+   "id": "artigo-525",
+   "label": "Artigo 525.º",
+   "epigraph": "Mercadorias arrestadas",
+   "path": [
+    "PARTE VIII - Do abandono, do confisco, da apreensão e do arresto de mercadorias e de meios de transporte",
+    "TÍTULO II - Do confisco, da apreensão e do arresto",
+    "CAPÍTULO III - Mercadorias arrestadas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "São aplicáveis às mercadorias arrestadas como forma de garantia, com as necessárias adaptações, os artigos 508.º a 524.º."
+    }
+   ]
+  },
+  {
+   "id": "anexo",
+   "label": "Anexo",
+   "epigraph": "Tabela a que se referem os n.ºs 1 e 2 do artigo 408.º.",
+   "path": [
+    "ANEXO"
+   ],
+   "blocks": [
+    {
+     "t": "table",
+     "headers": [
+      "Valor do processo (inclusive) até (UCF)",
+      "Custas (UCF)"
+     ],
+     "rows": [
+      [
+       "337",
+       "67"
+      ],
+      [
+       "675",
+       "90"
+      ],
+      [
+       "1.125",
+       "112"
+      ],
+      [
+       "1.687",
+       "135"
+      ],
+      [
+       "2.245",
+       "157"
+      ],
+      [
+       "2.800",
+       "180"
+      ],
+      [
+       "3.366",
+       "202"
+      ],
+      [
+       "3.926",
+       "225"
+      ],
+      [
+       "4.488",
+       "245"
+      ],
+      [
+       "5.049",
+       "267"
+      ],
+      [
+       "5.609",
+       "290"
+      ],
+      [
+       "6.171",
+       "315"
+      ],
+      [
+       "6.732",
+       "337"
+      ],
+      [
+       "7.294",
+       "360"
+      ],
+      [
+       "7.854",
+       "383"
+      ],
+      [
+       "8.415",
+       "405"
+      ],
+      [
+       "8.977",
+       "427"
+      ],
+      [
+       "9.537",
+       "450"
+      ],
+      [
+       "10.100",
+       "472"
+      ],
+      [
+       "10.660",
+       "495"
+      ],
+      [
+       "11.220",
+       "517"
+      ],
+      [
+       "13.466",
+       "540"
+      ],
+      [
+       "15.711",
+       "562"
+      ],
+      [
+       "17.955",
+       "585"
+      ],
+      [
+       "20.200",
+       "607"
+      ],
+      [
+       "22.443",
+       "630"
+      ],
+      [
+       "25.812",
+       "675"
+      ],
+      [
+       "29.178",
+       "720"
+      ],
+      [
+       "32.546",
+       "765"
+      ],
+      [
+       "35.912",
+       "810"
+      ],
+      [
+       "39.278",
+       "853"
+      ],
+      [
+       "42.646",
+       "900"
+      ],
+      [
+       "46.012",
+       "943"
+      ],
+      [
+       "49.380",
+       "985"
+      ],
+      [
+       "52.746",
+       "1.032"
+      ],
+      [
+       "56.112",
+       "1.077"
+      ],
+      [
+       "61.724",
+       "1.122"
+      ],
+      [
+       "67.335",
+       "1.165"
+      ],
+      [
+       "72.947",
+       "1.210"
+      ],
+      [
+       "78.558",
+       "1.255"
+      ],
+      [
+       "84.170",
+       "1.300"
+      ],
+      [
+       "89.781",
+       "1.347"
+      ],
+      [
+       "95.393",
+       "1.390"
+      ],
+      [
+       "101.004",
+       "1.437"
+      ],
+      [
+       "106.616",
+       "1.480"
+      ],
+      [
+       "112.227",
+       "1.525"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Para além de UCF 112.227, por cada UCF 11.223 de valor do processo ou fracção, são devidos UCF 112 de custas"
     }
    ]
   }

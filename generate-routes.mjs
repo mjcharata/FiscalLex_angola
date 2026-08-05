@@ -1,1385 +1,2380 @@
 {
- "slug": "iec",
- "abbr": "IEC",
- "title": "Lei do Imposto Especial de Consumo",
- "diploma": "Lei n.º 16/21, de 19 de Julho",
- "consolidation": "Texto original da Lei n.º 16/21, de 19 de Julho, incluindo o preâmbulo e os Anexos I e II, conforme apresentado pela fonte. A fonte não assinala alterações posteriores.",
+ "slug": "imposto-industrial",
+ "abbr": "CII",
+ "title": "Código do Imposto Industrial",
+ "diploma": "Lei n.º 19/14, de 22 de Outubro",
+ "consolidation": "Consolidação efectuada na extracção: a página principal da fonte apresenta o texto original da Lei n.º 19/14 (não consolidado; taxa geral de 30% no artigo 64.º). Integraram-se as novas redacções da Lei n.º 26/20, de 20 de Julho (artigos 1.º, 5.º, 7.º, 11.º a 14.º, 16.º a 18.º, 40.º, 45.º, 47.º a 51.º, 56.º, 58.º a 71.º, 73.º, 75.º e 76.º; revogação dos artigos 8.º, 9.º e 10.º; taxa geral de 25%) e da Lei n.º 27/22, de 22 de Agosto (n.º 1 do artigo 73.º; taxa de 6,5%), extraídas das páginas de alteração da mesma fonte. Nas republicações parciais, os segmentos assinalados com «[...]» mantêm o texto-base; números e alíneas revogados mantêm a menção [Revogado]. Artigos alterados assinalados com nota. Epígrafes e cabeçalhos estruturais conforme a republicação da Lei n.º 26/20. Os Artigos 78.º a 80.º continuam sem texto integral: as extracções da página da fonte terminam no n.º 2, alínea b), do Artigo 77.º, pelo que dessas três disposições apenas foi possível recolher as epígrafes constantes do índice da mesma página; confirmou-se que não foram alteradas pelas Leis n.º 4/19, de 18 de Abril, n.º 26/20, de 20 de Julho, e n.º 27/22, de 22 de Agosto. Pela mesma razão, não foi possível confirmar se o Artigo 77.º está completo. O índice da fonte encerra no Artigo 80.º, não havendo anexos nem artigos subsequentes.",
  "sourceName": "Angolex",
- "sourceUrl": "https://angolex.com/paginas/leis/lei-do-imposto-especial-de-consumo.html",
+ "sourceUrl": "https://angolex.com/paginas/codigos/codigo-do-imposto-industrial.html",
  "extractedAt": "2026-08-04",
  "articles": [
   {
-   "id": "preambulo",
-   "label": "Preâmbulo",
-   "epigraph": "",
-   "path": [],
-   "blocks": [
-    {
-     "t": "p",
-     "x": "O Imposto Especial de Consumo representa um importante instrumento de política social visando a racionalização e orientação de comportamentos relativamente ao consumo exacerbado de bens nocivos à saúde pública, supérfluos e de luxo, considerados não essenciais à subsistência das pessoas."
-    },
-    {
-     "t": "p",
-     "x": "No entanto, urge a necessidade de dar resposta às grandes dificuldades económicas enfrentadas pela indústria nacional de produção de bebidas, em consequência da desvalorização cambial e da redução do poder de compra das empresas e das famílias, que influenciaram uma significativa diminuição das linhas de produção e, consequentemente, a eliminação de postos de trabalho, bem como evitar situações de evasão e fraude fiscal, em relação ao Imposto Especial de Consumo."
-    },
-    {
-     "t": "p",
-     "x": "A Assembleia Nacional aprova, por mandato do povo, nos termos das disposições combinadas da alínea o) do n.º 1 do artigo 165.º e da alínea d) do n.º 2 do artigo 166.º, ambos da Constituição da República de Angola, a seguinte:"
-    }
-   ]
-  },
-  {
    "id": "artigo-1",
    "label": "Artigo 1.º",
-   "epigraph": "Aprovação",
+   "epigraph": "Incidência",
    "path": [
-    "CAPÍTULO I - Disposições Gerais"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO I - Incidência, Sujeição e Isenções"
    ],
    "blocks": [
     {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
      "t": "p",
-     "x": "É aprovada a Lei do Imposto Especial de Consumo."
+     "x": "1. O Imposto Industrial incide sobre os lucros imputáveis ao exercício de qualquer actividade de natureza comercial ou industrial, ainda que acidentais."
+    },
+    {
+     "t": "p",
+     "x": "2. É considerado sempre de natureza comercial ou industrial para efeitos do presente Código:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "A actividade de exploração agrícola, aquícola, avícola, pecuária, piscatória e silvícola;",
+      "A actividade de mediação, agência ou representação na realização de contratos de qualquer natureza;",
+      "O exercício de actividades reguladas pela entidade de supervisão de seguros, entidade de supervisão de jogos, pelo Banco Nacional de Angola e pela Comissão do Mercado de Capitais;",
+      "A actividade das sociedades cujo objecto consista na mera gestão de uma carteira de imóveis, de participações sociais ou títulos;",
+      "A actividade das fundações, fundos autónomos, cooperativas e associações de beneficência; e",
+      "Exercício de profissão liberal no formato societário ou associativo."
+     ]
     }
    ]
   },
   {
    "id": "artigo-2",
    "label": "Artigo 2.º",
-   "epigraph": "Incidência objectiva",
+   "epigraph": "Lucros realizados em Angola",
    "path": [
-    "CAPÍTULO I - Disposições Gerais"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO I - Incidência, Sujeição e Isenções"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. O Imposto Especial de Consumo incide sobre os bens ou produtos constantes dos Anexos I e II, que constituem partes integrantes da presente Lei."
-    },
-    {
-     "t": "p",
-     "x": "2. O Imposto Especial de Consumo incide quer sobre os bens produzidos no território nacional, quer importados, introduzidos no consumo, ainda que provenientes de actividades ilícitas."
+     "x": "Ficam sujeitas a Imposto Industrial, pelos lucros realizados, as pessoas colectivas, nacionais ou estrangeiras, que exerçam as actividades referidas no artigo anterior."
     }
    ]
   },
   {
    "id": "artigo-3",
    "label": "Artigo 3.º",
-   "epigraph": "Incidência subjectiva",
+   "epigraph": "Lucros mundiais",
    "path": [
-    "CAPÍTULO I - Disposições Gerais"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO I - Incidência, Sujeição e Isenções"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. São sujeitos passivos do Imposto Especial de Consumo as pessoas singulares e colectivas ou outras entidades que:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Pratiquem operações de produção, quaisquer que sejam os processos ou meios utilizados;",
-      "Procedam à importação de bens;",
-      "Procedam à arrematação ou venda de bens em hasta pública."
-     ]
-    },
-    {
-     "t": "p",
-     "x": "2. Consideram-se, igualmente, sujeitos passivos de Imposto Especial de Consumo:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "As pessoas singulares ou colectivas que, em situação regular ou irregular, introduzam no consumo produtos sujeitos a Imposto Especial de Consumo;",
-      "As pessoas ou entidades que se encontrem na posse de bens sujeitos a Imposto Especial de Consumo que não tenham sido objecto de tributação."
-     ]
+     "x": "As pessoas colectivas que tenham, sede ou direcção efectiva no País são tributadas em Imposto Industrial pela totalidade dos lucros obtidos, quer no País, quer no estrangeiro."
     }
    ]
   },
   {
    "id": "artigo-4",
    "label": "Artigo 4.º",
-   "epigraph": "Encargo do Imposto",
+   "epigraph": "Sede fora de Angola",
    "path": [
-    "CAPÍTULO I - Disposições Gerais"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO I - Incidência, Sujeição e Isenções"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "O Imposto constitui encargo do adquirente do bem sujeito a Imposto Especial de Consumo."
+     "x": "1. As pessoas colectivas que tenham sede ou direcção efectiva no estrangeiro e estabelecimento estável no País, são tributados em Imposto Industrial:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Pelos lucros imputáveis ao estabelecimento estável aqui situado;",
+      "Pelos lucros imputáveis às vendas no País, de mercadorias da mesma natureza, ou de natureza similar, das vendidas pelo estabelecimento estável;",
+      "Pelos lucros imputáveis a outras actividades comerciais no País, da mesma natureza, ou de natureza similar, das exercidas pelo estabelecimento estável."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. As pessoas colectivas que tenham sede ou direcção efectiva no estrangeiro, quando não possuam estabelecimento estável no País, são tributadas em imposto industrial, à taxa liberatória, através do regime de tributação de serviços acidentais, previstas no presente Código."
     }
    ]
   },
   {
    "id": "artigo-5",
    "label": "Artigo 5.º",
-   "epigraph": "Facto gerador de Imposto",
+   "epigraph": "Sujeitos passivos",
    "path": [
-    "CAPÍTULO I - Disposições Gerais"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO I - Incidência, Sujeição e Isenções"
    ],
    "blocks": [
     {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
      "t": "p",
-     "x": "1. Constitui facto gerador do Imposto Especial de Consumo:"
+     "x": "1. São sujeitos passivos do Imposto Industrial:"
     },
     {
      "t": "list",
      "style": "alpha",
      "items": [
-      "A produção de bens;",
-      "A importação de mercadoria, seja qual for a sua origem;",
-      "A arrematação ou venda em hasta pública realizada pela Administração Tributária ou qualquer outra entidade."
+      "As sociedades comerciais, civis com ou sem forma comercial, as cooperativas, as fundações, as associações, os fundos autónomos, as empresas públicas e as demais pessoas colectivas de direito público ou privado, com sede ou direcção efectiva em território angolano;",
+      "As entidades desprovidas de personalidade jurídica, com sede ou direcção efectiva em território angolano, cujos rendimentos não sejam directamente tributáveis em Imposto Industrial, quer estejam na titularidade de pessoas singulares ou colectivas;",
+      "As pessoas colectivas que não tenham, sede ou direcção efectiva em Angola mas que obtenham rendimentos no País."
      ]
     },
     {
      "t": "p",
-     "x": "2. Para efeitos de Imposto Especial de Consumo, considera-se bem produzido no País o extraído, fabricado, manufacturado, transformado, qualquer que seja o processo ou meio utilizado, bem como aquele cujo processo de produção teve o seu termo em território nacional."
-    },
-    {
-     "t": "p",
-     "x": "3. Constitui, igualmente, facto gerador do Imposto Especial de Consumo:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "A cessação ou violação do pressuposto da isenção prevista na presente Lei;",
-      "A detenção de bens sujeitos ao Imposto, nas situações previstas no n.º 2 do artigo 3.º;",
-      "A utilização de bens ou matérias-primas fora do processo produtivo e que beneficiaram da desoneração do imposto."
-     ]
+     "x": "2. Consideram-se incluídas na alínea b) do n.º 1, designadamente, as heranças jacentes, as pessoas colectivas em relação às quais seja declarada a invalidade, as associações e sociedades civis sem personalidade jurídica e as sociedades comerciais ou civis sob forma comercial, anteriormente ao registo definitivo."
     }
    ]
   },
   {
    "id": "artigo-6",
    "label": "Artigo 6.º",
-   "epigraph": "Isenções",
+   "epigraph": "Isenções e benefícios fiscais",
    "path": [
-    "CAPÍTULO II - Isenção e Suspensão do Imposto Especial de Consumo"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO I - Incidência, Sujeição e Isenções"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. Estão isentos do Imposto Especial de Consumo:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Os bens exportados, quando a exportação seja feita pelo próprio produtor ou entidade vocacionada para o efeito, reconhecida nos termos da lei;",
-      "Os bens importados pelas representações diplomáticas e consulares, quando haja reciprocidade de tratamento e, bem assim, os bens importados pelas Organizações Internacionais;",
-      "As matérias-primas para a indústria nacional e os bens destinados para fins medicinais ou de ensino, desde que devidamente certificados, por meio da declaração de exclusividade emitida pelo Departamento Ministerial que superintende a actividade;",
-      "Os bens destinados a fins laboratoriais e de investigação científica;",
-      "Os bens de uso pessoal, tal como definido na legislação aduaneira;",
-      "Os bens destinados ao consumo como provisões de bordo de qualquer meio de transporte colectivo de passageiros de tráfego internacional;",
-      "Os produtos vendidos a bordo de qualquer meio de transporte colectivo de passageiros de tráfego internacional;",
-      "Os produtos que beneficiem da aplicação de um regime suspensivo de direitos aduaneiros;",
-      "Os produtos vendidos em lojas francas;",
-      "Os veículos eléctricos."
-     ]
+     "x": "1. As isenções e benefícios fiscais resultantes de acordo celebrado pelo Estado Angolano, ou outro ente público legalmente competente para o efeito, mantêm- se em vigor, nos termos da legislação ao abrigo da qual foram concedidas, com as devidas adaptações."
     },
     {
      "t": "p",
-     "x": "2. A isenção de produtos destinados a matéria-prima da indústria nacional, constante da alínea c) do número anterior, fica condicionada à venda para contribuintes ou importação directa de contribuintes previamente habilitados perante a Administração Tributária."
+     "x": "2. Os termos e duração das isenções e benefícios fiscais referidas no número anterior, constam obrigatoriamente de documento escrito emitido pelas autoridades públicas referidas no número anterior, devendo ser disponibilizado pelo contribuinte sempre que solicitado pelas autoridades."
     },
     {
      "t": "p",
-     "x": "3. Os contribuintes que se habilitarem a adquirir ou importar matéria-prima isenta de Imposto Especial de Consumo devem manter registo dos estoques de matérias-primas, produtos em elaboração e produtos prontos, de forma a demonstrar a aplicação daqueles produtos na produção própria."
+     "x": "3. A não apresentação da documentação comprovativa do direito à isenção de imposto ou do direito a benefícios fiscais, presume-se a sua não existência."
     },
     {
      "t": "p",
-     "x": "4. A não demonstração da aplicação dos produtos adquiridos ou importados dá lugar à exigência do imposto em relação aos que não forem comprovados como aplicados na produção."
+     "x": "4. A criação da aparência, perante a administração tributária ou terceiros, do direito à isenção de imposto ou do direito a benefícios fiscais, no âmbito de transacções sujeitas a Imposto Industrial, constitui infracção sancionada nos termos do Código Geral Tributário e da Legislação Penal."
+    },
+    {
+     "t": "p",
+     "x": "5. A requerimento dos interessados, o Titular do Departamento Ministerial que responde pelas Finanças Públicas, mediante parecer da Direcção Nacional de Impostos, pode reconhecer isenção do pagamento do Imposto Industrial, até 5 (cinco) anos, à Fundações, Associações e Cooperativas devidamente legalizadas e com estatuto de utilidade pública, sempre que o interesse público o justifique."
+    },
+    {
+     "t": "p",
+     "x": "6. Ficam isentas Do Imposto Industrial as companhias de navegação marítimas ou aéreas, se, no país da sua nacionalidade, as companhias angolanas de igual objecto social gozarem da mesma prerrogativa."
     }
    ]
   },
   {
    "id": "artigo-7",
    "label": "Artigo 7.º",
-   "epigraph": "Base de cálculo do Imposto",
+   "epigraph": "Regime geral e regime simplificado",
    "path": [
-    "CAPÍTULO III - Determinação da Matéria Colectável"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO II - Regimes de Tributação"
    ],
    "blocks": [
     {
-     "t": "p",
-     "x": "1. O valor tributável sujeito a Imposto Especial de Consumo é:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Para os bens produzidos no País, o valor da transacção;",
-      "Para os bens importados, o valor aduaneiro;",
-      "Nas arrematações ou vendas realizadas pelas Administração Tributária ou quaisquer outras entidades, o valor pelo qual tiverem sido efectuadas, desde que não tenham sido antes tributadas;",
-      "Nos casos previstos no n.º 2 do artigo 3.º, o valor de mercado dos bens;",
-      "Para os derivados do petróleo, o Imposto incide sobre o custo de produção."
-     ]
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
     },
     {
      "t": "p",
-     "x": "2. Para efeitos da alínea a) do número anterior, considera-se valor de saída do estabelecimento produtor, o preço de venda praticado entre pessoas independentes ou, nas demais operações, o valor de mercado de produtos idênticos ou, na sua ausência, o valor de mercado de produtos semelhantes."
-    },
-    {
-     "t": "p",
-     "x": "3. Quando os valores constantes dos documentos que determinam a sujeição ao Imposto Especial de Consumo não forem expressos em moeda nacional, procede-se à sua conversão, nos termos previstos no Código Geral Tributário."
+     "x": "O Imposto Industrial compreende o regime geral e o regime simplificado."
     }
    ]
   },
   {
    "id": "artigo-8",
    "label": "Artigo 8.º",
-   "epigraph": "Exigibilidade do Imposto",
+   "epigraph": "Tributação pelo Grupo A",
    "path": [
-    "CAPÍTULO III - Determinação da Matéria Colectável"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO II - Regimes de Tributação"
    ],
    "blocks": [
     {
-     "t": "p",
-     "x": "1. O Imposto Especial de Consumo é devido e torna-se exigível:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Na produção, no momento da transacção;",
-      "Nas importações, no momento de desembaraço aduaneiro;",
-      "Na arrematação ou vendas realizadas pela Administração Tributária ou quaisquer outras entidades, no momento em que tais actos forem praticados;",
-      "Nos casos previstos no n.º 2 do artigo 3.º, no momento da verificação do não pagamento do Imposto Especial de Consumo sobre os bens introduzidos no consumo;",
-      "Quanto aos derivados do petróleo, o Imposto é exigível no momento em que os bens são postos à disposição dos adquirentes."
-     ]
-    },
-    {
-     "t": "p",
-     "x": "2. Sem prejuízo do disposto no número anterior, o Imposto é ainda exigível sempre que não seja apresentada prova da utilização dos selos fiscais."
+     "t": "note",
+     "x": "Revogado pela Lei n.º 26/20, de 20 de Julho."
     }
    ]
   },
   {
    "id": "artigo-9",
    "label": "Artigo 9.º",
-   "epigraph": "Competência para liquidação",
+   "epigraph": "Inclusão no Grupo A",
    "path": [
-    "CAPÍTULO IV - Liquidação"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO II - Regimes de Tributação"
    ],
    "blocks": [
     {
-     "t": "p",
-     "x": "A liquidação do Imposto Especial de Consumo compete:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "Aos produtores, nos casos dos bens produzidos no País;",
-      "À Administração Tributária, no caso da importação de bens e nos restantes casos."
-     ]
+     "t": "note",
+     "x": "Revogado pela Lei n.º 26/20, de 20 de Julho."
     }
    ]
   },
   {
    "id": "artigo-10",
    "label": "Artigo 10.º",
-   "epigraph": "Momento da liquidação",
+   "epigraph": "Tributação pelo Grupo B",
    "path": [
-    "CAPÍTULO IV - Liquidação"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO II - Regimes de Tributação"
    ],
    "blocks": [
     {
-     "t": "p",
-     "x": "A liquidação é realizada:"
-    },
-    {
-     "t": "list",
-     "style": "alpha",
-     "items": [
-      "No momento da transacção, quando competir aos produtores;",
-      "No acto do desembarque aduaneiro;",
-      "No momento em que for efectuado o pagamento ou, se este for parcial, na primeira prestação, no caso de arrematação ou venda em hasta pública."
-     ]
+     "t": "note",
+     "x": "Revogado pela Lei n.º 26/20, de 20 de Julho."
     }
    ]
   },
   {
    "id": "artigo-11",
    "label": "Artigo 11.º",
-   "epigraph": "Taxas aplicáveis",
+   "epigraph": "Início de actividade",
    "path": [
-    "CAPÍTULO V - Taxas"
+    "CAPÍTULO I - Incidência, Sujeição, Isenções e Grupos de Tributação",
+    "SECÇÃO II - Regimes de Tributação"
    ],
    "blocks": [
     {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
      "t": "p",
-     "x": "As taxas do Imposto Especial de Consumo correspondem às constantes das tabelas dos Anexos I e II da presente Lei."
+     "x": "1. O cadastramento do contribuinte e declaração de início de actividade implica a prestação de informação julgada conveniente pela Direcção Nacional de Impostos, requisitada no momento da atribuição do Número de Identificação Fiscal, nos termos do Código Geral Tributário."
+    },
+    {
+     "t": "p",
+     "x": "2. A informação utilizada no registo de início de actividade que se revele provisória deve ser actualizada no prazo de 60 (sessenta) dias, sob pena de multa nos termos do artigo 75.º do presente Código, sem prejuízo do previsto no Código Geral Tributário."
+    },
+    {
+     "t": "p",
+     "x": "3. No acto de cadastramento e declaração de início de actividade, todos os contribuintes são enquadrados no Regime Geral do Imposto Industrial, com excepção daqueles que preencham os requisitos para enquadramento no Regime Simplificado de Tributação."
+    },
+    {
+     "t": "p",
+     "x": "4. [Revogado]."
+    },
+    {
+     "t": "p",
+     "x": "5. [Revogado]."
+    },
+    {
+     "t": "p",
+     "x": "6. O cadastramento e declaração de início de actividade do contribuinte, não determina o pagamento de imposto."
     }
    ]
   },
   {
    "id": "artigo-12",
    "label": "Artigo 12.º",
-   "epigraph": "Responsabilidade pela entrega",
+   "epigraph": "Determinação da matéria colectável",
    "path": [
-    "CAPÍTULO VI - Entrega do Imposto"
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
    ],
    "blocks": [
     {
-     "t": "p",
-     "x": "1. A entrega do Imposto Especial de Consumo é efectuada pelas pessoas ou entidades obrigadas a liquidar o Imposto."
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
     },
     {
      "t": "p",
-     "x": "2. Os sujeitos passivos referidos no artigo 2.º da presente Lei devem proceder à entrega do Imposto e submeter, por transmissão electrónica de dados, até ao último dia útil de cada mês, a declaração do Imposto, conforme modelo oficial, em que deve constar informações relativas ao volume de operações realizadas no mês anterior ao da liquidação do Imposto."
+     "x": "1. A matéria colectável dos contribuintes do Regime Geral do Imposto Industrial é determinada com base na declaração fiscal e demonstrações financeiras, nos termos do presente Código, do Plano Geral de Contabilidade, dos Planos de Contas das Instituições Financeiras e Seguradoras, do Plano de Contas dos Organismos de Investimento Colectivo, das Sociedades Gestoras e outros estabelecidos por legislação própria."
+    },
+    {
+     "t": "p",
+     "x": "2. Na ausência, insuficiência ou falta de idoneidade dos elementos necessários à determinação do imposto devido, a administração tributária pode utilizar métodos indirectos de apuramento da matéria colectável utilizando, inclusivamente, a informação contabilística e fiscal de contribuintes que se relacionem com o sujeito passivo, nos termos do Código Geral Tributário."
+    },
+    {
+     "t": "p",
+     "x": "3. O lucro tributável reporta-se ao saldo revelado pela conta de resultados do exercício elaborada em obediência aos princípios contabilísticos estabelecidos na legislação em vigor e consiste na diferença entre todos os proveitos ou ganhos realizados e os custos ou gastos realizados no exercício, uns e outros, eventualmente corrigidos nos termos do presente Código."
+    },
+    {
+     "t": "p",
+     "x": "4. Sem prejuízo do disposto nos números anteriores, as declarações devem ser submetidas através de meios electrónicos, nos termos estabelecidos em regulamentos próprios."
+    },
+    {
+     "t": "p",
+     "x": "5. Os contribuintes enquadrados no regime geral devem possuir contabilidade."
     }
    ]
   },
   {
    "id": "artigo-13",
    "label": "Artigo 13.º",
-   "epigraph": "Perdas ou faltas admissíveis",
+   "epigraph": "Proveitos ou ganhos",
    "path": [
-    "CAPÍTULO VI - Entrega do Imposto"
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
    ],
    "blocks": [
     {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
      "t": "p",
-     "x": "1. Consideram-se perdas ou faltas admissíveis:"
+     "x": "1. Consideram-se proveitos ou ganhos realizados no exercício, os provenientes de quaisquer transacções ou operações efectuadas pelos contribuintes em consequência de uma acção normal ou ocasional, básica ou meramente acessória, e designadamente os derivados:"
     },
     {
      "t": "list",
      "style": "alpha",
      "items": [
-      "As resultantes de caso fortuito ou de força maior, desde que não tenha havido negligência e sejam comunicadas à Administração Tributária, para efeitos de confirmação e apuramento, até ao 5.º dia útil seguinte ao da sua ocorrência;",
-      "As resultantes de destruição de produtos, sob fiscalização dos serviços competentes da Administração Tributária."
+      "Da exploração básica, tais como a venda de bens ou serviços, de bónus e abatimentos conseguidos, de comissões e corretagens;",
+      "De explorações complementares ou acessórias, incluindo as de carácter social e assistencial de que advenham proveitos ou ganhos;",
+      "De operações de natureza financeira, tais como juros, dividendos, participações em lucros de sociedades, descontos, ágios, transferências, variações cambiais favoráveis realizadas e prémios de emissão de acções ou obrigações, não tributados em outros impostos;",
+      "De rendimentos da propriedade industrial ou outros análogos;",
+      "Da prestação de serviços de carácter científico ou técnico;",
+      "Os valores de construções, equipamentos, ou outros bens de investimento produzidos e utilizados na própria empresa;",
+      "As indemnizações que representem compensação por lucro cessante ou dano emergente de quaisquer tipos;",
+      "As mais-valias realizadas que, para efeitos do presente Código se consideram os proveitos ou ganhos realizados, mediante transmissão onerosa, de quaisquer bens ou direitos, qualquer que seja o título por que se opere a sua transmissão;",
+      "As variações patrimoniais positivas, excluídas as que decorrem de entradas de capital ou coberturas de prejuízos, efectuados pelos titulares do capital ou créditos de imposto;",
+      "Os perdões de dívidas."
      ]
     },
     {
      "t": "p",
-     "x": "2. Para efeitos da alínea a) do número anterior, deve ser feita prova suficiente da perda irreparável dos produtos, sob pena de serem considerados como fabricados, saídos da fábrica e introduzidos no consumo, dando lugar à liquidação e pagamento do Imposto Especial de Consumo correspondente."
+     "x": "2. [Revogado]."
     }
    ]
   },
   {
    "id": "artigo-14",
    "label": "Artigo 14.º",
-   "epigraph": "Obrigações específicas",
+   "epigraph": "Custos ou gastos",
    "path": [
-    "CAPÍTULO VI - Entrega do Imposto"
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
    ],
    "blocks": [
     {
-     "t": "p",
-     "x": "1. É obrigatória a aposição de selo fiscal, conforme modelo aprovado por diploma próprio, às bebidas, tabaco e seus sucedâneos manufacturados, referidos no Anexo I da presente Lei."
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
     },
     {
      "t": "p",
-     "x": "2. Os estabelecimentos que produzam bebidas, tabaco e seus sucedâneos manufacturados e produtos petrolíferos, referidos nos Anexos I e II da presente Lei, devem estar equipados com sistemas de contagem e medição para transmissão electrónica de dados à Administração Tributária de forma automática das informações relativas à produção."
+     "x": "1. Consideram-se custos ou gastos imputáveis ao exercício, aqueles que se revelem, comprovadamente pelo contribuinte, e tomados pela Direcção Nacional dos Impostos, como indispensáveis à manutenção da fonte produtora ou à realização dos proveitos e ganhos sujeitos a imposto, nomeadamente os seguintes:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Encargos da actividade básica, acessória ou complementar, relativos à produção ou aquisição de quaisquer bens ou serviços, tais como materiais utilizados, mão-de-obra, energia e outros gastos gerais de fabricação, conservação e reparação;",
+      "Encargos de distribuição e venda, abrangendo os de transporte, seguros publicidade e colocação de mercadorias;",
+      "Encargos de natureza financeira, entre os quais juros de capitais alheios, aplicados na empresa, descontos, ágios, transferências, variações cambiais desfavoráveis realizadas, cobrança de dívidas, emissões de acções e obrigações e prémios de reembolso.",
+      "Encargos de natureza administrativa, designadamente com remunerações, ajudas de custo, pensões de reforma, contribuições para fundos de pensões, material de consumo corrente, transportes, comunicações, rendas e alugueres, segurança, serviços jurídicos e de contencioso, seguros, gastos com benefícios atribuídos pela cessação de relações laborais;",
+      "Encargos com análises, racionalização, investigação, consulta e formação do pessoal;",
+      "Encargos fiscais e parafiscais, com excepção dos constantes do artigo 18.º",
+      "Reintegrações e amortizações dos elementos do activo sujeitos a deperecimento, mas com observância das disposições específicas sobre a matéria, contidas no presente Códig",
+      "Provisões constituídas nos termos da legislação em vigor;",
+      "Indemnizações e prejuízos resultantes de eventos cujo risco não seja segurável."
+     ]
     },
     {
      "t": "p",
-     "x": "3. Os sistemas de contagem e medição referidos no número anterior devem ser certificados pela Administração Tributária, nos termos a regulamentar."
-    },
-    {
-     "t": "p",
-     "x": "4. A aquisição e aposição do selo fiscal, bem como a instalação dos contadores de produção e medidores fiscais são da responsabilidade dos sujeitos passivos do Imposto Especial de Consumo."
+     "x": "2. [Revogado]."
     }
    ]
   },
   {
    "id": "artigo-15",
    "label": "Artigo 15.º",
-   "epigraph": "Penalidades",
+   "epigraph": "Custos ou gastos com assistência social",
    "path": [
-    "CAPÍTULO VII - Penalidades"
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. A falta ou atraso na submissão electrónica exigível implica para o infractor o pagamento de uma multa no valor de Kz: 300.000,00 (trezentos mil Kwanzas)."
+     "x": "1. São custos ou gastos do exercício, os gastos suportados com assistência médica, creches, cantinas, bibliotecas e escolas, criadas para atender exclusivamente a fins sociais dos trabalhadores da empresa, cujo benefício seja disponibilizado generalizadamente aos trabalhadores."
     },
     {
      "t": "p",
-     "x": "2. A inobservância do disposto na alínea a) do n.º 1 do artigo 13.º dá lugar à aplicação de uma multa no valor referido no número anterior."
-    },
-    {
-     "t": "p",
-     "x": "3. Pela não aposição dos selos, transmissão das informações ou certificação dos contadores ou medidores referidos no artigo anterior aplica-se, por cada infracção, 25% do valor do imposto devido."
-    },
-    {
-     "t": "p",
-     "x": "4. A não selagem dos produtos no prazo fixado pela Administração Tributária dá lugar à multa no valor de Kz: 200.000,00 (duzentos mil Kwanzas), por período de produção mensal, e à consequente perda do produto a favor do Estado."
+     "x": "2. A abertura destas instalações a utilizadores externos ao pessoal da empresa, gerando proveitos ou ganhos, obriga à sua inclusão desse proveito, devidamente discriminada, na matéria colectável de Imposto Industrial."
     }
    ]
   },
   {
    "id": "artigo-16",
    "label": "Artigo 16.º",
-   "epigraph": "Aplicação e interpretação",
+   "epigraph": "Limites à dedutibilidade de custos",
    "path": [
-    "CAPÍTULO VIII - Disposições Finais"
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
    ],
    "blocks": [
     {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
      "t": "p",
-     "x": "A incidência de qualquer outro imposto indirecto não obsta à tributação em sede deste Imposto."
+     "x": "1. Os juros de empréstimos, sob qualquer forma, dos detentores do capital ou de suprimentos, são aceites como custos dedutíveis, devendo apenas ser acrescida ao lucro tributável a parcela que exceder a taxa média anual de referência dos juros estabelecidos pelo Banco Central."
+    },
+    {
+     "t": "p",
+     "x": "2. As práticas contabilísticas que não permitam o correcto apuramento dos custos incorridos com as realidades referidas no n.º 1 do presente artigo, presumem-se dolosas, e são sancionadas com pena de multa nos termos do artigo 76.º do presente Código, sem prejuízo do previsto no Código Geral Tributário."
     }
    ]
   },
   {
    "id": "artigo-17",
    "label": "Artigo 17.º",
-   "epigraph": "Revogação",
+   "epigraph": "Documentação de custos",
    "path": [
-    "CAPÍTULO VIII - Disposições Finais"
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
    ],
    "blocks": [
     {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
      "t": "p",
-     "x": "São revogadas as Leis n.º 8/19, de 24 de Abril, e n.º 18/19, de 13 de Agosto."
+     "x": "1. Os custos incorridos com qualquer despesa, são apenas aceites para efeitos do apuramento da matéria colectável, quando devidamente documentados, nos termos da legislação em vigor."
+    },
+    {
+     "t": "p",
+     "x": "2. Os custos indevidamente documentados, não são aceites como custos dedutíveis à matéria colectável do imposto."
+    },
+    {
+     "t": "p",
+     "x": "3. Os custos não documentados, não são aceites como custos dedutíveis à matéria colectável do imposto."
+    },
+    {
+     "t": "p",
+     "x": "4. Os custos incorridos com despesas confidenciais, não são aceites como custos dedutíveis à matéria colectável do imposto, e são tributados autonomamente à taxa de 30% (trinta por cento)."
+    },
+    {
+     "t": "p",
+     "x": "5. A taxa referida no número anterior é elevada para 50%, nas circunstâncias em que estas despesas originem um proveito na esfera de um sujeito passivo isento ou não sujeito a tributação em sede do Imposto Industrial."
+    },
+    {
+     "t": "p",
+     "x": "6. Entende-se por custos indevidamente documentados, nos termos do n.º 2 do presente artigo, aqueles em que a documentação em posse do contribuinte não se encontra em conformidade com os elementos previstos no Regime Jurídico das Facturas e Documentos Equivalentes."
+    },
+    {
+     "t": "p",
+     "x": "7. Entende-se por custos não documentados, nos termos do n.º 3 do presente artigo, aqueles em relação aos quais não existe documentação de suporte, nos termos da lei, mas que a sua ocorrência e natureza sejam materialmente comprováveis."
+    },
+    {
+     "t": "p",
+     "x": "8. Entendem-se por despesas confidenciais, nos termos do n.º 4 do presente artigo, aquelas em que não existe documentação válida de suporte da despesa nos termos da lei, e em que a sua natureza, função ou origem, não são materialmente comprováveis."
+    },
+    {
+     "t": "p",
+     "x": "9. A tributação autónoma referida nos n.os 4 e 5 implica o seu acréscimo, nas percentagens estabelecidas à colecta do imposto."
+    },
+    {
+     "t": "p",
+     "x": "10. [Revogado]."
     }
    ]
   },
   {
    "id": "artigo-18",
    "label": "Artigo 18.º",
-   "epigraph": "Dúvidas e omissões",
+   "epigraph": "Custos não aceites fiscalmente",
    "path": [
-    "CAPÍTULO VIII - Disposições Finais"
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
    ],
    "blocks": [
     {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
      "t": "p",
-     "x": "As dúvidas e as omissões resultantes da interpretação e da aplicação da presente Lei são resolvidas pela Assembleia Nacional."
+     "x": "1. Não são aceites como custos dedutíveis à matéria colectável do imposto:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O Imposto Industrial, o Imposto Predial, o Imposto sobre os Rendimentos do Trabalho, bem como o Imposto sobre a Aplicação de Capitais;",
+      "As contribuições para a Segurança Social na parcela que constitui encargo do trabalhador;",
+      "O imposto que incida sobre transmissões de fonte sucessória, ou sobre transacções gratuitas, que constituam obrigação tributária de terceiros à sociedades e o imposto que incida sobre as remunerações de trabalhadores ou pagamentos de prestadores de serviços que tenha sido suportado pela entidade sujeita a Imposto Industrial;",
+      "As multas e todos os encargos pela prática de infracções de qualquer natureza;",
+      "As indemnizações pagas pela ocorrência de eventos cujo risco seja segurável;",
+      "Os custos de conservação e reparação de imóveis arrendados, considerados como custos no apuramento do Imposto Predial Urbano;",
+      "Correcções da matéria colectável relativas aos exercícios anteriores, bem como as correcções extraordinárias do exercício;",
+      "Os seguros dos ramos vida e saúde cujo benefício não seja atribuído à generalidade do pessoal da empresa."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. A prática de procedimentos contabilísticos destinados a omitir os custos não aceites em sede do presente artigo, são sancionadas nos termos do Código Geral Tributário."
     }
    ]
   },
   {
    "id": "artigo-19",
    "label": "Artigo 19.º",
-   "epigraph": "Entrada em vigor",
+   "epigraph": "Tratamento fiscal de donativos e liberalidades",
    "path": [
-    "CAPÍTULO VIII - Disposições Finais"
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
    ],
    "blocks": [
     {
      "t": "p",
-     "x": "1. A presente Lei entra em vigor 30 dias após a sua publicação."
+     "x": "1. A aceitabilidade dos custos com donativos e liberalidades concedidos por sujeitos passivos do Imposto Industrial encontra-se regulada pela Lei do Mecenato."
     },
     {
      "t": "p",
-     "x": "2. A obrigatoriedade prevista no artigo 14.º começa a contar 6 (seis) meses após a entrada em vigor da presente Lei."
+     "x": "2. A atribuição de qualquer donativo ou liberalidade em incumprimento das regras estabelecidas na Lei do Mecenato, não só importam a não-aceitação desses custos, como determinam a tributação autónoma dessas realidades à taxa de 15% (quinze por cento) sobre o seu valor."
     },
     {
-     "t": "note",
-     "x": "Vista e aprovada pela Assembleia Nacional, em Luanda, aos 22 de Abril de 2021."
-    },
-    {
-     "t": "note",
-     "x": "O Presidente da Assembleia Nacional, Fernando da Piedade Dias dos Santos."
-    },
-    {
-     "t": "note",
-     "x": "Promulgada aos 7 de Julho de 2021."
-    },
-    {
-     "t": "note",
-     "x": "Publique-se."
-    },
-    {
-     "t": "note",
-     "x": "O Presidente da República, JOÃO MANUEL GONÇALVES LOURENÇO."
+     "t": "p",
+     "x": "3. A tributação autónoma, referida no número anterior e noutros artigos do presente Código, implica o acréscimo dos custos incorridos, na proporção estabelecida, ao lucro tributável do imposto."
     }
    ]
   },
   {
-   "id": "anexo-i",
-   "label": "Anexo I",
-   "epigraph": "Tabela de Taxas do Imposto Especial de Consumo Aplicáveis aos Produtos de Produção Nacional e Importados",
+   "id": "artigo-20",
+   "label": "Artigo 20.º",
+   "epigraph": "Valorização das existências",
    "path": [
-    "ANEXOS"
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
    ],
    "blocks": [
     {
-     "t": "table",
-     "headers": [
-      "Código",
-      "Designação de Mercadorias",
-      "IEC (%)"
-     ],
-     "rows": [
-      [
-       "",
-       "Bebidas gaseificadas, Álcool e bebidas alcoólicas",
-       ""
-      ],
-      [
-       "22.02",
-       "Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou ar aromatizadas e outras bebidas não alcoólicas, excepto sumos (sucos) de frutas ou de produtos hortícolas, da posição 20.09.",
-       ""
-      ],
-      [
-       "2202.10.00",
-       "Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas",
-       "3"
-      ],
-      [
-       "2202.91.00",
-       "Cerveja sem álcool",
-       "4"
-      ],
-      [
-       "2202.99.00",
-       "Outras",
-       "4"
-      ],
-      [
-       "2203.00.00",
-       "Cervejas de malte.",
-       "4"
-      ],
-      [
-       "22.04",
-       "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09.",
-       ""
-      ],
-      [
-       "2204.10",
-       "Vinhos espumantes e vinhos espumosos:",
-       ""
-      ],
-      [
-       "2204.10.10",
-       "Champanhe",
-       "8"
-      ],
-      [
-       "2204.10.90",
-       "Outros",
-       "8"
-      ],
-      [
-       "2204.21.00",
-       "Em recipientes de capacidade não superior a 2 L",
-       "8"
-      ],
-      [
-       "2204.22.00",
-       "Em recipientes de capacidade superior a 2L, mas não superior a 10 L",
-       "8"
-      ],
-      [
-       "2204.29.00",
-       "Outros",
-       "8"
-      ],
-      [
-       "22.05",
-       "Vermutes e outros vinhos de uvas frescas aromatizados por plantas ou substâncias aromáticas.",
-       ""
-      ],
-      [
-       "2205.10.00",
-       "Em recipientes de capacidade não superior a 2 L",
-       "8"
-      ],
-      [
-       "2205.90.00",
-       "Outros",
-       "8"
-      ],
-      [
-       "2206.00.00",
-       "Outras bebidas fermentadas (por exemplo, sidra, perada, hidromel); misturas de bebidas fermentadas e misturas de bebidas fermentadas com bebidas não alcoólicas, não especificadas nem compreendidas noutras posições.",
-       "8"
-      ],
-      [
-       "22.07",
-       "Álcool etílico não desnaturado, com um teor alcoólico, em volume, igual ou superior a 80% vol. álcool etílico e aguardentes, desnaturados, com qualquer teor alcoólico.",
-       ""
-      ],
-      [
-       "2207.10.00",
-       "Álcool etílico não desnaturado, com um teor alcoólico, em volume, igual ou superior a 80% vol.",
-       "15"
-      ],
-      [
-       "2207.20",
-       "Álcool etílico e aguardentes, desnaturados, com qualquer teor alcoólico:",
-       ""
-      ],
-      [
-       "2207.20.10",
-       "Álcool etílico",
-       "15"
-      ],
-      [
-       "2207.20.19",
-       "Outros",
-       "15"
-      ],
-      [
-       "22.08",
-       "Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80% vol; aguardentes, licores e outras bebidas espirituosas.",
-       ""
-      ],
-      [
-       "2208.20.00",
-       "Aguardentes de vinho ou de bagaço de uvas",
-       "8"
-      ],
-      [
-       "2208.30.00",
-       "Uísques",
-       "8"
-      ],
-      [
-       "2208.40.00",
-       "Rum e outros aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
-       "8"
-      ],
-      [
-       "2208.50.00",
-       "Gin e genebra",
-       "8"
-      ],
-      [
-       "2208.60.00",
-       "Vodca",
-       "8"
-      ],
-      [
-       "2208.70.00",
-       "Licores",
-       "8"
-      ],
-      [
-       "2208.90.00",
-       "Outros",
-       "8"
-      ],
-      [
-       "",
-       "Tabaco e seus sucedâneos manufacturados",
-       ""
-      ],
-      [
-       "24.01",
-       "Tabaco não manufacturado; desperdícios de tabaco.",
-       ""
-      ],
-      [
-       "2401.10.00",
-       "- Tabaco não destalado",
-       "25"
-      ],
-      [
-       "2401.20.00",
-       "- Tabaco total ou parcialmente destalado",
-       "25"
-      ],
-      [
-       "2401.30.00",
-       "- Desperdícios de tabacо",
-       "25"
-      ],
-      [
-       "24.02",
-       "Charutos, cigarrilhas e cigarros, de tabaco ou dos seus sucedâneos.",
-       ""
-      ],
-      [
-       "2402.10.00",
-       "- Charutos e cigarrilhas, que contenham tabaco",
-       "25"
-      ],
-      [
-       "2402.20.00",
-       "- Cigarros que contenham tabacо",
-       "25"
-      ],
-      [
-       "2402.90.00",
-       "- Outros",
-       "25"
-      ],
-      [
-       "24.03",
-       "Outros produtos de tabaco e seus sucedâneos manufacturados; tabaco «homogeneizado» ou «reconstituído»; extractos e molhos de tabaco.",
-       ""
-      ],
-      [
-       "",
-       "- Tabaco para fumar, mesmo que contenha sucedâneos de tabaco, em qualquer proporção:",
-       ""
-      ],
-      [
-       "2403.11.00",
-       "-- Tabaco para cachimbo de água (narguilé) mencionado na Nota 1 de subposição do presente Capitulo",
-       "25"
-      ],
-      [
-       "2403.19.00",
-       "-- Outros",
-       "25"
-      ],
-      [
-       "",
-       "- Outros",
-       "25"
-      ],
-      [
-       "2403.91.00",
-       "-- Tabaco «homogeneizado» ou «reconstituido»",
-       "25"
-      ],
-      [
-       "2403.99.00",
-       "-- Outros",
-       "25"
-      ],
-      [
-       "",
-       "Fogo de Artifício",
-       ""
-      ],
-      [
-       "3604.10.00",
-       "- Fogo de artificio",
-       "19"
-      ],
-      [
-       "39.23",
-       "Artigos de transporte ou de embalagem, de plástico; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plástico.",
-       ""
-      ],
-      [
-       "3923.21",
-       "-- De polímeros de etileno:",
-       ""
-      ],
-      [
-       "3923.21.10",
-       "--- Sacos de quaisquer dimensões destinados exclusivamente para embalar produtos, excepto os de transporte.",
-       "2"
-      ],
-      [
-       "3923.21.90",
-       "--- Outros",
-       "19"
-      ],
-      [
-       "3923.29",
-       "-- De outros plásticos",
-       ""
-      ],
-      [
-       "3923.29.10",
-       "--- Sacos de quaisquer dimensões destinados exclusivamente para embalar produtos, excepto os de transporte.",
-       "2"
-      ],
-      [
-       "3923.29.90",
-       "--- Outros",
-       "19"
-      ],
-      [
-       "39.26",
-       "Outras obras de plástico e obras de outras matérias das posições 39.01 a 39.14.",
-       ""
-      ],
-      [
-       "3926.90.90",
-       "-- Outras (palhinhas de plástico).",
-       "19"
-      ],
-      [
-       "40.12",
-       "Pneumáticos recauchutados ou usados, de borracha; pneus maciços ou ocos, bandas de rodagem para pneumáticos e flaps, de borracha.",
-       ""
-      ],
-      [
-       "",
-       "Pneumáticos recauchutados:",
-       ""
-      ],
-      [
-       "4012.11.00",
-       "Do tipo utilizado em automóveis de passageiros (incluindo os veículos de uso misto (stations wagons) e os automóveis de corrida).",
-       "19"
-      ],
-      [
-       "4012.12.00",
-       "Do tipo utilizado em autocarros ou camiões.",
-       "19"
-      ],
-      [
-       "4012.13.00",
-       "Do tipo utilizado em veículos aéreos.",
-       "19"
-      ],
-      [
-       "4012.19.00",
-       "Outros.",
-       "19"
-      ],
-      [
-       "4012.20.00",
-       "Pneumáticos usados.",
-       "19"
-      ],
-      [
-       "4012.90.00",
-       "Outros.",
-       "19"
-      ],
-      [
-       "71.13",
-       "Artigos de joalharia e suas partes, de metais preciosos ou de metais folheados ou chapeados de metais preciosos.",
-       ""
-      ],
-      [
-       "",
-       "- De metais preciosos, mesmo revestidos, folheados ou chapeados, de metais preciosos:",
-       ""
-      ],
-      [
-       "7113.11.00",
-       "De prata, mesmo revestida, folheada ou chapeada, de outros metais preciosos",
-       "15"
-      ],
-      [
-       "7113.19.00",
-       "De outros metais preciosos, mesmo revestidos, folheados ou chapeados, de metais preciosos",
-       "15"
-      ],
-      [
-       "7113.20.00",
-       "De metais comuns folheados ou chapeados de metais preciosos",
-       "15"
-      ],
-      [
-       "71.14",
-       "Artigos de ourivesaria e suas partes, de metais preciosos ou de metais folheados ou chapeados de metais preciosos.",
-       ""
-      ],
-      [
-       "7114.11.00",
-       "De prata, mesmo revestida, folheada ou chapeada, de outros metais preciosos",
-       "15"
-      ],
-      [
-       "7114.19.00",
-       "De outros metais preciosos, mesmo revestidos, folheados ou chapeados de metais preciosos",
-       "15"
-      ],
-      [
-       "7114.20.00",
-       "De metais comuns folheados ou chapeados de metais preciosos",
-       "15"
-      ],
-      [
-       "",
-       "Veículos automóveis",
-       ""
-      ],
-      [
-       "87.03",
-       "Automóveis de passageiros e outros veículos automóveis principalmente concebidos para transporte de pessoas (excepto os da posição 87.02), incluindo os veículos de uso misto (station wagons) e os automóveis de corrida.",
-       ""
-      ],
-      [
-       "8703.24",
-       "De cilindrada superior a 3 000 cm³ a Gasolina:",
-       ""
-      ],
-      [
-       "8703.24.49",
-       "Outros - Novos",
-       "5"
-      ],
-      [
-       "8703.24.59",
-       "Outros - Usados",
-       "5"
-      ],
-      [
-       "8703.33",
-       "De cilindrada superior a 2 500 cm³ a Gasóleo:",
-       ""
-      ],
-      [
-       "8703.33.59",
-       "Outros Novos",
-       "5"
-      ],
-      [
-       "8703.33.69",
-       "Outros Usados",
-       "5"
-      ],
-      [
-       "87.04",
-       "Veículos automóveis para transporte de mercadorias.",
-       ""
-      ],
-      [
-       "8704.21",
-       "De peso bruto não superior a 5 toneladas:",
-       ""
-      ],
-      [
-       "8704.21.10",
-       "Do tipo Pickup e Furgão, de cilindrada não superior a 5000 cm³ - Novos",
-       "5"
-      ],
-      [
-       "8704.21.11",
-       "Do tipo Pickup e Furgão, de cilindrada superior a 5000 cm³ - Novos",
-       "5"
-      ],
-      [
-       "8704.21.15",
-       "Do tipo Pickup e Furgão, de cilindrada não superior a 5000 cm³ - Usados",
-       "5"
-      ],
-      [
-       "8704.21.16",
-       "Do tipo Pickup e Furgão, de cilindrada superior a 5000 cm³ - Usados",
-       "5"
-      ],
-      [
-       "8801.00.00",
-       "Balões e dirigíveis; planadores, asas voadoras e outros veículos aéreos, não concebidos para propulsão a motor.",
-       "20"
-      ],
-      [
-       "88.02",
-       "Outros veículos aéreos (por exemplo, helicópteros, aviões); veículos espaciais (incluindo os satélites) e seus veículos de lançamento, e veículos suborbitais.",
-       ""
-      ],
-      [
-       "",
-       "Helicópteros:",
-       ""
-      ],
-      [
-       "8802.11.00",
-       "De peso não superior a 2 000 kg, sem carga (vazios)",
-       "20"
-      ],
-      [
-       "8802.20.00",
-       "Aviões e outros veículos aéreos, de peso não superior a 2 000 kg, sem carga (vazios)",
-       "20"
-      ],
-      [
-       "89.03",
-       "Iates e outros barcos e embarcações de recreio ou de desporto; barcos a remos e canoas:",
-       ""
-      ],
-      [
-       "",
-       "Outros:",
-       ""
-      ],
-      [
-       "8903.91.00",
-       "Barcos a vela, mesmo com motor auxiliar",
-       "20"
-      ],
-      [
-       "8903.92.00",
-       "Barcos a motor, excepto com motor fora-de-borda",
-       "20"
-      ],
-      [
-       "89.03.99.90",
-       "Outros",
-       "20"
-      ],
-      [
-       "93.03",
-       "Outras armas de fogo e aparelhos semelhantes que utilizem a deflagração da pólvora (por exemplo, espingardas e carabinas, de caça, armas de fogo carregáveis exclusivamente pela boca, pistolas lança-foguetes e outros aparelhos concebidos apenas para lançar foguetes de sinalização, pistolas e revólveres para tiro sem bala, pistolas de êmbolo cativo para abater animais, canhões lança-amarras).",
-       ""
-      ],
-      [
-       "9303.20.00",
-       "Outras espingardas e carabinas de caça ou de tiro ao alvo, com pelo menos um cano liso",
-       "50"
-      ],
-      [
-       "9303.30.00",
-       "Outras espingardas e carabinas de caça ou de tiro ao alvo",
-       "50"
-      ],
-      [
-       "97.01",
-       "Quadros, pinturas e desenhos, feitos inteiramente à mão, excepto os desenhos da posição 49.06 e os artigos manufacturados decorados à mão; colagens e quadros decorativos semelhantes.",
-       ""
-      ],
-      [
-       "9701.10.00",
-       "Quadros, pinturas e desenhos",
-       "5"
-      ],
-      [
-       "9701.90.00",
-       "Outros",
-       "5"
-      ],
-      [
-       "9702.00.00",
-       "Gravuras, estampas e litografias, originais.",
-       "5"
-      ],
-      [
-       "9703.00.00",
-       "Produções originais de arte estatuária ou de escultura, de quaisquer matérias",
-       "5"
-      ],
-      [
-       "9704.00.00",
-       "Selos postais, selos fiscais, marcas postais, envelopes de primeiro dia (first day covers), inteiros postais e semelhantes, obliterados, ou não obliterados, excepto os artigos da posição 49.07.",
-       "5"
-      ],
-      [
-       "9705.00.00",
-       "Colecções e espécimes para colecções, de zoologia, botânica, mineralogia, anatomia, ou apresentando interesse histórico, arqueológico, paleontológico, etnográfico ou numismático.",
-       "5"
-      ],
-      [
-       "9706.00.00",
-       "Antiguidades com mais de 100 anos.",
-       "5"
-      ]
+     "t": "p",
+     "x": "1. Os valores das existências de materiais, produtos ou mercadorias a considerar nos proveitos e custos, ou a ter em conta na determinação dos proveitos ou gastos do exercício são os que resultarem da aplicação de critérios valorimétricos que, podendo ser objecto de controlo inequívoco, estejam na tradição da indústria e sejam geralmente reconhecidos pela técnica contabilística como válidos para exprimirem o resultado do exercício, e além disso:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Venham sendo uniformemente seguidos em sucessivos exercícios;",
+      "Utilizem preços de aquisição realmente praticados e documentados, ou preços de reposição ou de venda constantes de elementos oficiais ou de outros considerados idóneos."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. O cálculo dos valores a que se refere o presente artigo, não pode assentar, sem autorização prévia da Direcção Nacional de Impostos, em critérios que utilizem custos-padrão ou preconizem uma valorimetria especial para as existências tidas por básicas ou normais."
+    }
+   ]
+  },
+  {
+   "id": "artigo-21",
+   "label": "Artigo 21.º",
+   "epigraph": "Deduções ao custo das existências",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Não são permitidas, para os efeitos do artigo anterior, deduções aos custos das existências, a título de depreciação, obsolência ou possíveis perdas de valor dos seus elementos, salvo devidamente fundamentados e aceites pela Direcção Nacional dos Impostos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-22",
+   "label": "Artigo 22.º",
+   "epigraph": "Mudança de critério valorimétrico",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Sempre que se verificar mudança de critério valorimétrico, além da sua fundamentação no relatório a arquivar com a Declaração Modelo 1, devem constar expressamente da conta de resultados do exercício, os montantes das valorizações ou desvalorizações resultantes da alteração, acrescendo os das primeiras aos proveitos ou lucros, sem que das últimas possam resultar custos acrescidos, salvo se a Direcção Nacional de Impostos autorizar o contrário."
+    },
+    {
+     "t": "p",
+     "x": "2. No cálculo dos resultados do exercício ou dos exercícios seguintes, toma-se como custos das existências, a que o presente artigo reporta, os que acabaram por ser considerados para os fins neles referidos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-23",
+   "label": "Artigo 23.º",
+   "epigraph": "Liquidação de existências em grande escala",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "No caso de liquidação de existências em grande escala resultante de mudança ou alteração profunda do ramo de actividade, pode a Direcção Nacional de Impostos, sobre exposição fundamentada do contribuinte, fixar o critério de determinação dos resultados dessa liquidação, tendo em conta a manutenção do capital normalmente aplicado na sua constituição."
+    }
+   ]
+  },
+  {
+   "id": "artigo-24",
+   "label": "Artigo 24.º",
+   "epigraph": "Amortizações",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. São aceites como custo ou perda do exercício, até ao limite das taxas anuais que forem fixadas, os encargos de reintegração e amortização dos elementos do activo imobilizado, corpóreo e incorpóreo, sujeitos a deperecimento, efectuados nos termos do presente Código."
+    },
+    {
+     "t": "p",
+     "x": "2. Para efeitos do número anterior consideram-se sujeitos a deperecimento os elementos do activo imobilizado que, com carácter sistemático, sofrerem perdas de valor resultantes da sua utilização, do decurso do tempo ou do progresso tecnológico."
+    },
+    {
+     "t": "p",
+     "x": "3. As amortizações e reintegrações dos contribuintes sujeitos aos Planos de Contas das Instituições Financeiras e Seguradoras devem ser realizadas de acordo com os respectivos normativos contabilísticos, mesmo quando contrários às disposições do presente Código, podendo, no entanto, os procedimentos de contabilização serem corrigidos pela Direcção Nacional de Impostos quando se entenda que estes não têm aderência aos respectivos normativos contabilísticos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-25",
+   "label": "Artigo 25.º",
+   "epigraph": "Activos amortizáveis",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Activos amortizáveis são todos os bens, e seus elementos, contabilizados como activo imobilizado, corpóreo ou incorpóreo, que estejam sujeitos a deperecimento."
+    },
+    {
+     "t": "p",
+     "x": "2. Salvo razões devidamente fundamentadas e previamente aceites pela Direcção Nacional de Impostos, os elementos do activo imobilizado consideram-se sujeitos a deperecimento, a partir da sua data de entrada em funcionamento."
+    },
+    {
+     "t": "p",
+     "x": "3. São aceites para efeitos fiscais, apenas os custos ou perdas com amortizações que estiverem contabilizados como tal no exercício a que respeitem e que tenham sido calculadas sobre activos amortizáveis."
+    },
+    {
+     "t": "p",
+     "x": "4. Não são aceites amortizações pela aquisição de bens móveis sujeitos a registo, dos quais o contribuinte não possua, sequer a respectiva declaração de venda, em que seja identificável o transmitente originário, e elementos identificativos que permitam identificar o bem de forma individualizada."
+    }
+   ]
+  },
+  {
+   "id": "artigo-26",
+   "label": "Artigo 26.º",
+   "epigraph": "Valorimetria dos activos amortizáveis",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os activos amortizáveis devem ser valorizados ao custo de reconhecimento inicial ou ao custo revalorizado."
+    },
+    {
+     "t": "p",
+     "x": "2. O custo de reconhecimento inicial compreende um dos seguintes:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Custo de aquisição, relativamente aos activos adquiridos a terceiros a título oneroso, em que o custo de aquisição é o preço de compra acrescido dos gastos suportados para a sua colocação em condições de funcionamento ou utilização;",
+      "Custo de produção, relativamente aos activos produzidos ou construídos pela própria empresa, que engloba o custo de aquisição dos materiais e serviços utilizados, o custo com o pessoal directamente envolvido na sua produção ou construção, bem como os outros custos que directa ou indirectamente sejam imputáveis à produção ou construção na base do sistema de custeio aplicável;",
+      "Custo corrente, relativamente aos activos recebidos através de doação ou quando, em circunstância excepcionais comprováveis, não seja conhecido o custo de aquisição ou o custo de produção."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. O custo revalorizado, de acordo com o Decreto n.º 6/96, de 26 de Janeiro sobre a reavaliação dos bens do activo imobilizado corpóreo das empresas sujeitas ao Imposto Industrial ou legislação que o venha a substituir."
+    },
+    {
+     "t": "p",
+     "x": "4. Não se consideram no custo de aquisição ou produção:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os juros de empréstimos contraídos para financiar a aquisição ou produção de activos amortizáveis ou devidos pelo deferimento no tempo do pagamento do respectivo preço;",
+      "As diferenças de câmbio relacionadas com activos amortizáveis, resultantes quer de pagamentos efectivos, quer de actualizações à data do balanço."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "5. Podem ser incluídos nos custos de produção os juros de capitais alheios destinados especificamente ao financiamento do fabrico ou da construção de activos amortizáveis, na medida em que respeitem ao período de fabricação ou de construção e este não tenha uma duração inferior a 2 (dois) anos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-27",
+   "label": "Artigo 27.º",
+   "epigraph": "Método de cálculo",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O cálculo das amortizações do exercício deve fazer-se, pelo método das quotas constantes."
+    },
+    {
+     "t": "p",
+     "x": "2. Os contribuintes que pretendam utilizar qualquer outro método de cálculo das amortizações por o considerarem mais adequado a sua actividade económica, devem requerer, com base em fundamentação técnica apropriada, a aprovação prévia da Direcção Nacional de Impostos, sob pena da não consideração do custo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-28",
+   "label": "Artigo 28.º",
+   "epigraph": "Consistência de aplicação dos métodos",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Em relação a cada bem ou elemento do activo amortizável deve ser usado o mesmo método de amortização desde a sua entrada em funcionamento até a sua amortização total, transmissão ou inutilização."
+    },
+    {
+     "t": "p",
+     "x": "2. A consistência de aplicação do método de amortização utilizado, não prejudica a consideração como custo fiscal de valores de amortização superiores quando ocorram desvalorizações excepcionais nos bens e elementos do activo amortizável decorrente de causas anormais devidamente fundamentadas pelo contribuinte e aceites pela Direcção Nacional de Impostos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-29",
+   "label": "Artigo 29.º",
+   "epigraph": "Periodização das amortizações",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As amortizações dos bens e elementos do activo amortizável são calculados, por períodos anuais contados a partir do ano em que tais bens e elementos começam a ser utilizados e durante o período total da sua vida útil."
+    },
+    {
+     "t": "p",
+     "x": "2. Os contribuintes que considerem mais apropriado calcular as amortizações por períodos mensais podem fazê-lo dividindo o valor da amortização anual por duodécimos, sendo aceites para efeitos fiscais as amortizações calculadas a partir do mês em que os bens e elementos do activo amortizável entram em funcionamento e durante o seu período total de vida útil."
+    },
+    {
+     "t": "p",
+     "x": "3. Para efeitos do número anterior, no ano do termo da vida útil dos bens e elementos do activo amortizável são aceites apenas para efeitos fiscais, as amortizações calculadas até ao mês do termo da vida útil."
+    },
+    {
+     "t": "p",
+     "x": "4. Quando se verificar a transmissão, a inutilização dos bens e elementos do activo amortizável, antes de decorrido o período total da sua vida útil são aceites, apenas para efeitos fiscais, as amortizações calculadas até ao ano ou ao mês anteriores ao da verificação desses eventos."
+    },
+    {
+     "t": "p",
+     "x": "5. Nos casos em que ocorram fusões ou cisões de sociedades ou trespasses de estabelecimentos, os bens e elementos amortizáveis que integram estas operações económicas devem continuar a ser amortizados pelos mesmos métodos e períodos que eram praticados nas entidades originais."
+    }
+   ]
+  },
+  {
+   "id": "artigo-30",
+   "label": "Artigo 30.º",
+   "epigraph": "Regime intensivo de laboração",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando os bens do activo imobilizado corpóreo estiverem sujeitos a desgaste superior ao que resultaria da sua utilização normal, em consequência de laboração em mais do que um turno, pode ser aceite como custo fiscal do exercício uma amortização calculada de acordo com o método que estiver a ser utilizado acrescido de:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "25% (vinte e cinco por cento) se a laboração for de 2 (dois) turnos;",
+      "50% (cinquenta por cento), se a laboração for contínua."
      ]
     }
    ]
   },
   {
-   "id": "anexo-ii",
-   "label": "Anexo II",
-   "epigraph": "Tabela de Taxas do Imposto Especial de Consumo Aplicáveis aos Produtos Petrolíferos",
+   "id": "artigo-31",
+   "label": "Artigo 31.º",
+   "epigraph": "Amortização de imóveis",
    "path": [
-    "ANEXOS"
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
    ],
    "blocks": [
     {
-     "t": "table",
-     "headers": [
-      "Código",
-      "Produtos",
-      "Taxa %"
-     ],
-     "rows": [
-      [
-       "27.01",
-       "Hulhas, briquetes, bolas em aglomerados e combustíveis sólidos semelhantes, obtidos a partir da hulha.",
-       ""
-      ],
-      [
-       "",
-       "- Hulhas, mesmo em pó, mas não aglomeradas:",
-       ""
-      ],
-      [
-       "2701.11.00",
-       "-- Antracite",
-       "2"
-      ],
-      [
-       "2701.12.00",
-       "-- Hulha betuminosa",
-       "2"
-      ],
-      [
-       "2701.19.00",
-       "-- Outras hulhas",
-       "2"
-      ],
-      [
-       "2701.20.00",
-       "- Briquetes, bolas em aglomerados e combustíveis sólidos semelhantes, obtidos a partir da hulha",
-       "2"
-      ],
-      [
-       "27.02",
-       "Linhites, mesmo aglomeradas, excepto azeviche.",
-       ""
-      ],
-      [
-       "2702.10.00",
-       "- Linhites, mesmo em pó, mas não aglomeradas",
-       "2"
-      ],
-      [
-       "2702.20.00",
-       "- Linhites aglomeradas",
-       "2"
-      ],
-      [
-       "2704.00.00",
-       "Coques e semicoques, de hulha, de linhite ou de turfa, mesmo aglomerados; carvão de retorta",
-       "2"
-      ],
-      [
-       "2705.00.00",
-       "Gás de hulha, gás de água, gás pobre (gás de ar) e gases semelhantes, excepto gases de petróleo e outros hidrocarbonetos gasosos",
-       "2"
-      ],
-      [
-       "2706.00.00",
-       "Alcatrões de hulha, de linhite ou de turfa e outros alcatrões minerais, mesmo desidratados ou parcialmente destilados, incluindo os alcatrões reconstituídos",
-       "2"
-      ],
-      [
-       "27.07",
-       "Óleos e outros produtos provenientes da destilação dos alcatrões de hulha a alta temperatura; produtos análogos em que os constituintes aromáticos predominem, em peso, relativamente aos constituintes não aromáticos.",
-       ""
-      ],
-      [
-       "2707.10.00",
-       "- Benzol (benzeno)",
-       "2"
-      ],
-      [
-       "2707.20.00",
-       "- Toluol (tolueno)",
-       "2"
-      ],
-      [
-       "2707.30.00",
-       "- Xilol (xilenos)",
-       "2"
-      ],
-      [
-       "2707.40.00",
-       "- Naftaleno",
-       "2"
-      ],
-      [
-       "2707.50.00",
-       "- Outras misturas de hidrocarbonetos aromáticos que destilem (incluindo as perdas) uma fracção igual ou superior a 65%, em volume, a 250 °С, segundo o método ISO 3405 (equivalente ao método ASTMD 86)",
-       "2"
-      ],
-      [
-       "",
-       "- Outros:",
-       ""
-      ],
-      [
-       "2707.91.00",
-       "-- Óleos de creosoto",
-       "2"
-      ],
-      [
-       "2707.99.00",
-       "-- Outros",
-       "2"
-      ],
-      [
-       "27.08",
-       "Breu e coque de breu obtidos a partir do alcatrão de hulha ou de outros alcatrões minerais.",
-       ""
-      ],
-      [
-       "2708.10.00",
-       "- Breu",
-       "2"
-      ],
-      [
-       "2708.20.00",
-       "- Coque de breu",
-       "2"
-      ],
-      [
-       "27.10",
-       "Óleos de petróleo ou de minerais betuminosos, excepto óleos brutos; preparações não especificadas nem compreendidas noutras posições, que contenham, como constituintes básicos, 70% ou mais, em peso, de óleos de petróleo ou de minerais betuminosos; resíduos de óleos.",
-       ""
-      ],
-      [
-       "",
-       "- Óleos de petróleo ou de minerais betuminosos (excepto óleos brutos) e preparações não especificadas nem compreendidas noutras posições, que contenham, como constituintes básicos, 70% ou mais, em peso, de óleos de petróleo ou de minerais betuminosos, excepto os que contenham biodiesel e excepto os resíduos de óleos:",
-       ""
-      ],
-      [
-       "2710.12",
-       "-- Óleos leves e preparações:",
-       ""
-      ],
-      [
-       "2710.12.11",
-       "Gasolina para aviões",
-       "2"
-      ],
-      [
-       "2710.12.12",
-       "Outras Gasolinas",
-       "5"
-      ],
-      [
-       "2710.12.13",
-       "Querosene",
-       "0"
-      ],
-      [
-       "2710.12.14",
-       "Gasóleo",
-       "5"
-      ],
-      [
-       "2710.12.15",
-       "Outros",
-       "2"
-      ],
-      [
-       "2710.19",
-       "-- Outros:",
-       ""
-      ],
-      [
-       "2710.19.21",
-       "Óleo base",
-       "2"
-      ],
-      [
-       "2710.19.23",
-       "Óleos lubrificantes",
-       "2"
-      ],
-      [
-       "2710.19.29",
-       "Outros",
-       "2"
-      ],
-      [
-       "2710.20.00",
-       "- Óleos de petróleo ou de minerais betuminosos (excepto óleos brutos) e preparações não especificadas nem compreendidas noutras posições, que contenham, como constituintes básicos, 70% ou mais, em peso, de óleos de petróleo ou de minerais betuminosos, que contenham lbiodiesel, excepto os resíduos de óleos",
-       "2"
-      ],
-      [
-       "",
-       "- Resíduos de óleos:",
-       ""
-      ],
-      [
-       "2710.91.00",
-       "-- Que contenham difenilos policlorados (PCB), terfenilos policlorados (PCT) ou difenilos polibromados (PBB)",
-       "2"
-      ],
-      [
-       "2710.99.00",
-       "-- Outros",
-       "2"
-      ],
-      [
-       "27.11",
-       "Gás de petróleo e outros hidrocarbonetos gasosos.",
-       ""
-      ],
-      [
-       "",
-       "- Liquefeitos:",
-       ""
-      ],
-      [
-       "2711.12.00",
-       "Propano",
-       "2"
-      ],
-      [
-       "2711.13.00",
-       "Butano",
-       "0"
-      ],
-      [
-       "2711.14.00",
-       "-- Etileno, propileno, butileno e butadieno",
-       "2"
-      ],
-      [
-       "2711.19.00",
-       "-- Outros",
-       "2"
-      ],
-      [
-       "27.12",
-       "Vaselina; parafina, cera de petróleo microcristalina, slack wax, ozocerite, cera de linhite, cera de turfa, outras ceras minerais e produtos semelhantes obtidos por síntese ou por outros processos, mesmo corados.",
-       ""
-      ],
-      [
-       "2712.10.00",
-       "- Vaselina",
-       "2"
-      ],
-      [
-       "2712.20.00",
-       "- Parafina que contenha, em peso, menos de 0,75% de óleo",
-       "2"
-      ],
-      [
-       "2712.90.00",
-       "- Outros",
-       "2"
-      ],
-      [
-       "27.13",
-       "Coque de petróleo, betume de petróleo e outros resíduos dos óleos de petróleo ou de minerais betuminosos.",
-       ""
-      ],
-      [
-       "",
-       "- Coque de petróleo:",
-       ""
-      ],
-      [
-       "2713.11.00",
-       "-- Não calcinado",
-       "2"
-      ],
-      [
-       "2713.12.00",
-       "-- Calcinado",
-       "2"
-      ],
-      [
-       "2713.20.00",
-       "- Betume de petróleo",
-       "2"
-      ],
-      [
-       "2713.90.00",
-       "- Outros resíduos dos óleos de petróleo ou de minerais betuminosos",
-       "2"
-      ],
-      [
-       "27.14",
-       "Betumes e asfaltos, naturais; xistos e areias betuminosos; asfaltites e rochas asfálticas.",
-       ""
-      ],
-      [
-       "2714.10.00",
-       "- Xistos e areias betuminosos",
-       "2"
-      ],
-      [
-       "2714.90",
-       "- Outros",
-       ""
-      ],
-      [
-       "2714.90.10",
-       "-- Aditivos de xistos e areias betuminosos",
-       "2"
-      ],
-      [
-       "2714.90.90",
-       "-- Outros",
-       "2"
-      ],
-      [
-       "2715.00.00",
-       "Misturas betuminosas à base de asfalto ou de betume naturais, de betume de petróleo, de alcatrão mineral ou de breu de alcatrão mineral (por exemplo, mástiques betuminosas e cut-backs)",
-       "2"
-      ]
+     "t": "p",
+     "x": "1. Os terrenos não são amortizáveis, excepto se estiverem exclusivamente afectos à actividade de exploração e apenas na parte sujeita a deperecimento."
+    },
+    {
+     "t": "p",
+     "x": "2. No caso de imóveis que integrem terrenos e edifícios ou outras construções e que tenham sido adquiridos sem indicação expressa do valor do custo do terreno, o valor a atribuir a este para efeitos fiscais é fixado em 20% (vinte por cento) do valor global, a menos que o contribuinte estime outro valor, com base em cálculos tecnicamente elaborados e fundamentados por entidade independente e previamente aceites pela Direcção Nacional de Impostos."
+    },
+    {
+     "t": "p",
+     "x": "3. Em relação aos imóveis referidos no número anterior, o custo a considerar para efeitos de valorimetria dos activos amortizáveis, previsto no artigo 26.º do presente Código e para efeitos de cálculos das respectivas amortizações, é o que corresponde a diferença entre o valor global de aquisição do imóvel e o valor atribuído ao terreno."
+    }
+   ]
+  },
+  {
+   "id": "artigo-32",
+   "label": "Artigo 32.º",
+   "epigraph": "Amortização de bens em locação financeira",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os bens e elementos amortizáveis adquiridos através de contratos de locação financeira, como definidos nos termos da legislação própria, são amortizados pelas respectivas entidades locatárias com base no presente Código."
+    },
+    {
+     "t": "p",
+     "x": "2. A transmissão dos bens locados para o locatário nos termos dos respectivos contratos de locação, bem como a relocação financeira, não determinam qualquer alteração no regime de amortização que vinha sendo seguido pelo locatário."
+    }
+   ]
+  },
+  {
+   "id": "artigo-33",
+   "label": "Artigo 33.º",
+   "epigraph": "Amortização de activos revertíveis",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os bens e elementos do activo amortizável adquiridos ou produzidos por entidades concessionárias e que nos termos do contrato de concessão sejam revertíveis no final da mesma, podem ser amortizados em função do número de anos que restam do período de concessão, quando aquele for inferior ao seu período de vida útil."
+    },
+    {
+     "t": "p",
+     "x": "2. Para efeitos do disposto no número anterior, o valor da amortização aceite como custo do exercício determina-se dividindo o custo de aquisição ou o custo de produção, líquido de eventuais contrapartidas da entidade concedente, pelo número de anos que decorrem desde a sua entrada em funcionamento até à data estabelecida para a reversão."
+    },
+    {
+     "t": "p",
+     "x": "3. No caso de ocorrer prorrogação do período de concessão, o cálculo destas amortizações deve ter em consideração, o novo período que resulta dessa prorrogação, a partir do exercício em que esse facto se verifique, com a limitação mencionada na parte final do n.º 1 do presente artigo."
+    }
+   ]
+  },
+  {
+   "id": "artigo-34",
+   "label": "Artigo 34.º",
+   "epigraph": "Amortização de bens adquiridos em estado de uso",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os bens e elementos amortizáveis adquiridos em estado de uso são amortizáveis, com base no período de utilidade esperado, podendo este período ser corrigido pela Direcção Nacional de Impostos quando se considerar que tal período é inferior ou superior ao que objectivamente deveria ter sido estimado."
+    },
+    {
+     "t": "p",
+     "x": "2. Quando em relação a estes bens e elementos for conhecido o ano em que pela primeira vez tiverem entrado em funcionamento, o período de utilidade esperado não poder ser inferior à diferença entre o correspondente período de vida útil indicado na tabela de taxas das amortizações e o número de anos de utilização já decorrido."
+    }
+   ]
+  },
+  {
+   "id": "artigo-35",
+   "label": "Artigo 35.º",
+   "epigraph": "Amortizações de obras em propriedade alheia e de grandes reparações",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os custos com obras efectuadas em propriedades alheias, bem como os custos relativos a grandes reparações e benfeitorias em bens de propriedade própria, são amortizados com base no período de utilidade esperado, podendo este ser corrigido pela Direcção Nacional de Impostos quando esta considerar que tal período é inferior ao que objectivamente deveria ter sido estimado."
+    },
+    {
+     "t": "p",
+     "x": "2. Para efeitos fiscais consideram-se:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Obras em propriedade alheia, as que tendo sido realizadas em edifícios de propriedade alheia e não sendo de manutenção, reparação ou conservação, se revelem necessárias à manutenção da fonte produtora;",
+      "Grandes reparações e benfeitorias, as que aumentam o valor real ou a duração provável de utilização dos mesmos."
      ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-36",
+   "label": "Artigo 36.º",
+   "epigraph": "Amortizações de bens de reduzido valor",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os activos amortizáveis cujo custo individualmente considerado e valorizado, nos termos do presente Código, não exceda Kz: 30.000,00 (trinta mil Kwanzas) podem ser totalmente amortizados no exercício em que entram em funcionamento."
+    },
+    {
+     "t": "p",
+     "x": "2. Excluem-se da regra anterior, os activos amortizáveis, que façam parte integrante de um conjunto de bens e elementos, que deva ser amortizado como um todo e não sejam susceptíveis de avaliação e utilização individualizada."
+    },
+    {
+     "t": "p",
+     "x": "3. O limite referido no n.º 1 do presente artigo, pode ser alterado por Decreto Executivo do Titular do Departamento Ministerial que responde pelas Finanças Públicas."
+    }
+   ]
+  },
+  {
+   "id": "artigo-37",
+   "label": "Artigo 37.º",
+   "epigraph": "Amortizações de bens reavaliados",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. As amortizações dos bens do imobilizado corpóreo reavaliado nos termos da legislação em vigor são aceites para efeitos fiscais nos precisos termos aí estabelecidos."
+    },
+    {
+     "t": "p",
+     "x": "2. Não são aceites para efeitos fiscais, quaisquer amortizações que forem calculadas sobre o acréscimo de custo dos bens resultante de reavaliações que não tenham sido efectuadas ao abrigo de qualquer legislação de natureza fiscal que especificamente as autorize."
+    }
+   ]
+  },
+  {
+   "id": "artigo-38",
+   "label": "Artigo 38.º",
+   "epigraph": "Desvalorizações excepcionais dos activos amortizáveis",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Quando os bens e elementos do activo amortizável sofrerem desvalorizações excepcionais decorrentes de causas anormais, designadamente, as provocadas por desastres, fenómenos naturais ou obsolescência técnica não prevista, pode ser aceite como custo fiscal no exercício em que tal se verifique, uma amortização extraordinária para além da que resulta da aplicação dos métodos referidos no artigo 27.º do presente Código."
+    },
+    {
+     "t": "p",
+     "x": "2. Para este efeito, o contribuinte deve requerer ao Chefe da Repartição Fiscal a aprovação dessa amortização extraordinária, através de exposição devidamente fundamentada até final do mês seguinte ao da ocorrência do facto que determinou a desvalorização excepcional."
+    },
+    {
+     "t": "p",
+     "x": "3. O valor da amortização extraordinária prevista no presente artigo deve corresponder à efectiva desvalorização dos bens e elementos do activo amortizável, mas nunca pode ser superior ao valor líquido contabilístico que esses bens e elementos revelem na data em que a desvalorização ocorreu."
+    },
+    {
+     "t": "p",
+     "x": "4. A ausência de resposta da repartição fiscal à exposição referida no n.º 2 do presente artigo, decorridos 45 (quarenta cinco) dias, presume-se deferida."
+    }
+   ]
+  },
+  {
+   "id": "artigo-39",
+   "label": "Artigo 39.º",
+   "epigraph": "Imobilizações incorpóreas",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Não são aceites para efeitos fiscais, as amortizações calculadas sobre elementos do activo imobilizado incorpóreo que não estejam sujeitos a deperecimento efectivo."
+    },
+    {
+     "t": "p",
+     "x": "2. Os elementos do activo imobilizado incorpóreo que estejam sujeitos a deperecimento efectivo podem ser amortizados durante o período de utilidade esperada quando tal período for determinável."
+    },
+    {
+     "t": "p",
+     "x": "3. Quando o período de utilidade esperada não for determinável os elementos do activo imobilizado incorpóreo são amortizados para efeitos fiscais, durante um período de 5 (cinco) anos, sem prejuízo do disposto no número seguinte."
+    },
+    {
+     "t": "p",
+     "x": "4. Os programas informáticos que tenham sido contabilizados como imobilizações incorpóreas, quer tenham sido adquiridos a terceiro, quer tenham sido desenvolvidos internamente pela empresa, são amortizados para efeitos fiscais durante um período de 3 (três) anos."
+    },
+    {
+     "t": "p",
+     "x": "5. As amortizações dos elementos do activo imobilizado incorpóreo são sempre calculadas pelo método das quotas constantes."
+    }
+   ]
+  },
+  {
+   "id": "artigo-40",
+   "label": "Artigo 40.º",
+   "epigraph": "Amortizações não aceites",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "Não são aceites para efeitos fiscais as amortizações do exercício que:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Não sejam contabilizadas como custos ou gastos no exercício a que respeitam;",
+      "Sejam calculadas sobre bens e elementos do activo imobilizado corpóreo ou incorpóreo não sujeitos a deperecimento;",
+      "Excedam as taxas limite e períodos de vida útil estabelecidos na legislação em vigor sobre a matéria, salvo os casos excepcionais devidamente fundamentados e aceites pela Direcção Nacional de Impostos;",
+      "Sejam calculadas sobre imóveis na parte correspondente ao valor dos terrenos que ultrapasse os limites definidos no presente Código.",
+      "No caso de viaturas ligeiras de passageiros ou mistas, sejam calculadas sobre a parte do custo inicial, ou do custo revalorizado, que exceda o montante de AKz: 20 000 000,00 (vinte milhões de Kwanzas), excepto se tais viaturas estiverem afectas à exploração de serviços públicos de transporte ou se destinarem a serem alugadas no exercício da actividade normal da empresa;",
+      "Sejam calculadas sobre o custo de barcos de recreio e aviões ou helicópteros e de todos os encargos com estes relacionados, excepto se estiverem afectos à exploração de serviços de transporte ou se destinarem a ser alugados no exercício da actividade normal da empresa;",
+      "Sendo excepcionais conforme dispõe o n.º 1 do artigo 38.º do presente Código, o contribuinte não tenha obtido a aprovação prévia da Direcção Nacional de Impostos prevista no n.º 2 do mesmo artigo;",
+      "Não estejam inscritos e devidamente justificados nos mapas de amortizações que devem acompanhar a declaração anual de rendimentos — Modelo 1 do Imposto Industrial."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-41",
+   "label": "Artigo 41.º",
+   "epigraph": "Regularização de amortizações",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As amortizações que num dado exercício não sejam considerados como custos ou gastos para efeitos fiscais por excederem a amortização máxima permitida, podem ser considerados como custos ou gastos do exercício seguinte, quando aceites nos termos do Código do Imposto Industrial, e desde que se efectue a adequada regularização contabilística."
+    }
+   ]
+  },
+  {
+   "id": "artigo-42",
+   "label": "Artigo 42.º",
+   "epigraph": "Limites e taxas anuais de amortizações e reintegrações",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "As reintegrações e amortizações do exercício, devem observar os limites das taxas anuais estabelecidas na Tabela das reintegrações e amortizações, definidas em diploma próprio."
+    }
+   ]
+  },
+  {
+   "id": "artigo-43",
+   "label": "Artigo 43.º",
+   "epigraph": "Documentação de amortizações",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Dos mapas de reintegrações e amortizações deve constar:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os anos e os valores da aquisição e da reavaliação;",
+      "Os anos, valores e os períodos de utilidade esperada das grandes reparações e beneficiações",
+      "As reintegrações e as amortizações acumuladas nos exercícios anteriores e as praticadas no exercício;",
+      "Os abates, com justificação da sua origem",
+      "O valor residual, quando atribuído;",
+      "O número de anos provável de utilização dos elementos reavaliados e dos adquiridos em estado de uso."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Os mapas referidos no número anterior podem constar de modelo oficial, a ser publicado por Decreto Executivo do Titular do Departamento Ministerial que responde pelas Finanças Públicas."
+    },
+    {
+     "t": "p",
+     "x": "3. Sempre que a Direcção Nacional de Impostos, ou a repartição fiscal competente, o solicitem, os mapas referidos no n.º 1 do presente artigo devem ser entregues em formato informático, a indicar na respectiva notificação."
+    },
+    {
+     "t": "p",
+     "x": "4. Sem prejuízo do disposto nos números anteriores, estes documentos podem ser submetidos através de meios electrónicos, nos termos regulamentares."
+    }
+   ]
+  },
+  {
+   "id": "artigo-44",
+   "label": "Artigo 44.º",
+   "epigraph": "Norma transitória sobre amortizações",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O presente Diploma aplica-se aos bens do activo imobilizado que entrem em funcionamento após a data da sua entrada em vigor."
+    },
+    {
+     "t": "p",
+     "x": "2. Os bens cujo início de utilização tenha ocorrido em período anterior à entrada em vigor do presente Código, deve manter os procedimentos de amortização desses bens, nos termos do regime de amortização anterior à entrada em vigor deste diploma."
+    }
+   ]
+  },
+  {
+   "id": "artigo-45",
+   "label": "Artigo 45.º",
+   "epigraph": "Provisões",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. São de considerar como provisões aceites para efeitos, do disposto da alínea h) do artigo 14.º do presente Código, apenas:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As que se destinarem a ocorrer a obrigações e encargos derivados de processos judiciais em curso por factos que determinariam a inclusão daqueles entre os custos ou gastos do exercício;",
+      "As que tiverem por fim a cobertura de créditos de cobrança duvidosa, calculados em função da soma dos créditos resultantes da actividade normal da empresa existentes no fim do exercício, e da sua antiguidade;",
+      "As que se destinarem a cobrir a perda de valor das existências;",
+      "As que tiverem sido constituídas de acordo com as obrigações impostas pelas entidades públicas reguladoras do sector financeiro, segurador e de jogos, e de outras entidades públicas reguladoras supervenientes ao presente Código;",
+      "As taxas e os limites das provisões a que se referem as alíneas a), b), e c) devem ser publicadas até 90 (noventa) dias após a entrada em vigor do presente Código."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. As provisões que não devam subsistir por não se terem verificado os eventos a que se reportam e as que forem utilizadas para fins diversos dos expressamente previstos no presente artigo, considerar-se-ão proveitos ou ganhos do respectivo exercício."
+    },
+    {
+     "t": "p",
+     "x": "3. As provisões dos contribuintes sujeitos à utilização dos Planos de Contas das Instituições Financeiras e Seguradoras, nos termos e limites definidos na legislação própria da entidade reguladora na totalidade do seu volume."
+    },
+    {
+     "t": "p",
+     "x": "4. Não são aceites como provisões, aquelas constituídas sobre créditos com garantia, salvo na parte não coberta."
+    }
+   ]
+  },
+  {
+   "id": "artigo-46",
+   "label": "Artigo 46.º",
+   "epigraph": "Créditos incobráveis",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Os créditos incobráveis só são de considerar como custos ou gastos do exercício na medida em que tal resulte de processos de execução, falência ou insolvência, devidamente documentada através de certidão pública."
+    }
+   ]
+  },
+  {
+   "id": "artigo-47",
+   "label": "Artigo 47.º",
+   "epigraph": "Deduções ao lucro tributável",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. Para a determinação da matéria tributável, deduz-se do lucro líquido apurado nos termos dos artigos anteriores, as importâncias seguintes:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os proveitos sujeitos a imposto predial;",
+      "Os proveitos ou ganhos sujeitos a imposto sobre a aplicação de capitais."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. O disposto na alínea b) do número anterior não é aplicável aos rendimentos das instituições financeiras ou das entidades que exerçam actividades similares, que estejam sujeitos ao Imposto sobre a Aplicação de Capitais e dele isentos."
+    },
+    {
+     "t": "p",
+     "x": "3. Aos contribuintes cuja matéria colectável é determinada nos termos do n.º 2 do artigo 12.º do presente Código não são permitidas quaisquer deduções nos termos aqui previstos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-48",
+   "label": "Artigo 48.º",
+   "epigraph": "Prejuízos fiscais",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. Os prejuízos verificados em determinado exercício são deduzidos à matéria colectável, havendo-os, de um ou mais, dos 5 (cinco) anos posteriores."
+    },
+    {
+     "t": "p",
+     "x": "2. Os prejuízos sofridos em actividade que beneficie de isenção ou redução de taxa do Imposto Industrial, não podem ser deduzidos dos lucros de outras actividades sujeitas a o regime geral do mesmo imposto."
+    },
+    {
+     "t": "p",
+     "x": "3. Os prejuízos verificados no decorrer de períodos em que o contribuinte beneficiou de isenção ou redução de taxa não podem ser deduzidos à matéria colectável, havendo-o, nos exercícios posteriores ao fim do período de isenção."
+    },
+    {
+     "t": "p",
+     "x": "4. O presente artigo não se aplica aos contribuintes cuja matéria colectável é determinada nos termos do n.º 2 do artigo 12.º do presente Código."
+    }
+   ]
+  },
+  {
+   "id": "artigo-49",
+   "label": "Artigo 49.º",
+   "epigraph": "Reservas de investimentos",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. Os lucros levados a reservas de investimento, que dentro dos 3 exercícios seguintes tenham sido reinvestidos em instalações ou equipamentos novos, afectos à actividade produtiva, podem ser deduzidos à matéria colectável nos 5 exercícios imediatamente seguintes ao da conclusão do investimento."
+    },
+    {
+     "t": "p",
+     "x": "2. A faculdade prevista no número anterior fica dependente da entrega de requerimento do contribuinte à Administração Tributária até ao último dia útil do mês de Fevereiro do ano seguinte ao da conclusão do reinvestimento, acompanhado das seguintes peças:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Acta da sociedade em que delibera a elevação dos lucros à reserva, bem como o seu reinvestimento naquele equipamento ou instalação em concreto;",
+      "Declaração do imposto e balancetes referentes ao exercício em que os lucros foram levados à reserva;",
+      "Suporte dos custos realizados, nomeadamente, facturas ou documentos equivalentes, nos termos legais;",
+      "Relatório de fundamentação da relevância do investimento para o desenvolvimento do País, com a indicação dos novos postos de trabalho criados."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. O incumprimento do prazo referido no número anterior implica o indeferimento tácito do pedido."
+    },
+    {
+     "t": "p",
+     "x": "4. A Administração Tributária pode realizar inspecção física ou solicitar documentos adicionais para efeitos do disposto no n.º 2 do presente artigo."
+    },
+    {
+     "t": "p",
+     "x": "5. Quando o reinvestimento for feito na Província de Luanda, no Município do Lobito ou nas capitais das outras províncias, pode-se deduzir até 40% e quando feito fora das capitais da província, pode-se deduzir até 80% do valor reinvestido."
+    },
+    {
+     "t": "p",
+     "x": "6. A dedução só pode ser realizada mediante autorização da Administração Tributária e dentro do prazo definido, não sendo prolongável o período de dedução, nem por ausência de matéria colectável."
+    },
+    {
+     "t": "p",
+     "x": "7. Para efeitos do disposto no presente artigo, entende-se por conclusão do investimento, a data de entrada em funcio¬namento das instalações e investimentos realizados."
+    }
+   ]
+  },
+  {
+   "id": "artigo-50",
+   "label": "Artigo 50.º",
+   "epigraph": "Relações especiais",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO I - Matéria colectável"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. A Direcção Nacional de Impostos pode efectuar as correcções que sejam necessárias para a determinação da matéria colectável sempre que, em virtude de relações especiais entre o contribuinte e outra pessoa, sujeita ou não a Imposto Industrial, que tenha, ou não, sede ou direcção efectiva em território angolano, tenham sido estabelecidas condições diferentes das que seriam normalmente acordadas entre pessoas independentes, conduzindo a que o lucro tributável apurado com base na contabilidade seja diverso daquele que se apuraria em circunstâncias normais de mercado."
+    },
+    {
+     "t": "p",
+     "x": "2. Também se deve aplicar o disposto no n.º 1 do presente artigo, quanto às pessoas que exerçam simultaneamente acti¬vidades sujeitas e não sujeitas ao Imposto Industrial, quando relativamente a tais actividades se verifiquem idênticos desvios."
+    },
+    {
+     "t": "p",
+     "x": "3. Igual procedimento ao previsto no n.º 1 do presente artigo, se adopta para com os contribuintes em relação aos quais se verifiquem a existência de posições de terceiros dominantes no capital ou interferências directas ou indirectas na gestão, quando se reconheça que tais situações provocam desvios no apuramento dos resulta dos em prejuízo do cômputo da matéria colectável."
+    },
+    {
+     "t": "p",
+     "x": "4. Quando o disposto no n.º 1 do presente artigo, se aplique relativamente a um sujeito passivo Do Imposto Industrial por virtude de relações especiais com outro sujeito passivo do mesmo imposto ou do imposto sobre os rendimentos de trabalho, na determinação da matéria colectável deste último são efectuados, os ajustamentos adequados que sejam reflexo das correcções feitas na determinação da matéria colectável do primeiro."
+    },
+    {
+     "t": "p",
+     "x": "5. Sem prejuízo do disposto nos números anteriores, podem ser consagradas em legislação própria sobre esta matéria, obrigações específicas para contribuintes, destinadas ao controlo das condições a sujeitar no âmbito de relações especiais."
+    },
+    {
+     "t": "p",
+     "x": "6. Salvo legislação especial em contrário, aplica-se subsidiariamente aos contribuintes sujeitos ao Imposto Industrial, toda a legislação em matéria de relações especiais e preços de transferência."
+    }
+   ]
+  },
+  {
+   "id": "artigo-51",
+   "label": "Artigo 51.º",
+   "epigraph": "Apresentação da Declaração Modelo 1",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO II - Obrigações Declarativas"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. Os contribuintes do regime geral do Imposto Industrial submetem, electronicamente, nos termos regulamentares, ou apresentam anualmente, até ao último dia útil do mês de Maio, na repartição fiscal competente, uma Declaração Modelo 1 em duplicado."
+    },
+    {
+     "t": "p",
+     "x": "2. A Declaração Modelo 1 do Imposto Industrial deve ser entregue, obrigatoriamente, sob pena da sua não recepção pela repartição fiscal, acompanhada de Demonstração de Resultados por Natureza, Demonstração de Fluxo de Caixa, Balanço, Balancete da Razão e Balancete Geral Analítico, antes e depois dos lançamentos de rectificação ou regularização e de apuramento dos resultados do exercício, e respectivos anexos, devidamente assinados pelo contabilista responsável pela sua elaboração."
+    },
+    {
+     "t": "p",
+     "x": "3. Deve igualmente acompanhar a Declaração - Modelo 1 do Imposto Industrial o relatório técnico onde, com base em mapas discriminativos, o contabilista que assinou as demonstrações financeiras e a declaração fiscal deve comentar sucintamente as reintegrações e amortizações contabilizadas, com indicação do método utilizado, das taxas aplicadas e dos valores iniciais e actuais dos diversos elementos sobre os quais aquelas recaíram, as alterações sofridas pelas existên¬cias de todas as categorias e os critérios que presidiram à sua valorimetria, as provisões constituídas ou as alterações nelas ocorridas, os créditos incobráveis verificados, as mais-valias realizadas, as variações patrimoniais ocorridas, os gastos gerais de administração, com especial referência às remune¬rações, de qualquer espécie, atribuídas aos corpos gerentes, bem como a todas as despesas de representação suportadas durante o exercício, as mudanças nos critérios de imputação de custo ou atribuições dos proveitos às diferentes actividades ou estabelecimentos da empresa, quaisquer outros elementos reputados de interesse à justa determinação do lucro tributável e ao esclarecimento do balanço e da conta de resultados do exercício ou de ganhos e gastos."
+    },
+    {
+     "t": "p",
+     "x": "4. Salvo disposição expressa em contrário e sem prejuízo do disposto no presente artigo, os anexos devem ser submetidos através de meios electrónicos."
+    },
+    {
+     "t": "p",
+     "x": "5. [Revogado]."
+    },
+    {
+     "t": "p",
+     "x": "6. Os contribuintes que exercem actividades sujeitas a taxas diferentes do Imposto Industrial, podem apresentar as respectivas declarações fiscais, mediante junção dos instrumentos contabilísticos por centro de custos e balancete geral analítico por actividades."
+    }
+   ]
+  },
+  {
+   "id": "artigo-52",
+   "label": "Artigo 52.º",
+   "epigraph": "Documentação a arquivar com a Declaração Modelo 1",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO II - Obrigações Declarativas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. O duplicado da declaração referida no artigo anterior deve encontrar-se disponível nas instalações do contribuinte, acompanhada dos seguintes documentos e peças contabilísticas:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Relação dos titulares dos órgãos de gestão",
+      "Cópia da acta da Assembleia Geral de aprovação de contas do exercício, ou documento de aprovação de contas",
+      "Balanço, Balancete do Razão e Balancete Geral Analítico, antes e depois dos lançamentos de rectificação ou regularização e de apuramento dos resultados do exercício",
+      "Demonstração de Resultados por Natureza e Demonstração de Fluxos de Caixa",
+      "Mapas de amortizações e reintegrações de bens do activo imobilizado",
+      "Mapa geral de todos os impostos pagos no decurso do exercício"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. O incumprimento da obrigação estabelecida no número anterior constitui infracção fiscal, nos termos do Código Geral Tributário."
+    }
+   ]
+  },
+  {
+   "id": "artigo-53",
+   "label": "Artigo 53.º",
+   "epigraph": "Cessação de actividade",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO III - Disposições Diversas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. No prazo de 60 (sessenta) dias a contar da cessação da sua actividade, os contribuintes devem apresentar, em tripli¬cado, a Declaração Modelo l, entendendo-se que a cessação se verifica na data do encerramento das contas, ou, tratando-se de sociedade regularmente constituída com sede ou direcção efectiva no País, na da aprovação das contas do liquidatário ou administrador."
+    },
+    {
+     "t": "p",
+     "x": "2. A declaração é acompanhada dos seguintes documentos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Relação dos liquidatários",
+      "Identificação do contabilista envolvido na prepara¬ção das demonstrações financeiras da liquidação",
+      "Identificação do advogado envolvido nos actos e negó¬cios jurídicos de liquidação da pessoa colectiva",
+      "Cópia da acta da Assembleia Geral que tiver apro¬vado as contas, ou havendo aprovação judicial, certidão da respectiva decisão",
+      "Mapa da conta de resultados da liquidação, discri¬minado por rubricas do balanço",
+      "Mapa da conta de resulta dos do exercício",
+      "Mapa do balanço final"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. Relatório elaborado e assinado por contabilista e advogado com descrição dos actos e negócios jurídicos de liquidação societária, com breve descrição do seu impacto da situação patrimonial da sociedade, acompanhado de cópias da documentação comprovativa da sua habilitação profissional."
+    },
+    {
+     "t": "p",
+     "x": "4. Os contribuintes mencionados no artigo 4.º do presente Código devem cumprir o preceituado no presente artigo quando cessarem totalmente o exercício da actividade em Angola."
+    },
+    {
+     "t": "p",
+     "x": "5. Na falta de contabilidade, a cessação entende-se veri¬ficada na data em que se preencham os requisitos indicados nos n.º 1 e 2 do artigo 78.º"
+    },
+    {
+     "t": "p",
+     "x": "6. Os contribuintes cujas sociedades tenham sido constituídas ao abrigo de projectos de investimento privado devidamente licenciados por autoridade pública são obrigados à entrega de declaração dessa autoridade, ou daquela que lhe sucedeu, onde seja descrito o tratamento fiscal a conferir ao activo superveniente à liquidação da sociedade."
+    }
+   ]
+  },
+  {
+   "id": "artigo-54",
+   "label": "Artigo 54.º",
+   "epigraph": "Suficiência das declarações",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO III - Disposições Diversas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Quando as declarações não forem consideradas suficiente¬mente claras, as repartições fiscais notificam os contribuintes para prestarem por escrito, no prazo de 15 (quinze) dias, os esclarecimentos que se julguem necessários."
+    }
+   ]
+  },
+  {
+   "id": "artigo-55",
+   "label": "Artigo 55.º",
+   "epigraph": "Conservação da informação contabilística",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO III - Disposições Diversas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os contribuintes devem organizar e conservar a sua informação contabilística e fiscal de modo a que a mesma se possa apurar clara e inequivocamente e controlar o lucro tributável e o cumprimento das obrigações fiscais do contri¬buinte com inteira observância das disposições do presente Código, por um período de 5 (cinco) anos."
+    },
+    {
+     "t": "p",
+     "x": "2. O Titular do Departamento Ministerial que responde pelas Finanças Públicas, pode, por Decreto Executivo, tornar obrigatória, a existência de informação contabilística adicional ou especializar o seu reporte em termos diferentes dos definidos no presente Código."
+    }
+   ]
+  },
+  {
+   "id": "artigo-56",
+   "label": "Artigo 56.º",
+   "epigraph": "Contabilistas e Peritos Contabilistas",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO III - Disposições Diversas"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. Consideram-se contabilistas, para os efeitos do presente Código os que estiverem inscritos como tal na Ordem dos Contabilistas e Peritos Contabilistas, nos termos da legislação em vigor."
+    },
+    {
+     "t": "p",
+     "x": "2. Os contribuintes que disponham de contabilidade devem comunicar à Administração Geral Tributária os elementos de identificação do seu contabilista ou perito contabilista, até 30 dias após apresentação da declaração de início de actividade ou, sempre que houver mudança do contabilista ou perito contabilista."
+    },
+    {
+     "t": "p",
+     "x": "3. O incumprimento do disposto no número anterior é sancionado com pena de multa prevista no n.º 2 do artigo 76.º do presente Código, sem prejuízo do estatuído no Código Geral Tributário."
+    }
+   ]
+  },
+  {
+   "id": "artigo-57",
+   "label": "Artigo 57.º",
+   "epigraph": "Verificação da matéria colectável",
+   "path": [
+    "CAPÍTULO II - Regime Geral",
+    "SECÇÃO III - Disposições Diversas"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. A verificação da correcta determinação da matéria colec¬tável sujeita a Imposto Industria l compete à repartição fiscal da área em que deva ser apresentada a Declaração Modelo 1."
+    },
+    {
+     "t": "p",
+     "x": "2. Na falta ou insuficiência das declarações, procede-se à determinação do lucro tributável por presunção, tendo por base todos os elementos de que a administração tributária disponha e, designadamente, os seguintes:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Elementos da contabilidade do contribuinte",
+      "Matéria colectável de anos anteriores",
+      "Margens médias de lucro bruto ou líquido, sobre as vendas e prestação de serviços ou compras e fornecimentos de terceiros",
+      "Elementos e informações declarados à administração tributária, incluindo os relativos a outros impostos e, bem assim, os obtidos em empresas ou entidades que tenham relações com o contribuinte"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "3. A matéria colectável apurada nos termos do número anterior, quando superior ao apuramento efectua do pelo contribuinte origina um procedimento de liquidação adicional de imposto, com as devidas consequências determinadas no presente Código e no Código Geral Tributário."
+    },
+    {
+     "t": "p",
+     "x": "4. Sem prejuízo do disposto nos números anteriores, as liquidações de imposto efectuadas nos termos do número anterior podem ser enviadas ao contribuinte, através de meios electrónicos, nos termos regulamentares."
+    }
+   ]
+  },
+  {
+   "id": "artigo-58",
+   "label": "Artigo 58.º",
+   "epigraph": "Incidência subjectiva",
+   "path": [
+    "CAPÍTULO III - Regime Simplificado de Tributação",
+    "SECÇÃO I - Âmbito de Aplicação"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. O presente regime aplica-se aos contribuintes sujeitos ao Imposto Industrial que estejam abrangidos pelo regime de não sujeição do Imposto sobre o Valor Acrescentado (IVA)."
+    },
+    {
+     "t": "p",
+     "x": "2. Para efeitos do presente artigo, os limites de facturação bruta anual a serem considerados são os do último exercício contabilístico encerrado, nos termos dos artigos 51.º e 61.º da presente Lei."
+    },
+    {
+     "t": "p",
+     "x": "3. No exercício do início de actividade, o enquadramento no regime simplificado faz-se em conformidade com a facturação bruta anual presumida, constante da Tabela dos Lucros Mínimos."
+    },
+    {
+     "t": "p",
+     "x": "4. Os contribuintes sujeitos a este regime devem utilizar, para efeito de declaração fiscal, o Modelo de Declaração Simplificada, nos termos regulamentares."
+    },
+    {
+     "t": "p",
+     "x": "5. Excluem-se do presente regime:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "As empresas e as entidades públicas;",
+      "As Instituições Financeiras;",
+      "As empresas sujeitas a regimes especiais de tributação;",
+      "As operadoras de telecomunicações;",
+      "As empresas que sejam filiais ou sucursais de empresas com sede no exterior."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "6. Cessa a aplicação do regime simplificado quando o limite total anual de facturação a que se refere o n.º 1 do presente artigo, for ultrapassado em dois exercícios consecutivos ou interpolados, caso em que passa a aplicar-se o regime geral, a partir do exercício seguinte ao da verificação desse facto."
+    },
+    {
+     "t": "p",
+     "x": "7. A cessação prevista no número anterior, pode ser, oficiosamente determinada pela Administração Geral Tributária, sempre que se verifiquem os pressupostos legais para o efeito."
+    },
+    {
+     "t": "p",
+     "x": "8. Os contribuintes que tenham sido enquadrados no regime simplificado de tributação podem requerer a adesão ao regime geral, desde que preencham os requisitos para nele constarem, devendo, para o efeito, submeter a sua pretensão até ao final do mês de Fevereiro do ano a que o Imposto Industrial respeite, junto da sua repartição fiscal de domicílio."
+    }
+   ]
+  },
+  {
+   "id": "artigo-59",
+   "label": "Artigo 59.º",
+   "epigraph": "Determinação da matéria colectável no Regime Simplificado de Tributação",
+   "path": [
+    "CAPÍTULO III - Regime Simplificado de Tributação",
+    "SECÇÃO I - Âmbito de Aplicação"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. A matéria colectável corresponde a todos os proveitos ou ganhos, obtidos pelo sujeito passivo e é determinada com base na contabilidade, no modelo de contabilidade simplificada ou livro de registo de compra e venda e serviços prestados, nos termos do presente Código."
+    },
+    {
+     "t": "p",
+     "x": "2. Caso não seja possível determinar a matéria colectável nos termos referidos no número anterior, a mesma deve corresponder ao volume total de vendas e serviços prestados."
+    },
+    {
+     "t": "p",
+     "x": "3. Na impossibilidade de identificação do volume total de vendas e serviços prestados, a matéria colectável corresponde ao volume total de compras e serviços adquiridos."
+    },
+    {
+     "t": "p",
+     "x": "4. Na impossibilidade de identificação do volume total de compras e serviços adquiridos, conforme previsto no número anterior, a matéria colectável é determinada com base em outras regras previstas para métodos indirectos, incluindo a tabela dos lucros mínimos."
+    },
+    {
+     "t": "p",
+     "x": "5. [Revogado]."
+    }
+   ]
+  },
+  {
+   "id": "artigo-60",
+   "label": "Artigo 60.º",
+   "epigraph": "Deduções à matéria colectável",
+   "path": [
+    "CAPÍTULO III - Regime Simplificado de Tributação",
+    "SECÇÃO I - Âmbito de Aplicação"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. Os contribuintes deste regime que possuam contabilidade sujeitam-se, com as devidas adaptações, às regras aplicáveis ao apuramento da matéria colectável, dos contribuintes do regime geral deste Imposto."
+    },
+    {
+     "t": "p",
+     "x": "2. Os contribuintes deste regime que possuam modelo de contabilidade simplificada ou livro de registo de compra e venda e serviços prestados têm direito a deduzir, até 30%, dos custos incorridos."
+    },
+    {
+     "t": "p",
+     "x": "3. Os contribuintes deste regime que não possuam contabilidade, modelo de contabilidade simplificada ou livro de registo de compra e venda e serviços prestados não têm direito a dedução de custos incorridos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-61",
+   "label": "Artigo 61.º",
+   "epigraph": "Obrigações declarativas",
+   "path": [
+    "CAPÍTULO III - Regime Simplificado de Tributação",
+    "SECÇÃO I - Âmbito de Aplicação"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. Os contribuintes sujeitos ao regime simplificado de tributação apresentam, anualmente, até ao último dia útil do mês de Abril, o Modelo de Declaração Simplificada ou o livro de registo de compra e venda e serviços prestados, nos termos regulamentares."
+    },
+    {
+     "t": "p",
+     "x": "2. A obrigação prevista no número anterior deve ser cumprida na Repartição Fiscal de domicílio dos contribuintes, podendo a declaração ser submetida através de meios electrónicos, nos termos regulamentares."
+    },
+    {
+     "t": "p",
+     "x": "3. Os contribuintes do regime simplificado de tributação, que submetam, electronicamente, as suas declarações fiscais, passam a deduzir 10% das suas despesas administrativas, relacionadas com a aquisição de aplicativo informático, respectivas licenças e contratação de contabilista."
+    },
+    {
+     "t": "p",
+     "x": "4. O benefício fiscal previsto no número anterior tem uma duração de cinco exercícios fiscais sucessivos e aplica-se a partir do Exercício Fiscal de 2019."
+    }
+   ]
+  },
+  {
+   "id": "artigo-62",
+   "label": "Artigo 62.º",
+   "epigraph": "Prática de acto isolado",
+   "path": [
+    "CAPÍTULO III - Regime Simplificado de Tributação",
+    "SECÇÃO I - Âmbito de Aplicação"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. Os contribuintes que praticarem algum acto isolado, de natureza comercial ou industrial, devem apresentar, na Repartição Fiscal da área onde tiverem a sua sede ou local de direcção efectiva, as declarações a que estejam obrigados."
+    },
+    {
+     "t": "p",
+     "x": "2. Aos contribuintes que se enquadrem no número anterior do presente artigo, não são permitidos quaisquer deduções, excepto as relativas às retenções na fonte por conta do imposto Industrial realizadas durante o período de actividade."
+    },
+    {
+     "t": "p",
+     "x": "3. Sem prejuízo do disposto nos números anteriores, as declarações podem ser submetidas através de meios electró¬nicos, nos termos regulamentares."
+    }
+   ]
+  },
+  {
+   "id": "artigo-63",
+   "label": "Artigo 63.º",
+   "epigraph": "Cessação de actividade",
+   "path": [
+    "CAPÍTULO III - Regime Simplificado de Tributação",
+    "SECÇÃO I - Âmbito de Aplicação"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. No caso de cessação total do exercício da actividade, devem os contribuintes sujeitos ao regime simplificado de tributação apresentar, no prazo de 30 (trinta) dias, o Modelo de Declaração Simplificada ou o Livro de Registo de Compra e Venda e Serviços Prestados."
+    },
+    {
+     "t": "p",
+     "x": "2. [Revogado]."
+    },
+    {
+     "t": "p",
+     "x": "3. A cessação presume-se sempre que os contribuintes:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Deixem de praticar habitualmente actos de natureza comercial ou industrial, se não houver imóveis afectos ao exercício da actividade",
+      "Terminem a liquidação das existências e a venda dos equipamentos, se os imóveis afectos ao exercício da actividade pertencerem ao dono do estabelecimento",
+      "Se extinga o direito do contribuinte ao uso e fruição do local ocupado, quando este não lhe pertença, ou lhe seja da do outro destino",
+      "Seja partilhada a herança indivisa de que o estabele¬cimento faça parte, mas sem prejuízo do disposto nas alíneas anteriores",
+      "Se dê a transferência, a qualquer outro título, da propriedade ou exploração do estabelecimento"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-64",
+   "label": "Artigo 64.º",
+   "epigraph": "Taxas",
+   "path": [
+    "CAPÍTULO IV - Taxas"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. A taxa geral do Imposto Industrial é de 25%."
+    },
+    {
+     "t": "p",
+     "x": "2. Tratando-se de rendimentos provenientes de actividades exclusivamente de explorações agrícolas, aquícolas, apícolas, avícolas, pecuárias, piscatórias e silvícolas, excepto a exploração da madeira, aplica-se a taxa única de 10%."
+    },
+    {
+     "t": "p",
+     "x": "3. Tratando-se de rendimentos provenientes de actividades do sector bancário e de seguros, operadoras de telecomunicações e de empresas petrolíferas angolanas, nos termos definidos no Decreto Legislativo Presidencial n.º 3/12, de 16 de Março, aplica-se a taxa única de 35%."
+    },
+    {
+     "t": "p",
+     "x": "4. A taxa do Imposto Industrial pode ser reduzida no âmbito de projectos de investimento privado devidamente licenciados por autoridade pública definida nos termos da legislação em vigor, ou em função de legislação especial aprovada para o efeito."
+    },
+    {
+     "t": "p",
+     "x": "5. A taxa de liquidação provisória de imposto sobre pres¬tações de serviços mencionados no Capítulo VI, Secção I, é de 6,5% (seis vírgula cinco por cento)."
+    },
+    {
+     "t": "p",
+     "x": "6. A taxa de tributação liberatória incidente sobre serviços acidentais prestados por entidades sem sede, domicílio, estabelecimento estável ou local de direcção efectiva em Angola é de 15%."
+    },
+    {
+     "t": "p",
+     "x": "7. Os contribuintes que tenham contabilidade e que exerçam actividades sujeitas a taxas diferentes, podem aplicar as taxas correspondestes a estas actividades, desde que, apurem, a matéria colectável, por centro de custos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-65",
+   "label": "Artigo 65.º",
+   "epigraph": "Fusão ou cisão de sociedades",
+   "path": [
+    "CAPÍTULO V - Fusão ou cisão de sociedades"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. A fusão ou cisão por incorporação de sociedades sujeitas a Imposto Industrial é fiscalmente neutra, desde que:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Os elementos patrimoniais objecto de transferência sejam registados na contabilidade da sociedade beneficiária, ou da nova sociedade, pelos mesmos valores que tinham na contabilidade das sociedades fundidas ou cindidas, mantendo-se os respectivos valores e antiguidades fiscais",
+      "Os valores relativos a elementos patrimoniais trans¬feridos respeitem as disposições da legislação de carácter fiscal",
+      "As amortizações e reintegrações dos activos transfe¬ridos mantenham o regime que vinha a ser seguido nas sociedades fundidas ou cindidas",
+      "As provisões que foram transferidas tenham para efeitos fiscais o mesmo tratamento que era aplicado nas sociedades fundidas ou cindidas"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. No procedimento de fusão ou cisão podem ser concedidos incentivos fiscais à reestruturação empresarial na modalidade de dedução de prejuízos fiscais das sociedades fundidas ou cindidas, caso a sociedade subsistente, ou a nova sociedade apresente lucros tributáveis, nos 6 exercícios posteriores a que os mesmos se reportam, mediante autorização prévia da Administração Tributária."
+    },
+    {
+     "t": "p",
+     "x": "3. Para efeitos do disposto no número anterior, a sociedade beneficiária, ou a nova sociedade deve entregar à Administração Tributária até ao fim do mês seguinte ao do registo da fusão ou cisão na Conservatória do Registo Comercial, acompanhado dos balanços, do balancete geral analítico, demonstrações de resultados e respectivos anexos e relatório técnico da fusão ou cisão elaborados pelo contabilista que a preparou."
+    },
+    {
+     "t": "p",
+     "x": "4. Os benefícios previstos no presente artigo são concedidos pela Administração Tributária que pode, adicionalmente, fixar um plano faseado de dedução dos prejuízos fiscais, até 5 exercícios fiscais."
+    },
+    {
+     "t": "p",
+     "x": "5. A aplicação do presente artigo depende da demonstração de que a fusão ou cisão é realizada por razões económicas válidas, tais como a reestruturação ou racionalização das actividades das sociedades intervenientes, e se insere numa estratégia de redimensionamento e desenvolvimento empresarial de médio ou longo prazo, com efeitos positivos na estrutura produtiva, devendo ser fornecidos, para esse efeito, todos os elementos necessários ao perfeito conhecimento da operação visada, tanto dos seus aspectos jurídicos como económicos."
+    }
+   ]
+  },
+  {
+   "id": "artigo-66",
+   "label": "Artigo 66.º",
+   "epigraph": "Liquidação e pagamento provisórios sobre vendas",
+   "path": [
+    "CAPÍTULO VI - Liquidação e Cobrança",
+    "SECÇÃO I - Liquidação e Pagamento Provisório"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. O Imposto Industrial relativo aos contribuintes do regime geral é objecto de autoliquidação provisória e pagamento devido, até ao último dia útil do mês de Agosto, por referência ao próprio exercício em que a actividade tenha lugar."
+    },
+    {
+     "t": "p",
+     "x": "2. A liquidação referida no número anterior é efectuada mediante a aplicação de uma taxa de 2% (dois por cento) sobre o volume total das vendas, efectua das pelo contribuinte, nos primeiros 6 (seis) meses do exercício."
+    },
+    {
+     "t": "p",
+     "x": "3. O pagamento do imposto nos termos do número anterior é provisório e releva na liquidação definitiva, deduzindo-se à colecta final do contribuinte."
+    },
+    {
+     "t": "p",
+     "x": "4. As prestações de serviços previstas no n.º 13 do artigo seguinte, concorrem para o apuramento do imposto provisório."
+    },
+    {
+     "t": "p",
+     "x": "5. Os documentos de liquidação de imposto e de arre¬cadação de receita, respeitante ao imposto liquidado e pago nos termos do presente artigo, não podem conter a liquidação ou pagamento de qualquer outro imposto, sequer Imposto Industrial liquidado ao abrigo de outro regime de liquidação e pagamento."
+    },
+    {
+     "t": "p",
+     "x": "6. Sempre que reconhecida pela Administração Tributária, a diferença correspondente ao pagamento em excesso ou indevido das liquidações provisórias sobre as vendas dos exercícios anteriores, pode ser deduzida na liquidação definitiva ou provisória."
+    },
+    {
+     "t": "p",
+     "x": "7. Os contribuintes cuja actividade esteja no âmbito dos poderes de supervisão do Banco Nacional de Angola, da entidade de supervisão de seguros, da entidade de supervisão de jogos e da Comissão de Mercado de Capitais, efectuam a liquidação e pagamento provisório previsto no n.º 1, mediante aplicação da taxa prevista no n.º 2, ambos do presente artigo, utilizando como base de cálculo do imposto, o total do resultado derivado de operações de intermediação financeira ou dos prémios de seguro e resseguro e dos jogos, respectivamente, apurados nos primeiros 6 (seis) meses do exercício fiscal anterior, excluídos os proveitos sujeitos a imposto sobre a aplicação de capitais."
+    },
+    {
+     "t": "p",
+     "x": "8. No ano de início de actividade não é devido o pagamento provisório previsto no presente artigo."
+    },
+    {
+     "t": "p",
+     "x": "9. A liquidação a que se refere o n.º 1 do presente artigo pode incidir, a título facultativo, sobre o valor efectivamente recebido das vendas não sujeitas à retenção na fonte, nos primeiros seis meses do exercício fiscal, mediante a aplicação de uma taxa de 2% sobre o respectivo valor, devendo o contribuinte, nesse caso, submeter os extractos bancários."
+    },
+    {
+     "t": "p",
+     "x": "10. Os contribuintes que tenham apresentado prejuízo no exercício anterior estão dispensados da liquidação provisória."
+    },
+    {
+     "t": "p",
+     "x": "11. Os contribuintes que se substituem na emissão de facturas aos respectivos fornecedores no regime de autofacturação, definido em legislação própria devem, no momento do efectivo pagamento ao fornecedor pela aquisição de bens, efectuar a retenção na fonte não liberatória de 2% sobre o valor global da auto factura, bem como proceder a respectiva entrega aos cofres do Estado, dentro de 5 (cinco) dias após a retenção."
+    }
+   ]
+  },
+  {
+   "id": "artigo-67",
+   "label": "Artigo 67.º",
+   "epigraph": "Liquidação e pagamento provisórios sobre a prestação de serviços",
+   "path": [
+    "CAPÍTULO VI - Liquidação e Cobrança",
+    "SECÇÃO I - Liquidação e Pagamento Provisório"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. Os sujeitos passivos de Imposto Industrial com sede, direcção efectiva ou estabelecimento estável em Angola que exerçam actividades de prestação de serviços de qualquer natureza, estão sujeitos à tributação, por retenção na fonte, à taxa de 6,5%, cuja entrega do imposto retido deve ser efectuada até ao último dia útil do mês seguinte."
+    },
+    {
+     "t": "p",
+     "x": "2. A liquidação e entrega do imposto devido é da res¬ponsabilidade da pessoa colectiva pagadora do serviço, que responde pela totalidade do imposto e acréscimos, no caso de não pagamento, sem prejuízo do direito de regresso da entidade sujeita a retenção na fonte, mas apenas quanto à dívida principal."
+    },
+    {
+     "t": "p",
+     "x": "3. O pagamento do imposto nos termos do número anterior é provisório e releva na liquidação definitiva, deduzindo-se à colecta final do contribuinte retido."
+    },
+    {
+     "t": "p",
+     "x": "4. No acto de entrega do imposto retido, deve ser apre¬sentado em duplicado um mapa, que é carimbado e assinado pela repartição fiscal, contendo o seguinte:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Designação social e NIF do fornecedor do serviço",
+      "Descrição do serviço",
+      "Valor total da factura",
+      "Valor da factura a pagar, no caso de pagamento parcelado",
+      "Valor do imposto retido"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "5. Sempre que a Direcção Nacional dos Impostos ou a repartição fiscal competente, solicitar o mapa referido no número anterior, deve ser entregue em formato informático."
+    },
+    {
+     "t": "p",
+     "x": "6. No apuramento final do Imposto Industrial, que ocorre com a entrega da Declaração Modelo 1 ou o Modelo de Declaração Simplificada, se for apurado e confirmado, pela Administração Tributária, montante de imposto inferior ao imposto pago provisoriamente no decurso do exercício, este crédito pode ser abatido à colecta dos exercícios seguintes."
+    },
+    {
+     "t": "p",
+     "x": "7. Em caso de cessação de actividade, o imposto provi¬sório, liquidado e pago no decurso dos exercícios anteriores, deve ser abatido à colecta final devida com a apresentação da declaração de encerramento de actividade, mencionada nos artigos 53.º e 63.º do presente Código."
+    },
+    {
+     "t": "p",
+     "x": "8. O imposto provisório que haja sido entregue em excesso, face à colecta apurada a final, e que seja superior ao imposto a pagar nos termos do número anterior, considera-se definitivo."
+    },
+    {
+     "t": "p",
+     "x": "9. Consideram-se sujeitas a este regime de liquidação as transacções efectuadas entre entidades relacionadas, como definidas nos termos do Estatuto dos Grandes Contribuintes, excepto se o contribuinte puder comprovar e documentar que a operação reveste a natureza de um mero redébito de custos, caso em que a transacção se encontra não sujeita a este regime especial de liquidação de imposto."
+    },
+    {
+     "t": "p",
+     "x": "10. Quaisquer margens incorporadas para suportar custos de gestão e administração eventualmente ocorridos com as operações de redébito referidas no número anterior, cons-tituem matéria colectável no âmbito deste regime especial de liquidação."
+    },
+    {
+     "t": "p",
+     "x": "11. A matéria colectável nos termos deste regime é cons¬tituída pelo valor global do serviço prestado excluídas as matérias-primas, peças ou materiais necessários à prestação do serviço, devidamente documentados."
+    },
+    {
+     "t": "p",
+     "x": "12. Os documentos de liquidação de imposto e de arrecadação de receita, respeitante ao imposto liquidado e pago nos termos do presente artigo, não podem conter a liquidação ou pagamento de qualquer outro imposto, sequer Imposto Industrial liquidado ao abrigo de outro regime de liquidação e pagamento."
+    },
+    {
+     "t": "p",
+     "x": "13. Não constituem prestações de serviços sujeitas à retenção na fonte, os seguintes:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Actividade educativa, conforme definida na Lei de Bases do Sistema de Educação e Ensino, serviços prestados por jardins-de-infância, berçários e estabelecimentos similares;",
+      "Serviços de assistência médico-sanitária e opera¬ções conexas efectua das por clínicas, hospitais e similares",
+      "Quaisquer serviços, cujo valor integral da prestação não ultrapasse Kz: 20.000,00 (vinte mil kwanzas)",
+      "Os transportes de passageiros",
+      "Locação de máquinas ou equipamentos que, pela sua natureza dêem lugar ao pagamento de royalties, nos termos do Código do Imposto sobre a Aplicação de Capitais",
+      "Serviços de intermediação financeira e seguradora",
+      "Serviços de hotelaria e similares",
+      "Serviços de telecomunicações"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "14. Os contribuintes que se substituem na emissão de facturas aos respectivos fornecedores no regime de autofacturação, definido em legislação própria, devem, no momento do efectivo pagamento ao fornecedor pela aquisição do serviço, efectuar a retenção na fonte não liberatória de 6,5% sobre o valor global da auto factura, bem como proceder a respectiva entrega aos cofres do Estado, dentro de 5 dias após a retenção."
+    }
+   ]
+  },
+  {
+   "id": "artigo-68",
+   "label": "Artigo 68.º",
+   "epigraph": "Especialização de regime de liquidação e pagamento de imposto provisório",
+   "path": [
+    "CAPÍTULO VI - Liquidação e Cobrança",
+    "SECÇÃO I - Liquidação e Pagamento Provisório"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "Os contribuintes que realizam vendas e prestações de serviços, cujo pagamento está sujeito a retenção na fonte, por parte da entidade contratante, devem liquidar e pagar o imposto provisório sobre as vendas realizadas, nos termos definidos pelo artigo 66.º do presente Código e sujeitar-se ao previsto no artigo 67.º do presente Código, no que se refere às prestações de serviços."
+    }
+   ]
+  },
+  {
+   "id": "artigo-69",
+   "label": "Artigo 69.º",
+   "epigraph": "Liquidação definitiva",
+   "path": [
+    "CAPÍTULO VI - Liquidação e Cobrança",
+    "SECÇÃO II - Liquidação e Pagamento Definitivo"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. A liquidação definitiva do Imposto Industrial, a efectivar-se com a entrega das respectivas declarações e elementos que a devem acompanhar, nos termos dos artigos 51.º e 61.º, deve efectuar-se dentro dos seguintes prazos:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Até ao último dia útil do mês de Abril de cada ano, para os contribuintes sujeitos ao regime simplificado de tributação;",
+      "Até ao último dia útil do mês de Maio de cada ano, para os contribuintes do regime geral."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Sem prejuízo da liquidação a que se deva proceder nos termos do número anterior, deixa de se efectuar a liquidação provisória a partir do momento em que, por parte o contribuinte, cesse a prática de actos de natureza comercial ou industrial."
+    }
+   ]
+  },
+  {
+   "id": "artigo-70",
+   "label": "Artigo 70.º",
+   "epigraph": "Pagamento definitivo",
+   "path": [
+    "CAPÍTULO VI - Liquidação e Cobrança",
+    "SECÇÃO II - Liquidação e Pagamento Definitivo"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. O Imposto Industrial definitivo deve ser pago:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Até ao último dia útil do mês de Abril e Maio, respectivamente, conforme previsto no n.º 1 do artigo anterior.",
+      "No prazo de 15 (quinze) dias, da data da notificação, quando relativas às correcções efectuadas pela administração tributária."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Os documentos de liquidação de imposto e de arreca¬dação de receita respeitante ao imposto liquidado e pago nos termos do presente artigo, não podem conter a liquidação ou arrecadação de qualquer outro imposto, tão pouco o Imposto Industrial liquidado ao abrigo de outro regime de liquidação e pagamento."
+    }
+   ]
+  },
+  {
+   "id": "artigo-71",
+   "label": "Artigo 71.º",
+   "epigraph": "Sujeição",
+   "path": [
+    "CAPÍTULO VII - Regime Especial de Tributação de Serviços Acidentais"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. As pessoas colectivas sem sede, direcção efectiva ou estabelecimento estável em Angola, que de forma acidental exerçam actividades de prestação de serviços de qualquer natu¬reza, em território angolano ou efectuadas a favor de entidades com sede, direcção efectiva ou estabelecimento estável em Angola, independentemente do local da sua prestação, estão sujeitas a Imposto Industrial nos termos deste regime especial."
+    },
+    {
+     "t": "p",
+     "x": "2. Consideram-se também sujeitas a este regime, as transacções efectuadas entre entidades relacionadas, como definidas nos termos do Estatuto dos Grandes Contribuintes."
+    },
+    {
+     "t": "p",
+     "x": "3. Não constituem prestações de serviços sujeitas a este regime especial de tributação as seguintes:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Actividade educativa, conforme definida na Lei de Bases do Sistema de Educação e Ensino, serviços prestados por jardins-de-infância, berçários e estabelecimentos similares;",
+      "Serviços de assistência médico-sanitária e opera¬ções conexas efectuadas por clínicas, hospitais e similares",
+      "[revogado];",
+      "Os transportes de passageiros",
+      "Locação de máquinas ou equipamentos que, pela sua natureza dêem lugar ao pagamento de royalties, nos termos do Código do Imposto sobre a Apli¬cação de Capitai"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-72",
+   "label": "Artigo 72.º",
+   "epigraph": "Matéria colectável nos serviços acidentais",
+   "path": [
+    "CAPÍTULO VII - Regime Especial de Tributação de Serviços Acidentais"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "A matéria colectável no âmbito deste regime de tributação é constituída pelo valor global do serviço prestado"
+    }
+   ]
+  },
+  {
+   "id": "artigo-73",
+   "label": "Artigo 73.º",
+   "epigraph": "Taxa e pagamento",
+   "path": [
+    "CAPÍTULO VII - Regime Especial de Tributação de Serviços Acidentais"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho; n.º 1 com a redacção dada pela Lei n.º 27/22, de 22 de Agosto."
+    },
+    {
+     "t": "p",
+     "x": "1. Sobre a matéria colectável, apurada nos termos do artigo anterior, incide o imposto à taxa de 6,5%."
+    },
+    {
+     "t": "p",
+     "x": "2. A liquidação do imposto é da responsabilidade da pessoa colectiva com sede, estabelecimento estável ou direcção efectiva em Angola que procede ao pagamento do serviço contratado."
+    },
+    {
+     "t": "p",
+     "x": "3. A entidade contratante ou pagadora realiza a retenção na fonte no acto do pagamento, devendo entregar o imposto retido, até ao final do mês seguinte àquele a que respeite o pagamento."
+    },
+    {
+     "t": "p",
+     "x": "4. No acto de entrega do imposto retido deve ser apresentado em duplicado, um mapa, que é carimbado e assinado pela repartição fiscal, contendo o seguinte:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Designação social do fornecedor do serviço",
+      "Descrição do serviço",
+      "Valor da factura",
+      "Valor da factura a pagar, no caso de pagamento parcelado",
+      "Valor do imposto retido"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "5. Sempre que a Direcção Nacional ou a repartição fiscal competente, solicitar o mapa referido no número anterior, deve ser entregue em formato informático."
+    },
+    {
+     "t": "p",
+     "x": "6. A falta de entrega ou insuficiência do imposto devido, nos termos do n.º 3 do presente artigo, pela entidade contratante pagadora do serviço, é imputável a esta, a qual responde pelo pagamento do imposto devido e acréscimos legais."
+    }
+   ]
+  },
+  {
+   "id": "artigo-74",
+   "label": "Artigo 74.º",
+   "epigraph": "Reclamação e impugnação",
+   "path": [
+    "CAPÍTULO VIII - Garantias do Contribuinte"
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "x": "1. Os sujeitos passivos de Imposto Industrial e as pessoas solidárias ou subsidiariamente responsáveis pelo pagamento do imposto, podem reclamar ou impugnar a respectiva liquidação, efectuada pelos serviços da administração tributária, com os fundamentos e nos termos estabelecidos no Código Geral Tributário e no Código do Processo Tributário."
+    },
+    {
+     "t": "p",
+     "x": "2. A faculdade referida no número anterior do presente artigo é igualmente conferida relativamente à autoliquidação, à retenção na fonte e às liquidações provisórias, nos termos e prazos previstos no Código Geral Tributário e no Código do Processo Tributário."
+    },
+    {
+     "t": "p",
+     "x": "3. A reclamação, pelo titular dos rendimentos ou seu representante, da retenção na fonte de importâncias total ou parcialmente indevidas só tem lugar quando essa retenção tenha carácter definitivo."
+    },
+    {
+     "t": "p",
+     "x": "4. A impugnação dos actos mencionados no n.º 2 é efectuada nos termos do Código Geral Tributário."
+    },
+    {
+     "t": "p",
+     "x": "5. As entidades referidas no n.º 1 do presente artigo podem ainda reclamar ou impugnar a matéria colectável que for determinada e que não dê origem a liquidação de Imposto Industrial, com os fundamentos e nos termos estabelecidos no Código Geral Tributário."
+    }
+   ]
+  },
+  {
+   "id": "artigo-75",
+   "label": "Artigo 75.º",
+   "epigraph": "Incumprimento das obrigações declarativas",
+   "path": [
+    "CAPÍTULO IX - Penalidades"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. A falta de apresentação de qualquer declaração fiscal, ou a sua entrega após o decurso do seu prazo legal, sujeita o infractor a multa de AKz: 300.000,00 (trezentos mil Kwanzas), para os contribuintes sujeitos ao regime simplificado de tributação e AKz: 600.000,00 (seiscentos mil Kwanzas), para os contribuintes do regime geral, independentemente da entrega do imposto devido, sem prejuízo da fiscalização externa."
+    },
+    {
+     "t": "p",
+     "x": "2. A recusa de exibição ou entrega de livros e demais elementos de escrituração, previstos no presente Código ou a recusa ilegítima do acesso às instalações do contribuinte é punida com pena de multa de AKz: 200.000,00 (duzentos mil Kwanzas), para os contribuintes do regime simplificado e AKz: 400.000,00 (quatrocentos mil Kwanzas), para os contribuintes do regime geral."
+    },
+    {
+     "t": "p",
+     "x": "3. O valor da multa a aplicar eleva-se para o dobro, quando houver dolo na prática dos actos referidos nos números ante¬riores do presente artigo."
+    },
+    {
+     "t": "p",
+     "x": "4. Presumem-se dolosas:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "O início de actividade sem a competente inscrição no Registo Geral dos Contribuintes",
+      "A falta de apresentação das declarações referidas nos artigos 51.º e 61.º do presente Código;",
+      "As declarações inexactas sobre a cessação do exer¬cício da actividade"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-76",
+   "label": "Artigo 76.º",
+   "epigraph": "Inexactidões, omissões e outras irregularidades",
+   "path": [
+    "CAPÍTULO IX - Penalidades"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Redacção dada pela Lei n.º 26/20, de 20 de Julho."
+    },
+    {
+     "t": "p",
+     "x": "1. As omissões, inexactidões e outras irregularidades constantes na Declaração Modelo 1, no Modelo de Declaração Simplificada, ou outras declarações fiscais, incluindo livros de contabilidade ou elementos de escrituração legalmente exigíveis, são punidas com multa de AKz: 200.000,00 (duzentos mil Kwanzas), para os contribuintes do regime simplificado de tributação e AKz: 400.000,00 (quatrocentos mil Kwanzas), para os contribuintes do regime geral."
+    },
+    {
+     "t": "p",
+     "x": "2. Quando as irregularidades referidas no número anterior, consistirem na falsificação ou viciação de documentos fiscalmente relevantes, bem como na sua ocultação, destruição ou danificação, que não constituam elementos de qualquer tipo criminal, previsto na legislação em vigor, a multa é igual ao valor do imposto em falta, para os contribuintes do regime simplificado de tributação e o dobro do imposto em falta, para os contribuintes do regime geral."
+    },
+    {
+     "t": "p",
+     "x": "3. [Revogado]."
+    },
+    {
+     "t": "p",
+     "x": "4. O não pagamento do imposto dentro do prazo legal previsto para o seu vencimento, sujeita o infractor a multa igual a 25% do imposto em falta."
+    }
+   ]
+  },
+  {
+   "id": "artigo-77",
+   "label": "Artigo 77.º",
+   "epigraph": "Período de tributação",
+   "path": [
+    "CAPÍTULO X - Disposições Finais e Transitórias"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Texto possivelmente incompleto: as extracções da página da fonte (Angolex) terminam neste ponto, no n.º 2, alínea b)."
+    },
+    {
+     "t": "p",
+     "x": "1. O Imposto Industrial é devido por cada exercício económico, que coincide com o ano civil, sem prejuízo das excepções previstas no presente artigo."
+    },
+    {
+     "t": "p",
+     "x": "2. O período de tributação pode, no entanto, ser inferior a 1 (um) ano:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "No exercício do início de tributação, que se considera o período decorrido entre a data em que se inicia a actividade ou se inicia a obtenção de rendimentos sujeitos a imposto e o fim do exercício",
+      "No exercício da cessação da actividade, em que é constituído pelo período decorrido entre o primeiro dia do exercício e a data da cessação"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigo-78",
+   "label": "Artigo 78.º",
+   "epigraph": "Cessação de actividade",
+   "path": [
+    "CAPÍTULO X - Disposições Finais e Transitórias"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Texto integral não obtido: as extracções da página da fonte (Angolex) terminam no n.º 2, alínea b), do Artigo 77.º; a epígrafe foi obtida do índice da mesma página. Artigo não alterado pelas Leis n.º 4/19, de 18 de Abril, n.º 26/20, de 20 de Julho, e n.º 27/22, de 22 de Agosto."
+    }
+   ]
+  },
+  {
+   "id": "artigo-79",
+   "label": "Artigo 79.º",
+   "epigraph": "Língua oficial e moeda de relato",
+   "path": [
+    "CAPÍTULO X - Disposições Finais e Transitórias"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Texto integral não obtido: as extracções da página da fonte (Angolex) terminam no n.º 2, alínea b), do Artigo 77.º; a epígrafe foi obtida do índice da mesma página. Artigo não alterado pelas Leis n.º 4/19, de 18 de Abril, n.º 26/20, de 20 de Julho, e n.º 27/22, de 22 de Agosto."
+    }
+   ]
+  },
+  {
+   "id": "artigo-80",
+   "label": "Artigo 80.º",
+   "epigraph": "Exercício fiscal",
+   "path": [
+    "CAPÍTULO X - Disposições Finais e Transitórias"
+   ],
+   "blocks": [
+    {
+     "t": "note",
+     "x": "Texto integral não obtido: as extracções da página da fonte (Angolex) terminam no n.º 2, alínea b), do Artigo 77.º; a epígrafe foi obtida do índice da mesma página. Artigo não alterado pelas Leis n.º 4/19, de 18 de Abril, n.º 26/20, de 20 de Julho, e n.º 27/22, de 22 de Agosto."
     }
    ]
   }
