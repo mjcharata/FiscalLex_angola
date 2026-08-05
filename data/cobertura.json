@@ -4,8 +4,8 @@
   "diplomas": 13,
   "entries": 1458,
   "articles": 1441,
-  "chars": 1186918,
-  "gaps": 20
+  "chars": 1193059,
+  "gaps": 0
  },
  "diplomas": [
   {
@@ -13,14 +13,9 @@
    "abbr": "CBF",
    "entries": 48,
    "articles": 48,
-   "chars": 37918,
-   "status": "com lacunas",
-   "gaps": [
-    {
-     "article": "Artigo 12.º",
-     "note": "A alínea b) surge truncada na fonte, terminando em «Huíl» e sem pontuação final; transcrita tal como consta."
-    }
-   ]
+   "chars": 37908,
+   "status": "completo",
+   "gaps": []
   },
   {
    "slug": "ca",
@@ -81,26 +76,9 @@
    "abbr": "CII",
    "entries": 80,
    "articles": 80,
-   "chars": 76681,
-   "status": "com lacunas",
-   "gaps": [
-    {
-     "article": "Artigo 77.º",
-     "note": "Texto possivelmente incompleto: as extracções da página da fonte (Angolex) terminam neste ponto, no n.º 2, alínea b)."
-    },
-    {
-     "article": "Artigo 78.º",
-     "note": "Texto integral não obtido: as extracções da página da fonte (Angolex) terminam no n.º 2, alínea b), do Artigo 77.º; a epígrafe foi obtida do índice da mesma página. Artigo não alterado pelas Leis n.º 4/19, de 18 de Abril, n.º 26/20, de 20 de Julho, e n.º 27/22, de 22 de Agosto."
-    },
-    {
-     "article": "Artigo 79.º",
-     "note": "Texto integral não obtido: as extracções da página da fonte (Angolex) terminam no n.º 2, alínea b), do Artigo 77.º; a epígrafe foi obtida do índice da mesma página. Artigo não alterado pelas Leis n.º 4/19, de 18 de Abril, n.º 26/20, de 20 de Julho, e n.º 27/22, de 22 de Agosto."
-    },
-    {
-     "article": "Artigo 80.º",
-     "note": "Texto integral não obtido: as extracções da página da fonte (Angolex) terminam no n.º 2, alínea b), do Artigo 77.º; a epígrafe foi obtida do índice da mesma página. Artigo não alterado pelas Leis n.º 4/19, de 18 de Abril, n.º 26/20, de 20 de Julho, e n.º 27/22, de 22 de Agosto."
-    }
-   ]
+   "chars": 78863,
+   "status": "completo",
+   "gaps": []
   },
   {
    "slug": "imposto-predial",
@@ -134,70 +112,9 @@
    "abbr": "IVA",
    "entries": 88,
    "articles": 82,
-   "chars": 105809,
-   "status": "com lacunas",
-   "gaps": [
-    {
-     "article": "Artigo 55.º",
-     "note": "Alínea e) do n.º 2 incompleta e n.º 3 não transcritos: a página da fonte está truncada exactamente neste ponto."
-    },
-    {
-     "article": "Artigo 58.º",
-     "note": "Artigo não alterado pela Lei n.º 14/23, de 28 de Dezembro. Texto não transcrito: a página da fonte (Angolex) apresenta-se truncada a partir do Artigo 55.º, n.º 2, alínea e), e o texto integral deste artigo não está acessível nas fontes autorizadas (Angolex/Lex.ao)."
-    },
-    {
-     "article": "Artigo 59.º",
-     "note": "Artigo não alterado pela Lei n.º 14/23, de 28 de Dezembro. Texto não transcrito: a página da fonte (Angolex) apresenta-se truncada a partir do Artigo 55.º, n.º 2, alínea e), e o texto integral deste artigo não está acessível nas fontes autorizadas (Angolex/Lex.ao)."
-    },
-    {
-     "article": "Artigo 65.º",
-     "note": "N.ºs 2 e 3: texto de base não transcrito (truncagem da página da fonte)."
-    },
-    {
-     "article": "Artigo 66.º",
-     "note": "N.º 2: texto de base não transcrito (truncagem da página da fonte)."
-    },
-    {
-     "article": "Artigo 66.º",
-     "note": "Alíneas a) a d) do n.º 4: texto de base não transcrito (truncagem da página da fonte)."
-    },
-    {
-     "article": "Artigo 66.º",
-     "note": "N.º 5: texto de base não transcrito (truncagem da página da fonte)."
-    },
-    {
-     "article": "Artigo 66.º",
-     "note": "Alíneas b) e c) do n.º 8 e n.º 9: texto de base não transcrito (truncagem da página da fonte)."
-    },
-    {
-     "article": "Artigo 67.º",
-     "note": "N.º 1: texto de base não transcrito (truncagem da página da fonte)."
-    },
-    {
-     "article": "Artigo 67.º",
-     "note": "Alínea a) do n.º 2: texto de base não transcrito (truncagem da página da fonte)."
-    },
-    {
-     "article": "Artigo 67.º",
-     "note": "Alínea c) do n.º 2: texto de base não transcrito (truncagem da página da fonte)."
-    },
-    {
-     "article": "Artigo 71.º",
-     "note": "N.º 2: texto de base não transcrito (truncagem da página da fonte)."
-    },
-    {
-     "article": "Artigo 72.º",
-     "note": "Artigo não alterado pela Lei n.º 14/23, de 28 de Dezembro. Texto não transcrito: a página da fonte (Angolex) apresenta-se truncada a partir do Artigo 55.º, n.º 2, alínea e), e o texto integral deste artigo não está acessível nas fontes autorizadas (Angolex/Lex.ao)."
-    },
-    {
-     "article": "Artigo 73.º",
-     "note": "Artigo não alterado pela Lei n.º 14/23, de 28 de Dezembro. Texto não transcrito: a página da fonte (Angolex) apresenta-se truncada a partir do Artigo 55.º, n.º 2, alínea e), e o texto integral deste artigo não está acessível nas fontes autorizadas (Angolex/Lex.ao)."
-    },
-    {
-     "article": "Artigo 74.º",
-     "note": "Nota de consolidação: o texto de base (Lei n.º 7/19) tem um Artigo 74.º com a epígrafe «Anexos», confirmada pelo sumário da fonte. O Artigo 2.º da Lei n.º 14/23 adita os Artigos 69.º-A, 69.º-B, 69.º-C, 69.º-D, 74.º, 75.º, 76.º, 77.º e 78.º, pelo que o número 74.º passa a ser ocupado por esta nova disposição, sem que o Artigo 3.º da mesma lei, que enumera as revogações, revogue expressamente o anterior Artigo 74.º. O Artigo 4.º da Lei n.º 14/23 determina a republicação integral do Código, à qual caberia fixar a numeração definitiva, mas essa republicação não consta das fontes consultadas. O teor do anterior Artigo 74.º (Anexos) continua por transcrever, por truncagem da página de base."
-    }
-   ]
+   "chars": 109778,
+   "status": "completo",
+   "gaps": []
   },
   {
    "slug": "ivm",

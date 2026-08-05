@@ -18,23 +18,66 @@ export function diplomaMetadata(slug: string): Metadata {
   };
 }
 
+// Alguns diplomas — o Código Aduaneiro em particular — têm um terceiro nível de
+// subdivisão (i., ii., iii. ...) que a fonte marca com quebras de linha dentro do
+// próprio item. Sem tratamento, o HTML colapsa essas quebras e as subdivisões
+// surgem numa única linha corrida. Esta função separa o texto de abertura das
+// subdivisões, para que possam ser renderizadas como lista encadeada.
+const SUBALINEA = /^\s*[ivx]+\s*[.)]\s+/i;
+
+function separarSubalineas(texto: string): { abertura: string; subalineas: string[] } {
+  if (!texto.includes("\n")) return { abertura: texto, subalineas: [] };
+  const linhas = texto.split("\n");
+  const [abertura, ...resto] = linhas;
+  if (resto.length > 0 && resto.every((linha) => SUBALINEA.test(linha))) {
+    return { abertura, subalineas: resto.map((linha) => linha.replace(SUBALINEA, "").trim()) };
+  }
+  // Quebra sem subdivisões reconhecíveis: junta as linhas para não perder texto.
+  return { abertura: linhas.join(" "), subalineas: [] };
+}
+
+// Item de lista, com o nível de subdivisão encadeado quando existe.
+function ItemLista({ texto }: { texto: string }) {
+  const { abertura, subalineas } = separarSubalineas(texto);
+  if (subalineas.length === 0) return <li>{abertura}</li>;
+  return (
+    <li>
+      {abertura}
+      <ol className="art-sublist" type="i">
+        {subalineas.map((subalinea, index) => <li key={index}>{subalinea}</li>)}
+      </ol>
+    </li>
+  );
+}
+
 // Renderização de um bloco de texto do artigo.
 function BlockView({ block }: { block: Block }) {
-  if (block.t === "p") return <p>{block.x}</p>;
+  if (block.t === "p") {
+    const { abertura, subalineas } = separarSubalineas(block.x);
+    if (subalineas.length === 0) return <p>{abertura}</p>;
+    return (
+      <>
+        <p>{abertura}</p>
+        <ol className="art-sublist" type="i">
+          {subalineas.map((subalinea, index) => <li key={index}>{subalinea}</li>)}
+        </ol>
+      </>
+    );
+  }
   if (block.t === "note") return <p className="art-note">{block.x}</p>;
   if (block.t === "list") {
     const style = block.style ?? "alpha";
     if (style === "dash") {
       return (
         <ul className="art-list dash">
-          {block.items.map((item, index) => <li key={index}>{item}</li>)}
+          {block.items.map((item, index) => <ItemLista key={index} texto={item} />)}
         </ul>
       );
     }
     const type = style === "num" ? "1" : style === "roman" ? "i" : "a";
     return (
       <ol className="art-list" type={type}>
-        {block.items.map((item, index) => <li key={index}>{item}</li>)}
+        {block.items.map((item, index) => <ItemLista key={index} texto={item} />)}
       </ol>
     );
   }

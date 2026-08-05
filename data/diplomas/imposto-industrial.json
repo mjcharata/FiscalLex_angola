@@ -2315,10 +2315,6 @@
    ],
    "blocks": [
     {
-     "t": "note",
-     "x": "Texto possivelmente incompleto: as extracções da página da fonte (Angolex) terminam neste ponto, no n.º 2, alínea b)."
-    },
-    {
      "t": "p",
      "x": "1. O Imposto Industrial é devido por cada exercício económico, que coincide com o ano civil, sem prejuízo das excepções previstas no presente artigo."
     },
@@ -2330,9 +2326,14 @@
      "t": "list",
      "style": "alpha",
      "items": [
-      "No exercício do início de tributação, que se considera o período decorrido entre a data em que se inicia a actividade ou se inicia a obtenção de rendimentos sujeitos a imposto e o fim do exercício",
-      "No exercício da cessação da actividade, em que é constituído pelo período decorrido entre o primeiro dia do exercício e a data da cessação"
+      "No exercício do início de tributação, que se considera o período decorrido entre a data em que se inicia a actividade ou se inicia a obtenção de rendimentos sujeitos a imposto e o fim do exercício;",
+      "No exercício da cessação da actividade, em que é constituído pelo período decorrido entre o primeiro dia do exercício e a data da cessação da actividade;",
+      "Quando as condições de sujeição ao imposto ocorram e deixem de verificar-se no mesmo exercício, em que é constituído pelo período efectivamente decorrido."
      ]
+    },
+    {
+     "t": "note",
+     "x": "Texto integral obtido no LEX.AO, a partir da Lei n.º 19/14, de 22 de Outubro."
     }
    ]
   },
@@ -2345,8 +2346,36 @@
    ],
    "blocks": [
     {
+     "t": "p",
+     "x": "1. Para efeitos da alínea b) do n.º 2 do artigo anterior, a cessação da actividade ocorre:"
+    },
+    {
+     "t": "list",
+     "style": "alpha",
+     "items": [
+      "Relativamente às entidades com sede ou direcção efectiva em território angolano, na data do encerramento da liquidação ou na data da fusão ou cisão, quanto às sociedades extintas em consequência destas ou na data em que a sede e a direcção efectiva deixem de se situar em território angolano ou na data em que se verificar a aceitação da herança jacente ou em que tiver lugar a declaração de que esta se encontra vaga a favor do Estado ou ainda na data em que deixarem de verificar-se as condições de sujeição a imposto;",
+      "Relativamente às entidades que não tenham sede nem direcção efectiva em território angolano, na data em que cessarem totalmente o exercício da sua actividade através de estabelecimento estável ou deixarem de obter rendimentos em território angolano."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "2. Independentemente dos factos previstos no número anterior, pode ainda a administração tributária declarar oficiosamente a cessação de actividade quando for manifesto, que esta não está a ser exercida, nem há intenção de a continuar a exercer, ou sempre que o sujeito passivo tenha declarado o exercício de uma actividade sem que possua uma adequada estrutura empresarial em condições de a exercer."
+    },
+    {
+     "t": "p",
+     "x": "3. A cessação oficiosa a que se refere o número anterior do presente artigo, não desobriga o sujeito passivo do cumprimento das obrigações tributárias."
+    },
+    {
+     "t": "p",
+     "x": "4. O período de tributação pode ser superior a 1 (um) ano relativamente a sociedades e outras entidades em liquidação, em que tem a duração correspondente à desta, nos termos estabelecidos no presente Código."
+    },
+    {
+     "t": "p",
+     "x": "5. O facto gerador do imposto considera-se verificado no último dia do período de tributação."
+    },
+    {
      "t": "note",
-     "x": "Texto integral não obtido: as extracções da página da fonte (Angolex) terminam no n.º 2, alínea b), do Artigo 77.º; a epígrafe foi obtida do índice da mesma página. Artigo não alterado pelas Leis n.º 4/19, de 18 de Abril, n.º 26/20, de 20 de Julho, e n.º 27/22, de 22 de Agosto."
+     "x": "Texto integral obtido no LEX.AO, a partir da Lei n.º 19/14, de 22 de Outubro."
     }
    ]
   },
@@ -2359,8 +2388,20 @@
    ],
    "blocks": [
     {
+     "t": "p",
+     "x": "1. As declarações a apresentar pelos contribuintes, bem como todos os documentos que as acompanham, bem como os respectivos suportes contabilísticos são obrigatoriamente escritos em língua portuguesa, sendo de expressão obrigatória em moeda nacional, os valores que delas constem."
+    },
+    {
+     "t": "p",
+     "x": "2. Quando o original do documento for expresso em outra língua é obrigatória a sua tradução em língua portuguesa."
+    },
+    {
+     "t": "p",
+     "x": "3. A não entrega de documento solicitado pela Administração Tributária, nos termos do número anterior e a inexistência de todos os elementos contabilísticos obrigatórios nos termos do Plano Geral de Contabilidade, dos Planos de Contas das Instituições Financeiras e Seguradoras, expressos em moeda nacional, presumem-se dolosas e constituem transgressão tributária sancionada nos termos do Código Geral Tributário."
+    },
+    {
      "t": "note",
-     "x": "Texto integral não obtido: as extracções da página da fonte (Angolex) terminam no n.º 2, alínea b), do Artigo 77.º; a epígrafe foi obtida do índice da mesma página. Artigo não alterado pelas Leis n.º 4/19, de 18 de Abril, n.º 26/20, de 20 de Julho, e n.º 27/22, de 22 de Agosto."
+     "x": "Texto integral obtido no LEX.AO, a partir da Lei n.º 19/14, de 22 de Outubro."
     }
    ]
   },
@@ -2373,8 +2414,12 @@
    ],
    "blocks": [
     {
+     "t": "p",
+     "x": "O exercício fiscal a que se refere o presente Código coincide com o ano fiscal que compreende o período de 1 de Janeiro a 31 de Dezembro."
+    },
+    {
      "t": "note",
-     "x": "Texto integral não obtido: as extracções da página da fonte (Angolex) terminam no n.º 2, alínea b), do Artigo 77.º; a epígrafe foi obtida do índice da mesma página. Artigo não alterado pelas Leis n.º 4/19, de 18 de Abril, n.º 26/20, de 20 de Julho, e n.º 27/22, de 22 de Agosto."
+     "x": "Texto integral obtido no LEX.AO, a partir da Lei n.º 19/14, de 22 de Outubro."
     }
    ]
   }

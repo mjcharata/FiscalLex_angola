@@ -1509,6 +1509,11 @@ footer > div:last-child {
 .art-list.dash { list-style: none; padding-left: 22px; }
 .art-list.dash li::before { content: "— "; color: var(--muted); }
 
+/* Terceiro nível de subdivisão (i., ii., iii.), usado sobretudo no Código Aduaneiro. */
+.art-sublist { margin: 6px 0 0; padding-left: 26px; }
+.art-sublist li { margin: 0 0 4px; }
+p + .art-sublist { margin-top: -4px; margin-bottom: 10px; }
+
 .art-note {
   font-size: 13px;
   color: var(--muted);
