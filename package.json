@@ -11,9 +11,12 @@
     "start": "vinext start",
     "deploy:cloudflare": "node normalize-cloudflare-config.mjs && wrangler deploy --config dist/server/wrangler.json",
     "preview:cloudflare": "node normalize-cloudflare-config.mjs && wrangler versions upload --config dist/server/wrangler.json",
-    "test": "npm run build && node --test tests/rendered-html.test.mjs",
+    "test": "npm run build && node --test tests/rendered-html.test.mjs tests/diplomas.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
-    "db:generate": "drizzle-kit generate"
+    "db:generate": "drizzle-kit generate",
+    "diplomas:build": "node scripts/jsonl-to-diploma.mjs",
+    "diplomas:routes": "node scripts/generate-routes.mjs",
+    "diplomas:audit": "node scripts/audit-diplomas.mjs --write"
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",
