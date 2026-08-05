@@ -45,3 +45,17 @@ npm run build
 ```
 
 O comando de construção deve terminar sem erros antes da publicação.
+
+## Resolução de problemas
+
+### O build falha com `npm warn ancient lockfile`
+
+É sinal de que o `package-lock.json` no repositório não é um lock file do npm. Já aconteceu por o envio pela interface web do GitHub ter escrito outro ficheiro por cima dele. Um lock válido começa por `{ "name": ..., "lockfileVersion": 3, "packages": { ... } }`.
+
+### Corrigi o repositório, mas o build falha exactamente na mesma
+
+O botão **Retry deployment** reconstrói o *mesmo commit* que falhou — não vai buscar o código mais recente. Depois de corrigir o repositório, use **Create deployment** e escolha a branch `main`, ou envie um commit novo.
+
+### `vinext is not recognized` ao construir na própria máquina
+
+O `vinext` é uma devDependency. Com `NODE_ENV=production` definido no ambiente, o npm salta as devDependencies e o build falha por falta dele. Nesse caso use `npm ci --include=dev`.
